@@ -109,8 +109,15 @@ export default async function CategoryPage({ params }: any) {
   const cat = CATEGORIES[params.category]
   if (!cat) notFound()
 
-  const { data: all } = await supabase.from('names').select('id,name,gender,origin,style_tags').order('popularity', { ascending: false }).limit(300)
-  const names = (all || []).filter(cat.filter)
+  // Query inteligente por categoría — solo trae los nombres necesarios
+  let query = supabase.from('names').select('id,name,gender,origin').order('popularity', { ascending: false })
+  if (cat.gender) query = query.eq('gender', cat.gender)
+  else if (['espanoles','vascos','franceses','italianos','escandinavos','catalanes','arabes','griegos','irlandeses'].includes(params.category)) {
+    const originMap: Record<string,string> = {espanoles:'Español',vascos:'Euskera',franceses:'Francés',italianos:'Italiano',escandinavos:'Escandinavo',catalanes:'Catalán',arabes:'Árabe',griegos:'Griego',irlandeses:'Irlandés'}
+    query = query.eq('origin', originMap[params.category])
+  }
+  const { data: all } = await query
+  const names = all || []
 
   const byLetter: Record<string, any[]> = {}
   names.forEach((n: any) => {
