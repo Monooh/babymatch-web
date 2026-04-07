@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async rewrites() {
+  async redirects() {
     return [
-      { source: '/app', destination: 'https://babymatch.vercel.app/' },
-      { source: '/app/:path*', destination: 'https://babymatch.vercel.app/:path*' },
+      { source: '/app', destination: 'https://babymatch.vercel.app', permanent: false },
+      { source: '/app/:path*', destination: 'https://babymatch.vercel.app/:path*', permanent: false },
     ]
   },
 }
