@@ -1,8 +1,13 @@
 import { supabase } from '@/lib/supabase'
 import { nameToSlug } from '@/lib/slug'
-export const dynamic = 'force-dynamic'
+
+export const revalidate = 3600
+
 export default async function NombresPage() {
-  const { data: names } = await supabase.from('names').select('*').order('popularity', { ascending: false })
+  const { data: names } = await supabase
+    .from('names')
+    .select('id,name,gender,origin')
+    .order('popularity', { ascending: false })
   const all = names || []
   const byLetter: Record<string, any[]> = {}
   all.forEach((n:any) => {
@@ -18,7 +23,7 @@ export default async function NombresPage() {
           <h1 style={{ fontSize:'clamp(2rem,4vw,3rem)', fontWeight:900, color:'#3D1A1A', marginBottom:'16px' }}>Nombres de bebé</h1>
           <p style={{ fontSize:'1.1rem', color:'#666', marginBottom:'32px' }}>{all.length} nombres · {all.filter((n:any)=>n.gender==='f').length} de niña · {all.filter((n:any)=>n.gender==='m').length} de niño</p>
           <div style={{ display:'flex', gap:'12px', justifyContent:'center', flexWrap:'wrap' }}>
-            {[{label:'👧 Niña',href:'/nombres?gender=f'},{label:'👦 Niño',href:'/nombres?gender=m'},{label:'🌍 Españoles',href:'/nombres?origin=Español'},{label:'🥖 Franceses',href:'/nombres?origin=Francés'},{label:'🍕 Italianos',href:'/nombres?origin=Italiano'},{label:'🌊 Vascos',href:'/nombres?origin=Euskera'}].map(f => (
+            {[{label:'👧 Niña',href:'/nombres/nina'},{label:'👦 Niño',href:'/nombres/nino'},{label:'🌍 Españoles',href:'/nombres/espanoles'},{label:'🥖 Franceses',href:'/nombres/franceses'},{label:'🍕 Italianos',href:'/nombres/italianos'},{label:'🌊 Vascos',href:'/nombres/vascos'}].map(f => (
               <a key={f.label} href={f.href} style={{ background:'#fff', border:'1px solid #e8d8d4', padding:'8px 18px', borderRadius:'20px', fontSize:'0.9rem', color:'#3D1A1A' }}>{f.label}</a>
             ))}
           </div>
