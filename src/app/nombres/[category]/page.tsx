@@ -109,7 +109,7 @@ export default async function CategoryPage({ params }: any) {
   const cat = CATEGORIES[params.category]
   if (!cat) notFound()
 
-  const { data: all } = await supabase.from('names').select('id,name,gender,origin,style_tags').order('popularity', { ascending: false })
+  const { data: all } = await supabase.from('names').select('id,name,gender,origin,style_tags').order('popularity', { ascending: false }).limit(300)
   const names = (all || []).filter(cat.filter)
 
   const byLetter: Record<string, any[]> = {}

@@ -8,6 +8,7 @@ export default async function NombresPage() {
     .from('names')
     .select('id,name,gender,origin')
     .order('popularity', { ascending: false })
+    .limit(300)
   const all = names || []
   const byLetter: Record<string, any[]> = {}
   all.forEach((n:any) => {
