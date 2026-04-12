@@ -18,9 +18,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <nav>
           <div className="nav-inner">
-            <a href="/" className="nav-logo">
+            <a href="/" className="nav-logo" style={{gap:'8px'}}>
               <img src="/logo.png" alt="BabyMatch" />
-              Baby<span>Match</span>
+              <span><span style={{color:'#3D1A1A'}}>Baby</span><span style={{color:'#8B2020'}}>Match</span></span>
             </a>
             <div className="nav-links">
               <a href="/nombres">Todos los nombres</a>
@@ -83,7 +83,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <div>
                 <div style={{ fontWeight:700, color:'#fff', marginBottom:'16px', fontSize:'0.8rem', textTransform:'uppercase', letterSpacing:'0.08em' }}>La app</div>
                 <div style={{ display:'flex', flexDirection:'column', gap:'10px' }}>
-                  {[['Probar gratis','/app'],['Cómo funciona','/#como-funciona'],['Para parejas','/#para-parejas']].map(([label, href]) => (
+                  {[['Probar gratis','/app'],['Cómo funciona','/#como-funciona']].map(([label, href]) => (
                     <a key={href} href={href} style={{ color:'rgba(255,255,255,0.6)', transition:'color .2s' }}>{label}</a>
                   ))}
                 </div>
