@@ -4070,7 +4070,7 @@ const CATEGORIES: Record<string, any> = {
   celtas: {label:'Nombres celtas',description:'Nombres de origen celta. Místicos, naturales y con mucha personalidad.',emoji:'🍀',origin:'Celta'},
   biblicos: {label:'Nombres bíblicos',description:'Nombres bíblicos con significado espiritual profundo.',emoji:'✨',tag:'bíblico'},
   cortos: {label:'Nombres cortos para bebé',description:'Nombres de 1 o 2 sílabas. Modernos y con mucho carácter.',emoji:'⚡',short:true},
-  largos: {label:'Nombres largos para bebé',description:'Nombres de 4 o más sílabas. Elegantes, sonoros y con mucha personalidad.',emoji:'✨',long:true},
+  largos: {label:'Nombres largos para bebé',description:'Nombres de 5 o más sílabas. Elegantes, sonoros y llenos de personalidad.',emoji:'✨',long:true},
 }
 
 function CategoryPage({ cat, slug }: { cat: any; slug: string }) {
@@ -4086,7 +4086,7 @@ function CategoryPage({ cat, slug }: { cat: any; slug: string }) {
       let result = data || []
       if (cat.tag) result = result.filter((n: any) => (n.style_tags || []).some((t: string) => t.toLowerCase().includes('b') && t.toLowerCase().includes('blico')))
       if (cat.short) result = result.filter((n: any) => (n.syllables || 3) <= 2)
-      if (cat.long) result = result.filter((n: any) => (n.syllables || 3) >= 4)
+      if (cat.long) result = result.filter((n: any) => (n.syllables || 3) >= 5)
       setNames(result)
       setLoading(false)
     }
