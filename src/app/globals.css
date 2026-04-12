@@ -34,3 +34,26 @@ footer a { color: rgba(255,255,255,0.5); }
 .badge-m { background: #e3f2fd; color: #1565c0; }
 .badge-u { background: #f3e5f5; color: #6a1b9a; }
 @media (max-width: 640px) { .nav-links { display: none; } .footer-inner { flex-direction: column; text-align: center; } }
+
+.nav-dropdown { position: relative; }
+.nav-dropdown-menu {
+  display: none; position: absolute; top: 100%; left: 50%;
+  transform: translateX(-50%);
+  background: #fff; border: 1px solid var(--border);
+  border-radius: 16px; padding: 8px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+  min-width: 560px; z-index: 200;
+  display: none; grid-template-columns: 1fr 1fr 1fr;
+  gap: 4px;
+}
+.nav-dropdown:hover .nav-dropdown-menu { display: grid; }
+.nav-dropdown-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 14px; border-radius: 10px;
+  color: var(--text); font-size: 0.875rem;
+  transition: background .15s;
+  white-space: nowrap;
+}
+.nav-dropdown-item:hover { background: var(--beige); color: var(--red); }
+.nav-dropdown-item span { font-size: 1rem; }
+

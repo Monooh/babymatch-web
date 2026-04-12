@@ -28,9 +28,23 @@ export default function NombresPage() {
           <p style={{ fontSize:'1.1rem', color:'#666', marginBottom:'32px' }}>
             {loading ? 'Cargando...' : `${names.length} nombres · ${names.filter(n=>n.gender==='f').length} de niña · ${names.filter(n=>n.gender==='m').length} de niño`}
           </p>
-          <div style={{ display:'flex', gap:'12px', justifyContent:'center', flexWrap:'wrap' }}>
-            {[{label:'👧 Niña',href:'/nombres/nina'},{label:'👦 Niño',href:'/nombres/nino'},{label:'🌍 Españoles',href:'/nombres/espanoles'},{label:'🥖 Franceses',href:'/nombres/franceses'},{label:'🍕 Italianos',href:'/nombres/italianos'},{label:'🌊 Vascos',href:'/nombres/vascos'}].map(f => (
-              <a key={f.label} href={f.href} style={{ background:'#fff', border:'1px solid #e8d8d4', padding:'8px 18px', borderRadius:'20px', fontSize:'0.9rem', color:'#3D1A1A' }}>{f.label}</a>
+          <div style={{ display:'flex', gap:'10px', justifyContent:'center', flexWrap:'wrap' }}>
+            {[
+              {label:'👧 Niña',href:'/nombres/nina'},
+              {label:'👦 Niño',href:'/nombres/nino'},
+              {label:'🌍 Españoles',href:'/nombres/espanoles'},
+              {label:'🌊 Vascos',href:'/nombres/vascos'},
+              {label:'🥖 Franceses',href:'/nombres/franceses'},
+              {label:'🍕 Italianos',href:'/nombres/italianos'},
+              {label:'🏔️ Escandinavos',href:'/nombres/escandinavos'},
+              {label:'✨ Bíblicos',href:'/nombres/biblicos'},
+              {label:'⚡ Cortos',href:'/nombres/cortos'},
+              {label:'✨ Largos',href:'/nombres/largos'},
+              {label:'🏛️ Griegos',href:'/nombres/griegos'},
+              {label:'☘️ Irlandeses',href:'/nombres/irlandeses'},
+              {label:'🌙 Árabes',href:'/nombres/arabes'},
+            ].map(f => (
+              <a key={f.label} href={f.href} style={{ background:'#fff', border:'1px solid #e8d8d4', padding:'8px 16px', borderRadius:'20px', fontSize:'0.85rem', color:'#3D1A1A', whiteSpace:'nowrap' }}>{f.label}</a>
             ))}
           </div>
         </div>

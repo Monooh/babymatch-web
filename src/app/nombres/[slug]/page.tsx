@@ -4051,7 +4051,27 @@ function getFamosos(slug: string, nameStr: string): string[] {
 }
 
 
-const CATEGORIES: Record<string, any> = {'nina': {'label': 'Nombres de niña', 'description': 'Los mejores nombres para tu bebé niña con significado y origen.', 'emoji': '👧', 'gender': 'f'}, 'nino': {'label': 'Nombres de niño', 'description': 'Los mejores nombres para tu bebé niño con significado y origen.', 'emoji': '👦', 'gender': 'm'}, 'espanoles': {'label': 'Nombres españoles', 'description': 'Nombres de bebé de origen español con mucha tradición.', 'emoji': '🇪🇸', 'origin': 'Español'}, 'vascos': {'label': 'Nombres vascos', 'description': 'Nombres vascos (euskera). Únicos y con mucha personalidad.', 'emoji': '🌊', 'origin': 'Euskera'}, 'franceses': {'label': 'Nombres franceses', 'description': 'Nombres franceses. Elegantes y muy de moda.', 'emoji': '🥖', 'origin': 'Francés'}, 'italianos': {'label': 'Nombres italianos', 'description': 'Nombres italianos. Con música e historia mediterránea.', 'emoji': '🍕', 'origin': 'Italiano'}, 'escandinavos': {'label': 'Nombres escandinavos', 'description': 'Nombres nórdicos y vikingos. Fuertes y muy en tendencia.', 'emoji': '🏔️', 'origin': 'Escandinavo'}, 'biblicos': {'label': 'Nombres bíblicos', 'description': 'Nombres bíblicos con significado espiritual profundo.', 'emoji': '✨', 'tag': 'bíblico'}, 'catalanes': {'label': 'Nombres catalanes', 'description': 'Nombres catalanes con fuerte identidad cultural.', 'emoji': '🌹', 'origin': 'Catalán'}, 'arabes': {'label': 'Nombres árabes', 'description': 'Nombres árabes. Exóticos y con significados especiales.', 'emoji': '🌙', 'origin': 'Árabe'}, 'griegos': {'label': 'Nombres griegos', 'description': 'Nombres griegos con historia mitológica.', 'emoji': '🏛️', 'origin': 'Griego'}, 'irlandeses': {'label': 'Nombres irlandeses', 'description': 'Nombres irlandeses y celtas. Únicos con mucha personalidad.', 'emoji': '☘️', 'origin': 'Irlandés'}, 'cortos': {'label': 'Nombres cortos para bebé', 'description': 'Nombres de 1 o 2 sílabas. Modernos y con mucho carácter.', 'emoji': '⚡'}}
+const CATEGORIES: Record<string, any> = {
+  nina: {label:'Nombres de niña',description:'Los mejores nombres para tu bebé niña con significado y origen.',emoji:'👧',gender:'f'},
+  nino: {label:'Nombres de niño',description:'Los mejores nombres para tu bebé niño con significado y origen.',emoji:'👦',gender:'m'},
+  espanoles: {label:'Nombres españoles',description:'Nombres de bebé de origen español con mucha tradición.',emoji:'🌍',origin:'Español'},
+  vascos: {label:'Nombres vascos',description:'Nombres vascos (euskera). Únicos y con mucha personalidad.',emoji:'🌊',origin:'Euskera'},
+  franceses: {label:'Nombres franceses',description:'Nombres franceses. Elegantes y muy de moda.',emoji:'🥖',origin:'Francés'},
+  italianos: {label:'Nombres italianos',description:'Nombres italianos. Con música e historia mediterránea.',emoji:'🍕',origin:'Italiano'},
+  escandinavos: {label:'Nombres escandinavos',description:'Nombres nórdicos y vikingos. Fuertes y muy en tendencia.',emoji:'🏔️',origin:'Escandinavo'},
+  griegos: {label:'Nombres griegos',description:'Nombres griegos con historia mitológica.',emoji:'🏛️',origin:'Griego'},
+  irlandeses: {label:'Nombres irlandeses',description:'Nombres irlandeses y celtas. Únicos con mucha personalidad.',emoji:'☘️',origin:'Irlandés'},
+  arabes: {label:'Nombres árabes',description:'Nombres árabes. Exóticos y con significados especiales.',emoji:'🌙',origin:'Árabe'},
+  catalanes: {label:'Nombres catalanes',description:'Nombres catalanes con fuerte identidad cultural.',emoji:'🌹',origin:'Catalán'},
+  gallegos: {label:'Nombres gallegos',description:'Nombres de origen gallego. Con tradición celta e historia atlántica.',emoji:'🌊',origin:'Gallego'},
+  hebreos: {label:'Nombres hebreos',description:'Nombres de origen hebreo y bíblico. Con profundo significado espiritual.',emoji:'✡️',origin:'Hebreo'},
+  germanicos: {label:'Nombres germánicos',description:'Nombres de origen germánico. Fuertes, clásicos y con mucha historia.',emoji:'⚔️',origin:'Germánico'},
+  latinos: {label:'Nombres latinos',description:'Nombres de origen latino. Clásicos, elegantes y atemporales.',emoji:'🏺',origin:'Latino'},
+  celtas: {label:'Nombres celtas',description:'Nombres de origen celta. Místicos, naturales y con mucha personalidad.',emoji:'🍀',origin:'Celta'},
+  biblicos: {label:'Nombres bíblicos',description:'Nombres bíblicos con significado espiritual profundo.',emoji:'✨',tag:'bíblico'},
+  cortos: {label:'Nombres cortos para bebé',description:'Nombres de 1 o 2 sílabas. Modernos y con mucho carácter.',emoji:'⚡',short:true},
+  largos: {label:'Nombres largos para bebé',description:'Nombres de 4 o más sílabas. Elegantes, sonoros y con mucha personalidad.',emoji:'✨',long:true},
+}
 
 function CategoryPage({ cat, slug }: { cat: any; slug: string }) {
   const [names, setNames] = useState<any[]>([])
@@ -4059,13 +4079,14 @@ function CategoryPage({ cat, slug }: { cat: any; slug: string }) {
 
   useEffect(() => {
     async function load() {
-      let query = supabase.from('names').select('id,name,gender,origin').order('popularity', { ascending: false })
+      let query = supabase.from('names').select('id,name,gender,origin,style_tags,syllables').order('popularity', { ascending: false })
       if (cat.gender) query = (query as any).eq('gender', cat.gender)
       else if (cat.origin) query = (query as any).eq('origin', cat.origin)
       const { data } = await query
       let result = data || []
-      if (cat.tag) result = result.filter((n: any) => (n.style_tags || []).includes(cat.tag))
-      if (slug === 'cortos') result = result.filter((n: any) => n.syllables <= 2)
+      if (cat.tag) result = result.filter((n: any) => (n.style_tags || []).some((t: string) => t.toLowerCase().includes('b') && t.toLowerCase().includes('blico')))
+      if (cat.short) result = result.filter((n: any) => (n.syllables || 3) <= 2)
+      if (cat.long) result = result.filter((n: any) => (n.syllables || 3) >= 4)
       setNames(result)
       setLoading(false)
     }

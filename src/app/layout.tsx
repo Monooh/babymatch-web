@@ -26,7 +26,29 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/nombres">Todos los nombres</a>
               <a href="/nombres/nina">Niña</a>
               <a href="/nombres/nino">Niño</a>
-              <a href="/app" className="nav-cta">Abrir app →</a>
+              <div className="nav-dropdown">
+                <a href="/nombres">Por origen ▾</a>
+                <div className="nav-dropdown-menu">
+                  <a href="/nombres/espanoles" className="nav-dropdown-item"><span>🌍</span> Españoles</a>
+                  <a href="/nombres/vascos" className="nav-dropdown-item"><span>🌊</span> Vascos</a>
+                  <a href="/nombres/gallegos" className="nav-dropdown-item"><span>🌊</span> Gallegos</a>
+                  <a href="/nombres/catalanes" className="nav-dropdown-item"><span>🌹</span> Catalanes</a>
+                  <a href="/nombres/franceses" className="nav-dropdown-item"><span>🥖</span> Franceses</a>
+                  <a href="/nombres/italianos" className="nav-dropdown-item"><span>🍕</span> Italianos</a>
+                  <a href="/nombres/escandinavos" className="nav-dropdown-item"><span>🏔️</span> Escandinavos</a>
+                  <a href="/nombres/germanicos" className="nav-dropdown-item"><span>⚔️</span> Germánicos</a>
+                  <a href="/nombres/griegos" className="nav-dropdown-item"><span>🏛️</span> Griegos</a>
+                  <a href="/nombres/hebreos" className="nav-dropdown-item"><span>✡️</span> Hebreos</a>
+                  <a href="/nombres/latinos" className="nav-dropdown-item"><span>🏺</span> Latinos</a>
+                  <a href="/nombres/arabes" className="nav-dropdown-item"><span>🌙</span> Árabes</a>
+                  <a href="/nombres/celtas" className="nav-dropdown-item"><span>🍀</span> Celtas</a>
+                  <a href="/nombres/irlandeses" className="nav-dropdown-item"><span>☘️</span> Irlandeses</a>
+                  <a href="/nombres/biblicos" className="nav-dropdown-item"><span>✨</span> Bíblicos</a>
+                  <a href="/nombres/cortos" className="nav-dropdown-item"><span>⚡</span> Nombres cortos</a>
+                  <a href="/nombres/largos" className="nav-dropdown-item"><span>✨</span> Nombres largos</a>
+                </div>
+              </div>
+              <a href="/app" className="nav-cta" style={{marginLeft:'16px'}}>Abrir app →</a>
             </div>
           </div>
         </nav>
