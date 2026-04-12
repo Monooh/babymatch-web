@@ -108,7 +108,7 @@ export default function HomePage() {
       </section>
 
       {/* CTA */}
-      <section style={{ padding:'80px 24px', background:'linear-gradient(135deg,#3D1A1A 0%,#8B2020 100%)', textAlign:'center', color:'#fff' }}>
+      <section style={{ padding:'80px 24px', background:'linear-gradient(135deg,#3D1A1A 0%,#8B2020 100%)', textAlign:'center', color:'#fff', marginBottom:'-80px' }}>
         <div className="container">
           <h2 style={{ fontSize:'clamp(1.8rem,4vw,3rem)', fontWeight:900, marginBottom:'20px' }}>¿Embarazados y aún sin nombre?</h2>
           <p style={{ fontSize:'1.1rem', opacity:0.85, maxWidth:'480px', margin:'0 auto 40px', lineHeight:1.7 }}>Más de 974 nombres esperando. Empieza ahora, es gratis y sin registro.</p>
