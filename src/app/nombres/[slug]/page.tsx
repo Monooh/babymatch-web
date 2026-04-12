@@ -2280,6 +2280,1766 @@ const FAMOSOS_BASE: Record<string, string[]> = {
     "Zacarías (profeta bíblico)",
     "San Zacarías (papa)",
     "Zacarías (padre de San Juan Bautista)"
+  ],
+  "sophia": [
+    "Sophia Loren (actriz italiana)",
+    "Sophia Bush (actriz estadounidense)",
+    "Sophia de Hannover (electora)"
+  ],
+  "william": [
+    "William Shakespeare (dramaturgo inglés)",
+    "William Turner (pintor británico)",
+    "William Wordsworth (poeta inglés)"
+  ],
+  "amelia": [
+    "Amelia Earhart (aviadora estadounidense)",
+    "Amelia Watson (actriz)",
+    "Amelia (personaje de ópera de Verdi)"
+  ],
+  "charlotte": [
+    "Charlotte Brontë (escritora inglesa)",
+    "Charlotte Gainsbourg (actriz francesa)",
+    "Carlota de Bélgica (emperatriz de México)"
+  ],
+  "michael": [
+    "Michael Jackson (músico estadounidense)",
+    "Michael Jordan (baloncestista)",
+    "Michael Schumacher (piloto alemán)"
+  ],
+  "emily": [
+    "Emily Brontë (escritora inglesa)",
+    "Emily Dickinson (poetisa estadounidense)",
+    "Emily Blunt (actriz británica)"
+  ],
+  "alexander": [
+    "Alejandro Magno (rey macedonio)",
+    "Alexander Fleming (científico escocés)",
+    "Alexander Graham Bell (inventor)"
+  ],
+  "ella": [
+    "Ella Fitzgerald (cantante estadounidense)",
+    "Ella Purnell (actriz británica)",
+    "Ella (nombre de origen germánico)"
+  ],
+  "harry": [
+    "Harry Potter (personaje literario)",
+    "Harry Styles (cantante británico)",
+    "Harry Houdini (ilusionista húngaro-americano)"
+  ],
+  "grace": [
+    "Grace Kelly (princesa de Mónaco)",
+    "Grace Jones (cantante jamaicana)",
+    "Grace Hopper (informática estadounidense)"
+  ],
+  "ethan": [
+    "Ethan Hawke (actor estadounidense)",
+    "Ethan Coen (director estadounidense)",
+    "Ethan Allen (militar americano)"
+  ],
+  "jimena": [
+    "Jimena Díaz (esposa del Cid Campeador)",
+    "Jimena Navarrete (Miss Universo 2010)",
+    "Jimena Sánchez (presentadora mexicana)"
+  ],
+  "marta": [
+    "Marta Vieira da Silva (futbolista brasileña)",
+    "Marta Sánchez (cantante española)",
+    "Santa Marta (hermana de Lázaro)"
+  ],
+  "xavi": [
+    "Xavi Hernández (futbolista español)",
+    "Xavi Sala (periodista español)",
+    "Xavi (forma catalana de Javier)"
+  ],
+  "elijah": [
+    "Elijah Wood (actor estadounidense)",
+    "Elías (profeta bíblico)",
+    "Elijah McCoy (inventor canadiense)"
+  ],
+  "george": [
+    "George Washington (presidente estadounidense)",
+    "George Orwell (escritor británico)",
+    "George Harrison (músico británico)"
+  ],
+  "olivia": [
+    "Olivia Newton-John (cantante australiana)",
+    "Olivia Wilde (actriz estadounidense)",
+    "Olivia Colman (actriz británica)"
+  ],
+  "irene": [
+    "Irene de Atenas (emperatriz bizantina)",
+    "Irene Papas (actriz griega)",
+    "Irene Villa (periodista española)"
+  ],
+  "leonardo": [
+    "Leonardo da Vinci (artista italiano)",
+    "Leonardo DiCaprio (actor estadounidense)",
+    "Leonardo Fibonacci (matemático italiano)"
+  ],
+  "henry": [
+    "Henry VIII (rey de Inglaterra)",
+    "Henry Ford (empresario estadounidense)",
+    "Henry David Thoreau (escritor estadounidense)"
+  ],
+  "lily": [
+    "Lily James (actriz británica)",
+    "Lily Allen (cantante británica)",
+    "Lily Tomlin (actriz estadounidense)"
+  ],
+  "aurora": [
+    "Aurora (diosa romana del amanecer)",
+    "Aurora (cantante noruega)",
+    "Aurora Bautista (actriz española)"
+  ],
+  "lara": [
+    "Lara Croft (personaje de videojuego)",
+    "Lara Fabian (cantante belga)",
+    "Lara Álvarez (presentadora española)"
+  ],
+  "aina": [
+    "Aina (nombre catalán y vasco)",
+    "Aina Clotet (actriz catalana)",
+    "Aina Moll (lingüista mallorquina)"
+  ],
+  "mila": [
+    "Mila Kunis (actriz ucraniana-estadounidense)",
+    "Mila Jovovich (actriz ucraniana)",
+    "Mila (nombre de origen eslavo)"
+  ],
+  "ellie": [
+    "Ellie Goulding (cantante británica)",
+    "Ellie Kemper (actriz estadounidense)",
+    "Ellie (personaje de Pixar 'Up')"
+  ],
+  "matteo": [
+    "Matteo Ricci (jesuita italiano en China)",
+    "Matteo Renzi (político italiano)",
+    "Matteo Berrettini (tenista italiano)"
+  ],
+  "elizabeth": [
+    "Elizabeth II (reina del Reino Unido)",
+    "Elizabeth Taylor (actriz estadounidense)",
+    "Elizabeth Cady Stanton (activista)"
+  ],
+  "isla": [
+    "Isla Fisher (actriz australiana)",
+    "Isla de Pascua (isla chilena)",
+    "Isla (nombre de origen escocés)"
+  ],
+  "mason": [
+    "Mason Greenwood (futbolista inglés)",
+    "Mason Mount (futbolista inglés)",
+    "Mason (nombre de origen inglés)"
+  ],
+  "logan": [
+    "Logan Paul (influencer estadounidense)",
+    "Logan (personaje Marvel Wolverine)",
+    "Logan Lerman (actor estadounidense)"
+  ],
+  "francesco": [
+    "Francesco Totti (futbolista italiano)",
+    "San Francisco de Asís (santo italiano)",
+    "Francesco Petrarca (poeta italiano)"
+  ],
+  "alexia": [
+    "Alexia Putellas (futbolista española)",
+    "Alexia (cantante española)",
+    "Alexia (nombre de origen griego)"
+  ],
+  "mathis": [
+    "Mathis (nombre francés)",
+    "Mathis (forma francesa de Mateo)",
+    "Johnny Mathis (cantante estadounidense)"
+  ],
+  "chiara": [
+    "Chiara Ferragni (influencer italiana)",
+    "Santa Chiara de Asís (santa italiana)",
+    "Chiara Mastroianni (actriz francesa)"
+  ],
+  "theo": [
+    "Theo van Gogh (hermano de Vincent)",
+    "Theo Walcott (futbolista inglés)",
+    "Théophile Gautier (escritor francés)"
+  ],
+  "giulia": [
+    "Giulia Grisi (soprano italiana)",
+    "Giulia De Lellis (influencer italiana)",
+    "Giulia (forma italiana de Julia)"
+  ],
+  "enzo": [
+    "Enzo Ferrari (empresario italiano)",
+    "Enzo Francescoli (futbolista uruguayo)",
+    "Enzo Sciotti (ilustrador italiano)"
+  ],
+  "isabelle": [
+    "Isabelle Adjani (actriz francesa)",
+    "Isabelle Huppert (actriz francesa)",
+    "Isabelle de Castilla (reina de España)"
+  ],
+  "dani": [
+    "Dani Alves (futbolista brasileño)",
+    "Dani Rovira (actor español)",
+    "Dani Martín (cantante español)"
+  ],
+  "naomi": [
+    "Naomi Campbell (modelo británica)",
+    "Naomi Osaka (tenista japonesa)",
+    "Naomi Judd (cantante estadounidense)"
+  ],
+  "leyre": [
+    "Leyre Martínez (cantante española)",
+    "Leyre (nombre navarro popular)",
+    "Santa María de Leyre (monasterio navarro)"
+  ],
+  "bella": [
+    "Bella Hadid (modelo estadounidense)",
+    "Bella Thorne (actriz estadounidense)",
+    "Bella (personaje de Crepúsculo)"
+  ],
+  "bruno": [
+    "Bruno Mars (cantante estadounidense)",
+    "Bruno Fernandes (futbolista portugués)",
+    "Giordano Bruno (filósofo italiano)"
+  ],
+  "hannah": [
+    "Hannah Arendt (filósofa alemana)",
+    "Hannah Montana (personaje de Disney)",
+    "Hannah Teter (snowboarder estadounidense)"
+  ],
+  "alma": [
+    "Alma Mahler (musa y compositora austriaca)",
+    "Alma (cantante española)",
+    "Alma (nombre de origen latino)"
+  ],
+  "violeta": [
+    "Violeta Parra (cantante chilena)",
+    "Violeta (personaje de La Traviata)",
+    "Violeta Urmana (soprano lituana)"
+  ],
+  "elisa": [
+    "Elisa (cantante italiana)",
+    "Elisa Mouliaá (actriz española)",
+    "Elisa (personaje bíblico y musical)"
+  ],
+  "joshua": [
+    "Joshua Bell (violinista estadounidense)",
+    "Joshua (sucesor de Moisés en la Biblia)",
+    "Joshua Jackson (actor canadiense)"
+  ],
+  "emilia": [
+    "Emilia Clarke (actriz británica)",
+    "Emilia Pardo Bazán (escritora española)",
+    "Emilia Romagna (región italiana)"
+  ],
+  "manon": [
+    "Manon Lescaut (personaje de ópera de Puccini)",
+    "Manon des Sources (novela francesa)",
+    "Manon Fiorot (luchadora francesa)"
+  ],
+  "kai": [
+    "Kai (nombre de origen escandinavo y japonés)",
+    "Kai Havertz (futbolista alemán)",
+    "Kai Jones (baloncestista estadounidense)"
+  ],
+  "natalie": [
+    "Natalie Portman (actriz israelí-estadounidense)",
+    "Natalie Cole (cantante estadounidense)",
+    "Natalie Merchant (cantante estadounidense)"
+  ],
+  "scarlett": [
+    "Scarlett Johansson (actriz estadounidense)",
+    "Scarlett O'Hara (personaje de Lo que el viento se llevó)",
+    "Scarlett (nombre de origen inglés)"
+  ],
+  "raquel": [
+    "Raquel Welch (actriz estadounidense)",
+    "Raquel (personaje bíblico esposa de Jacob)",
+    "Raquel Revuelta (actriz cubana)"
+  ],
+  "louis": [
+    "Louis Armstrong (músico estadounidense)",
+    "Louis Vuitton (empresario francés)",
+    "Luis XIV (rey de Francia)"
+  ],
+  "charles": [
+    "Charles Darwin (científico británico)",
+    "Charles Chaplin (actor y director)",
+    "Charles de Gaulle (político francés)"
+  ],
+  "joseph": [
+    "Joseph Stalin (político soviético)",
+    "Joseph Haydn (compositor austriaco)",
+    "San José (padre adoptivo de Jesús)"
+  ],
+  "thomas": [
+    "Thomas Edison (inventor estadounidense)",
+    "Thomas Jefferson (presidente estadounidense)",
+    "Tomás de Aquino (filósofo y teólogo)"
+  ],
+  "matthew": [
+    "Matthew McConaughey (actor estadounidense)",
+    "Matthew Perry (actor estadounidense)",
+    "San Mateo (evangelista)"
+  ],
+  "violet": [
+    "Violet Beauregarde (personaje de Charlie y la fábrica de chocolate)",
+    "Violet (personaje de Los Increíbles)",
+    "Violet Grohl (hija de Dave Grohl)"
+  ],
+  "ryan": [
+    "Ryan Reynolds (actor canadiense)",
+    "Ryan Gosling (actor canadiense)",
+    "Ryan Giggs (futbolista galés)"
+  ],
+  "penelope": [
+    "Penélope Cruz (actriz española)",
+    "Penélope (esposa de Ulises en la Odisea)",
+    "Penelope Fitzgerald (escritora británica)"
+  ],
+  "levi": [
+    "Levi Strauss (empresario alemán-estadounidense)",
+    "Levi (tribu bíblica de Israel)",
+    "Levi Miller (actor australiano)"
+  ],
+  "aleix": [
+    "Aleix Espargaró (piloto español)",
+    "Aleix Vidal (futbolista español)",
+    "Aleix (forma catalana de Alejo)"
+  ],
+  "axel": [
+    "Axel Rose (cantante de Guns N' Roses)",
+    "Axel Springer (empresario alemán)",
+    "Axl Rose (músico estadounidense)"
+  ],
+  "katherine": [
+    "Katherine Hepburn (actriz estadounidense)",
+    "Katherine Johnson (matemática de la NASA)",
+    "Catalina de Aragón (reina de Inglaterra)"
+  ],
+  "phoebe": [
+    "Phoebe Buffay (personaje de Friends)",
+    "Phoebe Waller-Bridge (actriz británica)",
+    "Phoebe Cates (actriz estadounidense)"
+  ],
+  "santi": [
+    "Santi Cazorla (futbolista español)",
+    "Santi Millán (actor español)",
+    "Santi (forma familiar de Santiago)"
+  ],
+  "matilda": [
+    "Roald Dahl (creador de Matilda)",
+    "Matilda de Flandes (reina de Inglaterra)",
+    "Matilda (personaje literario de Dahl)"
+  ],
+  "theodore": [
+    "Theodore Roosevelt (presidente estadounidense)",
+    "Theodore Dreiser (escritor)",
+    "Theodor Herzl (fundador del sionismo)"
+  ],
+  "thiago": [
+    "Thiago Alcántara (futbolista español)",
+    "Thiago Silva (futbolista brasileño)",
+    "Thiago Messi (hijo de Leo Messi)"
+  ],
+  "roi": [
+    "Roi Méndez (cantante español)",
+    "Roi (nombre gallego equivalente a Rey)",
+    "Roi Gestoso (político español)"
+  ],
+  "helena": [
+    "Helena de Troya (personaje mitológico)",
+    "Helena Bonham Carter (actriz británica)",
+    "Santa Elena (madre de Constantino)"
+  ],
+  "samuel": [
+    "Samuel (profeta bíblico)",
+    "Samuel Beckett (escritor irlandés)",
+    "Samuel Morse (inventor estadounidense)"
+  ],
+  "jaime": [
+    "Jaime I El Conquistador (rey aragonés)",
+    "Jaime Lannister (personaje de GOT)",
+    "Jaime Bayly (escritor peruano)"
+  ],
+  "arya": [
+    "Arya Stark (personaje de Juego de Tronos)",
+    "Arya (nombre de origen sánscrito)",
+    "Arya Permana (famoso por su peso)"
+  ],
+  "aria": [
+    "Aria Montgomery (personaje de Pretty Little Liars)",
+    "Aria (término musical)",
+    "Aria (nombre de origen persa)"
+  ],
+  "maja": [
+    "Maja Desnuda (pintura de Goya)",
+    "Maja Blanca (postre filipino)",
+    "Maja Nielsen (modelo danesa)"
+  ],
+  "zara": [
+    "Zara (marca de moda española)",
+    "Zara Phillips (princesa británica)",
+    "Zara Larsson (cantante sueca)"
+  ],
+  "nicholas": [
+    "Nicholas Cage (actor estadounidense)",
+    "Nicolás Copérnico (astrónomo)",
+    "San Nicolás (patrón de los niños)"
+  ],
+  "dylan": [
+    "Bob Dylan (músico estadounidense)",
+    "Dylan Thomas (poeta galés)",
+    "Dylan (personaje de Beverly Hills 90210)"
+  ],
+  "anais": [
+    "Anaïs Nin (escritora francesa)",
+    "Anaïs (cantante francesa)",
+    "Anaïs Delva (actriz francesa)"
+  ],
+  "benjamin": [
+    "Benjamin Franklin (político e inventor)",
+    "Benjamin Britten (compositor británico)",
+    "Walter Benjamin (filósofo alemán)"
+  ],
+  "camille": [
+    "Camille Saint-Saëns (compositor francés)",
+    "Camille Claudel (escultora francesa)",
+    "Camille Pissarro (pintor impresionista)"
+  ],
+  "owen": [
+    "Owen Wilson (actor estadounidense)",
+    "Michael Owen (futbolista inglés)",
+    "Owen (nombre de origen galés)"
+  ],
+  "freya": [
+    "Freya (diosa nórdica del amor)",
+    "Freya Allan (actriz británica)",
+    "Freya (nombre escandinavo popular)"
+  ],
+  "aaron": [
+    "Aaron (hermano de Moisés en la Biblia)",
+    "Aaron Rodgers (jugador de fútbol americano)",
+    "Aaron Copland (compositor estadounidense)"
+  ],
+  "lukas": [
+    "Lukas Podolski (futbolista alemán)",
+    "Lukas Bjerregaard (golfista danés)",
+    "Lukas (forma germánica de Lucas)"
+  ],
+  "alessia": [
+    "Alessia Cara (cantante canadiense)",
+    "Alessia (nombre de origen italiano)",
+    "Alessia Marcuzzi (presentadora italiana)"
+  ],
+  "aiden": [
+    "Aiden (nombre de origen irlandés)",
+    "Aiden Turner (actor irlandés)",
+    "Aiden (personaje de Sex and the City)"
+  ],
+  "antoine": [
+    "Antoine de Saint-Exupéry (escritor francés)",
+    "Antoine Griezmann (futbolista francés)",
+    "Antoine Lavoisier (químico francés)"
+  ],
+  "elif": [
+    "Elif Şahin (tenista turca)",
+    "Elif (nombre turco, primera letra del árabe)",
+    "Elif Batu (actriz turca)"
+  ],
+  "veronica": [
+    "Santa Verónica (mujer que enjugó el rostro de Jesús)",
+    "Verónica Lake (actriz estadounidense)",
+    "Verónica Castro (actriz mexicana)"
+  ],
+  "eduardo": [
+    "Eduardo Galeano (escritor uruguayo)",
+    "Eduardo Chillida (escultor vasco)",
+    "Eduardo III (rey de Inglaterra)"
+  ],
+  "margot": [
+    "Margot Fonteyn (bailarina británica)",
+    "Margot Robbie (actriz australiana)",
+    "Margarita de Valois (reina de Francia)"
+  ],
+  "amelie": [
+    "Amélie Nothomb (escritora belga)",
+    "Amélie Mauresmo (tenista francesa)",
+    "Amélie (película francesa de Jeunet)"
+  ],
+  "teo": [
+    "Teo (forma abreviada de Teodoro o Mateo)",
+    "Teo Planell (político español)",
+    "Teo (personaje de la serie El internado)"
+  ],
+  "catherine": [
+    "Catherine Deneuve (actriz francesa)",
+    "Catalina la Grande (emperatriz rusa)",
+    "Catherine Zeta-Jones (actriz galesa)"
+  ],
+  "nathan": [
+    "Nathan (profeta bíblico)",
+    "Nathan Fillion (actor canadiense)",
+    "Nathan Drake (personaje de Uncharted)"
+  ],
+  "patrick": [
+    "San Patricio (patrón de Irlanda)",
+    "Patrick Stewart (actor británico)",
+    "Patrick Swayze (actor estadounidense)"
+  ],
+  "baptiste": [
+    "San Juan Bautista (precursor de Jesús)",
+    "Baptiste Giabiconi (modelo francés)",
+    "Baptiste (nombre francés popular)"
+  ],
+  "mariana": [
+    "Mariana Pineda (heroína española)",
+    "Mariana Enriquez (escritora argentina)",
+    "Mariana Pajón (ciclista colombiana)"
+  ],
+  "andrew": [
+    "San Andrés (apóstol de Jesús)",
+    "Andrew Carnegie (empresario escocés)",
+    "Prince Andrew (príncipe británico)"
+  ],
+  "gabriela": [
+    "Gabriela Mistral (poetisa chilena)",
+    "Gabriela Sabatini (tenista argentina)",
+    "Gabriela Clímaco (actriz española)"
+  ],
+  "leah": [
+    "Lía (esposa de Jacob en la Biblia)",
+    "Leah Remini (actriz estadounidense)",
+    "Leah Williamson (futbolista inglesa)"
+  ],
+  "serena": [
+    "Serena Williams (tenista estadounidense)",
+    "Serena (personaje de Gossip Girl)",
+    "Serena Autieri (actriz italiana)"
+  ],
+  "anxo": [
+    "Anxo (nombre gallego equivalente a Ángel)",
+    "Anxo Fernández Cid (músico gallego)",
+    "Anxo Lorenzo (político gallego)"
+  ],
+  "jana": [
+    "Jana Duggar (personalidad televisiva)",
+    "Jana (nombre de origen árabe y hebreo)",
+    "Jana Kramer (cantante estadounidense)"
+  ],
+  "isaac": [
+    "Isaac Newton (científico inglés)",
+    "Isaac Asimov (escritor ruso-americano)",
+    "Isaac (hijo de Abraham en la Biblia)"
+  ],
+  "clement": [
+    "Clemente (papa y santo)",
+    "Clément Lenglet (futbolista francés)",
+    "René Clément (director francés)"
+  ],
+  "julen": [
+    "Julen Lopetegui (entrenador español)",
+    "Julen Guerrero (futbolista vasco)",
+    "Julen (forma vasca de Julián)"
+  ],
+  "cesar": [
+    "Julio César (general y político romano)",
+    "César Vallejo (poeta peruano)",
+    "César Ritz (hotelero suizo)"
+  ],
+  "quentin": [
+    "Quentin Tarantino (director estadounidense)",
+    "Quentin Crisp (escritor británico)",
+    "San Quintín (mártir romano)"
+  ],
+  "vanessa": [
+    "Vanessa Paradis (cantante francesa)",
+    "Vanessa Redgrave (actriz británica)",
+    "Vanessa Williams (cantante estadounidense)"
+  ],
+  "ezra": [
+    "Ezra (sacerdote y escriba bíblico)",
+    "Ezra Pound (poeta estadounidense)",
+    "Ezra Miller (actor estadounidense)"
+  ],
+  "celeste": [
+    "Celeste (cantante australiana)",
+    "Celeste Barber (comediante australiana)",
+    "Celeste (nombre de origen latino)"
+  ],
+  "paco": [
+    "Paco de Lucía (guitarrista español)",
+    "Paco Martínez Soria (actor español)",
+    "Paco Rabanne (diseñador español)"
+  ],
+  "edward": [
+    "Edward Elgar (compositor británico)",
+    "Eduardo VII (rey del Reino Unido)",
+    "Edward Snowden (informático estadounidense)"
+  ],
+  "pere": [
+    "Pere Gimferrer (poeta catalán)",
+    "Pere IV el Ceremonioso (rey aragonés)",
+    "Pere (forma catalana de Pedro)"
+  ],
+  "emiliano": [
+    "Emiliano Zapata (revolucionario mexicano)",
+    "Emiliano Sala (futbolista argentino)",
+    "San Emiliano (mártir español)"
+  ],
+  "christina": [
+    "Christina Aguilera (cantante estadounidense)",
+    "Christina Ricci (actriz estadounidense)",
+    "Cristina de Suecia (reina del siglo XVII)"
+  ],
+  "bianca": [
+    "Bianca Jagger (activista nicaragüense)",
+    "Bianca (personaje de La fierecilla domada)",
+    "Bianca Comparato (actriz brasileña)"
+  ],
+  "harper": [
+    "Harper Lee (escritora estadounidense)",
+    "Harper (hija de David Beckham)",
+    "Ben Harper (músico estadounidense)"
+  ],
+  "lidia": [
+    "Lidia de Tiatira (primera cristiana de Europa)",
+    "Lidia Bosch (actriz española)",
+    "Lidia Valentín (halterófila española)"
+  ],
+  "raphael": [
+    "Raphael (cantante español)",
+    "Rafael (arcángel bíblico)",
+    "Raffaello Sanzio (pintor italiano)"
+  ],
+  "finn": [
+    "Finn (personaje de Star Wars)",
+    "Finn Hudson (personaje de Glee)",
+    "Finn Balor (luchador irlandés)"
+  ],
+  "rachel": [
+    "Rachel Green (personaje de Friends)",
+    "Rachel McAdams (actriz canadiense)",
+    "Rachel Carson (escritora estadounidense)"
+  ],
+  "fatima": [
+    "Fátima (hija del profeta Mahoma)",
+    "Nuestra Señora de Fátima (advocación mariana)",
+    "Fátima Whitbread (atleta británica)"
+  ],
+  "yasmin": [
+    "Yasmin Le Bon (modelo)",
+    "Yasmin Levy (cantante israelí)",
+    "Yasmine (nombre de origen árabe)"
+  ],
+  "flora": [
+    "Flora (diosa romana de las flores)",
+    "Flora Tristán (activista francesa)",
+    "Flora MacDonald (heroína escocesa)"
+  ],
+  "rowan": [
+    "Rowan Atkinson (actor británico)",
+    "Rowan Williams (arzobispo de Canterbury)",
+    "Rowan (nombre de origen gaélico)"
+  ],
+  "arlo": [
+    "Arlo Guthrie (músico estadounidense)",
+    "Arlo (nombre de origen anglosajón)",
+    "Arlo Parks (cantante británica)"
+  ],
+  "brais": [
+    "Brais Méndez (futbolista español)",
+    "Brais (nombre gallego de origen latino)",
+    "San Blas (mártir romano)"
+  ],
+  "layla": [
+    "Layla (canción de Eric Clapton)",
+    "Layla Ali (boxeadora estadounidense)",
+    "Layla (nombre de origen árabe)"
+  ],
+  "jules": [
+    "Jules Verne (escritor francés)",
+    "Jules Rimet (fundador del Mundial FIFA)",
+    "Jules (personaje de Pulp Fiction)"
+  ],
+  "hazel": [
+    "Hazel Grace (personaje de Bajo la misma estrella)",
+    "Hazel McCallion (política canadiense)",
+    "Hazel (nombre de origen anglosajón)"
+  ],
+  "abigail": [
+    "Abigaíl (esposa del rey David en la Biblia)",
+    "Abigail Adams (primera dama estadounidense)",
+    "Abigail Breslin (actriz estadounidense)"
+  ],
+  "ian": [
+    "Ian Fleming (escritor británico, creador de James Bond)",
+    "Ian McKellen (actor británico)",
+    "Ian Curtis (músico británico)"
+  ],
+  "cecilia": [
+    "Santa Cecilia (patrona de la música)",
+    "Cecilia (canción de Simon & Garfunkel)",
+    "Cecilia Bartoli (mezzosoprano italiana)"
+  ],
+  "thea": [
+    "Thea (diosa griega de la vista)",
+    "Thea Queen (personaje de Arrow)",
+    "Thea Sharrock (directora británica)"
+  ],
+  "susana": [
+    "Susana (personaje bíblico)",
+    "Susana Giménez (presentadora argentina)",
+    "Susana Griso (periodista española)"
+  ],
+  "kiara": [
+    "Kiara (personaje de El Rey León 2)",
+    "Kiara Advani (actriz india)",
+    "Kiara (nombre de origen italiano)"
+  ],
+  "jonah": [
+    "Jonás (profeta bíblico)",
+    "Jonah Hill (actor estadounidense)",
+    "Jonah Lomu (rugbista neozelandés)"
+  ],
+  "elia": [
+    "Elia Kazan (director estadounidense)",
+    "Elia Martínez (actriz española)",
+    "Elia (nombre de origen hebreo)"
+  ],
+  "lia": [
+    "Lía (esposa de Jacob en la Biblia)",
+    "Lía (nombre de origen griego)",
+    "Lia Kim (coreógrafa surcoreana)"
+  ],
+  "evan": [
+    "Evan Peters (actor estadounidense)",
+    "Evan Rachel Wood (actriz estadounidense)",
+    "Evan Almighty (personaje de película)"
+  ],
+  "gemma": [
+    "Gemma Arterton (actriz británica)",
+    "Gemma Ward (modelo australiana)",
+    "Gemma (nombre de origen italiano)"
+  ],
+  "erik": [
+    "Erik el Rojo (explorador vikingo)",
+    "Erik Satie (compositor francés)",
+    "Erik Lamela (futbolista argentino)"
+  ],
+  "toni": [
+    "Toni Morrison (escritora estadounidense)",
+    "Toni Kroos (futbolista alemán)",
+    "Toni Nadal (entrenador español)"
+  ],
+  "arthur": [
+    "Arthur Conan Doyle (escritor británico)",
+    "Arturo (rey legendario de Britania)",
+    "Arthur Rimbaud (poeta francés)"
+  ],
+  "sienna": [
+    "Sienna Miller (actriz británica)",
+    "Siena (ciudad italiana)",
+    "Sienna (color tierra roja)"
+  ],
+  "gloria": [
+    "Gloria Gaynor (cantante estadounidense)",
+    "Gloria Estefan (cantante cubana)",
+    "Gloria Fuertes (poetisa española)"
+  ],
+  "beatrice": [
+    "Beatrice (musa de Dante Alighieri)",
+    "Beatrice Dalle (actriz francesa)",
+    "Beatriz de Holanda (reina)"
+  ],
+  "fran": [
+    "Fran Drescher (actriz estadounidense)",
+    "Fran Rivera (torero español)",
+    "Fran (forma familiar de Francisco o Francisca)"
+  ],
+  "jasmine": [
+    "Jazmín (personaje de Aladino)",
+    "Jasmine Guy (actriz estadounidense)",
+    "Jasmine Thompson (cantante británica)"
+  ],
+  "tamara": [
+    "Tamara de Lempicka (pintora polaca)",
+    "Tamara (reina de Georgia medieval)",
+    "Tamara Falcó (aristócrata española)"
+  ],
+  "rebeca": [
+    "Rebeca (esposa de Isaac en la Biblia)",
+    "Rebeca (novela de Daphne du Maurier)",
+    "Rebeca (cantante española)"
+  ],
+  "astrid": [
+    "Astrid Lindgren (escritora sueca, creadora de Pippi Calzaslargas)",
+    "Astrid de Bélgica (princesa)",
+    "Astrid (nombre escandinavo)"
+  ],
+  "asher": [
+    "Asher (tribu de Israel en la Biblia)",
+    "Asher Roth (rapero estadounidense)",
+    "Asher Angel (actor estadounidense)"
+  ],
+  "eliot": [
+    "T.S. Eliot (poeta británico)",
+    "Eliot Ness (agente del FBI)",
+    "George Eliot (escritora inglesa)"
+  ],
+  "luciana": [
+    "Luciana Aymar (jugadora de hockey argentina)",
+    "Luciana Paluzzi (actriz italiana)",
+    "Luciana Littizzetto (humorista italiana)"
+  ],
+  "rebecca": [
+    "Rebecca Ferguson (actriz sueca)",
+    "Daphne du Maurier (autora de Rebeca)",
+    "Rebecca Black (cantante estadounidense)"
+  ],
+  "alonso": [
+    "Fernando Alonso (piloto español)",
+    "Alonso de Ercilla (poeta español)",
+    "Alonso Quijano (personaje del Quijote)"
+  ],
+  "elodie": [
+    "Elodie (cantante italiana)",
+    "Élodie Bouchez (actriz francesa)",
+    "Elodie Gosuin (presentadora francesa)"
+  ],
+  "giovanni": [
+    "Giovanni Battista Piranesi (artista italiano)",
+    "Giovanni Pierluigi da Palestrina (compositor)",
+    "Giovanni Falcone (magistrado italiano)"
+  ],
+  "jayden": [
+    "Jayden James (hijo de Britney Spears)",
+    "Jayden Smith (actor e hijo de Will Smith)",
+    "Jayden (nombre de origen anglosajón)"
+  ],
+  "margaux": [
+    "Margaux Hemingway (modelo estadounidense)",
+    "Margaux (nombre del famoso vino burdeos)",
+    "Margaux (variante francesa de Margarita)"
+  ],
+  "hanna": [
+    "Hanna Barbera (productora de animación)",
+    "Hanna (personaje de la serie Hanna)",
+    "Hanna Marin (personaje de Pretty Little Liars)"
+  ],
+  "pepe": [
+    "Pepe (portero portugués)",
+    "Pepe (cantante brasileño)",
+    "Pepe Mujica (presidente uruguayo)"
+  ],
+  "sol": [
+    "Sol Hurok (empresario cultural ruso)",
+    "Sol LeWitt (artista estadounidense)",
+    "Sol (nombre de origen latino, astro rey)"
+  ],
+  "koldo": [
+    "Koldo Mitxelena (lingüista vasco)",
+    "Koldo Etxeberria (político vasco)",
+    "Koldo (forma vasca de Luis)"
+  ],
+  "leonor": [
+    "Leonor de Aquitania (reina medieval)",
+    "Leonor (princesa de Asturias)",
+    "Leonor Fini (pintora argentina)"
+  ],
+  "ona": [
+    "Ona Carbonell (nadadora española)",
+    "Ona (nombre catalán)",
+    "Ona Villanueva (tenista española)"
+  ],
+  "phoenix": [
+    "Phoenix (banda de rock francesa)",
+    "Joaquin Phoenix (actor estadounidense)",
+    "River Phoenix (actor estadounidense)"
+  ],
+  "cleo": [
+    "Cleopatra VII (reina de Egipto)",
+    "Cleo Laine (cantante británica)",
+    "Cleo (personaje de la película Cleo de 5 a 7)"
+  ],
+  "frida": [
+    "Frida Kahlo (pintora mexicana)",
+    "Frida Hyvönen (cantante sueca)",
+    "Fridha Birnbaum (cantante de Abba)"
+  ],
+  "lucian": [
+    "Lucian Freud (pintor alemán-británico)",
+    "Luciano Pavarotti (tenor italiano)",
+    "Lucian (nombre de origen latino)"
+  ],
+  "francesca": [
+    "Francesca da Rimini (personaje de Dante)",
+    "Francesca Gregorini (directora)",
+    "Francesca Michielin (cantante italiana)"
+  ],
+  "xander": [
+    "Xander Harris (personaje de Buffy)",
+    "Xander Bogaerts (beisbolista)",
+    "Xander (abreviatura de Alexander)"
+  ],
+  "sabela": [
+    "Sabela (nombre gallego equivalente a Isabel)",
+    "Sabela Arán (actriz gallega)",
+    "Sabela Caamaño (actriz gallega)"
+  ],
+  "lois": [
+    "Lois Lane (personaje de Superman)",
+    "Lois Griffin (personaje de Padre de Familia)",
+    "Lois Armstrong (nombre relacionado con Louis)"
+  ],
+  "ismael": [
+    "Ismael (hijo de Abraham en la Biblia)",
+    "Ismael Serrano (cantante español)",
+    "Ismael Lo (cantante senegalés)"
+  ],
+  "kevin": [
+    "Kevin Costner (actor estadounidense)",
+    "Kevin De Bruyne (futbolista belga)",
+    "Kevin Bacon (actor estadounidense)"
+  ],
+  "ibai": [
+    "Ibai Llanos (streamer español)",
+    "Ibai Gómez (futbolista español)",
+    "Ibai (nombre vasco)"
+  ],
+  "belen": [
+    "Belén Esteban (personaje mediático español)",
+    "Belén Rueda (actriz española)",
+    "Belén (ciudad bíblica de nacimiento de Jesús)"
+  ],
+  "yolanda2": [
+    "Yolanda Díaz (política española)",
+    "Yolanda Saldívar (asesina de Selena)",
+    "Yolanda Adams (cantante gospel)"
+  ],
+  "yago": [
+    "Yago (variante de Iago y Santiago)",
+    "Yago Lamela (atleta español)",
+    "Iago (personaje de Otelo de Shakespeare)"
+  ],
+  "leila": [
+    "Leila Josefowicz (violinista estadounidense)",
+    "Leila (nombre de origen árabe)",
+    "Leila Hatami (actriz iraní)"
+  ],
+  "berta": [
+    "Berta von Suttner (Nobel de la Paz)",
+    "Berta Cáceres (activista hondureña)",
+    "Berta Singerman (actriz argentina)"
+  ],
+  "river": [
+    "River Phoenix (actor estadounidense)",
+    "River Plate (club de fútbol argentino)",
+    "Joan River (cómica estadounidense)"
+  ],
+  "inaki": [
+    "Iñaki Williams (futbolista español)",
+    "Iñaki Urdangarin (aristócrata español)",
+    "Iñaki (forma vasca de Juan)"
+  ],
+  "lluc": [
+    "Lluc Mares (actor catalán)",
+    "Santuario de Lluc (Mallorca)",
+    "Lluc (forma mallorquina de Lucas)"
+  ],
+  "olga": [
+    "Olga de Rusia (gran duquesa)",
+    "Olga Kurylenko (actriz ucraniana)",
+    "Santa Olga de Kiev (princesa rusa)"
+  ],
+  "livia": [
+    "Livia Drusilla (esposa del emperador Augusto)",
+    "Livia Brito (actriz cubana)",
+    "Livia (nombre de origen romano)"
+  ],
+  "gerard": [
+    "Gerard Piqué (futbolista catalán)",
+    "Gerard Depardieu (actor francés)",
+    "Gerard Butler (actor escocés)"
+  ],
+  "marina": [
+    "Marina Abramovic (artista serbia)",
+    "Marina (cantante chipriota)",
+    "Marina Tsvetáyeva (poetisa rusa)"
+  ],
+  "bastian": [
+    "Bastian Schweinsteiger (futbolista alemán)",
+    "Bastián (personaje de La historia interminable)",
+    "Sebastián Bach (músico)"
+  ],
+  "federico": [
+    "Federico García Lorca (poeta español)",
+    "Federico Fellini (director italiano)",
+    "Federico II el Grande (rey prusiano)"
+  ],
+  "mehmet": [
+    "Mehmet II el Conquistador (sultán otomano)",
+    "Mehmet Yilmaz (político turco)",
+    "Mehmet (nombre turco popular)"
+  ],
+  "stephen": [
+    "Stephen Hawking (físico británico)",
+    "Stephen King (escritor estadounidense)",
+    "Stephen Curry (baloncestista)"
+  ],
+  "saul": [
+    "Saúl (primer rey de Israel)",
+    "Saul Bellow (escritor canadiense)",
+    "Saul Goodman (personaje de Breaking Bad)"
+  ],
+  "vicente": [
+    "Vicente Aleixandre (poeta español)",
+    "Vicente del Bosque (entrenador español)",
+    "San Vicente de Paúl (santo francés)"
+  ],
+  "caleb": [
+    "Caleb (explorador bíblico)",
+    "Caleb Followill (cantante de Kings of Leon)",
+    "Caleb McLaughlin (actor estadounidense)"
+  ],
+  "xabier": [
+    "Xabier Arzalluz (político vasco)",
+    "San Francisco Javier (misionero navarro)",
+    "Xabier (forma vasca de Javier)"
+  ],
+  "matilde": [
+    "Matilde de Flandes (reina de Inglaterra)",
+    "Matilde de los Países Bajos (reina)",
+    "Matilde Urrutia (esposa de Neruda)"
+  ],
+  "lydia": [
+    "Lydia Davis (escritora estadounidense)",
+    "Lydia (personaje de Orgullo y Prejuicio)",
+    "Lidia de Tiatira (primera cristiana)"
+  ],
+  "tristan": [
+    "Tristán (caballero del Rey Arturo)",
+    "Tristan Tzara (artista dadaísta rumano)",
+    "Tristán e Isolda (ópera de Wagner)"
+  ],
+  "miles": [
+    "Miles Davis (músico estadounidense)",
+    "Miles Morales (Spider-Man)",
+    "Miles Kane (músico británico)"
+  ],
+  "macarena": [
+    "Macarena (canción del Dúo Dinámico Los del Río)",
+    "Macarena García (actriz española)",
+    "Macarena (barrio de Sevilla)"
+  ],
+  "paloma": [
+    "Paloma San Basilio (cantante española)",
+    "Paloma Picasso (diseñadora española)",
+    "Paloma Faith (cantante británica)"
+  ],
+  "eleanor": [
+    "Eleanor Roosevelt (primera dama estadounidense)",
+    "Eleanor Rigby (canción de The Beatles)",
+    "Eleanor de Aquitania (reina medieval)"
+  ],
+  "roger": [
+    "Roger Federer (tenista suizo)",
+    "Roger Moore (actor británico)",
+    "Roger Waters (músico británico)"
+  ],
+  "andoni": [
+    "Andoni Zubizarreta (portero español)",
+    "Andoni Goikoetxea (futbolista vasco)",
+    "Andoni (forma vasca de Antonio)"
+  ],
+  "cillian": [
+    "Cillian Murphy (actor irlandés)",
+    "Cillian (nombre de origen irlandés)",
+    "Cillian Murphy (actor de Peaky Blinders)"
+  ],
+  "mercedes": [
+    "Mercedes Benz (marca de automóviles)",
+    "Mercedes Sosa (cantante argentina)",
+    "Mercedes Milà (presentadora española)"
+  ],
+  "margaret": [
+    "Margaret Thatcher (primera ministra británica)",
+    "Margaret Atwood (escritora canadiense)",
+    "Santa Margarita de Antioquía"
+  ],
+  "orion": [
+    "Orión (cazador de la mitología griega)",
+    "Orion Pictures (productora)",
+    "Orion (constelación del cielo)"
+  ],
+  "quim": [
+    "Quim Domènech (político catalán)",
+    "Quim Torra (expresidente catalán)",
+    "Quim (forma catalana de Joaquín)"
+  ],
+  "camilo": [
+    "Camilo Sesto (cantante español)",
+    "Camilo (cantante colombiano)",
+    "Camilo Torres (sacerdote guerrillero colombiano)"
+  ],
+  "eloise": [
+    "Eloísa (amante de Abelardo)",
+    "Eloise (personaje del libro infantil)",
+    "Eloise (nombre de origen francés)"
+  ],
+  "vivian": [
+    "Vivien Leigh (actriz británica)",
+    "Vivian Maier (fotógrafa estadounidense)",
+    "Vivian (nombre de origen latino)"
+  ],
+  "eleonora": [
+    "Eleonora de Aragón (duquesa de Ferrara)",
+    "Eleonora Duse (actriz italiana)",
+    "Eleonora (forma italiana de Leonor)"
+  ],
+  "philip": [
+    "Philip Glass (compositor estadounidense)",
+    "Felipe II (rey de España)",
+    "Prince Philip (duque de Edimburgo)"
+  ],
+  "dante": [
+    "Dante Alighieri (poeta italiano)",
+    "Dante Ferretti (escenógrafo italiano)",
+    "Dante Gebel (predicador argentino)"
+  ],
+  "joana": [
+    "Juana de Arco (heroína francesa)",
+    "Joana Biarnés (fotógrafa española)",
+    "Joana (forma portuguesa de Juana)"
+  ],
+  "yasmine": [
+    "Yasmine Bleeth (actriz estadounidense)",
+    "Yasmine (nombre de origen árabe)",
+    "Yasmine Hamdan (cantante libanesa)"
+  ],
+  "mikkel": [
+    "Mikkel Hansen (balonmanista danés)",
+    "Mikkel (nombre escandinavo equivalente a Miguel)",
+    "Mikkel Honoré (ciclista danés)"
+  ],
+  "ingrid": [
+    "Ingrid Bergman (actriz sueca)",
+    "Ingrid de Suecia (reina de Dinamarca)",
+    "Ingrid Betancourt (política colombiana)"
+  ],
+  "skye": [
+    "Isla de Skye (isla escocesa)",
+    "Skye Edwards (cantante británica)",
+    "Skye (nombre de origen escocés)"
+  ],
+  "dorian": [
+    "Dorian Gray (personaje de Oscar Wilde)",
+    "Dorian (modo musical)",
+    "Dorian Yates (culturista británico)"
+  ],
+  "wren": [
+    "Christopher Wren (arquitecto inglés)",
+    "Wren (nombre de origen inglés)",
+    "Wren (ave conocida en inglés)"
+  ],
+  "pietro": [
+    "Pietro Annigoni (pintor italiano)",
+    "Pietro Badoglio (militar italiano)",
+    "Pietro (nombre italiano de Pedro)"
+  ],
+  "josu": [
+    "Josu Ternera (líder de ETA)",
+    "Josu Jon Imaz (político vasco)",
+    "Josu (forma vasca de Jesús)"
+  ],
+  "fiona": [
+    "Fiona Apple (cantante estadounidense)",
+    "Fiona (personaje de Shrek)",
+    "Fiona Shaw (actriz irlandesa)"
+  ],
+  "blake": [
+    "Blake Lively (actriz estadounidense)",
+    "Blake Shelton (cantante estadounidense)",
+    "William Blake (poeta inglés)"
+  ],
+  "amir": [
+    "Amir Khan (boxeador británico)",
+    "Amir (nombre de origen árabe)",
+    "Amir Blumenfeld (comediante estadounidense)"
+  ],
+  "samira": [
+    "Samira Wiley (actriz estadounidense)",
+    "Samira Ahmed (periodista británica)",
+    "Samira (nombre de origen árabe)"
+  ],
+  "damon": [
+    "Matt Damon (actor estadounidense)",
+    "Damon Hill (piloto británico)",
+    "Damon Albarn (músico británico)"
+  ],
+  "leonel": [
+    "Lionel Messi (futbolista argentino)",
+    "Leonel Fernández (político dominicano)",
+    "Leonel (nombre de origen latino)"
+  ],
+  "henrik": [
+    "Henrik Ibsen (dramaturgo noruego)",
+    "Henrik Larsson (futbolista sueco)",
+    "Henrik (nombre escandinavo)"
+  ],
+  "priya": [
+    "Priya (nombre de origen sánscrito)",
+    "Priya Dutt (política india)",
+    "Priya Anand (actriz india)"
+  ],
+  "emre": [
+    "Emre Can (futbolista turco-alemán)",
+    "Emre Mor (futbolista turco)",
+    "Emre (nombre de origen turco)"
+  ],
+  "yaiza": [
+    "Yaiza Carrasco (deportista española)",
+    "Yaiza (nombre canario)",
+    "Yaiza (municipio de Lanzarote)"
+  ],
+  "aisha": [
+    "Aisha (esposa del profeta Mahoma)",
+    "Aisha Tyler (actriz estadounidense)",
+    "Aisha (nombre de origen árabe)"
+  ],
+  "romeo": [
+    "Romeo Beckham (hijo de David Beckham)",
+    "Romeo (personaje de Shakespeare)",
+    "Romeo Santos (cantante dominicano)"
+  ],
+  "rosalia": [
+    "Rosalía (cantante española)",
+    "Rosalía de Castro (escritora gallega)",
+    "Santa Rosalía (patrona de Palermo)"
+  ],
+  "lars": [
+    "Lars Ulrich (baterista de Metallica)",
+    "Lars von Trier (director danés)",
+    "Lars (nombre escandinavo)"
+  ],
+  "giacomo": [
+    "Giacomo Puccini (compositor italiano)",
+    "Giacomo Leopardi (poeta italiano)",
+    "Giacomo Casanova (seductor italiano)"
+  ],
+  "sasha": [
+    "Sasha Fierce (alter ego de Beyoncé)",
+    "Sasha Obama (hija del presidente)",
+    "Sasha Velour (drag queen estadounidense)"
+  ],
+  "borja": [
+    "Borja Iglesias (futbolista español)",
+    "Borja (familia aristocrática italiana-española)",
+    "Borja Semper (político español)"
+  ],
+  "karim": [
+    "Karim Benzema (futbolista francés)",
+    "Karim (nombre de origen árabe)",
+    "Karim Aïnouz (director brasileño)"
+  ],
+  "heidi": [
+    "Heidi (personaje literario de Johanna Spyri)",
+    "Heidi Klum (modelo alemana)",
+    "Heidi Montag (personalidad televisiva)"
+  ],
+  "celine": [
+    "Céline Dion (cantante canadiense)",
+    "Louis-Ferdinand Céline (escritor francés)",
+    "Céline (marca de moda francesa)"
+  ],
+  "tristán": [
+    "Tristán (caballero del Rey Arturo)",
+    "Tristán e Isolda (ópera de Wagner)",
+    "Tristán Tzara (artista dadaísta)"
+  ],
+  "wendy": [
+    "Wendy Williams (presentadora estadounidense)",
+    "Wendy Darling (personaje de Peter Pan)",
+    "Wendy (restaurante de comida rápida)"
+  ],
+  "lourdes": [
+    "Lourdes (lugar mariano en Francia)",
+    "Madonna Louise Ciccone (hija se llama Lourdes)",
+    "Nuestra Señora de Lourdes"
+  ],
+  "iria": [
+    "Iria (nombre gallego)",
+    "Iria Parente (escritora gallega)",
+    "Iria (santa patrona de Iria Flavia)"
+  ],
+  "soraya": [
+    "Soraya Jiménez (pesista mexicana)",
+    "Soraya (cantante española)",
+    "Soraya Esfandiary (emperatriz de Irán)"
+  ],
+  "naiara": [
+    "Naiara Azurza (cantante vasca)",
+    "Naiara (nombre vasco)",
+    "Naiara Agirre (ciclista vasca)"
+  ],
+  "oskar": [
+    "Oskar Schindler (industrial alemán)",
+    "Oskar Kokoschka (pintor austríaco)",
+    "Oskar (forma germánica de Óscar)"
+  ],
+  "lander": [
+    "Lander (forma vasca de Leandro)",
+    "Lander Auba (ciclista vasco)",
+    "Lander Juaristi (político vasco)"
+  ],
+  "maeve": [
+    "Maeve (reina de la mitología irlandesa)",
+    "Maeve Binchy (escritora irlandesa)",
+    "Maeve Higgins (comediante irlandesa)"
+  ],
+  "rene": [
+    "René Descartes (filósofo y matemático)",
+    "René Magritte (pintor surrealista belga)",
+    "René (cantante cubano del dúo Buena Fe)"
+  ],
+  "esther": [
+    "Ester (reina bíblica)",
+    "Esther Williams (nadadora y actriz)",
+    "Esther Koplowitz (empresaria española)"
+  ],
+  "agustin": [
+    "San Agustín de Hipona (padre de la Iglesia)",
+    "Agustín Lara (compositor mexicano)",
+    "Agustín de Iturbide (emperador de México)"
+  ],
+  "quinn": [
+    "Quinn (personaje de Glee)",
+    "Quinn Hughes (jugador de hockey)",
+    "Quinn (nombre de origen irlandés)"
+  ],
+  "miranda": [
+    "Miranda Kerr (modelo australiana)",
+    "Miranda Otto (actriz australiana)",
+    "Miranda (personaje de La Tempestad de Shakespeare)"
+  ],
+  "adriano": [
+    "Adriano (emperador romano)",
+    "Adriano (futbolista brasileño)",
+    "Adriano Celentano (cantante italiano)"
+  ],
+  "florence": [
+    "Florence Nightingale (enfermera británica)",
+    "Florence + the Machine (banda musical)",
+    "Florence Pugh (actriz británica)"
+  ],
+  "rosalie": [
+    "Rosalie (personaje de Crepúsculo)",
+    "Rosalie Crutchley (actriz británica)",
+    "Rosalie (variante de Rosalía)"
+  ],
+  "amira": [
+    "Amira Willighagen (cantante neerlandesa)",
+    "Amira (nombre de origen árabe)",
+    "Amira Hass (periodista israelí)"
+  ],
+  "malen": [
+    "Malen Txueka (futbolista vasca)",
+    "Malena Ernman (cantante sueca madre de Greta Thunberg)",
+    "Malen (nombre vasco)"
+  ],
+  "patxi": [
+    "Patxi López (político vasco)",
+    "Patxi Andión (cantautor español)",
+    "Patxi (forma vasca de Francisco)"
+  ],
+  "maider": [
+    "Maider Unda (luchadora vasca)",
+    "Maider Telleria (política vasca)",
+    "Maider (nombre vasco)"
+  ],
+  "selene": [
+    "Selene (diosa griega de la luna)",
+    "Selena Gomez (cantante estadounidense)",
+    "Selene (nombre de origen griego)"
+  ],
+  "pepa": [
+    "Pepa Flores Marisol (actriz española)",
+    "Pepa (forma familiar de Josefa)",
+    "Pepa Pig (personaje de dibujos animados)"
+  ],
+  "florian": [
+    "Florian Schneider (músico alemán de Kraftwerk)",
+    "San Florián (santo patrón de bomberos)",
+    "Florian (nombre de origen latino)"
+  ],
+  "ravi": [
+    "Ravi Shankar (músico indio)",
+    "Ravi (nombre de origen sánscrito)",
+    "Ravi Davis (hijo de Miles Davis)"
+  ],
+  "benat": [
+    "Beñat Etxebarria (futbolista vasco)",
+    "Beñat (nombre vasco equivalente a Bernardo)",
+    "Benat Intxausti (ciclista vasco)"
+  ],
+  "lorea": [
+    "Lorea (nombre vasco)",
+    "Lorea Agirre (política vasca)",
+    "Lorea Zabaleta (política vasca)"
+  ],
+  "yeray": [
+    "Yeray Álvarez (futbolista español)",
+    "Yeray (nombre canario)",
+    "Yeray Figueroa (futbolista canario)"
+  ],
+  "oihane": [
+    "Oihane Hernández (deportista vasca)",
+    "Oihane (nombre vasco que significa bosque)",
+    "Oihane Castellanos (piragüista vasca)"
+  ],
+  "concha": [
+    "Concha Velasco (actriz española)",
+    "Concha Espina (escritora española)",
+    "Concha García Campoy (periodista española)"
+  ],
+  "anastasia": [
+    "Anastasia Románov (gran duquesa rusa)",
+    "Anastasia (musical de Broadway)",
+    "Anastasia (cantante estadounidense)"
+  ],
+  "annika": [
+    "Annika Sörenstam (golfista sueca)",
+    "Annika (amiga de Pippi Calzaslargas)",
+    "Annika Falkengren (empresaria sueca)"
+  ],
+  "nikolai": [
+    "Nikolai Gogol (escritor ucraniano-ruso)",
+    "Nikolai Rimski-Korsakov (compositor ruso)",
+    "Nikolai Lenin (revolucionario ruso)"
+  ],
+  "eloy": [
+    "Eloy Alfaro (presidente ecuatoriano)",
+    "San Eloy (patrón de orfebres)",
+    "Eloy de la Iglesia (director español)"
+  ],
+  "elisenda": [
+    "Elisenda de Montcada (reina de Aragón)",
+    "Elisenda (nombre catalán)",
+    "Elisenda Paluzie (economista catalana)"
+  ],
+  "aurelia": [
+    "Aurelia (madre de Julio César)",
+    "Santa Aurelia (mártir romana)",
+    "Aurelia (nombre de origen latino)"
+  ],
+  "olalla": [
+    "Olalla (variante de Eulalia)",
+    "Olalla Moreno (deportista española)",
+    "Olalla Domínguez (política española)"
+  ],
+  "ane2": [
+    "Ane Santesteban (ciclista española)",
+    "Ane Zuazubiskar (actriz vasca)",
+    "Ane (forma vasca de Ana)"
+  ],
+  "dinah": [
+    "Dinah Washington (cantante estadounidense)",
+    "Dinah (personaje bíblico, hija de Jacob)",
+    "Dinah Shore (cantante estadounidense)"
+  ],
+  "fermin": [
+    "San Fermín (mártir navarro, patrón de Pamplona)",
+    "Fermín Cacho (atleta español)",
+    "Fermín Muguruza (músico vasco)"
+  ],
+  "roc": [
+    "Roc (personaje mitológico árabe)",
+    "Roc Marciano (rapero estadounidense)",
+    "Roc (nombre catalán equivalente a Roque)"
+  ],
+  "maximus": [
+    "Máximo (general romano de la serie Gladiator)",
+    "Publio Cornelio Escipión Máximo",
+    "Maximus (nombre de origen latino)"
+  ],
+  "hermione": [
+    "Hermione Granger (personaje de Harry Potter)",
+    "Hermione Norris (actriz británica)",
+    "Hermione (personaje mitológico griego)"
+  ],
+  "saoirse": [
+    "Saoirse Ronan (actriz irlandesa)",
+    "Saoirse (nombre irlandés que significa libertad)",
+    "Saoirse (nombre popular en Irlanda)"
+  ],
+  "willy": [
+    "Willy Toledo (actor español)",
+    "Willy Fog (personaje de animación)",
+    "Willy Brandt (canciller alemán)"
+  ],
+  "tatiana": [
+    "Tatiana de Rusia (gran duquesa)",
+    "Tatiana Ali (actriz estadounidense)",
+    "Tatiana (nombre de origen romano)"
+  ],
+  "karmele": [
+    "Karmele Marchante (periodista española)",
+    "Karmele Jaio (escritora vasca)",
+    "Karmele (forma vasca de Carmen)"
+  ],
+  "bilal": [
+    "Bilal ibn Rabah (primer muecín del Islam)",
+    "Bilal Hassani (cantante francés)",
+    "Bilal (nombre de origen árabe)"
+  ],
+  "nagore": [
+    "Nagore Aranburu (actriz vasca)",
+    "Nagore Laffage (víctima de San Fermín)",
+    "Nagore (nombre vasco)"
+  ],
+  "darius": [
+    "Darío I el Grande (rey persa)",
+    "Darius Rucker (cantante estadounidense)",
+    "Darius Milhaud (compositor francés)"
+  ],
+  "roxana": [
+    "Roxana (esposa de Alejandro Magno)",
+    "Roxana (personaje de Cyrano de Bergerac)",
+    "Roxane Gay (escritora estadounidense)"
+  ],
+  "akira": [
+    "Akira Kurosawa (director japonés)",
+    "Akira (manga y película de animación)",
+    "Akira Toriyama (mangaka japonés)"
+  ],
+  "declan": [
+    "Declan Donnelly (presentador británico)",
+    "Declan Rice (futbolista inglés)",
+    "San Declan (santo irlandés)"
+  ],
+  "haritz": [
+    "Haritz Soto (cantante vasco)",
+    "Haritz (nombre vasco que significa roble)",
+    "Haritz Aldabaldetrecu (músico vasco)"
+  ],
+  "duarte": [
+    "Duarte I de Portugal (rey)",
+    "Duarte Pio de Braganza (pretendiente al trono)",
+    "Duarte (forma portuguesa de Eduardo)"
+  ],
+  "otto": [
+    "Otto von Bismarck (político alemán)",
+    "Otto (rey de Grecia)",
+    "Otto Preminger (director austriaco)"
+  ],
+  "dorothy": [
+    "Dorothy Hodgkin (científica británica Nobel)",
+    "Dorothy (personaje de El Mago de Oz)",
+    "Dorothy Parker (escritora estadounidense)"
+  ],
+  "viola": [
+    "Viola Davis (actriz estadounidense)",
+    "Viola (personaje de Noche de Reyes de Shakespeare)",
+    "Viola da gamba (instrumento musical)"
+  ],
+  "yuna": [
+    "Yuna (personaje de Final Fantasy X)",
+    "Yuna Kim (patinadora surcoreana)",
+    "Yuna (cantante malaya)"
+  ],
+  "boris": [
+    "Boris Johnson (político británico)",
+    "Boris Becker (tenista alemán)",
+    "Boris Pasternak (escritor ruso)"
+  ],
+  "ambrose": [
+    "Ambrose Bierce (escritor estadounidense)",
+    "San Ambrosio de Milán (doctor de la Iglesia)",
+    "Ambrose Burnside (general de la Guerra Civil)"
+  ],
+  "imogen": [
+    "Imogen Heap (músico británica)",
+    "Imogen Poots (actriz británica)",
+    "Imogen (personaje de Shakespeare)"
+  ],
+  "harriet": [
+    "Harriet Tubman (activista estadounidense)",
+    "Harriet Beecher Stowe (escritora)",
+    "Harriet Martineau (socióloga británica)"
+  ],
+  "artemis": [
+    "Artemisa (diosa griega de la caza)",
+    "Artemisia Gentileschi (pintora italiana)",
+    "Artemis (programa espacial de la NASA)"
+  ],
+  "covadonga": [
+    "Covadonga (batalla del 718, inicio de la Reconquista)",
+    "Nuestra Señora de Covadonga (patrona de Asturias)",
+    "Covadonga (nombre asturiano)"
+  ],
+  "ramona": [
+    "Ramona (novela de Helen Hunt Jackson)",
+    "Ramona Flowers (personaje de Scott Pilgrim)",
+    "Ramona Badescu (actriz rumana)"
+  ],
+  "aurelio": [
+    "Marco Aurelio (emperador filósofo romano)",
+    "Aurelio (nombre de origen latino)",
+    "Aurelio García Cantalapiedra (político español)"
+  ],
+  "mafalda": [
+    "Mafalda (personaje de cómic de Quino)",
+    "Mafalda de Saboya (princesa italiana)",
+    "Mafalda (nombre de origen germánico)"
+  ],
+  "cassandra": [
+    "Casandra (profetisa de la mitología griega)",
+    "Cassandra Wilson (cantante estadounidense)",
+    "Cassandra Clare (escritora estadounidense)"
+  ],
+  "isadora": [
+    "Isadora Duncan (bailarina estadounidense)",
+    "Isadora (nombre de origen griego)",
+    "Isadora Wing (personaje literario)"
+  ],
+  "eugenio": [
+    "Eugenio d'Ors (escritor español)",
+    "Eugenio Hermoso (pintor español)",
+    "Eugenio (nombre de origen griego)"
+  ],
+  "constanca": [
+    "Constanza (emperatriz del Sacro Imperio)",
+    "Constanza (ciudad alemana)",
+    "Constanza de Castilla (reina)"
+  ],
+  "atticus": [
+    "Atticus Finch (personaje de Matar a un ruiseñor)",
+    "Atticus Ross (músico)",
+    "Tito Pomponio Ático (amigo de Cicerón)"
+  ],
+  "siobhan": [
+    "Siobhán McKenna (actriz irlandesa)",
+    "Siobhán (forma irlandesa de Juana)",
+    "Siobhan (nombre popular en Irlanda)"
+  ],
+  "finnegan": [
+    "Finnegan's Wake (obra de James Joyce)",
+    "Finnegan (personaje de Mr. Rogers)",
+    "Finnegan (nombre de origen irlandés)"
+  ],
+  "octavia": [
+    "Octavia Spencer (actriz estadounidense)",
+    "Octavia (hermana del emperador Augusto)",
+    "Octavia Butler (escritora estadounidense)"
+  ],
+  "cosima": [
+    "Cosima Wagner (hija de Liszt y esposa de Wagner)",
+    "Cosima (nombre de origen italiano)",
+    "Cosima (personaje histórico)"
+  ],
+  "isolde": [
+    "Isolda (personaje de Tristán e Isolda)",
+    "Isolde (nombre de origen celta)",
+    "Isolde (ópera de Wagner)"
+  ],
+  "rosalind": [
+    "Rosalind Franklin (científica británica)",
+    "Rosalind (personaje de Como gustéis de Shakespeare)",
+    "Rosalind Russell (actriz estadounidense)"
+  ],
+  "cordelia": [
+    "Cordelia (personaje de El Rey Lear de Shakespeare)",
+    "Cordelia Chase (personaje de Buffy)",
+    "Cordelia (nombre de origen celta)"
+  ],
+  "lavinia": [
+    "Lavinia (personaje de la mitología romana)",
+    "Lavinia Milosovici (gimnasta rumana)",
+    "Lavinia (nombre de origen latino)"
+  ],
+  "telmo": [
+    "San Telmo (patrón de los marineros)",
+    "Telmo Zarrandikoetxea (futbolista vasco)",
+    "Telmo Zarra (futbolista español)"
+  ],
+  "bartolome": [
+    "Bartolomé de las Casas (fraile español defensor indígenas)",
+    "San Bartolomé (apóstol de Jesús)",
+    "Bartolomé Esteban Murillo (pintor español)"
+  ],
+  "helios": [
+    "Helios (dios griego del sol)",
+    "Helios Gómez (artista español)",
+    "Helios Escalera (activista español)"
+  ],
+  "amadeus": [
+    "Wolfgang Amadeus Mozart (compositor austriaco)",
+    "Amadeus (película de Milos Forman)",
+    "Amadeus (nombre de origen latino)"
+  ],
+  "ceferino": [
+    "Ceferino Giménez Malla El Pelé (beato gitano español)",
+    "Ceferino Namuncurá (beato argentino)",
+    "Ceferino (nombre de origen griego)"
+  ],
+  "sabino": [
+    "Sabino Arana (fundador del PNV)",
+    "Sabino (nombre de origen latino)",
+    "San Sabino (mártir romano)"
+  ],
+  "graciana": [
+    "Graciana (nombre de origen latino)",
+    "Graciana del Castillo (economista argentina)",
+    "Graciana (variante de Gracia)"
+  ],
+  "prudencia": [
+    "Prudencia (virtud cardinal)",
+    "Prudencia Ayala (activista salvadoreña)",
+    "Prudencia (nombre de origen latino)"
+  ],
+  "desamparados": [
+    "Nuestra Señora de los Desamparados (patrona de Valencia)",
+    "Desamparados (nombre valenciano)",
+    "Desamparados Calvo (política española)"
+  ],
+  "angustias": [
+    "Angustias (personaje de La casa de Bernarda Alba de Lorca)",
+    "Angustias (nombre de advocación mariana)",
+    "Angustias (nombre popular en Andalucía)"
+  ],
+  "ildefonso": [
+    "San Ildefonso (arzobispo de Toledo)",
+    "Ildefonso Falcones (escritor español)",
+    "Ildefonso (nombre de origen germánico)"
+  ],
+  "epifanio": [
+    "Epifanio de Salamis (padre de la Iglesia)",
+    "Epifanio (nombre de origen griego)",
+    "Epifanio (festividad del 6 de enero)"
+  ],
+  "eulogio": [
+    "San Eulogio de Córdoba (mártir español)",
+    "Eulogio (nombre de origen griego)",
+    "Eulogio Florentin (político paraguayo)"
+  ],
+  "baldomero": [
+    "Baldomero Espartero (general y político español)",
+    "Baldomero (nombre de origen germánico)",
+    "San Baldomero (santo del siglo VII)"
+  ],
+  "fructuoso": [
+    "San Fructuoso de Tarragona (mártir español)",
+    "Fructuoso (nombre de origen latino)",
+    "San Fructuoso de Braga (obispo)"
+  ],
+  "breogan": [
+    "Breogán (rey mítico de Galicia)",
+    "Breogán (club de baloncesto gallego)",
+    "Breogán (nombre de origen galaico)"
+  ],
+  "felisa": [
+    "Felisa Rincón (primera alcaldesa de San Juan)",
+    "Felisa (nombre de origen latino)",
+    "Felisa (variante de Felicidad)"
   ]
 }
 function getFamosos(slug: string, nameStr: string): string[] {
