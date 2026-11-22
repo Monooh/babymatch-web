@@ -1,0 +1,73 @@
+Sepp|m|hebrew|german|2|vintage|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Hias|m|hebrew|german|1|vintage|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Wastl|m|greek|german|1|vintage|Venerable|Venerable|Vénérable|Der Verehrungswürdige|Venerabile|Venerável
+Vroni|f|greek|german|1|vintage|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Kreszenz|f|latin|german|1|vintage,saint|La que crece|Growing|Celle qui grandit|Die Wachsende|Colei che cresce|A que cresce
+Vitus|m|latin|german|1|vintage,saint|Vida, vital|Life, vital|Vie, vital|Der Lebendige|Vita, vitale|Vida, vital
+Veit|m|latin|german|1|vintage,saint|Vida, vital|Life, vital|Vie, vital|Der Lebendige|Vita, vitale|Vida, vital
+Urs|m|latin|german|2|animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Ursina|f|latin|german|1|animal,saint|Osita|Little bear|Petite ourse|Kleine Bärin|Piccola orsa|Ursinha
+Reto|m|other|german|2|place|Rético, de Recia|Rhaetian|Rhétien|Der Rätier|Reto, della Rezia|Réto, da Récia
+Beat|m|latin|german|2|virtue,vintage|Bendecido|Blessed|Béni|Der Selige|Beato|Abençoado
+Noëmi|f|hebrew|german|3|biblical,sweet|Dulzura|Pleasantness|Douceur|Lieblichkeit|Dolcezza|Doçura
+Flurina|f|latin|german|1|flower|Florecilla|Little flower|Petite fleur|Blümchen|Piccolo fiore|Florzinha
+Jael|f|hebrew|german|2|biblical,animal|Cabra montés|Mountain goat|Bouquetin|Steinbock|Stambecco|Cabra-montês
+Folke|m|germanic|german,scandinavian|1|vintage|Pueblo|People|Peuple|Volk|Popolo|Povo
+Henner|m|germanic|german|1|vintage|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Theodora|f|greek|german|2|classic,saint|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Celine|f|latin|german,french|3|classic,celestial|Celestial|Heavenly|Céleste|Die Himmlische|Celeste|Celestial
+Clementine|f|latin|german,french|3|vintage,virtue|Clemente, misericordiosa|Merciful|Clémente|Die Milde|Clemente|Clemente
+Felicia|f|latin|german,english|3|virtue|Afortunada|Lucky, happy|Chanceuse|Die Glückliche|Fortunata|Afortunada
+Florentine|f|latin|german|2|flower,vintage|Floreciente|Blooming|Florissante|Die Blühende|Fiorente|Florescente
+Gloria|f|latin|german,spanish,italian,english|3|classic,virtue|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Helen|f|greek|german,english|3|classic,light|Antorcha|Torch|Torche|Fackel|Fiaccola|Tocha
+Hermine|f|germanic|german|1|vintage|Guerrera del ejército|Army woman|Femme de l'armée|Frau des Heeres|Donna dell'esercito|Mulher do exército
+Jasmin|f|persian|german|3|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Julika|f|latin|german|2|modern|Juvenil|Youthful|Juvénile|Die Jugendliche|Giovanile|Juvenil
+Karoline|f|germanic|german|2|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Lucia|f|latin|german,italian,spanish|4|light,saint,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Luzia|f|latin|german,portuguese|2|light,saint|Luz|Light|Lumière|Licht|Luce|Luz
+Marina|f|latin|german,italian,spanish,russian|3|sea,classic|Del mar|Of the sea|De la mer|Die vom Meer|Del mare|Do mar
+Nadja|f|slavic|german|2|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Natalie|f|latin|german,english|3|classic|Nacida en Navidad|Born at Christmas|Née à Noël|Die an Weihnachten Geborene|Nata a Natale|Nascida no Natal
+Ophelia|f|greek|german,english|2|literary|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Salome|f|hebrew|german|2|biblical|Paz|Peace|Paix|Frieden|Pace|Paz
+Sara|f|hebrew|german,spanish,italian,intl|4|biblical,classic|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Serafina|f|hebrew|german,italian|2|biblical,light|Ardiente|Fiery, burning|Ardente|Die Feurige|Ardente|Ardente
+Sidonie|f|other|german,french|1|vintage|De Sidón|From Sidon|De Sidon|Die aus Sidon|Di Sidone|De Sídon
+Susanne|f|hebrew|german|3|classic,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Tabea|f|hebrew|german|3|biblical,animal|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Vivian|f|latin|german,english|2|classic|Viva|Alive|Vivante|Die Lebendige|Viva|Viva
+Dario|m|persian|german,italian,spanish|2|royal|Poseedor del bien|Possessing good|Détenteur du bien|Der das Gute besitzt|Colui che possiede il bene|Detentor do bem
+Jeremias|m|hebrew|german|2|biblical|Dios levantará|God will uplift|Dieu élèvera|Gott erhöht|Dio solleverà|Deus levantará
+Jona|m|hebrew|german|3|biblical,animal,modern|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Josua|m|hebrew|german|2|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Rettung|Dio è salvezza|Deus é salvação
+Justin|m|latin|german,english,french|3|virtue|Justo|Just|Juste|Der Gerechte|Giusto|Justo
+Lucian|m|latin|german|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Mario|m|latin|german,italian,spanish|3|classic|Viril, de Marte|Manly|Viril|Der Männliche|Virile|Viril
+Maurice|m|latin|german,french|3|classic|De piel oscura, moro|Dark-skinned, Moorish|À la peau sombre|Der Dunkelhäutige|Dalla pelle scura|De pele escura
+Noel|m|latin|german,french,english|3|classic|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Pius|m|latin|german|1|virtue,saint|Piadoso|Pious|Pieux|Der Fromme|Pio|Piedoso
+Robin|m|germanic|german,english|3|classic|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Severin|m|latin|german|2|vintage,saint|Severo|Strict, severe|Sévère|Der Strenge|Severo|Severo
+Silas|m|latin|german,english|3|biblical,nature,trendy|Del bosque|Of the forest|De la forêt|Der aus dem Wald|Del bosco|Da floresta
+Vinzenz|m|latin|german|2|vintage,saint|Vencedor|Conquering|Vainqueur|Der Siegende|Vincente|Vencedor
+Gilbert|m|germanic|german,french,english|2|vintage|Promesa brillante|Bright pledge|Gage brillant|Glänzendes Pfand|Pegno splendente|Promessa brilhante
+Gerald|m|germanic|german,english|2|vintage|Gobernante de la lanza|Spear ruler|Souverain de la lance|Speerherrscher|Sovrano della lancia|Governante da lança
+Kuno|m|germanic|german|2|vintage|Consejo audaz|Bold counsel|Conseil audacieux|Kühner Rat|Consiglio audace|Conselho audaz
+Peer|m|greek|german,scandinavian|2|literary|Roca|Rock|Roc|Fels|Roccia|Rocha
+Rudi|m|germanic|german|2|vintage,animal|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Wilfried|m|germanic|german|2|vintage|Que desea la paz|Desiring peace|Qui désire la paix|Der Frieden Wollende|Che desidera la pace|Que deseja a paz
+Frieder|m|germanic|german|1|vintage|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Meinhard|m|germanic|german|1|vintage,strong|Fuerte y valiente|Strong and brave|Fort et vaillant|Stark und kühn|Forte e coraggioso|Forte e valente
+Meinrad|m|germanic|german|1|vintage,saint|Consejo fuerte|Strong counsel|Conseil fort|Starker Rat|Consiglio forte|Conselho forte
+Wenzel|m|slavic|german|1|vintage,saint,royal|Más gloria|More glory|Plus de gloire|Mehr Ruhm|Più gloria|Mais glória
+Zeno|m|greek|german,italian|2|mythology|De Zeus|Of Zeus|De Zeus|Der dem Zeus Gehörige|Di Zeus|De Zeus
+Emanuela|f|hebrew|german|1|biblical|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Alexa|f|greek|german,english|3|modern,strong|Defensora de hombres|Defender of mankind|Défenseuse des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora dos homens
+Annabelle|f|latin|german,english,french|3|modern,sweet|Hermosa y amable|Graceful and lovable|Gracieuse et aimable|Anmutig und liebenswert|Graziosa e amabile|Graciosa e amável
+Elena|f|greek|german,spanish,italian,russian|4|classic,light|Antorcha|Torch|Torche|Fackel|Fiaccola|Tocha
+Lucy|f|latin|german,english|3|light|Luz|Light|Lumière|Licht|Luce|Luz
+Theresa|f|greek|german,english|3|classic,saint|Cosechadora|Harvester|Moissonneuse|Die Erntende|Mietitrice|Ceifeira
+Teresa|f|greek|german,spanish,italian,portuguese|3|classic,saint|Cosechadora|Harvester|Moissonneuse|Die Erntende|Mietitrice|Ceifeira
+Victoria|f|latin|german,english,spanish|3|classic,strong|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória

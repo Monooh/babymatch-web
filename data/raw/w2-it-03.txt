@@ -1,0 +1,87 @@
+Macario|m|greek|italian|1|saint|Bienaventurado|Blessed|Bienheureux|Selig|Beato|Bem-aventurado
+Mafalda|f|germanic|italian,portuguese|2|vintage,royal|Poderosa en el combate|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Maffeo|m|hebrew|italian|1|vintage,biblical|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Malachia|m|hebrew|italian|1|biblical|Mi mensajero|My messenger|Mon messager|Mein Bote|Il mio messaggero|Meu mensageiro
+Mansueto|m|latin|italian|1|saint,virtue|Manso|Gentle|Doux|Sanftmütig|Mite|Manso
+Manuel|m|hebrew|italian,spanish,german,portuguese|3|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Marcellina|f|latin|italian|2|saint|Pequeña consagrada a Marte|Little one of Mars|Petite de Mars|Kleine des Mars|Piccola di Marte|Pequena de Marte
+Marcellino|m|latin|italian|2|saint|Pequeño consagrado a Marte|Little one of Mars|Petit de Mars|Kleiner des Mars|Piccolo di Marte|Pequeno de Marte
+Marcia|f|latin|italian|1|classic|Consagrada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Devota a Marte|Consagrada a Marte
+Maria|f|hebrew|italian,spanish,german,intl|4|biblical,saint,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Maria Chiara|f|hebrew|italian|2|classic|Amada y luminosa|Beloved and bright|Aimée et lumineuse|Geliebt und strahlend|Amata e luminosa|Amada e luminosa
+Maria Elena|f|hebrew|italian|2|classic|Amada, luz brillante|Beloved, shining light|Aimée, lumière brillante|Geliebte, strahlendes Licht|Amata, luce splendente|Amada, luz brilhante
+Maria Francesca|f|hebrew|italian|2|classic|Amada y libre|Beloved and free|Aimée et libre|Geliebt und frei|Amata e libera|Amada e livre
+Maria Giulia|f|hebrew|italian|2|classic|Amada, juvenil|Beloved, youthful|Aimée, juvénile|Geliebt, jugendlich|Amata, giovanile|Amada, juvenil
+Maria Grazia|f|hebrew|italian|3|classic,saint|Amada y llena de gracia|Beloved and full of grace|Aimée et pleine de grâce|Geliebt und anmutig|Amata e piena di grazia|Amada e cheia de graça
+Maria Luisa|f|hebrew|italian|2|classic|Amada, guerrera famosa|Beloved, famous warrior|Aimée, guerrière célèbre|Geliebt, berühmte Kriegerin|Amata, guerriera gloriosa|Amada, guerreira famosa
+Maria Pia|f|hebrew|italian|2|classic|Amada y piadosa|Beloved and devout|Aimée et pieuse|Geliebt und fromm|Amata e devota|Amada e piedosa
+Maria Rosa|f|hebrew|italian|2|classic|Amada rosa|Beloved rose|Rose bien-aimée|Geliebte Rose|Rosa amata|Rosa amada
+Mariangela|f|hebrew|italian|2|classic|Amada y angelical|Beloved and angelic|Aimée et angélique|Geliebt und engelsgleich|Amata e angelica|Amada e angelical
+Marianna|f|hebrew|italian|3|classic|Amada y llena de gracia|Beloved and graceful|Aimée et gracieuse|Geliebt und anmutig|Amata e graziosa|Amada e graciosa
+Marzio|m|latin|italian|1|classic|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Devoto a Marte|Consagrado a Marte
+Marziale|m|latin|italian|1|classic|De Marte, marcial|Of Mars, martial|De Mars, martial|Des Mars, kriegerisch|Di Marte, marziale|De Marte, marcial
+Massimiano|m|latin|italian|1|classic|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Mattea|f|hebrew|italian|2|biblical|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Maurizia|f|latin|italian|1|saint|De piel oscura|Dark-skinned|À la peau foncée|Dunkelhäutig|Dalla pelle scura|De pele escura
+Metodio|m|greek|italian|1|saint|Camino, método|Method, pursuit|Méthode, poursuite|Methode, Verfolgung|Metodo, ricerca|Método, busca
+Milena|f|slavic|italian|2|sweet|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Anmutige|Cara, graziosa|Querida, graciosa
+Mirella|f|latin|italian|2|sweet,vintage|Admirable|Admirable|Admirable|Bewundernswert|Ammirevole|Admirável
+Miriam|f|hebrew|italian,german,english|3|biblical|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Natalina|f|latin|italian|1|vintage|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nathan|m|hebrew|italian,english,french|3|biblical|Él dio|He gave|Il a donné|Er hat gegeben|Egli ha dato|Ele deu
+Nausicaa|f|greek|italian|1|mythology,literary|Quemadora de naves|Ship-burner|Brûleuse de navires|Schiffsverbrennerin|Incendiatrice di navi|Queimadora de navios
+Nazzarena|f|hebrew|italian|1|saint|De Nazaret|From Nazareth|De Nazareth|Aus Nazaret|Di Nazaret|De Nazaré
+Nazzareno|m|hebrew|italian|1|saint,biblical|De Nazaret|From Nazareth|De Nazareth|Aus Nazaret|Di Nazaret|De Nazaré
+Nicodemo|m|greek|italian|1|biblical,saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Ninfa|f|greek|italian|1|mythology|Ninfa|Nymph|Nymphe|Nymphe|Ninfa|Ninfa
+Nives|f|latin|italian|1|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Nunziata|f|latin|italian|1|saint|Anunciada|Announced|Annoncée|Verkündete|Annunciata|Anunciada
+Odilia|f|germanic|italian|1|saint,vintage|Riqueza heredada|Inherited wealth|Richesse héritée|Ererbter Reichtum|Ricchezza ereditata|Riqueza herdada
+Odoardo|m|germanic|italian|1|vintage|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Hüter des Reichtums|Custode della ricchezza|Guardião da riqueza
+Oliva|f|latin|italian|1|nature,vintage|Olivo|Olive tree|Olivier|Olivenbaum|Olivo|Oliveira
+Olimpio|m|greek|italian|1|saint,mythology|Del Olimpo|Of Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Onesto|m|latin|italian|1|virtue|Honesto|Honest|Honnête|Ehrlich|Onesto|Honesto
+Onofrio|m|other|italian|1|saint|Siempre feliz|Always happy|Toujours heureux|Immer glücklich|Sempre felice|Sempre feliz
+Onorato|m|latin|italian|1|saint,virtue|Honrado|Honored|Honoré|Geehrt|Onorato|Honrado
+Orsino|m|latin|italian|1|literary|Osito|Little bear|Petit ours|Kleiner Bär|Piccolo orso|Ursinho
+Ornella|f|latin|italian|2|modern,nature|Fresno florido|Flowering ash|Frêne en fleur|Blühende Esche|Frassino fiorito|Freixo florido
+Osanna|f|hebrew|italian|1|saint|Salva, por favor|Save, we pray|Sauve, je t'en prie|Rette doch|Salvaci, ti preghiamo|Salva, por favor
+Ottaviano|m|latin|italian|1|classic|Octavo|Eighth|Huitième|Achter|Ottavo|Oitavo
+Pace|f|latin|italian|1|virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Palma|f|latin|italian|1|nature|Palmera|Palm tree|Palmier|Palme|Palma|Palmeira
+Palmiro|m|latin|italian|1|vintage|Peregrino de la palma|Palm pilgrim|Pèlerin de la palme|Palmenpilger|Pellegrino della palma|Peregrino da palma
+Panfilo|m|greek|italian|1|vintage|Amado por todos|Loved by all|Aimé de tous|Von allen geliebt|Amato da tutti|Amado por todos
+Pantaleone|m|greek|italian|1|saint|Misericordioso con todos|All-merciful|Tout miséricordieux|Allbarmherzig|Tutto misericordioso|Todo misericordioso
+Paolina|f|latin|italian|2|vintage|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Paolino|m|latin|italian|1|saint,vintage|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pasqua|f|hebrew|italian|1|saint|Pascua|Passover|Pâque|Passa|Pasqua|Páscoa
+Pelagia|f|greek|italian|1|saint,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Pelagio|m|greek|italian,spanish|1|saint,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Perpetua|f|latin|italian|1|saint|Duradera|Everlasting|Perpétuelle|Ewig|Perpetua|Perpétua
+Piera|f|greek|italian|2|classic|Roca|Rock|Roc|Fels|Roccia|Rocha
+Pierina|f|greek|italian|2|vintage|Pequeña roca|Little rock|Petit roc|Kleiner Fels|Piccola roccia|Pequena rocha
+Pier Francesco|m|greek|italian|1|classic|Roca, libre|Rock, free|Roc, libre|Fels, frei|Roccia, libero|Rocha, livre
+Pier Giorgio|m|greek|italian|2|classic,saint|Roca, labrador|Rock, farmer|Roc, laboureur|Fels, Bauer|Roccia, agricoltore|Rocha, lavrador
+Policarpo|m|greek|italian|1|saint|De muchos frutos|Of much fruit|De beaucoup de fruits|Fruchtreich|Di molti frutti|De muitos frutos
+Polidoro|m|greek|italian|1|classic|De muchos regalos|Many gifts|De nombreux dons|Gabenreich|Di molti doni|De muitos dons
+Polissena|f|greek|italian|1|mythology|Muy hospitalaria|Very hospitable|Très hospitalière|Sehr gastfreundlich|Molto ospitale|Muito hospitaleira
+Porfirio|m|greek|italian|1|saint|Púrpura|Purple|Pourpre|Purpur|Porpora|Púrpura
+Prisco|m|latin|italian|1|saint|Antiguo|Ancient|Ancien|Altehrwürdig|Antico|Antigo
+Prudenza|f|latin|italian|1|virtue|Prudencia|Prudence|Prudence|Klugheit|Prudenza|Prudência
+Quintino|m|latin|italian|1|saint|Quinto|Fifth|Cinquième|Fünfter|Quinto|Quinto
+Raffaello|m|hebrew|italian|2|saint,biblical|Dios ha curado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Raimonda|f|germanic|italian|1|vintage|Protectora sabia|Wise protector|Protectrice avisée|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Redento|m|latin|italian|1|saint|Redimido|Redeemed|Racheté|Erlöst|Redento|Redimido
+Reginaldo|m|germanic|italian,spanish,portuguese|1|vintage|Consejo y gobierno|Counsel and rule|Conseil et pouvoir|Rat und Herrschaft|Consiglio e potere|Conselho e poder
+Remigio|m|latin|italian|1|saint|Remero|Oarsman|Rameur|Ruderer|Rematore|Remador
+Reparata|f|latin|italian|1|saint|Restaurada|Restored|Restaurée|Wiederhergestellte|Riparata|Restaurada
+Riccarda|f|germanic|italian|1|vintage|Gobernante poderosa|Powerful ruler|Souveraine puissante|Mächtige Herrscherin|Governante potente|Governante poderosa
+Romilda|f|germanic|italian|1|vintage,royal|Gloriosa en el combate|Glorious in battle|Glorieuse au combat|Ruhmreich im Kampf|Gloriosa in battaglia|Gloriosa em batalha
+Romualdo|m|germanic|italian|1|saint|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Governante glorioso|Governante glorioso
+Rosanna|f|latin|italian|3|classic|Rosa y gracia|Rose and grace|Rose et grâce|Rose und Gnade|Rosa e grazia|Rosa e graça
+Rosetta|f|latin|italian|2|flower,vintage|Rosita|Little rose|Petite rose|Röschen|Piccola rosa|Rosinha
+Rubina|f|latin|italian|1|gem|Rubí|Ruby|Rubis|Rubin|Rubino|Rubi
+Rubino|m|latin|italian|1|gem|Rubí|Ruby|Rubis|Rubin|Rubino|Rubi
+Ruben|m|hebrew|italian,german,spanish|2|biblical|¡Mirad, un hijo!|Behold, a son|Voyez, un fils|Seht, ein Sohn|Ecco, un figlio|Vede, um filho
+Ruperto|m|germanic|italian|1|vintage|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Rufino|m|latin|italian|1|saint|Pelirrojo|Red-haired|Roux|Rothaarig|Dai capelli rossi|Ruivo

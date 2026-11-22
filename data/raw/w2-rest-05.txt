@@ -1,0 +1,153 @@
+Aiko|f|japanese|japanese|3|love,sweet|Niña amada|Beloved child|Enfant chérie|Geliebtes Kind|Bambina amata|Criança amada
+Airi|f|japanese|japanese|3|modern,love|Amor y jazmín|Love and jasmine|Amour et jasmin|Liebe und Jasmin|Amore e gelsomino|Amor e jasmim
+Akio|m|japanese|japanese|2|light|Hombre brillante|Bright man|Homme brillant|Strahlender Mann|Uomo brillante|Homem brilhante
+Asahi|u|japanese|japanese|3|celestial,light|Sol de la mañana|Morning sun|Soleil du matin|Morgensonne|Sole del mattino|Sol da manhã
+Chie|f|japanese|japanese|2|virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Chihiro|u|japanese|japanese|3|sea|Mil brazas|A thousand fathoms|Mille brasses|Tausend Faden|Mille braccia|Mil braças
+Etsuko|f|japanese|japanese|2|sweet|Niña alegre|Joyful child|Enfant joyeuse|Fröhliches Kind|Bambina gioiosa|Criança alegre
+Fumiko|f|japanese|japanese|2|classic|Niña de la belleza que escribe|Child of beauty and letters|Enfant des lettres et de la beauté|Kind der Schönheit und Schrift|Bambina di bellezza e lettere|Criança de beleza e letras
+Hanako|f|japanese|japanese|2|flower|Niña flor|Flower child|Enfant fleur|Blumenkind|Bambina fiore|Criança flor
+Haru|u|japanese|japanese|3|nature|Primavera, sol|Spring, sunshine|Printemps, soleil|Frühling, Sonne|Primavera, sole|Primavera, sol
+Hibiki|u|japanese|japanese|3|music|Eco, resonancia|Echo, resonance|Écho, résonance|Echo, Resonanz|Eco, risonanza|Eco, ressonância
+Hotaru|f|japanese|japanese|2|animal,light|Luciérnaga|Firefly|Luciole|Glühwürmchen|Lucciola|Pirilampo
+Ichiro|m|japanese|japanese|3|classic|Primer hijo|First son|Premier fils|Erster Sohn|Primo figlio|Primeiro filho
+Jiro|m|japanese|japanese|2|classic|Segundo hijo|Second son|Deuxième fils|Zweiter Sohn|Secondo figlio|Segundo filho
+Kiku|f|japanese|japanese|2|flower|Crisantemo|Chrysanthemum|Chrysanthème|Chrysantheme|Crisantemo|Crisântemo
+Nanami|f|japanese|japanese|3|sea,modern|Siete mares|Seven seas|Sept mers|Sieben Meere|Sette mari|Sete mares
+Sachiko|f|japanese|japanese|2|virtue|Niña de la felicidad|Child of happiness|Enfant du bonheur|Kind des Glücks|Bambina della felicità|Criança da felicidade
+Satsuki|f|japanese|japanese|2|nature|Quinto mes, mayo|Fifth month, May|Cinquième mois, mai|Fünfter Monat, Mai|Quinto mese, maggio|Quinto mês, maio
+Sumire|f|japanese|japanese|3|flower|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Tadashi|m|japanese|japanese|2|virtue|Correcto, leal|Correct, loyal|Correct, loyal|Rechtschaffen, treu|Retto, leale|Correto, leal
+Ayumi|f|japanese|japanese|2|virtue|Caminar|To walk|Marcher|Schreiten|Camminare|Caminhar
+Shinji|m|japanese|japanese|2|classic|Verdadero segundo hijo|True second son|Vrai deuxième fils|Wahrer zweiter Sohn|Vero secondogenito|Verdadeiro segundo filho
+Reiko|f|japanese|japanese|2|virtue|Niña elegante|Graceful child|Enfant gracieuse|Anmutiges Kind|Bambina elegante|Criança elegante
+Yukiko|f|japanese|japanese|2|nature|Niña de la nieve|Snow child|Enfant de la neige|Schneekind|Bambina della neve|Criança da neve
+Bao|u|chinese|chinese|2|gem|Tesoro|Treasure|Trésor|Schatz|Tesoro|Tesouro
+Chun|u|chinese|chinese|2|nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Dan|f|chinese|chinese|2|light|Amanecer, rojo|Dawn, red|Aube, rouge|Morgenröte, rot|Alba, rosso|Amanhecer, vermelho
+Fei|u|chinese|chinese|2|nature|Volar|To fly|Voler|Fliegen|Volare|Voar
+Guang|m|chinese|chinese|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Hai|u|chinese|chinese|2|sea|Mar|Sea|Mer|Meer|Mare|Mar
+Lin|u|chinese|chinese|3|nature|Bosque|Forest|Forêt|Wald|Foresta|Floresta
+Mingzhu|f|chinese|chinese|2|gem|Perla brillante|Bright pearl|Perle brillante|Leuchtende Perle|Perla luminosa|Pérola brilhante
+Peng|m|chinese|chinese|2|animal,strong|Pájaro Peng, roc|Great roc bird|Oiseau Peng, roc|Riesenvogel Peng|Uccello Peng, roc|Pássaro Peng, roc
+Ping|u|chinese|chinese|2|virtue|Paz, calma|Peace, calm|Paix, calme|Frieden, Ruhe|Pace, calma|Paz, calma
+Qiu|u|chinese|chinese|1|nature|Otoño|Autumn|Automne|Herbst|Autunno|Outono
+Rong|f|chinese|chinese|2|flower|Gloria, loto|Glory, lotus|Gloire, lotus|Ruhm, Lotus|Gloria, loto|Glória, lótus
+Shuang|f|chinese|chinese|1|nature|Escarcha, claro|Frost, clear|Givre, clair|Reif, klar|Brina, limpido|Geada, claro
+Tian|u|chinese|chinese|2|celestial|Cielo|Sky, heaven|Ciel|Himmel|Cielo|Céu
+Yan|f|chinese|chinese|3|animal,sweet|Golondrina, hermosa|Swallow, beautiful|Hirondelle, belle|Schwalbe, schön|Rondine, bella|Andorinha, bela
+Yang|m|chinese|chinese|2|celestial|Sol, yang|Sun, yang|Soleil, yang|Sonne, Yang|Sole, yang|Sol, yang
+Yao|u|chinese|chinese|1|light|Brillar|To shine|Briller|Leuchten|Brillare|Brilhar
+Dasom|f|korean|korean|3|love,sweet|Afecto, cariño|Affection|Affection|Zuneigung|Affetto|Afeto
+Seol|f|korean|korean|2|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Yeoreum|f|korean|korean|1|nature|Verano|Summer|Été|Sommer|Estate|Verão
+Aram|f|korean|korean|2|virtue,sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Gyeoul|f|korean|korean|1|nature|Invierno|Winter|Hiver|Winter|Inverno|Inverno
+Hyun-woo|m|korean|korean|4|strong|Sabio y protector|Wise and helpful|Sage et protecteur|Weise und hilfreich|Saggio e protettore|Sábio e protetor
+Jin-woo|m|korean|korean|3|virtue|Precioso y protector|Precious and helpful|Précieux et protecteur|Kostbar und hilfreich|Prezioso e protettore|Precioso e protetor
+Min-ho|m|korean|korean|3|virtue|Inteligente y grande|Clever and vast|Intelligent et vaste|Klug und weit|Intelligente e vasto|Inteligente e vasto
+Amaka|f|african|african|3|sweet|Belleza|Beauty|Beauté|Schönheit|Bellezza|Beleza
+Amarachi|f|african|african|3|virtue|Gracia de Dios|Grace of God|Grâce de Dieu|Gnade Gottes|Grazia di Dio|Graça de Deus
+Chidiebere|u|african|african|2|virtue|Dios es misericordioso|God is merciful|Dieu est miséricordieux|Gott ist barmherzig|Dio è misericordioso|Deus é misericordioso
+Chinonso|u|african|african|2|virtue|Dios está cerca|God is near|Dieu est proche|Gott ist nah|Dio è vicino|Deus está perto
+Chinyere|f|african|african|2|virtue|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Chukwudi|m|african|african|2|virtue|Dios existe|God exists|Dieu existe|Gott existiert|Dio esiste|Deus existe
+Ebube|u|african|african|2|virtue|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Ezinne|f|african|african|2|virtue|Buena madre|Good mother|Bonne mère|Gute Mutter|Buona madre|Boa mãe
+Ifunanya|f|african|african|2|love|Amor|Love|Amour|Liebe|Amore|Amor
+Kelechi|u|african|african|3|virtue|Gracias a Dios|Thanks be to God|Grâce à Dieu|Dank sei Gott|Grazie a Dio|Graças a Deus
+Nkem|f|african|african|2|love|Mía, lo que es mío|Mine|La mienne|Meine|Mia|Minha
+Nnenna|f|african|african|2|classic|Madre del padre|Father's mother|Mère du père|Mutter des Vaters|Madre del padre|Mãe do pai
+Ugo|u|african|african|2|animal,strong|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Ikem|m|african|african|2|strong|Mi fuerza|My strength|Ma force|Meine Stärke|La mia forza|A minha força
+Uzoma|u|african|african|2|virtue|Buen camino|Good road|Bon chemin|Guter Weg|Buona strada|Bom caminho
+Chinasa|f|african|african|2|virtue|Dios responde|God answers|Dieu répond|Gott antwortet|Dio risponde|Deus responde
+Nkiruka|f|african|african|2|virtue|Lo mejor está por venir|The best is yet to come|Le meilleur est à venir|Das Beste kommt noch|Il meglio deve ancora venire|O melhor está por vir
+Ozioma|f|african|african|2|virtue|Buenas noticias|Good news|Bonne nouvelle|Gute Nachricht|Buona notizia|Boas notícias
+Ifeanyi|m|african|african|3|virtue|Nada es imposible para Dios|Nothing is impossible for God|Rien n'est impossible à Dieu|Nichts ist Gott unmöglich|Nulla è impossibile a Dio|Nada é impossível para Deus
+Kwadwo|m|african|african|2|classic|Nacido en lunes|Born on Monday|Né un lundi|Am Montag geboren|Nato di lunedì|Nascido na segunda-feira
+Kobina|m|african|african|2|classic|Nacido en martes|Born on Tuesday|Né un mardi|Am Dienstag geboren|Nato di martedì|Nascido na terça-feira
+Kweku|m|african|african|2|classic|Nacido en miércoles|Born on Wednesday|Né un mercredi|Am Mittwoch geboren|Nato di mercoledì|Nascido na quarta-feira
+Kwasi|m|african|african|2|classic|Nacido en domingo|Born on Sunday|Né un dimanche|Am Sonntag geboren|Nato di domenica|Nascido no domingo
+Fiifi|m|african|african|2|classic|Nacido en viernes|Born on Friday|Né un vendredi|Am Freitag geboren|Nato di venerdì|Nascido na sexta-feira
+Araba|f|african|african|2|classic|Nacida en martes|Born on Tuesday|Née un mardi|Am Dienstag geboren|Nata di martedì|Nascida na terça-feira
+Ekua|f|african|african|2|classic|Nacida en miércoles|Born on Wednesday|Née un mercredi|Am Mittwoch geboren|Nata di mercoledì|Nascida na quarta-feira
+Esi|f|african|african|2|classic|Nacida en domingo|Born on Sunday|Née un dimanche|Am Sonntag geboren|Nata di domenica|Nascida no domingo
+Efua|f|african|african|2|classic|Nacida en viernes|Born on Friday|Née un vendredi|Am Freitag geboren|Nata di venerdì|Nascida na sexta-feira
+Yaa|f|african|african|2|classic|Nacida en jueves|Born on Thursday|Née un jeudi|Am Donnerstag geboren|Nata di giovedì|Nascida na quinta-feira
+Aba|f|african|african|2|classic|Nacida en jueves|Born on Thursday|Née un jeudi|Am Donnerstag geboren|Nata di giovedì|Nascida na quinta-feira
+Adewale|m|african|african|2|royal|La corona ha vuelto a casa|The crown has come home|La couronne est rentrée|Die Krone ist heimgekehrt|La corona è tornata a casa|A coroa voltou para casa
+Adeola|u|african|african|2|royal|Corona de riqueza|Crown of wealth|Couronne de richesse|Krone des Reichtums|Corona di ricchezza|Coroa de riqueza
+Ayomide|u|african|african|3|virtue|Mi alegría ha llegado|My joy has arrived|Ma joie est arrivée|Meine Freude ist da|La mia gioia è arrivata|A minha alegria chegou
+Ibukun|f|african|african|2|virtue|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Kayode|m|african|african|2|virtue|Él trajo alegría|He brought joy|Il a apporté la joie|Er brachte Freude|Ha portato gioia|Ele trouxe alegria
+Lekan|m|african|african|1|virtue|Aumenta mi riqueza|Increase my wealth|Accrois ma richesse|Mehre meinen Reichtum|Accresci la mia ricchezza|Aumenta a minha riqueza
+Kehinde|u|african|african|2|classic|Segundo gemelo|Second-born twin|Deuxième jumeau|Zweiter Zwilling|Secondo gemello|Segundo gémeo
+Taiwo|u|african|african|2|classic|Primer gemelo|First-born twin|Premier jumeau|Erster Zwilling|Primo gemello|Primeiro gémeo
+Olamide|u|african|african|3|virtue|Mi riqueza ha llegado|My wealth has come|Ma richesse est arrivée|Mein Reichtum ist gekommen|La mia ricchezza è arrivata|A minha riqueza chegou
+Funmilayo|f|african|african|2|virtue|Dame alegría|Give me joy|Donne-moi la joie|Schenk mir Freude|Dammi gioia|Dá-me alegria
+Omolara|f|african|african|2|classic|Niña nacida en la familia|Child born into the family|Enfant née dans la famille|In die Familie geborenes Kind|Bambina nata in famiglia|Filha nascida na família
+Adunni|f|african|african|2|sweet|Dulce de tener|Sweet to have|Doux à avoir|Süß zu haben|Dolce da avere|Doce de ter
+Aduke|f|african|african|2|love|Amada por muchos|Loved by many|Aimée de beaucoup|Von vielen geliebt|Amata da molti|Amada por muitos
+Iyabo|f|african|african|1|classic|La madre ha vuelto|Mother has returned|La mère est revenue|Die Mutter ist zurückgekehrt|La madre è tornata|A mãe voltou
+Babajide|m|african|african|1|classic|El padre ha despertado|Father has awakened|Le père s'est éveillé|Der Vater ist erwacht|Il padre si è risvegliato|O pai despertou
+Damilola|u|african|african|2|virtue|Dios me ha agraciado|God has made me prosper|Dieu m'a comblé|Gott hat mich gesegnet|Dio mi ha benedetto|Deus abençoou-me
+Bukola|f|african|african|2|virtue|Añade a la riqueza|Add to the wealth|Ajoute à la richesse|Mehre den Reichtum|Aggiungi alla ricchezza|Acrescenta à riqueza
+Temitope|u|african|african|2|virtue|Mía es la gratitud|Mine is thanks|La gratitude est mienne|Mein ist der Dank|Mia è la gratitudine|Minha é a gratidão
+Ayanda|u|african|african|3|virtue|Están aumentando|They are increasing|Ils augmentent|Sie mehren sich|Stanno aumentando|Estão a aumentar
+Busisiwe|f|african|african|2|virtue|Bendecida|Blessed|Bénie|Gesegnet|Benedetta|Abençoada
+Buhle|f|african|african|2|virtue|Belleza|Beauty|Beauté|Schönheit|Bellezza|Beleza
+Mbali|f|african|african|2|flower|Flor|Flower|Fleur|Blume|Fiore|Flor
+Nthabiseng|f|african|african|1|virtue|Hazme feliz|Make me happy|Rends-moi heureuse|Mach mich glücklich|Rendimi felice|Faz-me feliz
+Thulani|u|african|african|2|virtue|Calma, paz|Be quiet, be peaceful|Sois calme, paix|Sei ruhig, Frieden|Calma, pace|Calma, paz
+Zodwa|f|african|african|1|classic|Nacida sola|Born alone|Née seule|Allein geboren|Nata da sola|Nascida sozinha
+Andile|u|african|african|2|virtue|Han aumentado|They have increased|Ils ont augmenté|Sie haben sich vermehrt|Sono aumentati|Aumentaram
+Bongani|m|african|african|2|virtue|Sé agradecido|Be thankful|Sois reconnaissant|Sei dankbar|Sii grato|Sê agradecido
+Siyabonga|u|african|african|2|virtue|Damos gracias|We thank you|Nous remercions|Wir danken|Ringraziamo|Agradecemos
+Sindiswa|f|african|african|1|virtue|Salvada|Saved|Sauvée|Gerettet|Salvata|Salva
+Thandi|f|african|african|3|love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Unathi|u|african|african|2|virtue|Dios está con nosotros|God is with us|Dieu est avec nous|Gott ist mit uns|Dio è con noi|Deus está connosco
+Vuyo|u|african|african|2|virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Zandile|f|african|african|2|classic|Muchas hijas|Many daughters|Beaucoup de filles|Viele Töchter|Molte figlie|Muitas filhas
+Lebohang|u|african|african|1|virtue|Sé agradecido|Be thankful|Sois reconnaissant|Sei dankbar|Sii grato|Sê agradecido
+Karabo|u|african|african|2|virtue|Respuesta|Answer|Réponse|Antwort|Risposta|Resposta
+Tebogo|u|african|african|2|virtue|Gratitud|Gratitude|Gratitude|Dankbarkeit|Gratitudine|Gratidão
+Neo|u|african|african|3|virtue|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Refilwe|u|african|african|1|virtue|Nos han dado|We have been given|On nous a donné|Uns wurde geschenkt|Ci è stato dato|Foi-nos dado
+Boitumelo|f|african|african|1|virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Dineo|f|african|african|2|virtue|Regalos|Gifts|Cadeaux|Geschenke|Doni|Presentes
+Almaz|f|african|african|2|gem|Diamante|Diamond|Diamant|Diamant|Diamante|Diamante
+Berhane|u|african|african|2|light|Mi luz|My light|Ma lumière|Mein Licht|La mia luce|A minha luz
+Desta|u|african|african|2|virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Genet|f|african|african|2|nature|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Hiwot|f|african|african|2|virtue|Vida|Life|Vie|Leben|Vita|Vida
+Kidist|f|african|african|2|saint|Santa|Holy|Sainte|Heilige|Santa|Santa
+Kalkidan|f|african|african|2|virtue|Pacto|Covenant|Alliance|Bund|Patto|Aliança
+Meron|f|african|african|2|virtue|Aceite santo|Holy oil|Huile sainte|Heiliges Öl|Olio santo|Óleo sagrado
+Tesfaye|m|african|african|2|virtue|Mi esperanza|My hope|Mon espoir|Meine Hoffnung|La mia speranza|A minha esperança
+Mekdes|f|african|african|1|saint|Santuario|Sanctuary|Sanctuaire|Heiligtum|Santuario|Santuário
+Tsion|f|african|african|2|biblical|Sion|Zion|Sion|Zion|Sion|Sião
+Tadesse|m|african|african|1|virtue|Renovado|Renewed|Renouvelé|Erneuert|Rinnovato|Renovado
+Akinyi|f|african|african|2|classic|Nacida por la mañana|Born in the morning|Née le matin|Am Morgen geboren|Nata al mattino|Nascida de manhã
+Atieno|f|african|african|2|classic|Nacida de noche|Born at night|Née la nuit|In der Nacht geboren|Nata di notte|Nascida à noite
+Otieno|m|african|african|2|classic|Nacido de noche|Born at night|Né la nuit|In der Nacht geboren|Nato di notte|Nascido à noite
+Ochieng|m|african|african|2|classic|Nacido al sol|Born when the sun shines|Né au soleil|Bei Sonnenschein geboren|Nato col sole|Nascido ao sol
+Chiedza|f|african|african|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Rudo|f|african|african|2|love|Amor|Love|Amour|Liebe|Amore|Amor
+Farai|u|african|african|2|virtue|Alegre|Be happy|Sois heureux|Sei fröhlich|Sii felice|Sê feliz
+Tinashe|m|african|african|2|virtue|Dios está con nosotros|God is with us|Dieu est avec nous|Gott ist mit uns|Dio è con noi|Deus está connosco
+Nyasha|f|african|african|2|virtue|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Ruvimbo|f|african|african|1|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Rufaro|u|african|african|1|virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Tsitsi|f|african|african|1|virtue|Misericordia|Mercy|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Asha|f|african|african,arabic|3|virtue|Vida, esperanza|Life, hope|Vie, espoir|Leben, Hoffnung|Vita, speranza|Vida, esperança
+Jamila|f|african|african,arabic|3|sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Subira|f|african|african|2|virtue|Paciencia|Patience|Patience|Geduld|Pazienza|Paciência
+Tumaini|u|african|african|2|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Upendo|u|african|african|1|love|Amor|Love|Amour|Liebe|Amore|Amor
+Uhuru|m|african|african|1|virtue|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Rehema|f|african|african|2|virtue|Misericordia|Mercy|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Nuru|u|african|african|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Chausiku|f|african|african|1|classic|Nacida de noche|Born at night|Née la nuit|In der Nacht geboren|Nata di notte|Nascida à noite
+Faraja|u|african|african|2|virtue|Consuelo|Comfort|Réconfort|Trost|Conforto|Conforto

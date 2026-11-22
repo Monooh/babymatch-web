@@ -1,0 +1,97 @@
+Adamantia|f|greek|greek|2|strong,gem|Indomable, invencible|Unconquerable|Indomptable|Unbezwingbar|Indomita|Indomável
+Adamantios|m|greek|greek|2|strong,warrior|Indomable, invencible|Unconquerable|Indomptable|Unbezwingbar|Indomito|Indomável
+Agapi|f|greek|greek|3|love,virtue,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Agapios|m|greek|greek|2|love,virtue|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Agathi|f|greek|greek|2|saint,virtue,classic|Buena|Good|Bonne|Die Gute|Buona|Boa
+Agathon|m|greek|greek|1|virtue,classic|Bueno|Good|Bon|Der Gute|Buono|Bom
+Aglaia|f|greek|greek|2|mythology,light,classic|Esplendor|Splendour|Splendeur|Glanz|Splendore|Esplendor
+Akakios|m|greek|greek|1|saint,virtue|Inocente|Innocent|Innocent|Unschuldig|Innocente|Inocente
+Alexandra|f|greek|greek,intl|4|royal,strong,classic|Defensora de la humanidad|Defender of mankind|Protectrice des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Alexandros|m|greek|greek|4|royal,warrior,classic|Defensor de los hombres|Defender of men|Protecteur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Alexia|f|greek|greek|3|strong,modern|Defensora|Defender|Protectrice|Beschützerin|Difenditrice|Defensora
+Alexios|m|greek|greek|3|saint,strong,royal|Defensor|Defender|Protecteur|Beschützer|Difensore|Defensor
+Alkis|m|greek|greek|2|strong,warrior|Fuerza, vigor|Strength, might|Force, vigueur|Stärke, Kraft|Forza, vigore|Força, vigor
+Alkistis|f|greek|greek|2|mythology,strong|Fuerza, poder|Strength, might|Force, puissance|Stärke, Macht|Forza, potenza|Força, poder
+Alkyoni|f|greek|greek|2|mythology,animal,sea|Martín pescador|Kingfisher|Martin-pêcheur|Eisvogel|Martin pescatore|Guarda-rios
+Amaryllis|f|greek|greek,english|2|flower,nature,literary|Brillante, centelleante|Sparkling, to sparkle|Étincelante|Funkelnde|Scintillante|Brilhante, cintilante
+Ambrosios|m|greek|greek|1|saint,classic|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Anastasia|f|greek|greek,russian,intl|4|saint,classic,strong|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Anastasios|m|greek|greek|3|saint,classic|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Andreas|m|greek|greek,german,scandinavian|4|saint,biblical,strong|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Andromache|f|greek|greek|1|mythology,warrior|Combate de hombres|Battle of men|Combat des hommes|Kampf der Männer|Battaglia degli uomini|Combate dos homens
+Andromeda|f|greek|greek,english|2|mythology,celestial|Gobernante de hombres|Ruler of men|Souveraine des hommes|Herrscherin der Männer|Sovrana degli uomini|Governante dos homens
+Andronikos|m|greek|greek|1|warrior,classic|Victoria de los hombres|Victory of men|Victoire des hommes|Sieg der Männer|Vittoria degli uomini|Vitória dos homens
+Angeliki|f|greek|greek|3|saint,sweet|Angelical|Angelic|Angélique|Engelsgleich|Angelica|Angelical
+Angelos|m|greek|greek|3|saint,classic|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Anthea|f|greek|greek,english|2|flower,nature,sweet|Florida, como una flor|Flowery|Fleurie|Blumig|Fiorita|Florida
+Anthi|f|greek|greek|2|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Anthimos|m|greek|greek|1|flower,saint|Florido|Flowery|Fleuri|Blühend|Fiorito|Florido
+Anthousa|f|greek|greek|2|flower,saint,nature|Floreciente|Blooming|Fleurissante|Blühend|Fiorente|Florescente
+Aphrodite|f|greek|greek,english|2|mythology,love|Nacida de la espuma|Born of the foam|Née de l'écume|Schaumgeborene|Nata dalla schiuma|Nascida da espuma
+Apostolos|m|greek|greek|3|saint,biblical|Mensajero, enviado|Messenger, envoy|Messager, envoyé|Bote, Gesandter|Messaggero, inviato|Mensageiro, enviado
+Arete|f|greek|greek|1|virtue,classic|Virtud, excelencia|Virtue, excellence|Vertu, excellence|Tugend, Vortrefflichkeit|Virtù, eccellenza|Virtude, excelência
+Argyris|m|greek|greek|2|gem,classic|Plata|Silver|Argent|Silber|Argento|Prata
+Argyro|f|greek|greek|2|gem,classic|Plata|Silver|Argent|Silber|Argento|Prata
+Ariadne|f|greek|greek,english|3|mythology,classic,literary|La más santa|Most holy|La plus sainte|Die Allerheiligste|La più santa|A mais santa
+Aristeidis|m|greek|greek|1|classic,virtue|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Ariston|m|greek|greek|1|classic,strong|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Aristotelis|m|greek|greek|2|classic,literary|Mejor propósito|Best purpose|Meilleur but|Bester Zweck|Miglior scopo|Melhor propósito
+Arkadios|m|greek|greek|1|place,classic|De Arcadia|Of Arcadia|D'Arcadie|Aus Arkadien|Dell'Arcadia|Da Arcádia
+Arsenios|m|greek|greek|1|saint,strong|Varonil, viril|Masculine, virile|Viril, masculin|Männlich|Virile, maschile|Viril, masculino
+Aspasia|f|greek|greek|2|classic,sweet|Bienvenida, abrazada con cariño|Welcome, gladly embraced|Bienvenue, accueillie|Willkommen, gern umarmt|Benvenuta, abbracciata|Bem-vinda, acolhida
+Asteria|f|greek|greek|2|celestial,mythology|Estrellada|Starry|Étoilée|Sternenklar|Stellata|Estrelada
+Asterios|m|greek|greek|1|celestial,mythology|Estrellado|Starry|Étoilé|Sternenklar|Stellato|Estrelado
+Athanasia|f|greek|greek|2|saint,classic|Inmortal|Immortal|Immortelle|Unsterblich|Immortale|Imortal
+Athanasios|m|greek|greek|3|saint,classic|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Berenike|f|greek|greek|2|royal,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Chara|f|greek|greek|2|sweet,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Charalambos|m|greek|greek|3|saint,light|Brillar de alegría|To shine with joy|Rayonner de joie|Vor Freude strahlen|Brillare di gioia|Brilhar de alegria
+Charis|f|greek|greek|2|virtue,mythology|Gracia, favor|Grace, favour|Grâce, faveur|Gnade, Anmut|Grazia, favore|Graça, favor
+Chloe|f|greek|greek,english,french,intl|4|nature,mythology,modern|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Broto verde
+Christina|f|greek|greek,german,scandinavian|3|saint,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christos|m|greek|greek|3|saint,biblical|Ungido|Anointed|Oint|Gesalbter|Unto|Ungido
+Chrysa|f|greek|greek|2|gem,light|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Chrysanthi|f|greek|greek|2|flower,nature|Flor dorada|Golden flower|Fleur dorée|Goldene Blume|Fiore dorato|Flor dourada
+Chrysanthos|m|greek|greek|1|flower,saint|Flor dorada|Golden flower|Fleur dorée|Goldene Blume|Fiore dorato|Flor dourada
+Calliope|f|greek|english,greek|2|mythology,music,literary|De hermosa voz|Beautiful voice|Belle voix|Schöne Stimme|Bella voce|Bela voz
+Damianos|m|greek|greek|2|saint,classic|Domar, someter|To tame|Dompter|Zähmen|Domare|Domar
+Daphne|f|greek|greek,english|3|nature,mythology,classic|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Despina|f|greek|greek|3|classic,royal|Señora, ama|Lady, mistress|Dame, maîtresse|Herrin, Gebieterin|Signora, padrona|Senhora, dama
+Dimitrios|m|greek|greek|4|saint,classic|Devoto de Deméter|Devoted to Demeter|Dévoué à Déméter|Demeter geweiht|Devoto a Demetra|Devoto a Deméter
+Dionysios|m|greek|greek|3|saint,mythology|Seguidor de Dioniso|Follower of Dionysus|Disciple de Dionysos|Anhänger des Dionysos|Seguace di Dioniso|Seguidor de Dioniso
+Dora|f|greek|greek,intl|3|classic,sweet|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Dorothea|f|greek|greek,german|2|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Dorotheos|m|greek|greek|1|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Efthymia|f|greek|greek|1|saint,sweet|Alegre, de buen ánimo|Cheerful, of good spirit|Joyeuse, de bonne humeur|Fröhlich, guten Mutes|Allegra, di buon animo|Alegre, de bom ânimo
+Efthymios|m|greek|greek|2|saint,virtue|Alegre, de buen ánimo|Cheerful, of good spirit|Joyeux, de bonne humeur|Fröhlich, guten Mutes|Allegro, di buon animo|Alegre, de bom ânimo
+Eftychia|f|greek|greek|2|virtue,saint|Buena fortuna|Good fortune|Bonne fortune|Gutes Glück|Buona fortuna|Boa fortuna
+Eftychios|m|greek|greek|2|saint,virtue|Buena fortuna|Good fortune|Bonne fortune|Gutes Glück|Buona fortuna|Boa fortuna
+Eirini|f|greek|greek|4|saint,virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Ektor|m|greek|greek|2|mythology,warrior|El que se aferra firme|Holding fast|Celui qui tient bon|Der Festhaltende|Colui che tiene saldo|Aquele que se mantém firme
+Eleftheria|f|greek|greek|3|virtue,saint|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Eleftherios|m|greek|greek|3|virtue,saint|Libre|Free|Libre|Frei|Libero|Livre
+Elektra|f|greek|greek,german|2|mythology,light|Ámbar, brillante|Amber, bright|Ambre, brillante|Bernstein, strahlend|Ambra, splendente|Âmbar, brilhante
+Eleni|f|greek|greek|5|saint,classic,light|Antorcha, luz brillante|Torch, shining light|Torche, lumière brillante|Fackel, strahlendes Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Elpida|f|greek|greek|2|virtue,sweet|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Elpiniki|f|greek|greek|2|virtue,saint|Victoria de la esperanza|Victory of hope|Victoire de l'espoir|Sieg der Hoffnung|Vittoria della speranza|Vitória da esperança
+Eos|f|greek|greek|1|mythology,celestial,light|Aurora|Dawn|Aube|Morgenröte|Aurora|Aurora
+Erasmos|m|greek|greek|1|saint,love|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Erato|f|greek|greek|1|mythology,music,love|Amable, encantadora|Lovely, amiable|Aimable, charmante|Liebreizend|Amabile, incantevole|Amável, encantadora
+Eros|m|greek|greek,intl|2|mythology,love|Amor, deseo|Love, desire|Amour, désir|Liebe, Verlangen|Amore, desiderio|Amor, desejo
+Eudora|f|greek|greek,english|1|vintage,sweet|Buen regalo|Good gift|Beau cadeau|Gutes Geschenk|Buon dono|Bom presente
+Eudoxia|f|greek|greek,russian|2|saint,classic|Buena fama|Good reputation|Bonne réputation|Guter Ruf|Buona fama|Boa reputação
+Eugenia|f|greek|greek,intl|3|saint,royal,classic|Bien nacida, noble|Well-born, noble|Bien née, noble|Wohlgeboren, edel|Ben nata, nobile|Bem-nascida, nobre
+Eulalia|f|greek|greek|1|saint,vintage|La de buen hablar|Well-spoken|Qui parle bien|Wohlredend|Colei che parla bene|A que fala bem
+Eunice|f|greek|greek,english|1|biblical,vintage|Buena victoria|Good victory|Belle victoire|Guter Sieg|Buona vittoria|Boa vitória
+Euphemia|f|greek|greek,english|1|saint,vintage|De buen hablar|Well-spoken|Qui parle bien|Wohlredend|Che parla bene|De bom falar
+Eurydice|f|greek|greek,english|2|mythology,literary|Amplia justicia|Wide justice|Large justice|Weitreichende Gerechtigkeit|Ampia giustizia|Ampla justiça
+Euterpe|f|greek|greek|1|mythology,music|Deleite, alegría|Delight, rejoicing|Délice, réjouissance|Freude, Entzücken|Diletto, gioia|Deleite, alegria
+Evander|m|greek|english,greek|2|mythology,strong|Hombre bueno|Good man|Homme bon|Guter Mann|Uomo buono|Homem bom
+Evangelia|f|greek|greek|3|saint,virtue|Buena noticia|Good news|Bonne nouvelle|Frohe Botschaft|Buona notizia|Boa nova
+Evangelos|m|greek|greek|3|saint,virtue|Portador de buenas noticias|Bearer of good news|Porteur de bonne nouvelle|Überbringer froher Botschaft|Portatore di buone notizie|Portador de boas notícias
+Evanthia|f|greek|greek|2|flower,nature|Buena flor|Good flower|Belle fleur|Schöne Blume|Bel fiore|Boa flor
+Evdokia|f|greek|greek|2|saint,classic|Buena fama|Good reputation|Bonne réputation|Guter Ruf|Buona fama|Boa reputação
+Evgenios|m|greek|greek|2|saint,royal|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Eusebios|m|greek|greek|1|saint,virtue|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Eustathios|m|greek|greek|1|saint,strong|Estable, firme|Stable, steadfast|Stable, ferme|Standhaft, stabil|Stabile, saldo|Estável, firme
+Eufrosyni|f|greek|greek|2|saint,virtue|Alegría, regocijo|Joy, merriment|Joie, gaieté|Freude, Frohsinn|Gioia, allegria|Alegria, regozijo

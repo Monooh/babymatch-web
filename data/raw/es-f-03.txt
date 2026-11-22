@@ -1,0 +1,79 @@
+Edelmira|f|germanic|spanish|1|vintage,royal|Noble y célebre|Noble and famous|Noble et célèbre|Edel und berühmt|Nobile e famosa|Nobre e famosa
+Edith|f|germanic|spanish,english,german|2|vintage,warrior|Lucha por la riqueza|Fights for riches|Combat pour la richesse|Kampf um Reichtum|Lotta per la ricchezza|Luta pela riqueza
+Edurne|f|basque|spanish,basque|2|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Eider|u|basque|spanish,basque|2|sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Elba|f|germanic|spanish,italian|1|vintage,place|Río, la de Elba|River, from the Elbe|Fleuve, de l'Elbe|Fluss, von der Elbe|Fiume, dell'Elba|Rio, do Elba
+Elena|f|greek|spanish,italian,russian|5|classic,light,mythology|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Eleonora|f|greek|spanish,italian|1|vintage,royal|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é a minha luz
+Elisa|f|hebrew|spanish,italian|4|classic,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elisabet|f|hebrew|spanish,catalan|2|biblical,saint|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elodia|f|greek|spanish|1|vintage,saint|Riqueza del extranjero|Foreign riches|Richesse étrangère|Fremder Reichtum|Ricchezza straniera|Riqueza estrangeira
+Eloísa|f|germanic|spanish|2|vintage,literary|Muy sana|Very healthy|Très saine|Sehr gesund|Molto sana|Muito saudável
+Elsa|f|germanic|spanish,german,scandinavian|3|vintage,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Elvira|f|germanic|spanish|3|vintage,classic|Aliada verdadera|True ally|Alliée sincère|Wahre Verbündete|Alleata sincera|Aliada verdadeira
+Ema|f|germanic|spanish|2|modern|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Emilia|f|latin|spanish,italian,english|5|classic,vintage|Rival, laboriosa|Rival, industrious|Rivale, travailleuse|Rivalin, fleißig|Rivale, laboriosa|Rival, laboriosa
+Emma|f|germanic|spanish,intl|4|classic,strong|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Encarnación|f|latin|spanish|2|saint,vintage|Hecha carne|Incarnation|Incarnation|Menschwerdung|Incarnazione|Encarnação
+Enriqueta|f|germanic|spanish|1|vintage,royal|Señora del hogar|Lady of the home|Maîtresse du foyer|Herrin des Hauses|Signora della casa|Senhora do lar
+Ernestina|f|germanic|spanish,german|1|vintage,strong|Seria, decidida|Earnest, resolute|Sérieuse, déterminée|Ernst, entschlossen|Seria, determinata|Séria, determinada
+Esmeralda|f|greek|spanish|3|gem,literary|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Esperanza|f|latin|spanish|3|virtue,saint|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Estefanía|f|greek|spanish|3|royal,classic|Corona, coronada|Crown, crowned|Couronne, couronnée|Krone, gekrönt|Corona, coronata|Coroa, coroada
+Estela|f|latin|spanish|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ester|f|persian|spanish,catalan|2|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Esther|f|persian|spanish,english,german|3|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Estrella|f|latin|spanish|4|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eufemia|f|greek|spanish|1|vintage,saint|De buena fama|Of good repute|De bonne renommée|Von gutem Ruf|Di buona fama|De boa fama
+Eufrasia|f|greek|spanish|1|vintage,saint|Alegría, buen ánimo|Joy, good cheer|Joie, bonne humeur|Frohsinn, Heiterkeit|Allegria, buonumore|Alegria, bom ânimo
+Eugenia|f|greek|spanish|3|vintage,classic|De noble origen|Well-born|De noble naissance|Wohlgeboren|Di nobile stirpe|De nobre origem
+Eulalia|f|greek|spanish|2|saint,vintage|Bien hablada|Well-spoken|Qui parle bien|Wohlredend|Ben parlante|Bem falante
+Eva|f|hebrew|spanish,intl|4|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Evangelina|f|greek|spanish|2|saint,vintage|Portadora de buenas noticias|Bearer of good news|Porteuse de bonnes nouvelles|Überbringerin guter Nachricht|Portatrice di buone notizie|Portadora de boas notícias
+Evelia|f|hebrew|spanish|1|vintage|Vida|Life|Vie|Leben|Vita|Vida
+Fabiana|f|latin|spanish,italian,portuguese|2|classic|De la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus dem Hause Fabius|Della gente Fabia|Da família Fábia
+Fabiola|f|latin|spanish,italian|3|classic,royal|Cultivadora de habas|Bean grower|Cultivatrice de fèves|Bohnenzüchterin|Coltivatrice di fave|Cultivadora de favas
+Fátima|f|arabic|spanish,arabic,portuguese|3|saint,place|La que desteta, hija del Profeta|She who weans, daughter of the Prophet|Celle qui sèvre, fille du Prophète|Die Entwöhnende, Tochter des Propheten|Colei che svezza, figlia del Profeta|Aquela que desmama, filha do Profeta
+Faustina|f|latin|spanish,italian|1|vintage,saint|Afortunada|Fortunate|Fortunée|Glückliche|Fortunata|Afortunada
+Fe|f|latin|spanish|1|virtue,saint|Fe|Faith|Foi|Glaube|Fede|Fé
+Federica|f|germanic|spanish,italian|1|vintage,royal|Gobernante pacífica|Peaceful ruler|Souveraine pacifique|Friedensherrscherin|Sovrana pacifica|Governante pacífica
+Felicidad|f|latin|spanish|2|virtue,vintage|Felicidad|Happiness|Bonheur|Glück|Felicità|Felicidade
+Felícitas|f|latin|spanish|1|virtue,vintage|Dicha, buena fortuna|Bliss, good fortune|Bonheur, bonne fortune|Glückseligkeit|Beatitudine, buona sorte|Ventura, boa sorte
+Felisa|f|latin|spanish|1|vintage,virtue|Feliz|Happy|Heureuse|Glücklich|Felice|Feliz
+Felipa|f|greek|spanish|1|vintage,royal|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante dos cavalos
+Fernanda|f|germanic|spanish,portuguese|5|warrior,classic|Aventurera audaz|Bold adventurer|Aventurière audacieuse|Kühne Abenteurerin|Avventuriera audace|Aventureira audaz
+Fidela|f|latin|spanish|1|vintage,virtue|Fiel|Faithful|Fidèle|Treue|Fedele|Fiel
+Filomena|f|greek|spanish,italian|2|vintage,saint|Amada, amante de la fuerza|Beloved, lover of strength|Bien-aimée|Geliebte|Amata|Amada
+Fina|f|latin|spanish|1|vintage,sweet|Fina, delicada|Fine, delicate|Fine, délicate|Fein, zart|Fine, delicata|Fina, delicada
+Flavia|f|latin|spanish,italian|2|classic,light|Rubia|Blonde|Blonde|Blonde|Bionda|Loura
+Flor|f|latin|spanish|3|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Flora|f|latin|spanish,italian,english|2|flower,mythology|Flor|Flower|Fleur|Blume|Fiore|Flor
+Florencia|f|latin|spanish|4|flower,place|Floreciente|Flourishing|Florissante|Blühend|Fiorente|Florescente
+Florinda|f|latin|spanish|1|flower,vintage|Florida, floreciente|Flowery, blooming|Fleurie, florissante|Blumig, blühend|Fiorita, fiorente|Florida, florescente
+Fortuna|f|latin|spanish|1|virtue|Suerte, fortuna|Luck, fortune|Chance, fortune|Glück, Schicksal|Sorte, fortuna|Sorte, fortuna
+Francisca|f|germanic|spanish,portuguese|3|classic,saint|Francesa, libre|Frenchwoman, free|Française, libre|Französin, frei|Francese, libera|Francesa, livre
+Frida|f|germanic|spanish,german|3|vintage,strong|Paz|Peace|Paix|Frieden|Pace|Paz
+Gabriela|f|hebrew|spanish,portuguese|4|biblical,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gala|f|latin|spanish,russian|3|modern|Elegancia, galanura|Elegance, finery|Élégance, parure|Eleganz, Festtracht|Eleganza, sfarzo|Elegância, gala
+Galatea|f|greek|spanish,italian|2|mythology,sea|Blanca como la leche|Milk-white|Blanche comme le lait|Milchweiß|Bianca come il latte|Branca como o leite
+Gema|f|latin|spanish|3|gem,classic|Piedra preciosa|Precious stone|Pierre précieuse|Edelstein|Pietra preziosa|Pedra preciosa
+Genara|f|latin|spanish|1|vintage|Nacida en enero|Born in January|Née en janvier|Im Januar geboren|Nata a gennaio|Nascida em janeiro
+Genoveva|f|germanic|spanish|2|vintage,saint|Mujer de la estirpe|Woman of the race|Femme de la lignée|Frau des Geschlechts|Donna della stirpe|Mulher da estirpe
+Georgina|f|greek|spanish,english|2|classic|Agricultora|Farmer|Agricultrice|Landwirtin|Agricoltrice|Agricultora
+Gertrudis|f|germanic|spanish|1|vintage,warrior|Lanza fuerte|Strong spear|Lance puissante|Starker Speer|Lancia forte|Lança forte
+Gisela|f|germanic|spanish,german|2|vintage,royal|Prenda, rehén noble|Pledge, hostage|Gage, otage|Pfand, Geisel|Pegno, ostaggio|Penhor, refém
+Gladys|f|celtic|spanish,welsh,english|2|vintage|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Gloria|f|latin|spanish,italian,english|3|virtue,classic|Gloria, fama|Glory, fame|Gloire, renommée|Ruhm, Ehre|Gloria, fama|Glória, fama
+Grecia|f|latin|spanish|2|place,modern|Tierra de Grecia|Land of Greece|Terre de Grèce|Land Griechenland|Terra di Grecia|Terra da Grécia
+Gracia|f|latin|spanish|2|virtue,saint|Gracia, favor|Grace, favour|Grâce, faveur|Gnade, Anmut|Grazia, favore|Graça, favor
+Graciela|f|latin|spanish|3|virtue,classic|Gracia, gracia divina|Grace|Grâce|Anmut|Grazia|Graça
+Gregoria|f|greek|spanish|1|vintage,saint|Vigilante|Watchful|Vigilante|Wachsame|Vigilante|Vigilante
+Guadalupe|f|arabic|spanish|4|saint,place|Río de lobos (Virgen)|River of wolves (Our Lady)|Rivière des loups (Vierge)|Wolfsfluss (Gottesmutter)|Fiume dei lupi (Madonna)|Rio dos lobos (Nossa Senhora)
+Guillermina|f|germanic|spanish|1|vintage,warrior|Protectora decidida|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Haydée|f|greek|spanish|1|vintage,literary|Acariciada, modesta|Caressed, modest|Caressée, modeste|Liebkost, bescheiden|Accarezzata, modesta|Acariciada, modesta
+Helena|f|greek|spanish,portuguese|3|classic,light|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Herminia|f|greek|spanish|1|vintage|Mensajera de los dioses|Messenger of the gods|Messagère des dieux|Botin der Götter|Messaggera degli dei|Mensageira dos deuses
+Hilda|f|germanic|spanish,german|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Hildegarda|f|germanic|spanish,german|1|vintage,warrior|Protectora en el combate|Protector in battle|Protectrice au combat|Beschützerin im Kampf|Protettrice in battaglia|Protetora no combate
+Honorina|f|latin|spanish|1|vintage|Honorable|Honourable|Honorable|Ehrenvoll|Onorevole|Honrada
+Hortensia|f|latin|spanish|2|vintage,flower|Jardinera|Gardener|Jardinière|Gärtnerin|Giardiniera|Jardineira

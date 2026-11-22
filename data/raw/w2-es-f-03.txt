@@ -1,0 +1,57 @@
+Jacoba|f|hebrew|spanish|1|biblical,vintage|Que suplanta|She who supplants|Celle qui supplante|Die Nachfolgende|Colei che soppianta|A que suplanta
+Jemima|f|hebrew|spanish|1|biblical|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jerónima|f|greek|spanish|1|saint,vintage|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Juanita|f|hebrew|spanish|2|classic,vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Larisa|f|greek|spanish,russian|2|classic|Ciudadela|Citadel|Citadelle|Zitadelle|Cittadella|Cidadela
+Laureana|f|latin|spanish|1|vintage,saint|Coronada de laurel|Crowned with laurel|Couronnée de laurier|Mit Lorbeer gekrönt|Coronata d'alloro|Coroada de louro
+Laurel|f|latin|spanish|1|nature,vintage|Laurel|Laurel|Laurier|Lorbeer|Alloro|Loureiro
+Lavanda|f|latin|spanish|1|flower,modern|Lavanda|Lavender|Lavande|Lavendel|Lavanda|Lavanda
+Leona|f|latin|spanish|2|animal,strong|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Leonarda|f|germanic|spanish|1|vintage,strong|Fuerte como un león|Strong as a lion|Forte comme un lion|Stark wie ein Löwe|Forte come un leone|Forte como um leão
+Leonela|f|latin|spanish|3|modern,animal|Pequeña leona|Little lioness|Petite lionne|Kleine Löwin|Piccola leonessa|Pequena leoa
+Leopoldina|f|germanic|spanish|1|vintage,royal|Valiente entre su pueblo|Brave among her people|Brave parmi son peuple|Mutig unter ihrem Volk|Coraggiosa tra il suo popolo|Corajosa entre o seu povo
+Librada|f|latin|spanish|1|saint,vintage|Liberada|Freed|Libérée|Befreite|Liberata|Libertada
+Ligia|f|greek|spanish|2|classic,music|Melodiosa|Melodious|Mélodieuse|Wohlklingende|Melodiosa|Melodiosa
+Lila|f|persian|spanish|2|flower,modern|Color lila|Lilac|Lilas|Flieder|Lilla|Lilás
+Lisandra|f|greek|spanish|2|classic|Liberadora|Liberator|Libératrice|Befreierin|Liberatrice|Libertadora
+Lucina|f|latin|spanish|1|vintage,light|La que trae la luz|She who brings light|Celle qui apporte la lumière|Die Lichtbringerin|Colei che porta la luce|A que traz a luz
+Ludmila|f|slavic|spanish,russian|2|classic|Amada por el pueblo|Beloved of the people|Aimée du peuple|Die beim Volk Beliebte|Amata dal popolo|Amada pelo povo
+Luisina|f|germanic|spanish|3|modern|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Macaria|f|greek|spanish|1|vintage,saint|Bienaventurada|Blessed|Bienheureuse|Selige|Beata|Bem-aventurada
+Maia|f|greek|spanish|2|mythology,celestial|Madre, nodriza|Mother, nurse|Mère, nourrice|Mutter, Amme|Madre, nutrice|Mãe, ama
+Marcelina|f|latin|spanish|2|vintage,saint|Dedicada a Marte|Dedicated to Mars|Dédiée à Mars|Dem Mars geweiht|Dedicata a Marte|Dedicada a Marte
+Marcia|f|latin|spanish|2|classic|Dedicada a Marte|Dedicated to Mars|Dédiée à Mars|Dem Mars geweiht|Dedicata a Marte|Dedicada a Marte
+Matea|f|hebrew|spanish|2|modern,biblical|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Máxima|f|latin|spanish|2|royal,strong|La más grande|The greatest|La plus grande|Die Größte|La più grande|A maior
+Melchora|f|hebrew|spanish|1|vintage,biblical|Mi rey es luz|My king is light|Mon roi est lumière|Mein König ist Licht|Il mio re è luce|Meu rei é luz
+Melina|f|greek|spanish|2|sweet,classic|Dulce como la miel|Sweet as honey|Douce comme le miel|Süß wie Honig|Dolce come il miele|Doce como o mel
+Minerva|f|latin|spanish|2|mythology,classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Miranda|f|latin|spanish|2|literary,classic|Admirable|Admirable|Admirable|Bewundernswert|Ammirabile|Admirável
+Modesta|f|latin|spanish|1|vintage,virtue|Modesta|Modest|Modeste|Bescheidene|Modesta|Modesta
+Navidad|f|latin|spanish|1|vintage,saint|Nacimiento de Cristo|Birth of Christ|Naissance du Christ|Geburt Christi|Natività di Cristo|Nascimento de Cristo
+Nefertiti|f|other|spanish|1|royal,classic|La bella ha llegado|The beautiful one has come|La belle est venue|Die Schöne ist gekommen|La bella è giunta|A bela chegou
+Nicéfora|f|greek|spanish|1|vintage,saint|Portadora de victoria|Bearer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora da vitória
+Ninfa|f|greek|spanish|1|mythology,nature|Ninfa, espíritu de la naturaleza|Nymph, nature spirit|Nymphe, esprit de la nature|Nymphe, Naturgeist|Ninfa, spirito della natura|Ninfa, espírito da natureza
+Norberta|f|germanic|spanish|1|vintage,saint|Brillo del norte|Brightness of the north|Éclat du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Nubia|f|other|spanish|2|place|Tierra de oro|Land of gold|Terre d'or|Land des Goldes|Terra dell'oro|Terra de ouro
+Onésima|f|greek|spanish|1|vintage,saint|Útil|Useful|Utile|Nützliche|Utile|Útil
+Orquídea|f|greek|spanish|1|flower|Orquídea|Orchid|Orchidée|Orchidee|Orchidea|Orquídea
+Pacífica|f|latin|spanish|1|vintage,virtue|Pacífica|Peaceful|Paisible|Friedfertige|Pacifica|Pacífica
+Pancracia|f|greek|spanish|1|vintage,saint|Todopoderosa|All-powerful|Toute-puissante|Allmächtige|Onnipotente|Todo-poderosa
+Pandora|f|greek|spanish|1|mythology|La que tiene todos los dones|She who has all gifts|Celle qui a tous les dons|Die alle Gaben besitzt|Colei che ha tutti i doni|A que tem todos os dons
+Pascua|f|hebrew|spanish|1|vintage,saint|Pascua, paso|Passover, Easter|Pâques|Ostern|Pasqua|Páscoa
+Pelagia|f|greek|spanish|1|sea,saint|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Perfecta|f|latin|spanish|1|vintage,virtue|Perfecta|Perfect|Parfaite|Vollkommene|Perfetta|Perfeita
+Perpetua|f|latin|spanish|1|saint,vintage|Duradera|Everlasting|Perpétuelle|Beständige|Perpetua|Perpétua
+Policarpa|f|greek|spanish|1|vintage,saint|De muchos frutos|Of many fruits|De nombreux fruits|Vielfrüchtige|Di molti frutti|De muitos frutos
+Porfiria|f|greek|spanish|1|vintage|De color púrpura|Purple-coloured|Couleur pourpre|Purpurfarbene|Color porpora|De cor púrpura
+Primitiva|f|latin|spanish|1|vintage|Primera|First|Première|Erste|Prima|Primeira
+Prisca|f|latin|spanish|1|vintage,biblical|Antigua|Ancient|Ancienne|Altehrwürdige|Antica|Antiga
+Psique|f|greek|spanish|1|mythology,literary|Alma|Soul|Âme|Seele|Anima|Alma
+Pureza|f|latin|spanish|1|virtue,vintage|Pureza|Purity|Pureté|Reinheit|Purezza|Pureza
+Raimunda|f|germanic|spanish|1|vintage|Protectora sabia|Wise protector|Protectrice sage|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Remigia|f|latin|spanish|1|vintage,saint|Remera|Rower|Rameuse|Ruderin|Rematrice|Remadora
+Restituta|f|latin|spanish|1|saint,vintage|Restablecida|Restored|Rétablie|Wiederhergestellte|Restituita|Restabelecida
+Ricarda|f|germanic|spanish|1|vintage|Poderosa y valiente|Powerful and brave|Puissante et brave|Mächtig und tapfer|Potente e coraggiosa|Poderosa e corajosa
+Rufa|f|latin|spanish|1|vintage,saint|Pelirroja|Red-haired|Rousse|Die Rothaarige|Rossa|Ruiva
+Ruperta|f|germanic|spanish|1|vintage|De fama brillante|Of bright fame|De renom brillant|Von strahlendem Ruhm|Di fama splendente|De fama brilhante

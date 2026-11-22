@@ -1,0 +1,97 @@
+Ife|u|african|african|2|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Ifeoma|f|african|african|2|virtue,sweet|Algo bueno|A good thing|Une bonne chose|Etwas Gutes|Una cosa buona|Uma coisa boa
+Ikechukwu|m|african|african|1|strong,virtue|El poder de Dios|The power of God|La puissance de Dieu|Die Macht Gottes|La potenza di Dio|O poder de Deus
+Ikenna|m|african|african|2|strong,classic|La fuerza del padre|Father's strength|La force du père|Die Stärke des Vaters|La forza del padre|A força do pai
+Imani|u|african|african|3|virtue,modern|Fe|Faith|Foi|Glaube|Fede|Fé
+Jabari|m|african|african|3|strong,warrior|Valiente|Brave|Brave|Tapfer|Coraggioso|Corajoso
+Jelani|m|african|african|2|strong,modern|Poderoso|Mighty|Puissant|Mächtig|Possente|Poderoso
+Juma|m|african|african|2|classic,virtue|Nacido en viernes|Born on Friday|Né un vendredi|Am Freitag geboren|Nato di venerdì|Nascido na sexta-feira
+Kagiso|u|african|african|2|virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Kamaria|f|african|african|2|celestial,light|Luz de luna|Moonlight|Clair de lune|Mondlicht|Chiaro di luna|Luar
+Kamau|m|african|african|2|strong,classic|Guerrero silencioso|Quiet warrior|Guerrier silencieux|Stiller Krieger|Guerriero silenzioso|Guerreiro silencioso
+Khanyisa|f|african|african|2|light,virtue|Dar luz, iluminar|To bring light, illuminate|Apporter la lumière, éclairer|Licht bringen, erleuchten|Portare luce, illuminare|Trazer luz, iluminar
+Kofi|m|african|african|3|classic,virtue|Nacido en viernes|Born on Friday|Né un vendredi|Am Freitag geboren|Nato di venerdì|Nascido na sexta-feira
+Kojo|m|african|african|2|classic,virtue|Nacido en lunes|Born on Monday|Né un lundi|Am Montag geboren|Nato di lunedì|Nascido na segunda-feira
+Kunle|m|african|african|1|classic,virtue|Hogar lleno de honor|Home filled with honour|Maison pleine d'honneur|Heim voller Ehre|Casa piena d'onore|Lar cheio de honra
+Kwabena|m|african|african|2|classic,virtue|Nacido en martes|Born on Tuesday|Né un mardi|Am Dienstag geboren|Nato di martedì|Nascido na terça-feira
+Kwaku|m|african|african|2|classic,virtue|Nacido en miércoles|Born on Wednesday|Né un mercredi|Am Mittwoch geboren|Nato di mercoledì|Nascido na quarta-feira
+Kwame|m|african|african|3|classic,virtue|Nacido en sábado|Born on Saturday|Né un samedi|Am Samstag geboren|Nato di sabato|Nascido no sábado
+Kwesi|m|african|african|2|classic,virtue|Nacido en domingo|Born on Sunday|Né un dimanche|Am Sonntag geboren|Nato di domenica|Nascido no domingo
+Lerato|f|african|african|2|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Lindiwe|f|african|african|2|virtue,classic|La esperada|The awaited one|L'attendue|Die Erwartete|L'attesa|A esperada
+Lwazi|m|african|african|2|virtue,modern|Conocimiento|Knowledge|Connaissance|Wissen|Conoscenza|Conhecimento
+Makeda|f|african|african|2|royal,classic|Reina de Saba|Queen of Sheba|Reine de Saba|Königin von Saba|Regina di Saba|Rainha de Sabá
+Makena|f|african|african|2|virtue,sweet|La alegre, la feliz|The happy one|L'heureuse|Die Glückliche|La felice|A feliz
+Mandla|m|african|african|2|strong,classic|Fuerza, poder|Strength, power|Force, pouvoir|Stärke, Kraft|Forza, potere|Força, poder
+Mosi|m|african|african|1|classic,virtue|Primogénito|First-born|Premier-né|Erstgeborener|Primogenito|Primogénito
+Mpho|u|african|african|2|virtue,sweet|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Naledi|f|african|african|3|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Nandi|f|african|african|2|sweet,classic|Dulce, agradable|Sweet, pleasant|Douce, agréable|Süß, angenehm|Dolce, piacevole|Doce, agradável
+Neema|f|african|african|2|virtue,sweet|Gracia, favor|Grace, favour|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Ngozi|f|african|african|2|virtue,sweet|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Nia|f|african|african|3|virtue,modern|Propósito|Purpose|But, dessein|Zweck, Bestimmung|Scopo|Propósito
+Njeri|f|african|african|2|classic,sweet|Viajera|Traveller|Voyageuse|Reisende|Viaggiatrice|Viajante
+Nkechi|f|african|african|2|virtue,classic|Lo que Dios ha dado|What God has given|Ce que Dieu a donné|Was Gott gegeben hat|Ciò che Dio ha dato|O que Deus deu
+Nkosana|m|african|african|1|royal,classic|Pequeño jefe|Little chief|Petit chef|Kleiner Häuptling|Piccolo capo|Pequeno chefe
+Nneka|f|african|african|2|virtue,classic|La madre es suprema|Mother is supreme|La mère est suprême|Die Mutter ist höchste|La madre è suprema|A mãe é suprema
+Nnamdi|m|african|african|2|virtue,classic|Mi padre vive|My father lives|Mon père vit|Mein Vater lebt|Mio padre vive|Meu pai vive
+Nomsa|f|african|african|2|virtue,sweet|Madre bondadosa|Kind mother|Mère bienveillante|Gütige Mutter|Madre gentile|Mãe bondosa
+Nomvula|f|african|african|2|nature,classic|Madre de la lluvia|Mother of rain|Mère de la pluie|Mutter des Regens|Madre della pioggia|Mãe da chuva
+Obi|u|african|african|2|virtue,classic|Corazón|Heart|Cœur|Herz|Cuore|Coração
+Obinna|m|african|african|2|love,classic|Corazón del padre|Father's heart|Cœur du père|Herz des Vaters|Cuore del padre|Coração do pai
+Obioma|f|african|african|2|virtue,sweet|Corazón bondadoso|Kind heart|Cœur bienveillant|Gütiges Herz|Cuore gentile|Coração bondoso
+Oluwaseun|u|african|african|2|virtue,classic|Gracias a Dios|Thanks to God|Grâce à Dieu|Dank sei Gott|Grazie a Dio|Graças a Deus
+Palesa|f|african|african|2|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Sekou|m|african|african|2|classic,royal|Erudito, líder|Learned one, leader|Érudit, chef|Gelehrter, Anführer|Erudito, capo|Erudito, líder
+Segun|m|african|african|2|strong,warrior|Conquistador, victorioso|Conqueror, victorious|Conquérant, victorieux|Eroberer, siegreich|Conquistatore, vittorioso|Conquistador, vitorioso
+Selam|u|african|african|2|virtue,sweet|Paz|Peace|Paix|Frieden|Pace|Paz
+Sibusiso|m|african|african|2|virtue,classic|Bendiciones|Blessings|Bénédictions|Segnungen|Benedizioni|Bênçãos
+Simba|m|african|african|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Sipho|m|african|african|2|virtue,classic|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Sizwe|m|african|african|1|classic,strong|Nación, pueblo|Nation, people|Nation, peuple|Nation, Volk|Nazione, popolo|Nação, povo
+Tafara|u|african|african|2|virtue,sweet|Estamos felices|We are happy|Nous sommes heureux|Wir sind glücklich|Siamo felici|Estamos felizes
+Tatenda|u|african|african|2|virtue,classic|Estamos agradecidos|We are thankful|Nous sommes reconnaissants|Wir sind dankbar|Siamo grati|Estamos gratos
+Tendai|u|african|african|2|virtue,classic|Da gracias|Be thankful|Sois reconnaissant|Sei dankbar|Sii grato|Sê grato
+Thabo|m|african|african|2|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Thandeka|f|african|african|2|love,sweet|Digna de amor|Lovable|Digne d'amour|Liebenswert|Amabile|Digna de amor
+Thandiwe|f|african|african|3|love,sweet|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Themba|m|african|african|2|virtue,classic|Confianza, esperanza|Trust, hope|Confiance, espoir|Vertrauen, Hoffnung|Fiducia, speranza|Confiança, esperança
+Tigist|f|african|african|2|virtue,classic|Paciencia|Patience|Patience|Geduld|Pazienza|Paciência
+Titilayo|f|african|african|2|virtue,sweet|Felicidad eterna|Eternal happiness|Bonheur éternel|Ewiges Glück|Felicità eterna|Felicidade eterna
+Tumelo|u|african|african|2|virtue,classic|Fe|Faith|Foi|Glaube|Fede|Fé
+Tunde|m|african|african|2|classic,virtue|Vuelve, regresa|Returns|Revient|Kehrt zurück|Ritorna|Retorna
+Uche|u|african|african|2|virtue,classic|Voluntad de Dios, mente|God's will, mind|Volonté de Dieu, esprit|Gottes Wille, Geist|Volontà di Dio, mente|Vontade de Deus, mente
+Wambui|f|african|african|2|classic,sweet|Cantante|Singer|Chanteuse|Sängerin|Cantante|Cantora
+Wangari|f|african|african|2|animal,strong|Leopardo|Leopard|Léopard|Leopard|Leopardo|Leopardo
+Wanjiru|f|african|african|2|classic,sweet|De la familia Njiru|Of the Njiru clan|Du clan Njiru|Vom Njiru-Clan|Del clan Njiru|Do clã Njiru
+Yaw|m|african|african|2|classic,virtue|Nacido en jueves|Born on Thursday|Né un jeudi|Am Donnerstag geboren|Nato di giovedì|Nascido na quinta-feira
+Yetunde|f|african|african|2|classic,virtue|La madre ha vuelto|Mother has returned|La mère est revenue|Die Mutter ist zurückgekehrt|La madre è tornata|A mãe voltou
+Zanele|f|african|african|2|virtue,classic|Suficiente, plenitud|Enough, abundance|Assez, abondance|Genug, Fülle|Abbastanza, abbondanza|Suficiente, abundância
+Zawadi|f|african|african|2|virtue,sweet|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Zola|u|african|african|2|virtue,sweet|Calma, tranquilidad|Calm, tranquil|Calme, tranquille|Ruhig, still|Calma, tranquillità|Calma, tranquilidade
+Zuberi|m|african|african|2|strong,classic|Fuerte|Strong|Fort|Stark|Forte|Forte
+Zuri|f|african|african|3|sweet,modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Ailani|u|polynesian|hawaiian|2|royal,modern|Alto jefe|High chief|Grand chef|Hoher Häuptling|Alto capo|Grande chefe
+Alika|m|polynesian|hawaiian|2|classic,strong|Defensor de la humanidad|Defender of mankind|Défenseur de l'humanité|Verteidiger der Menschheit|Difensore dell'umanità|Defensor da humanidade
+Alohi|f|polynesian|hawaiian|2|light,sweet|Resplandeciente|Shining|Rayonnante|Strahlend|Splendente|Resplandecente
+Anela|f|polynesian|hawaiian|2|sweet,light|Ángel, mensajera|Angel, messenger|Ange, messagère|Engel, Botin|Angelo, messaggera|Anjo, mensageira
+Healani|f|polynesian|hawaiian|1|celestial,sweet|Del cielo|Of heaven|Du ciel|Vom Himmel|Del cielo|Do céu
+Hoku|u|polynesian|hawaiian|2|celestial,sweet|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ikaika|m|polynesian|hawaiian|2|strong,warrior|Fuerte|Strong|Fort|Stark|Forte|Forte
+Iokepa|m|polynesian|hawaiian|1|biblical,classic|Dios añadirá|God will increase|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Iolana|f|polynesian|hawaiian|1|animal,sweet|Elevarse como un halcón|To soar like a hawk|S'élever comme un faucon|Wie ein Falke aufsteigen|Librarsi come un falco|Elevar-se como um falcão
+Kailani|f|polynesian|hawaiian|3|sea,celestial|Mar y cielo|Sea and sky|Mer et ciel|Meer und Himmel|Mare e cielo|Mar e céu
+Kaimana|m|polynesian|hawaiian|2|gem,strong|Diamante, poder del mar|Diamond, power of the sea|Diamant, puissance de la mer|Diamant, Kraft des Meeres|Diamante, potenza del mare|Diamante, poder do mar
+Kainoa|m|polynesian|hawaiian|2|classic,sweet|El homónimo|The namesake|L'homonyme|Der Namensvetter|L'omonimo|O homónimo
+Kalani|u|polynesian|hawaiian|3|celestial,sweet|El cielo|The heavens|Les cieux|Der Himmel|I cieli|Os céus
+Kalea|f|polynesian|hawaiian|2|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Kanoa|m|polynesian|hawaiian|2|virtue,modern|El libre|The free one|Le libre|Der Freie|Il libero|O livre
+Kapono|m|polynesian|hawaiian|1|virtue,classic|El justo|The righteous one|Le juste|Der Gerechte|Il giusto|O justo
+Kawika|m|polynesian|hawaiian|2|biblical,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Keala|u|polynesian|hawaiian|2|sweet,nature|El camino|The path|Le chemin|Der Weg|Il sentiero|O caminho
+Keanu|m|polynesian|hawaiian|3|nature,modern|La brisa fresca sobre las montañas|The cool breeze over the mountains|La brise fraîche sur les montagnes|Die kühle Brise über den Bergen|La fresca brezza sui monti|A brisa fresca sobre as montanhas
+Kehaulani|f|polynesian|hawaiian|1|celestial,sweet|El rocío del cielo|The dew of heaven|La rosée du ciel|Der Tau des Himmels|La rugiada del cielo|O orvalho do céu
+Kekoa|m|polynesian|hawaiian|2|warrior,strong|El valiente|The brave one|Le brave|Der Tapfere|Il coraggioso|O valente
+Keola|u|polynesian|hawaiian|1|virtue,sweet|La vida|The life|La vie|Das Leben|La vita|A vida
+Kiele|f|polynesian|hawaiian|2|flower,sweet|Gardenia|Gardenia|Gardénia|Gardenie|Gardenia|Gardénia
+Koa|u|polynesian|hawaiian|3|warrior,nature|Valiente, guerrero|Brave, warrior|Brave, guerrier|Tapfer, Krieger|Coraggioso, guerriero|Corajoso, guerreiro

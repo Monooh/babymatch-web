@@ -1,0 +1,52 @@
+Eben|m|hebrew|english|1|biblical|Piedra|Stone|Pierre|Stein|Pietra|Pedra
+Edric|m|germanic|english|1|royal,vintage|Gobernante rico|Wealthy ruler|Souverain prospère|Reicher Herrscher|Sovrano ricco|Governante rico
+Eliezer|m|hebrew|english|1|biblical|Dios es ayuda|God is help|Dieu est aide|Gott ist Hilfe|Dio è aiuto|Deus é ajuda
+Elihu|m|hebrew|english|1|biblical|Él es mi Dios|He is my God|Il est mon Dieu|Er ist mein Gott|Egli è il mio Dio|Ele é o meu Deus
+Elon|m|hebrew|english|1|biblical,nature|Roble|Oak tree|Chêne|Eiche|Quercia|Carvalho
+Emrys|m|celtic|welsh,english|2|mythology|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Enos|m|hebrew|english|1|biblical|Hombre|Man|Homme|Mensch|Uomo|Homem
+Everard|m|germanic|english|1|vintage,warrior|Valiente como un jabalí|Brave as a boar|Courageux comme un sanglier|Tapfer wie ein Eber|Coraggioso come un cinghiale|Valente como um javali
+Ewan|m|celtic|scottish,english|3|nature,classic|Nacido del tejo|Born of the yew|Né de l'if|Der Eibengeborene|Nato dal tasso|Nascido do teixo
+Fenton|m|germanic|english|1|place,vintage|Granja del pantano|Marsh farm|Ferme du marais|Sumpfhof|Fattoria della palude|Quinta do pântano
+Fergus|m|celtic|irish,scottish,english|3|strong,classic|Hombre vigoroso|Man of vigour|Homme vigoureux|Mann der Kraft|Uomo vigoroso|Homem vigoroso
+Finlay|m|celtic|scottish,english|3|warrior|Guerrero rubio|Fair warrior|Guerrier blond|Blonder Krieger|Guerriero biondo|Guerreiro louro
+Flint|m|germanic|english|1|nature|Pedernal|Flint stone|Silex|Feuerstein|Selce|Sílex
+Ford|u|germanic|english|1|place,nature|Vado|River crossing|Gué|Furt|Guado|Vau
+Fox|u|germanic|english|2|animal,modern|Zorro|Fox|Renard|Fuchs|Volpe|Raposa
+Gad|m|hebrew|english|1|biblical|Fortuna|Fortune|Fortune|Glück|Fortuna|Fortuna
+Gage|m|germanic|english|2|modern|Prenda|Pledge|Gage|Pfand|Pegno|Penhor
+Gamaliel|m|hebrew|english|1|biblical|Dios es mi recompensa|God is my reward|Dieu est ma récompense|Gott ist mein Lohn|Dio è la mia ricompensa|Deus é a minha recompensa
+Garrick|m|germanic|english|2|vintage,warrior|Gobernante de la lanza|Spear ruler|Souverain de la lance|Speerherrscher|Sovrano della lancia|Governante da lança
+Garth|m|norse|english|1|vintage|Jardín cercado|Enclosure, garden|Enclos, jardin|Garten, Hof|Recinto, giardino|Recinto, jardim
+Gershom|m|hebrew|english|1|biblical|Extranjero allí|Stranger there|Étranger là-bas|Fremdling dort|Straniero là|Estrangeiro ali
+Glen|m|celtic|scottish,english|2|nature,classic|Valle|Valley|Vallée|Tal|Valle|Vale
+Godric|m|germanic|english|1|vintage|Gobernante de Dios|God's ruler|Souverain de Dieu|Gottes Herrscher|Sovrano di Dio|Governante de Deus
+Gregor|m|greek|scottish,english,german|2|classic|Vigilante|Watchful|Vigilant|Wachsam|Vigilante|Vigilante
+Gus|m|latin|english|3|vintage,sweet|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Gwyn|u|celtic|welsh,english|2|light|Blanco, bendito|White, blessed|Blanc, béni|Weiß, gesegnet|Bianco, benedetto|Branco, abençoado
+Hadrian|m|latin|english|2|classic,royal|Del Adriático|From Hadria|D'Hadria|Aus Hadria|Di Adria|De Hadria
+Hamish|m|hebrew|scottish,english|3|classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Hardy|m|germanic|english|1|strong|Audaz|Bold|Hardi|Kühn|Audace|Audaz
+Hart|m|germanic|english|1|animal|Ciervo|Stag|Cerf|Hirsch|Cervo|Cervo
+Hartley|m|germanic|english|2|place,nature|Prado del ciervo|Deer meadow|Pré du cerf|Hirschwiese|Prato del cervo|Prado do cervo
+Henley|m|germanic|english|2|place,modern|Claro alto|High clearing|Haute clairière|Hohe Lichtung|Alta radura|Clareira alta
+Hereward|m|germanic|english|1|warrior,vintage|Guardián del ejército|Army guardian|Gardien de l'armée|Heerwächter|Guardiano dell'esercito|Guardião do exército
+Hezekiah|m|hebrew|english|1|biblical|Yahvé fortalece|Yahweh strengthens|Yahvé fortifie|Jahwe stärkt|Yahweh rafforza|Javé fortalece
+Holt|m|germanic|english|1|nature|Bosque|Wood|Bois|Wald|Bosco|Bosque
+Hosea|m|hebrew|english|1|biblical|Salvación|Salvation|Salut|Rettung|Salvezza|Salvação
+Howell|m|celtic|welsh,english|1|classic|Eminente|Eminent|Éminent|Hervorragend|Eminente|Eminente
+Iain|m|hebrew|scottish,english|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ivo|m|germanic|english,dutch|1|nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Jerry|m|germanic|english|3|classic|Gobernante con lanza|Spear ruler|Souverain à la lance|Speerherrscher|Sovrano con la lancia|Governante com lança
+Jett|m|other|english|3|modern,gem|Azabache|Jet black|Jais|Gagat|Giaietto|Azeviche
+Jim|m|hebrew|english|2|classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Jimmy|m|hebrew|english|3|classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Joab|m|hebrew|english|1|biblical|Yahvé es padre|Yahweh is father|Yahvé est père|Jahwe ist Vater|Yahweh è padre|Javé é pai
+Joash|m|hebrew|english|1|biblical|Yahvé ha dado|Yahweh has given|Yahvé a donné|Jahwe hat gegeben|Yahweh ha dato|Javé deu
+Joe|m|hebrew|english|4|classic|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio aggiungerà|Deus acrescentará
+Joey|m|hebrew|english|2|sweet|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio aggiungerà|Deus acrescentará
+Johnny|m|hebrew|english|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jon|m|hebrew|english|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Josh|m|hebrew|english|3|classic|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Rettung|Yahweh è salvezza|Javé é salvação
+Jotham|m|hebrew|english|1|biblical|Yahvé es perfecto|Yahweh is perfect|Yahvé est parfait|Jahwe ist vollkommen|Yahweh è perfetto|Javé é perfeito
+Justice|u|latin|english|2|virtue,modern|Justicia|Justice|Justice|Gerechtigkeit|Giustizia|Justiça

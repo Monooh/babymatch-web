@@ -1,0 +1,54 @@
+Nerys|f|celtic|welsh|2|classic,virtue|Señora|Lady|Dame|Herrin|Signora|Senhora
+Nesta|f|greek|welsh|1|vintage,virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Neve|f|celtic|irish,english|3|modern,light|Brillante, radiante|Bright, radiant|Brillante, rayonnante|Strahlend, leuchtend|Luminosa, radiosa|Brilhante, radiante
+Niall|m|celtic|irish|3|royal,warrior|Campeón|Champion|Champion|Meister, Kämpfer|Campione|Campeão
+Niamh|f|celtic|irish|5|mythology,light|Brillante, radiante|Bright, radiant|Brillante, rayonnante|Strahlend, leuchtend|Luminosa, radiosa|Brilhante, radiante
+Nolwenn|f|celtic|french|3|modern,saint|Navidad blanca, bendita|White Christmas, blessed|Noël blanc, béni|Weiße Weihnacht, gesegnet|Natale bianco, benedetto|Natal branco, abençoado
+Nuala|f|celtic|irish|2|vintage|Hombros blancos|White shoulders|Épaules blanches|Weiße Schultern|Spalle bianche|Ombros brancos
+Odhrán|m|celtic|irish|2|saint,nature|Pequeño de tez verdosa|Little pale-green one|Petit pâle verdâtre|Kleiner Blassgrüner|Piccolo verde pallido|Pequeno de tom verde pálido
+Oisín|m|celtic|irish|3|mythology,animal|Pequeño ciervo|Little deer|Petit cerf|Kleiner Hirsch|Piccolo cervo|Pequeno cervo
+Olwen|f|celtic|welsh|2|mythology,flower|Huella blanca|White footprint|Empreinte blanche|Weiße Spur|Impronta bianca|Pegada branca
+Orla|f|celtic|irish|4|royal,gem|Princesa dorada|Golden princess|Princesse dorée|Goldene Prinzessin|Principessa dorata|Princesa dourada
+Osian|m|celtic|welsh|2|mythology,animal|Pequeño ciervo|Little deer|Petit cerf|Kleiner Hirsch|Piccolo cervo|Pequeno cervo
+Owain|m|celtic|welsh|2|warrior,royal|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Owen|m|celtic|welsh,english|4|classic,royal|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Pádraig|m|latin|irish|3|saint,classic|Noble, patricio|Noble, patrician|Noble, patricien|Edel, Patrizier|Nobile, patrizio|Nobre, patrício
+Quinn|u|celtic|irish,english|4|modern,strong|Jefe, sabio|Chief, wise|Chef, sage|Anführer, weise|Capo, saggio|Chefe, sábio
+Rhian|f|celtic|welsh|2|classic,sweet|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Rhiannon|f|celtic|welsh|3|mythology,royal|Gran reina|Great queen|Grande reine|Große Königin|Grande regina|Grande rainha
+Rhodri|m|celtic|welsh|3|royal,classic|Rey de la rueda|Wheel king|Roi de la roue|Radkönig|Re della ruota|Rei da roda
+Rhosyn|f|celtic|welsh|2|flower,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rhys|m|celtic|welsh,english|4|warrior,strong|Ardor, entusiasmo|Ardour, enthusiasm|Ardeur, enthousiasme|Eifer, Begeisterung|Ardore, entusiasmo|Ardor, entusiasmo
+Róisín|f|latin|irish|3|flower,sweet|Pequeña rosa|Little rose|Petite rose|Kleine Rose|Piccola rosa|Pequena rosa
+Rónán|m|celtic|irish|3|saint,sea|Pequeña foca|Little seal|Petit phoque|Kleine Robbe|Piccola foca|Pequena foca
+Ronan|m|celtic|irish,french,english|4|saint,sea|Pequeña foca|Little seal|Petit phoque|Kleine Robbe|Piccola foca|Pequena foca
+Rory|m|celtic|irish,scottish,english|4|royal,classic|Rey rojo|Red king|Roi rouge|Roter König|Re rosso|Rei vermelho
+Ross|m|celtic|scottish,english|3|nature,classic|Promontorio|Headland, promontory|Promontoire|Landzunge, Vorgebirge|Promontorio|Promontório
+Rowan|u|celtic|irish,english|4|nature,modern|Serbal, pequeño pelirrojo|Rowan tree, little red one|Sorbier, petit roux|Eberesche, kleiner Rothaariger|Sorbo, piccolo rosso|Sorveira, pequeno ruivo
+Ruadhán|m|celtic|irish|1|saint|Pequeño pelirrojo|Little red-haired one|Petit roux|Kleiner Rothaariger|Piccolo rosso|Pequeno ruivo
+Ruairí|m|celtic|irish|2|royal,classic|Rey rojo|Red king|Roi rouge|Roter König|Re rosso|Rei vermelho
+Ryan|m|celtic|irish,english|4|modern,royal|Pequeño rey|Little king|Petit roi|Kleiner König|Piccolo re|Pequeno rei
+Sadhbh|f|celtic|irish|3|mythology,sweet|Dulce, buena|Sweet, good|Douce, bonne|Süß, gut|Dolce, buona|Doce, boa
+Saoirse|f|celtic|irish|4|virtue,modern|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Seán|m|hebrew|irish|4|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Séamus|m|hebrew|irish|3|biblical,classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Seren|f|celtic|welsh|3|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Shane|m|hebrew|irish,english|3|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Shannon|f|celtic|irish,english|3|place,nature|Río Shannon|River Shannon|Fleuve Shannon|Fluss Shannon|Fiume Shannon|Rio Shannon
+Shauna|f|hebrew|irish|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Shona|f|hebrew|scottish|3|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Siân|f|hebrew|welsh|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sinéad|f|hebrew|irish|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Siobhán|f|hebrew|irish|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Siwan|f|hebrew|welsh|1|biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Skye|f|celtic|scottish,english|3|place,celestial|Isla de Skye|Isle of Skye|Île de Skye|Insel Skye|Isola di Skye|Ilha de Skye
+Sorcha|f|celtic|irish|3|light,virtue|Luminosidad, claridad|Brightness, radiance|Clarté, éclat|Helligkeit, Glanz|Luminosità, chiarezza|Luminosidade, clareza
+Tadhg|m|celtic|irish|2|classic|Poeta, bardo|Poet, bard|Poète, barde|Dichter, Barde|Poeta, bardo|Poeta, bardo
+Taliesin|m|celtic|welsh|1|music,mythology|Frente brillante|Shining brow|Front rayonnant|Strahlende Stirn|Fronte splendente|Fronte radiante
+Tamsin|f|hebrew|english|3|classic|Gemela|Twin|Jumelle|Zwilling|Gemella|Gémea
+Tara|f|celtic|irish,english|3|place,mythology|Colina|Hill|Colline|Hügel|Collina|Colina
+Tegan|f|celtic|welsh,english|3|modern,sweet|Hermosa, bonita|Beautiful, lovely|Belle, jolie|Schön, hübsch|Bella, graziosa|Bela, bonita
+Tiernan|m|celtic|irish|2|royal,classic|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Trefor|m|celtic|welsh|2|place,classic|Gran poblado|Large settlement|Grand village|Große Siedlung|Grande insediamento|Grande povoado
+Demelza|f|celtic|english|2|place,modern|Fuerte de Maeldaf|Fort of Maeldaf|Fort de Maeldaf|Burg des Maeldaf|Fortezza di Maeldaf|Forte de Maeldaf
+Yann|m|hebrew|french|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso

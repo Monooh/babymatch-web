@@ -1,0 +1,67 @@
+Ada|f|germanic|italian,english,german|2|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Albina|f|latin|italian|1|vintage,light|Blanca|White|Blanche|Weiß|Bianca|Branca
+Alda|f|germanic|italian|1|vintage|Anciana, sabia|Old, wise|Vieille, sage|Alt, weise|Anziana, saggia|Idosa, sábia
+Amabile|f|latin|italian|1|virtue,sweet,vintage|Amable|Lovable|Aimable|Liebenswert|Amabile|Amável
+Aquilina|f|latin|italian|1|animal,vintage|Como un águila|Eagle-like|Semblable à l'aigle|Adlergleich|Simile a un'aquila|Como uma águia
+Ausilia|f|latin|italian|1|saint,vintage|Auxilio, ayuda|Help, aid|Secours, aide|Hilfe, Beistand|Aiuto, soccorso|Auxílio, ajuda
+Bibiana|f|latin|italian|1|saint,vintage|Viva|Lively|Vivante|Lebendig|Viva|Viva
+Candida|f|latin|italian|1|virtue,light,vintage|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura
+Clarissa|f|latin|italian|2|saint,light|Muy clara|Very bright|Très claire|Sehr hell|Molto chiara|Muito clara
+Colomba|f|latin|italian|2|saint,animal,sweet|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Corinna|f|greek|italian,german|1|literary,vintage|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Cosima|f|greek|italian,german|1|vintage,saint|Orden, armonía|Order, harmony|Ordre, harmonie|Ordnung, Harmonie|Ordine, armonia|Ordem, harmonia
+Domenica|f|latin|italian|1|saint,vintage|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Edera|f|latin|italian|1|nature,vintage|Hiedra|Ivy|Lierre|Efeu|Edera|Hera
+Eufrasia|f|greek|italian|1|saint,vintage|Alegría|Joy|Joie|Freude|Allegria|Alegria
+Felicia|f|latin|italian,english|2|virtue,classic|Afortunada|Fortunate|Fortunée|Glücklich|Fortunata|Afortunada
+Gelsomina|f|arabic|italian|1|flower,vintage|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Imelda|f|germanic|italian,spanish|1|saint,vintage|Combate total|Universal battle|Combat universel|Allumfassender Kampf|Battaglia universale|Combate universal
+Iride|f|greek|italian|1|mythology,celestial|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Lauretta|f|latin|italian|1|nature,vintage|Laurel pequeño|Little laurel|Petit laurier|Kleiner Lorbeer|Piccolo alloro|Pequeno louro
+Maristella|f|latin|italian|1|sea,celestial,saint|Estrella del mar|Star of the sea|Étoile de la mer|Stern des Meeres|Stella del mare|Estrela do mar
+Severa|f|latin|italian|1|virtue,vintage|Severa|Severe|Sévère|Streng|Severa|Severa
+Urania|f|greek|italian|1|mythology,celestial|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Aurelia|f|latin|italian,spanish,german|2|classic,vintage|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Evangelina|f|greek|italian,spanish|1|vintage,virtue|Portadora de buenas noticias|Bearer of good news|Porteuse de bonne nouvelle|Überbringerin froher Botschaft|Portatrice di buone notizie|Portadora de boas notícias
+Armonia|f|greek|italian|1|music,mythology|Armonía|Harmony|Harmonie|Harmonie|Armonia|Harmonia
+Aria|f|greek|italian|3|music,modern,trendy|Aire, melodía|Air, melody|Air, mélodie|Luft, Melodie|Aria, melodia|Ar, melodia
+Berta|f|germanic|italian|1|vintage,light|Brillante|Bright|Brillante|Glänzend|Splendente|Brilhante
+Dina|f|hebrew|italian|1|biblical,vintage|Juicio|Judgment|Jugement|Urteil|Giudizio|Julgamento
+Gertrude|f|germanic|italian|1|saint,vintage,strong|Fuerza de la lanza|Spear strength|Force de la lance|Speerkraft|Forza della lancia|Força da lança
+Modesta|f|latin|italian|1|virtue,vintage|Modesta|Modest|Modeste|Bescheiden|Modesta|Modesta
+Rufina|f|latin|italian|1|saint,vintage|Pelirroja|Red-haired|Rousse|Rothaarig|Rossa|Ruiva
+Abramo|m|hebrew|italian|1|biblical,vintage|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de muitos
+Abele|m|hebrew|italian|1|biblical,vintage|Aliento, soplo|Breath|Souffle|Hauch|Soffio|Sopro
+Adolfo|m|germanic|italian,spanish|1|vintage,animal|Lobo noble|Noble wolf|Loup noble|Edler Wolf|Nobile lupo|Lobo nobre
+Alarico|m|germanic|italian|1|vintage,royal,warrior|Gobernante de todos|Ruler of all|Souverain de tous|Herrscher über alle|Sovrano di tutti|Governante de todos
+Albino|m|latin|italian|1|vintage,light|Blanco|White|Blanc|Weiß|Bianco|Branco
+Anastasio|m|greek|italian|1|saint,vintage|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Aquilino|m|latin|italian|1|animal,vintage|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Arcangelo|m|greek|italian|1|saint,biblical|Arcángel|Archangel|Archange|Erzengel|Arcangelo|Arcanjo
+Ariele|m|hebrew|italian|1|biblical,animal,modern|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Baldo|m|germanic|italian|1|vintage,strong|Audaz|Bold|Audacieux|Kühn|Audace|Audaz
+Bonaventura|m|latin|italian|1|saint,vintage|Buena fortuna|Good fortune|Bonne fortune|Gutes Glück|Buona ventura|Boa sorte
+Candido|m|latin|italian|1|virtue,vintage|Blanco, puro|White, pure|Blanc, pur|Weiß, rein|Bianco, puro|Branco, puro
+Carmelo|m|hebrew|italian,spanish|2|saint,nature,vintage|Jardín de Dios|Garden of God|Jardin de Dieu|Garten Gottes|Giardino di Dio|Jardim de Deus
+Cipriano|m|latin|italian,spanish|1|saint,place,vintage|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Colombano|m|latin|italian|1|saint,animal,vintage|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Crescenzo|m|latin|italian|1|saint,vintage|Creciente|Growing|Croissant|Wachsend|Crescente|Crescente
+Cristoforo|m|greek|italian|2|saint,classic|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Edgardo|m|germanic|italian,spanish|1|vintage,royal|Lanza de la prosperidad|Spear of prosperity|Lance de la prospérité|Speer des Wohlstands|Lancia della prosperità|Lança da prosperidade
+Eligio|m|latin|italian|1|saint,vintage|Elegido|Chosen|Élu|Auserwählt|Eletto|Escolhido
+Emiliano|m|latin|italian,spanish|2|classic,warrior|De la familia Emilia|Of the Aemilian clan|De la famille Émilia|Aus dem Geschlecht der Aemilier|Della gente Emilia|Da família Emília
+Evandro|m|greek|italian|1|mythology,vintage|Hombre bueno|Good man|Homme bon|Guter Mann|Uomo buono|Homem bom
+Ezechiele|m|hebrew|italian|1|biblical,vintage|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Isaia|m|hebrew|italian|2|biblical,saint|Yahvé salva|Yahweh saves|Yahvé sauve|Jahwe rettet|Il Signore salva|Javé salva
+Jacopo|m|hebrew|italian|2|biblical,saint,classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Lauro|m|latin|italian|1|nature,vintage|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Natanaele|m|hebrew|italian|1|biblical,vintage|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Noè|m|hebrew|italian|2|biblical,trendy|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Pacifico|m|latin|italian|1|virtue,saint,vintage|Pacífico|Peaceful|Pacifique|Friedfertig|Pacifico|Pacífico
+Pericle|m|greek|italian|1|classic,vintage|Rodeado de gloria|Surrounded by glory|Entouré de gloire|Von Ruhm umgeben|Circondato di gloria|Rodeado de glória
+Raniero|m|germanic|italian|1|vintage,warrior|Consejo del ejército|Army counsel|Conseil de l'armée|Rat des Heeres|Consiglio dell'esercito|Conselho do exército
+Sigfrido|m|germanic|italian|1|vintage,warrior,literary|Paz victoriosa|Victorious peace|Paix victorieuse|Siegreicher Frieden|Pace vittoriosa|Paz vitoriosa
+Cosma|m|greek|italian|1|saint,vintage|Orden, adorno|Order, ornament|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, ornamento
+Cleto|m|greek|italian|1|saint,vintage|Llamado|Called|Appelé|Gerufen|Chiamato|Chamado
+Teofilo|m|greek|italian|1|saint,vintage|Amigo de Dios|Friend of God|Ami de Dieu|Gottesfreund|Amico di Dio|Amigo de Deus
+Vigilio|m|latin|italian|1|saint,vintage|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante

@@ -1,0 +1,53 @@
+Abram|m|hebrew|english|2|biblical,vintage|Padre exaltado|Exalted father|Père exalté|Erhabener Vater|Padre esaltato|Pai exaltado
+Adonis|m|greek|english,greek|2|mythology,classic|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Ainsley|u|germanic|english,scottish|2|place,modern|Claro propio|One's own clearing|Clairière à soi|Eigene Lichtung|Radura propria|Clareira própria
+Alaric|m|germanic|english,german|2|royal,warrior|Gobernante de todos|Ruler of all|Souverain de tous|Herrscher über alle|Sovrano di tutti|Governante de todos
+Albie|m|germanic|english|3|sweet,vintage|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alder|u|germanic|english|1|nature|Aliso|Alder tree|Aulne|Erle|Ontano|Amieiro
+Aldric|m|germanic|english|1|royal,vintage|Viejo gobernante|Old ruler|Vieux souverain|Alter Herrscher|Vecchio sovrano|Velho governante
+Alex|u|greek|english,intl|4|classic,strong|Defensor de la humanidad|Defender of mankind|Défenseur de l'humanité|Beschützer der Menschheit|Difensore dell'umanità|Defensor da humanidade
+Alton|m|germanic|english|1|place,vintage|Pueblo antiguo|Old town|Vieille ville|Alte Stadt|Vecchia città|Cidade antiga
+Archibald|m|germanic|english,scottish|2|vintage,strong|Auténtico y audaz|Genuine and bold|Authentique et audacieux|Echt und kühn|Autentico e audace|Autêntico e audaz
+Asaph|m|hebrew|english|1|biblical,music|Él reúne|He gathers|Il rassemble|Er sammelt|Egli raduna|Ele reúne
+Ashby|m|germanic|english|1|place,nature|Granja de los fresnos|Ash tree farm|Ferme des frênes|Eschenhof|Fattoria dei frassini|Quinta dos freixos
+Ashford|m|germanic|english|1|place,nature|Vado de los fresnos|Ford by the ash trees|Gué des frênes|Furt bei den Eschen|Guado dei frassini|Vau dos freixos
+Aston|m|germanic|english|2|place,modern|Pueblo del este|East town|Ville de l'est|Östliche Stadt|Città dell'est|Cidade do leste
+Athelstan|m|germanic|english|1|royal,vintage|Piedra noble|Noble stone|Pierre noble|Edler Stein|Pietra nobile|Pedra nobre
+Atwood|m|germanic|english|1|place,nature|Junto al bosque|At the wood|Près du bois|Am Wald|Presso il bosco|Junto ao bosque
+Avon|u|celtic|english,welsh|1|nature,place|Río|River|Rivière|Fluss|Fiume|Rio
+Axel|m|norse|english,scandinavian,german|4|modern,strong|Padre de la paz|Father of peace|Père de la paix|Vater des Friedens|Padre della pace|Pai da paz
+Azariah|m|hebrew|english|1|biblical|Yahvé ha ayudado|Yahweh has helped|Yahvé a aidé|Jahwe hat geholfen|Yahweh ha aiutato|Javé ajudou
+Baldwin|m|germanic|english|1|vintage,strong|Amigo audaz|Bold friend|Ami audacieux|Kühner Freund|Amico audace|Amigo audaz
+Barak|m|hebrew|english|1|biblical|Relámpago|Lightning|Éclair|Blitz|Fulmine|Relâmpago
+Barclay|m|germanic|english,scottish|1|place|Prado de abedules|Birch meadow|Pré de bouleaux|Birkenwiese|Prato di betulle|Prado de bétulas
+Barnabas|m|hebrew|english|2|biblical,vintage|Hijo del consuelo|Son of encouragement|Fils de l'encouragement|Sohn des Trostes|Figlio dell'esortazione|Filho do encorajamento
+Barton|m|germanic|english|1|place,nature|Granja de cebada|Barley farm|Ferme d'orge|Gerstenhof|Fattoria d'orzo|Quinta de cevada
+Bellamy|u|latin|english|1|vintage|Buen amigo|Fine friend|Bel ami|Guter Freund|Bell'amico|Bom amigo
+Bevan|m|celtic|welsh,english|1|strong|Hijo de Evan|Son of Evan|Fils d'Evan|Sohn des Evan|Figlio di Evan|Filho de Evan
+Billy|m|germanic|english|3|classic|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Birch|u|germanic|english|1|nature|Abedul|Birch tree|Bouleau|Birke|Betulla|Bétula
+Bowen|m|celtic|welsh,english|1|strong|Hijo de Owen|Son of Owen|Fils d'Owen|Sohn des Owen|Figlio di Owen|Filho de Owen
+Boyd|m|celtic|scottish,english|1|classic|De pelo claro|Fair-haired|Aux cheveux blonds|Blondhaarig|Biondo|De cabelo claro
+Braden|m|germanic|english|2|modern,place|Valle ancho|Broad valley|Large vallée|Breites Tal|Valle ampio|Vale largo
+Bran|u|celtic|welsh,english|1|animal,mythology|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Brent|m|celtic|english|2|place|Colina empinada|Steep hill|Colline escarpée|Steiler Hügel|Collina ripida|Colina íngreme
+Bryn|u|celtic|welsh,english|2|nature|Colina|Hill|Colline|Hügel|Collina|Colina
+Buck|m|germanic|english|1|animal|Ciervo macho|Male deer|Cerf mâle|Hirsch|Cervo maschio|Cervo macho
+Burton|m|germanic|english|1|place|Ciudad fortificada|Fortified town|Ville fortifiée|Befestigte Stadt|Città fortificata|Cidade fortificada
+Calum|m|latin|scottish,english|3|classic|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Camden|m|germanic|english|3|place,modern|Valle sinuoso|Winding valley|Vallée sinueuse|Gewundenes Tal|Valle sinuosa|Vale sinuoso
+Carwyn|m|celtic|welsh|2|love|Amor bendito|Blessed love|Amour béni|Gesegnete Liebe|Amore benedetto|Amor abençoado
+Casper|m|persian|english,dutch,scandinavian|3|classic|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Caspian|m|other|english|2|place,sea|Del mar Caspio|Of the Caspian Sea|De la mer Caspienne|Vom Kaspischen Meer|Del Mar Caspio|Do Mar Cáspio
+Chandler|m|latin|english|2|modern|Fabricante de velas|Candle maker|Fabricant de chandelles|Kerzenmacher|Candelaio|Fabricante de velas
+Chris|u|greek|english,intl|3|classic|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Clifton|m|germanic|english|2|place|Pueblo del acantilado|Cliff town|Ville de la falaise|Stadt am Kliff|Città sulla scogliera|Cidade da falésia
+Colt|m|germanic|english|2|animal,modern|Potro|Young horse|Jeune cheval|Junges Pferd|Puledro|Potro
+Constantine|m|latin|english,greek|2|classic,royal,virtue|Constante|Steadfast|Constant|Standhaft|Costante|Constante
+Cosmo|m|greek|english,italian|2|classic|Orden, universo|Order, universe|Ordre, univers|Ordnung, Universum|Ordine, universo|Ordem, universo
+Crawford|m|germanic|english,scottish|1|place|Vado del cuervo|Crow ford|Gué du corbeau|Krähenfurt|Guado del corvo|Vau do corvo
+Dalton|m|germanic|english|3|place,modern|Pueblo del valle|Valley town|Ville de la vallée|Talsiedlung|Città della valle|Cidade do vale
+Dante|m|latin|english,italian|3|literary,classic|Perseverante|Enduring|Persévérant|Ausdauernd|Duraturo|Perseverante
+Deacon|m|greek|english|2|modern|Servidor|Servant|Serviteur|Diener|Servitore|Servo
+Drake|m|germanic|english|3|modern,animal|Dragón|Dragon|Dragon|Drache|Drago|Dragão
+Duke|m|latin|english|2|royal|Líder|Leader|Chef|Anführer|Condottiero|Líder

@@ -1,0 +1,103 @@
+Edmundo|m|germanic|portuguese|2|vintage,royal|Protector de la riqueza|Wealthy protector|Protecteur de la richesse|Schützer des Wohlstands|Protettore della ricchezza|Protetor da riqueza
+Edna|f|hebrew|portuguese,english|2|vintage,biblical|Deleite, rejuvenecimiento|Delight, rejuvenation|Délice, rajeunissement|Freude, Verjüngung|Delizia, ringiovanimento|Deleite, rejuvenescimento
+Edvirges|f|germanic|portuguese|1|saint,vintage|Combate, batalla|Battle, combat|Combat, bataille|Kampf, Streit|Combattimento, battaglia|Combate, batalha
+Eleonora|f|greek|portuguese,italian|2|classic,royal|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Eleutério|m|greek|portuguese|1|saint,virtue|Libre|Free|Libre|Frei|Libero|Livre
+Elpídio|m|greek|portuguese|1|saint,virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Emanuela|f|hebrew|portuguese,italian|2|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus connosco
+Emiliano|m|latin|portuguese|2|classic,strong|Rival, émulo|Rival, emulator|Rival, émule|Nacheiferer|Rivale, emulo|Rival, êmulo
+Engrácia|f|latin|portuguese|1|saint,vintage|En gracia|In grace|En grâce|In Gnade|In grazia|Em graça
+Epifânio|m|greek|portuguese|1|saint|Manifestación, aparición|Manifestation, appearance|Manifestation, apparition|Erscheinung|Manifestazione, apparizione|Manifestação, aparição
+Erasmo|m|greek|portuguese,spanish|2|classic,saint|Amado|Beloved|Bien-aimé|Geliebt|Amato|Amado
+Érico|m|norse|portuguese|3|royal,strong|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Érica|f|norse|portuguese|3|royal,strong|Gobernante eterna|Eternal ruler|Souveraine éternelle|Ewige Herrscherin|Sovrana eterna|Governante eterna
+Escolástica|f|latin|portuguese|1|saint,vintage|Erudita|Scholar|Érudite|Gelehrte|Erudita|Erudita
+Esperança|f|latin|portuguese|2|virtue,vintage|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Estefânia|f|greek|portuguese|3|classic,royal|Corona|Crown|Couronne|Krone|Corona|Coroa
+Estrela|f|latin|portuguese|2|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eufémia|f|greek|portuguese|1|saint,vintage|De buen hablar|Well-spoken|Qui parle bien|Wohlredend|Che parla bene|De boa fala
+Eufrásia|f|greek|portuguese|1|saint,vintage|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Eufrosina|f|greek|portuguese|1|saint,vintage|Alegría, regocijo|Mirth, joy|Gaieté, joie|Frohsinn, Freude|Allegria, gioia|Alegria, regozijo
+Eurico|m|germanic|portuguese|2|literary,royal|Gobernante poderoso|Mighty ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Eustáquio|m|greek|portuguese|1|saint,vintage|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Evandro|m|greek|portuguese|2|mythology,strong|Hombre bueno|Good man|Homme bon|Guter Mann|Uomo buono|Homem bom
+Fabiano|m|latin|portuguese|3|classic|De la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus der Familie Fabius|Della gente Fabia|Da família Fábia
+Fabrícia|f|latin|portuguese|2|classic|Artesana|Craftswoman|Artisane|Handwerkerin|Artigiana|Artífice
+Faustino|m|latin|portuguese|2|saint,vintage|Afortunado|Lucky|Chanceux|Glücklich|Fortunato|Afortunado
+Feliciano|m|latin|portuguese|2|saint,classic|Feliz, afortunado|Happy, fortunate|Heureux, fortuné|Glücklich|Felice, fortunato|Feliz, afortunado
+Fidélis|m|latin|portuguese|1|saint,virtue|Fiel|Faithful|Fidèle|Treu|Fedele|Fiel
+Fé|f|latin|portuguese|1|virtue,vintage|Fe|Faith|Foi|Glaube|Fede|Fé
+Felicidade|f|latin|portuguese|2|virtue,vintage|Felicidad|Happiness|Bonheur|Glück|Felicità|Felicidade
+Firmina|f|latin|portuguese|1|saint,vintage|Firme, constante|Firm, steadfast|Ferme, constante|Fest, beständig|Ferma, costante|Firme, constante
+Flaviana|f|latin|portuguese|2|classic|Rubia, dorada|Golden-haired|Blonde, dorée|Goldblond|Bionda, dorata|Loura, dourada
+Flor|f|latin|portuguese|2|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Florentina|f|latin|portuguese|2|vintage,flower|Floreciente|Flourishing|Florissante|Blühend|Fiorente|Florescente
+Florêncio|m|latin|portuguese|1|saint,vintage|Floreciente|Flourishing|Florissant|Blühend|Fiorente|Florescente
+Fradique|m|germanic|portuguese|1|literary,vintage|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedensherrscher|Sovrano pacifico|Governante pacífico
+Frutuoso|m|latin|portuguese|1|saint,vintage|Fructífero|Fruitful|Fécond|Fruchtbar|Fruttuoso|Frutuoso
+Fulgêncio|m|latin|portuguese|1|saint,light|Resplandeciente|Shining|Resplendissant|Strahlend|Splendente|Resplandecente
+Gaudêncio|m|latin|portuguese|1|saint,vintage|Alegre|Joyful|Joyeux|Fröhlich|Gioioso|Alegre
+Gedeão|m|hebrew|portuguese|2|biblical,warrior|Guerrero poderoso|Mighty warrior|Puissant guerrier|Mächtiger Krieger|Potente guerriero|Guerreiro poderoso
+Generoso|m|latin|portuguese|1|saint,virtue|Generoso, de noble cuna|Generous, noble-born|Généreux, bien né|Edel, großzügig|Generoso, di nobile stirpe|Generoso, de nobre estirpe
+Genésio|m|greek|portuguese|1|saint|Origen, nacimiento|Origin, birth|Origine, naissance|Ursprung, Geburt|Origine, nascita|Origem, nascimento
+Georgina|f|greek|portuguese,english|2|classic|Agricultora|Farmer|Agricultrice|Bäuerin|Agricoltrice|Agricultora
+Gerson|m|hebrew|portuguese|2|biblical|Extranjero allí|Stranger there|Étranger là-bas|Fremder dort|Straniero là|Estrangeiro ali
+Gilberto|m|germanic|portuguese|3|classic|Promesa brillante|Bright pledge|Gage brillant|Strahlendes Pfand|Pegno splendente|Promessa brilhante
+Gisela|f|germanic|portuguese|2|classic|Promesa, rehén|Pledge|Gage|Pfand|Pegno|Promessa
+Godofredo|m|germanic|portuguese|2|vintage,royal|Paz de Dios|God's peace|Paix de Dieu|Gottes Friede|Pace di Dio|Paz de Deus
+Gracinda|f|latin|portuguese|1|vintage,virtue|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Graziela|f|latin|portuguese|2|modern,virtue|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Haroldo|m|germanic|portuguese|2|warrior,royal|Gobernante del ejército|Army ruler|Chef de l'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Helga|f|norse|portuguese|1|strong|Santa|Holy|Sainte|Heilig|Santa|Santa
+Henry|m|germanic|portuguese,english|3|modern,royal|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Hércules|m|greek|portuguese|1|mythology,strong|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Hermano|m|germanic|portuguese|1|vintage|Hombre del ejército|Army man|Homme de l'armée|Heeresmann|Uomo dell'esercito|Homem do exército
+Hermínia|f|germanic|portuguese|2|vintage|Gran, universal|Great, universal|Grande, universelle|Groß, allumfassend|Grande, universale|Grande, universal
+Hilda|f|germanic|portuguese,german|2|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Hildebrando|m|germanic|portuguese|1|warrior,vintage|Espada de batalla|Battle sword|Épée de bataille|Kampfschwert|Spada di battaglia|Espada de batalha
+Hipólito|m|greek|portuguese|1|saint,mythology|Que desata los caballos|Horse releaser|Qui délie les chevaux|Pferdelöser|Che scioglie i cavalli|Que solta os cavalos
+Horácio|m|latin|portuguese|2|classic,literary|De la familia Horacia|Of the Horatius clan|De la famille Horatia|Aus dem Geschlecht der Horatier|Della gente Orazia|Da família Horácia
+Iago|m|hebrew|portuguese,galician|3|biblical,modern|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Ícaro|m|greek|portuguese|2|mythology|Seguidor|Follower|Suiveur|Nachfolger|Seguace|Seguidor
+Inácio|m|latin|portuguese|2|saint,classic|Ardiente, fogoso|Fiery, ardent|Ardent, fougueux|Feurig|Ardente, infuocato|Ardente, fogoso
+Inocência|f|latin|portuguese|1|literary,virtue|Inocencia|Innocence|Innocence|Unschuld|Innocenza|Inocência
+Ione|f|greek|portuguese|2|flower|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Ingrid|f|norse|portuguese,scandinavian|2|strong,vintage|Hermosa por Ing|Ing's beauty|Belle d'Ing|Schön durch Ing|Bella grazie a Ing|Bela por Ing
+Isidro|m|greek|portuguese,spanish|2|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Dom de Ísis
+Israel|m|hebrew|portuguese,hebrew|3|biblical,strong|El que lucha con Dios|He who struggles with God|Celui qui lutte avec Dieu|Der mit Gott ringt|Colui che lotta con Dio|Aquele que luta com Deus
+Jacira|f|native|portuguese|2|moon,light|Miel de la luna|Honey of the moon|Miel de la lune|Mondhonig|Miele della luna|Mel da lua
+Jade|f|other|portuguese,french,english|3|gem,modern|Piedra de jade|Jade stone|Pierre de jade|Jadestein|Pietra di giada|Pedra de jade
+Jaqueline|f|hebrew|portuguese,french|3|classic|La que suplanta|Supplanter|Celle qui supplante|Die Nachfolgende|Colei che soppianta|Aquela que suplanta
+Janaína|f|native|portuguese|3|sea,mythology|Reina del mar|Queen of the sea|Reine de la mer|Königin des Meeres|Regina del mare|Rainha do mar
+Janete|f|hebrew|portuguese|2|vintage|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jennifer|f|celtic|portuguese,english|3|modern|Ola blanca, hada|White wave, fair one|Vague blanche, belle|Weiße Welle, die Schöne|Onda bianca, bella|Onda branca, bela
+Jeremias|m|hebrew|portuguese|2|biblical,classic|Dios exalta|God exalts|Dieu élève|Gott erhöht|Dio esalta|Deus exalta
+Jessica|f|hebrew|portuguese,english|3|modern,literary|Dios ve|God beholds|Dieu voit|Gott sieht|Dio guarda|Deus vê
+Jesus|m|hebrew|portuguese,spanish|3|biblical,saint|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Jonatas|m|hebrew|portuguese|3|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Josias|m|hebrew|portuguese|2|biblical|Dios sostiene|God supports|Dieu soutient|Gott stützt|Dio sostiene|Deus sustenta
+Jovita|f|latin|portuguese|1|saint,vintage|Jovial, de Júpiter|Jovial, of Jupiter|Joviale, de Jupiter|Heiter, des Jupiter|Gioviale, di Giove|Jovial, de Júpiter
+Juçara|f|native|portuguese|2|nature,flower|Palmera de juçara|Juçara palm|Palmier juçara|Juçara-Palme|Palma juçara|Palmeira juçara
+Juliano|m|latin|portuguese|3|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gente Giulia|Da família Júlia
+Júnia|f|latin|portuguese|1|biblical,vintage|Del mes de junio|Of June|De juin|Des Juni|Di giugno|De junho
+Júnior|m|latin|portuguese|2|modern|Más joven|Younger|Plus jeune|Jüngerer|Più giovane|Mais novo
+Juvenal|m|latin|portuguese|1|classic,vintage|Juvenil|Youthful|Juvénile|Jugendlich|Giovanile|Juvenil
+Lara|f|greek|portuguese,english|4|modern,trendy|Ciudadela|Citadel|Citadelle|Zitadelle|Cittadella|Cidadela
+Laurindo|m|latin|portuguese|2|vintage,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Lauro|m|latin|portuguese|2|vintage,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Leocádia|f|greek|portuguese|1|saint,vintage|Blanca, luminosa|White, bright|Blanche, lumineuse|Weiß, leuchtend|Bianca, luminosa|Branca, luminosa
+Leôncio|m|latin|portuguese|1|saint,animal|León|Lion|Lion|Löwe|Leone|Leão
+Leônidas|m|greek|portuguese|2|warrior,animal|Hijo del león|Son of the lion|Fils du lion|Sohn des Löwen|Figlio del leone|Filho do leão
+Leopoldina|f|germanic|portuguese|2|royal,vintage|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Lilian|f|latin|portuguese|2|flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Liliana|f|latin|portuguese,spanish,italian|3|flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lopo|m|latin|portuguese|1|vintage,animal|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Lorenzo|m|latin|portuguese,italian|4|trendy,modern|Laureado, de Laurento|Laurelled, of Laurentum|Couronné de laurier|Der Lorbeergekrönte|Coronato d'alloro|Coroado de louros
+Lua|f|latin|portuguese|2|celestial,modern|Luna|Moon|Lune|Mond|Luna|Lua
+Lucca|m|latin|portuguese,italian|4|trendy,modern|Luminoso, nacido con la luz|Bringer of light|Porteur de lumière|Lichtbringer|Portatore di luce|Portador de luz
+Lucíola|f|latin|portuguese|1|literary,light|Lucecita|Little light|Petite lumière|Kleines Licht|Piccola luce|Pequena luz
+Lucrécia|f|latin|portuguese|2|classic,vintage|Riqueza, ganancia|Wealth, gain|Richesse, gain|Reichtum, Gewinn|Ricchezza, guadagno|Riqueza, ganho
+Ludgero|m|germanic|portuguese|1|saint,vintage|Lanza del pueblo|Spear of the people|Lance du peuple|Speer des Volkes|Lancia del popolo|Lança do povo
+Ludovico|m|germanic|portuguese,italian|1|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Luiza|f|germanic|portuguese|5|classic,modern|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Luzia|f|latin|portuguese|3|saint,light|Luz|Light|Lumière|Licht|Luce|Luz

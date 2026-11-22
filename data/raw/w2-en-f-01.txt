@@ -1,0 +1,75 @@
+Abbie|f|hebrew|english|2|sweet,classic|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Abby|f|hebrew|english|3|sweet,classic|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Adela|f|germanic|english|2|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adelina|f|germanic|english,italian|2|classic,sweet|Pequeña noble|Little noble one|Petite noble|Kleine Edle|Piccola nobile|Pequena nobre
+Adriana|f|latin|english,italian,spanish,portuguese|3|classic|De Hadria|From Hadria|De Hadria|Aus Hadria|Di Adria|De Hadria
+Aisling|f|celtic|irish,english|3|modern,sweet|Sueño, visión|Dream, vision|Rêve, vision|Traum, Vision|Sogno, visione|Sonho, visão
+Alberta|f|germanic|english|1|vintage|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alethea|f|greek|english|1|vintage,virtue|Verdad|Truth|Vérité|Wahrheit|Verità|Verdade
+Alexa|f|greek|english|3|modern|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexandria|f|greek|english|2|classic,royal|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexandrina|f|greek|english|1|vintage,royal|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexia|f|greek|english,french|2|classic|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Alfreda|f|germanic|english|1|vintage|Consejo de los elfos|Elf counsel|Conseil des elfes|Rat der Elfen|Consiglio degli elfi|Conselho dos elfos
+Allegra|f|latin|english,italian|2|music,sweet|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra, vivace|Alegre
+Althea|f|greek|english|2|vintage|Sanadora|Healer|Guérisseuse|Heilerin|Guaritrice|Curadora
+Alyssa|f|greek|english|3|modern,flower|Flor de alisón|Alyssum flower|Fleur d'alysson|Steinkraut-Blume|Fiore di alisso|Flor de alisso
+Amabel|f|latin|english|1|vintage,love|Amable, digna de amor|Lovable|Aimable|Liebenswert|Amabile|Amável
+Amalia|f|germanic|english,german,italian|2|classic|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Laboriosa
+Ambrosia|f|greek|english|1|mythology,sweet|Inmortalidad|Immortality|Immortalité|Unsterblichkeit|Immortalità|Imortalidade
+Amethyst|f|greek|english|2|gem|Que no embriaga|Not intoxicated|Non enivrée|Nicht berauscht|Non ebbra|Não embriagada
+Amity|f|latin|english|1|virtue|Amistad|Friendship|Amitié|Freundschaft|Amicizia|Amizade
+Anemone|f|greek|english|1|flower|Flor del viento|Daughter of the wind|Fille du vent|Windröschen|Figlia del vento|Filha do vento
+Angharad|f|celtic|welsh,english|2|love|Muy amada|Much loved|Très aimée|Sehr geliebt|Molto amata|Muito amada
+Anita|f|hebrew|english|2|classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Antigone|f|greek|english|1|mythology,strong|En lugar de la madre|Against birth|Contre la naissance|Gegen die Geburt|Contro la nascita|Contra o nascimento
+Antoinette|f|latin|english,french|2|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonia|f|latin|english,german,italian|2|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Aoife|f|celtic|irish,english|3|mythology,sweet|Belleza, resplandor|Beauty, radiance|Beauté, éclat|Schönheit, Glanz|Bellezza, splendore|Beleza, esplendor
+Aretha|f|greek|english|1|virtue|Excelente|Excellent|Excellente|Vortrefflich|Eccellente|Excelente
+Ariella|f|hebrew|english|2|modern,strong|Leona de Dios|Lioness of God|Lionne de Dieu|Löwin Gottes|Leonessa di Dio|Leoa de Deus
+Aster|f|greek|english|1|flower,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Astra|f|greek|english|1|celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Atalanta|f|greek|english|1|mythology,strong|De igual peso|Equal in weight|De poids égal|Gleich im Gewicht|Pari in peso|De igual peso
+Athalia|f|hebrew|english|1|biblical|Dios es exaltado|God is exalted|Dieu est exalté|Gott ist erhaben|Dio è esaltato|Deus é exaltado
+Aurelia|f|latin|english|2|vintage,light|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Avalon|f|celtic|english|2|mythology,place|Isla de las manzanas|Isle of apples|Île des pommes|Apfelinsel|Isola delle mele|Ilha das maçãs
+Azalea|f|greek|english|2|flower|Tierra seca|Dry earth|Terre sèche|Trockene Erde|Terra secca|Terra seca
+Belle|f|latin|english,french|2|sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Benita|f|latin|english,spanish,italian|1|virtue|Bendecida|Blessed|Bénie|Gesegnete|Benedetta|Abençoada
+Bethan|f|hebrew|welsh,english|2|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Betty|f|hebrew|english|2|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Beulah|f|hebrew|english|1|biblical,vintage|Casada|Married|Mariée|Verheiratete|Sposata|Casada
+Birdie|f|germanic|english|2|vintage,animal|Pajarito|Little bird|Petit oiseau|Vögelchen|Uccellino|Passarinho
+Bliss|f|germanic|english|1|virtue,sweet|Felicidad|Joy, happiness|Félicité|Glückseligkeit|Beatitudine|Felicidade
+Blodwen|f|celtic|welsh,english|1|flower,vintage|Flor blanca|White flower|Fleur blanche|Weiße Blume|Fiore bianco|Flor branca
+Brenna|f|celtic|english,irish|2|modern,animal|Pequeño cuervo|Little raven|Petit corbeau|Kleiner Rabe|Piccolo corvo|Pequeno corvo
+Briallen|f|celtic|welsh|1|flower|Prímula|Primrose|Primevère|Primel|Primula|Prímula
+Bridgit|f|celtic|irish,english|1|saint|La exaltada|The exalted one|L'exaltée|Die Erhabene|L'eccelsa|A exaltada
+Brigid|f|celtic|irish,english|2|saint,mythology|La exaltada|The exalted one|L'exaltée|Die Erhabene|L'eccelsa|A exaltada
+Brielle|f|hebrew|english|2|modern|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Brynn|f|celtic|english,welsh|2|modern,place|Colina|Hill|Colline|Hügel|Collina|Colina
+Cadence|f|latin|english|3|modern,music|Ritmo|Rhythm|Rythme|Rhythmus|Ritmo|Ritmo
+Calla|f|greek|english|2|flower|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Calista|f|greek|english|2|mythology|La más hermosa|Most beautiful|La plus belle|Die Schönste|La più bella|A mais bela
+Camellia|f|other|english|1|flower|Camelia|Camellia flower|Camélia|Kamelie|Camelia|Camélia
+Candida|f|latin|english|1|vintage,virtue|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura
+Carys|f|celtic|welsh,english|3|love,modern|Amor|Love|Amour|Liebe|Amore|Amor
+Carolyn|f|germanic|english|2|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carrie|f|germanic|english|2|vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cate|f|greek|english|2|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Catrin|f|greek|welsh,english|2|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Cerys|f|celtic|welsh,english|3|love,modern|Amor|Love|Amour|Liebe|Amore|Amor
+Charis|f|greek|english|1|virtue,classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Charity|f|latin|english|2|virtue,vintage|Caridad, amor|Charity, love|Charité, amour|Nächstenliebe|Carità, amore|Caridade, amor
+Charlene|f|germanic|english|2|vintage|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Ciara|f|celtic|irish,english|3|modern|Oscura|Dark one|La brune|Die Dunkle|La scura|A morena
+Clarice|f|latin|english,french|2|vintage|Clara, brillante|Bright, clear|Claire, brillante|Hell, strahlend|Chiara, luminosa|Clara, brilhante
+Clodagh|f|celtic|irish|2|place|Río de Tipperary|River in Tipperary|Rivière de Tipperary|Fluss in Tipperary|Fiume di Tipperary|Rio de Tipperary
+Clover|f|germanic|english|2|nature,flower|Trébol|Clover|Trèfle|Klee|Trifoglio|Trevo
+Colette|f|greek|english,french|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Comfort|f|latin|english|1|virtue,vintage|Consuelo|Comfort|Réconfort|Trost|Conforto|Conforto
+Coralie|f|greek|english,french|2|sea,sweet|Coral|Coral|Corail|Koralle|Corallo|Coral
+Cornelia|f|latin|english,german|2|classic|Cuerno|Horn|Corne|Horn|Corno|Corno
+Cosima|f|greek|english,german,italian|2|vintage|Orden, belleza|Order, beauty|Ordre, beauté|Ordnung, Schönheit|Ordine, bellezza|Ordem, beleza
+Cressida|f|greek|english|1|literary|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada

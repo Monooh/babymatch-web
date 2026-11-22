@@ -1,0 +1,98 @@
+Dahlia|f|other|french|2|flower,modern|Dalia|Dahlia|Dahlia|Dahlie|Dalia|Dália
+Damien|m|greek|french|3|saint,classic|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Daniel|m|hebrew|french,english,german,intl|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Danielle|f|hebrew|french|1|biblical,vintage|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+David|m|hebrew|french,english,german,intl|3|biblical,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Delphine|f|greek|french|3|animal,classic,sea|Delfín, de Delfos|Dolphin, of Delphi|Dauphin, de Delphes|Delfin, aus Delphi|Delfino, di Delfi|Golfinho, de Delfos
+Denis|m|greek|french|2|saint,classic|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dioniso
+Denise|f|greek|french|1|vintage,saint|Consagrada a Dioniso|Devoted to Dionysus|Consacrée à Dionysos|Dionysos geweiht|Consacrata a Dioniso|Consagrada a Dioniso
+Désiré|m|latin|french|1|vintage,love|Deseado|Desired|Désiré|Ersehnt|Desiderato|Desejado
+Didier|m|latin|french|2|classic,love|Deseado|Desired|Désiré|Ersehnt|Desiderato|Desejado
+Diane|f|latin|french,english|3|mythology,celestial,classic|Divina|Divine|Divine|Die Göttliche|Divina|Divina
+Dimitri|m|greek|french,russian|3|classic,mythology|Consagrado a Deméter|Devoted to Demeter|Dédié à Déméter|Demeter geweiht|Devoto a Demetra|Dedicado a Deméter
+Dominique|u|latin|french|3|saint,classic|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Dorian|m|greek|french|3|modern,literary|De la Dóride|From Doris|De la Doride|Aus Dorien|Della Doride|Da Dóris
+Dorothée|f|greek|french|2|saint,vintage|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Édith|f|germanic|french,english|2|vintage,warrior|Lucha por la riqueza|Prosperous in battle|Combat pour la richesse|Kampf um Reichtum|Lotta per la ricchezza|Luta pela riqueza
+Edmond|m|germanic|french|2|vintage,royal|Protector próspero|Prosperous protector|Protecteur prospère|Reicher Beschützer|Protettore prospero|Protetor próspero
+Édouard|m|germanic|french|3|royal,classic|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Wächter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Edwige|f|germanic|french|1|vintage,warrior|Lucha, guerra|Battle, strife|Combat, guerre|Kampf, Krieg|Lotta, guerra|Luta, guerra
+Éliane|f|hebrew|french|1|vintage,biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Élias|m|hebrew|french,german|3|biblical,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Élie|m|hebrew|french|3|biblical,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Éliott|m|hebrew|french|4|modern,trendy|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Élise|f|hebrew|french|4|classic,music,sweet|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Élisabeth|f|hebrew|french|2|biblical,royal,classic|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Élodie|f|germanic|french|3|classic,sweet|Bien heredado|Inherited estate|Bien héréditaire|Erbbesitz|Patrimonio ereditato|Bem herdado
+Éloi|m|latin|french|2|saint,vintage|Elegido|Chosen|Élu|Auserwählt|Eletto|Eleito
+Emma|f|germanic|french,english,german,intl|5|classic,royal|Universal|Whole, universal|Universelle|Allumfassend|Universale|Universal
+Emmanuel|m|hebrew|french|3|biblical,classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Emmanuelle|f|hebrew|french|2|biblical,classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Enora|f|latin|french|3|modern,virtue|Honor|Honour|Honneur|Ehre|Onore|Honra
+Émile|m|latin|french|4|vintage,classic|Rival|Rival|Rival|Rivale|Rivale|Rival
+Émilie|f|latin|french|3|classic,sweet|Rival, laboriosa|Rival, industrious|Rivale, travailleuse|Rivalin, fleißig|Rivale, laboriosa|Rival, trabalhadora
+Émilien|m|latin|french|3|classic|Rival|Rival|Rival|Rivale|Rivale|Rival
+Éric|m|norse|french,german,scandinavian|3|classic,royal|Soberano eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Soberano eterno
+Ernest|m|germanic|french,english|2|vintage,virtue|Serio, decidido|Earnest, serious|Sérieux, résolu|Ernst, entschlossen|Serio, risoluto|Sério, resoluto
+Estelle|f|latin|french|3|celestial,light,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Esther|f|persian|french,english,german|3|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Étienne|m|greek|french|3|saint,classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Eugène|m|greek|french|2|vintage,royal|Bien nacido|Well-born|Bien né|Wohlgeboren|Nobile di nascita|Bem-nascido
+Eugénie|f|greek|french|2|vintage,royal|Bien nacida|Well-born|Bien née|Wohlgeboren|Nobile di nascita|Bem-nascida
+Eulalie|f|greek|french|2|saint,vintage|Bien hablada|Well-spoken|Bien parlante|Wohlredend|Ben parlante|Bem-falante
+Éva|f|hebrew|french|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Ève|f|hebrew|french|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Évariste|m|greek|french|1|vintage,virtue|Excelente|Excellent|Excellent|Vortrefflich|Eccellente|Excelente
+Ézéchiel|m|hebrew|french|1|biblical|Dios da fuerza|God strengthens|Dieu rend fort|Gott macht stark|Dio rende forte|Deus fortalece
+Fabien|m|latin|french|3|classic,saint|Haba|Bean|Fève|Bohne|Fava|Fava
+Fabienne|f|latin|french|2|classic|Haba|Bean|Fève|Bohne|Fava|Fava
+Fabrice|m|latin|french|2|classic|Artesano|Craftsman|Artisan|Handwerker|Artigiano|Artesão
+Fanny|f|latin|french,english|2|vintage,sweet|Libre|Free|Libre|Frei|Libera|Livre
+Faustine|f|latin|french|3|vintage,virtue|Afortunada|Fortunate|Heureuse, favorisée|Glückliche|Fortunata|Afortunada
+Félicie|f|latin|french|2|vintage,virtue|Feliz|Happy|Heureuse|Glücklich|Felice|Feliz
+Félicité|f|latin|french|2|virtue,vintage|Felicidad|Happiness|Bonheur|Glückseligkeit|Felicità|Felicidade
+Félix|m|latin|french,german,spanish|4|virtue,classic|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich|Felice, fortunato|Feliz, afortunado
+Fleur|f|latin|french,english|2|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Flavie|f|latin|french|2|vintage,light|Rubia|Golden-haired|Blonde|Die Blonde|Bionda|Loira
+Flavien|m|latin|french|2|vintage,classic|Rubio|Golden-haired|Blond|Der Blonde|Biondo|Louro
+Florence|f|latin|french,english|2|place,flower,classic|Floreciente|Flourishing|Fleurissante|Blühend|Fiorente|Florescente
+Florent|m|latin|french|2|flower,classic|Floreciente|Flourishing|Fleurissant|Blühend|Fiorente|Florescente
+Florentin|m|latin|french|2|place,classic|De Florencia|From Florence|De Florence|Aus Florenz|Fiorentino|De Florença
+Florian|m|latin|french,german|3|flower,classic|Florido|Flowering|Fleuri|Blühend|Fiorito|Florido
+François|m|germanic|french|4|saint,classic|Libre, franco|Free man, Frank|Franc, libre|Franke, freier Mann|Franco, libero|Franco, livre
+Françoise|f|germanic|french|2|saint,classic|Libre, franca|Free woman, Frank|Franque, libre|Fränkin, freie Frau|Franca, libera|Franca, livre
+Frédéric|m|germanic|french|2|classic,royal|Gobernante pacífico|Peaceful ruler|Chef pacifique|Friedensherrscher|Sovrano pacifico|Governante pacífico
+Frédérique|f|germanic|french|1|classic,royal|Gobernante pacífica|Peaceful ruler|Chef pacifique|Friedensherrscherin|Sovrana pacifica|Governante pacífica
+Gabriel|m|hebrew|french,english,portuguese,spanish,german|5|biblical,classic,saint|Dios es mi fuerza|God is my strength|Force de Dieu|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gabrielle|f|hebrew|french|4|biblical,classic|Dios es mi fuerza|God is my strength|Force de Dieu|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gaël|u|celtic|french|3|modern,strong|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Gaëlle|f|celtic|french|3|modern,sweet|Generosa|Generous|Généreuse|Großzügig|Generosa|Generosa
+Gaëtan|m|latin|french|2|classic,place|De Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Garance|f|other|french|3|nature,modern|Rubia, planta tintórea|Madder, dye plant|Garance, plante tinctoriale|Krapp, Färberpflanze|Robbia, pianta tintoria|Granza, planta tintureira
+Gaspard|m|persian|french|4|biblical,vintage|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Gautier|m|germanic|french|2|vintage,warrior|Jefe del ejército|Ruler of the army|Chef d'armée|Heerführer|Capo dell'esercito|Chefe do exército
+Geoffroy|m|germanic|french|2|vintage,classic|Paz de Dios|Peace of God|Paix de Dieu|Gottesfrieden|Pace di Dio|Paz de Deus
+Georges|m|greek|french|3|saint,classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Gérald|m|germanic|french|1|vintage,warrior|Gobierno de la lanza|Rule of the spear|Pouvoir de la lance|Herrschaft des Speers|Dominio della lancia|Poder da lança
+Gérard|m|germanic|french|2|classic,warrior|Lanza valiente|Brave spear|Lance courageuse|Tapferer Speer|Lancia coraggiosa|Lança corajosa
+Germain|m|latin|french|2|saint,vintage|Hermano, hermano de sangre|Brother|Frère, germain|Bruder|Fratello|Irmão
+Germaine|f|latin|french|1|vintage,saint|Hermana|Sister|Sœur, germaine|Schwester|Sorella|Irmã
+Gisèle|f|germanic|french|2|vintage,classic|Prenda, rehén|Pledge|Gage, otage|Pfand|Pegno|Penhor
+Grâce|f|latin|french|3|virtue,sweet|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Grégoire|m|greek|french|3|saint,classic|Vigilante|Watchful|Vigilant|Wachsam|Vigilante|Vigilante
+Guillaume|m|germanic|french|3|classic,warrior|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Gustave|m|germanic|french|3|vintage,royal|Apoyo de los godos|Staff of the Goths|Appui des Goths|Stütze der Goten|Sostegno dei Goti|Apoio dos godos
+Gwenaëlle|f|celtic|french|2|modern,sweet|Blanca y generosa|White and generous|Blanche et généreuse|Weiß und großzügig|Bianca e generosa|Branca e generosa
+Hadrien|m|latin|french|2|royal,vintage|De la ciudad de Hadria|From the town of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Hélène|f|greek|french|3|classic,light,mythology|Antorcha, brillante|Torch, shining one|Torche, brillante|Fackel, die Strahlende|Fiaccola, splendente|Tocha, brilhante
+Henri|m|germanic|french|3|royal,classic|Gobernante del hogar|Ruler of the home|Chef de la maison|Herrscher des Hauses|Signore della casa|Senhor do lar
+Henriette|f|germanic|french|1|vintage,royal|Gobernante del hogar|Ruler of the home|Chef de la maison|Herrscherin des Hauses|Signora della casa|Senhora do lar
+Hector|m|greek|french,english|2|mythology,warrior|El que sostiene|Holding fast|Qui tient bon|Der Standhafte|Colui che tiene saldo|Aquele que se mantém firme
+Hermine|f|other|french|2|animal,vintage|Armiño|Ermine|Hermine|Hermelin|Ermellino|Arminho
+Hippolyte|m|greek|french|1|mythology,vintage|El que libera caballos|Who frees the horses|Qui délie les chevaux|Der die Pferde löst|Colui che libera i cavalli|Aquele que solta os cavalos
+Honoré|m|latin|french|1|vintage,virtue|Honrado|Honoured|Honoré|Geehrt|Onorato|Honrado
+Honorine|f|latin|french|1|vintage,virtue|Honrada|Honoured|Honorée|Geehrt|Onorata|Honrada
+Hortense|f|latin|french|2|vintage,flower|Del jardín|Of the garden|Du jardin|Aus dem Garten|Del giardino|Do jardim
+Hubert|m|germanic|french|2|vintage,saint|Espíritu brillante|Bright mind|Esprit brillant|Heller Geist|Mente brillante|Mente brilhante
+Hugo|m|germanic|french,spanish,german,portuguese|5|classic,literary|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Hugues|m|germanic|french|1|vintage,royal|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito

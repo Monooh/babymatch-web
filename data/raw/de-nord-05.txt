@@ -1,0 +1,91 @@
+Aarne|m|germanic|scandinavian|2|animal,strong|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Aatu|m|germanic|scandinavian|2|vintage,warrior|Lobo noble|Noble wolf|Loup noble|Edler Wolf|Lupo nobile|Lobo nobre
+Aava|f|other|scandinavian|2|nature,modern,sea|Vasta extensión abierta|Open expanse, wilderness|Vaste étendue ouverte|Weite, offene Fläche|Vasta distesa aperta|Vasta extensão aberta
+Agnete|f|greek|scandinavian|2|classic,virtue|Pura, casta|Pure, chaste|Pure, chaste|Die Reine, Keusche|Pura, casta|Pura, casta
+Aino|f|other|scandinavian|3|literary,sweet,vintage|La única|The only one|L'unique|Die Einzige|L'unica|A única
+Aksel|m|hebrew|scandinavian|3|classic,biblical|Padre de paz|Father of peace|Père de paix|Vater des Friedens|Padre di pace|Pai da paz
+Aleksi|m|greek|scandinavian|3|classic,strong|Defensor|Defender|Défenseur|Verteidiger|Difensore|Defensor
+Alva|f|norse|scandinavian|3|mythology,trendy,nature|Elfo|Elf|Elfe|Elfe|Elfo|Elfo
+Alvar|m|norse|scandinavian|2|mythology,warrior|Guerrero elfo|Elf warrior|Guerrier elfe|Elfenkrieger|Guerriero elfo|Guerreiro elfo
+Anders|m|greek|scandinavian|3|classic,strong|Viril, valiente|Manly, brave|Viril, courageux|Mannhaft, tapfer|Virile, coraggioso|Viril, corajoso
+Anni|f|hebrew|scandinavian|3|classic,sweet|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Åsa|f|norse|scandinavian|2|mythology,vintage|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Aslaug|f|norse|scandinavian|1|mythology,vintage|Consagrada a los dioses|Consecrated to the gods|Consacrée aux dieux|Den Göttern geweiht|Consacrata agli dei|Consagrada aos deuses
+Axel|m|hebrew|scandinavian,german|4|classic,strong,trendy|Padre de paz|Father of peace|Père de paix|Vater des Friedens|Padre di pace|Pai da paz
+Bertil|m|germanic|scandinavian|1|vintage|Brillante|Bright|Brillant|Glänzend|Splendente|Brilhante
+Birger|m|norse|scandinavian|1|vintage|Ayuda, protección|Help, rescue|Aide, secours|Hilfe, Rettung|Aiuto, soccorso|Ajuda, socorro
+Birgitta|f|norse|scandinavian|2|saint,classic|Fuerte, exaltada|Strong, exalted|Forte, élevée|Die Starke, Erhabene|Forte, esaltata|Forte, exaltada
+Bjarne|m|norse|scandinavian|2|classic,animal|Oso|Bear|Ours|Bär|Orso|Urso
+Bodil|f|norse|scandinavian|1|vintage|Remedio en la batalla|Remedy in battle|Remède dans la bataille|Heilmittel im Kampf|Rimedio in battaglia|Remédio na batalha
+Dag|m|norse|scandinavian|2|light,classic|Día|Day|Jour|Tag|Giorno|Dia
+Disa|f|norse|scandinavian|2|mythology,vintage|Diosa, dama|Goddess, lady|Déesse, dame|Göttin, Dame|Dea, signora|Deusa, dama
+Edvin|m|germanic|scandinavian|3|classic,vintage|Amigo rico|Rich friend|Ami riche|Reicher Freund|Amico ricco|Amigo rico
+Einar|m|norse|scandinavian|2|warrior,classic|Guerrero solitario|Lone warrior|Guerrier solitaire|Einsamer Krieger|Guerriero solitario|Guerreiro solitário
+Elin|f|greek|scandinavian|4|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Elina|f|greek|scandinavian|3|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Ellen|f|greek|scandinavian,english|3|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Else|f|hebrew|scandinavian,german|2|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Eskil|m|norse|scandinavian|1|vintage,mythology|Caldero de los dioses|Cauldron of the gods|Chaudron des dieux|Kessel der Götter|Calderone degli dei|Caldeirão dos deuses
+Estrid|f|norse|scandinavian|1|vintage,royal|Divinamente hermosa|Divinely beautiful|Divinement belle|Göttlich schön|Divinamente bella|Divinamente bela
+Filip|m|greek|scandinavian,slavic|4|classic,royal|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amigo dos cavalos
+Filippa|f|greek|scandinavian|2|classic|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amiga dos cavalos
+Fredrik|m|germanic|scandinavian|3|classic,royal|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Governante pacifico|Governante pacífico
+Freja|f|norse|scandinavian|5|mythology,love,trendy|Señora|Lady|Dame|Herrin|Signora|Senhora
+Frida|f|germanic|scandinavian|4|vintage,virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Frode|m|norse|scandinavian|1|vintage,virtue|Sabio|Wise|Sage|Der Weise|Saggio|Sábio
+Gry|f|norse|scandinavian|1|light,nature|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Gunhild|f|norse|scandinavian|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Gunilla|f|norse|scandinavian|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Halvard|m|norse|scandinavian|1|vintage,strong|Guardián de la roca|Rock guardian|Gardien du rocher|Felsenhüter|Custode della roccia|Guardião da rocha
+Hanne|f|hebrew|scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Hannu|m|hebrew|scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Hedda|f|germanic|scandinavian|2|vintage,literary|Lucha, combate|Strife, battle|Lutte, combat|Kampf, Streit|Lotta, battaglia|Luta, combate
+Hedvig|f|germanic|scandinavian|2|vintage,royal|Lucha, combate|Strife, battle|Lutte, combat|Kampf, Streit|Lotta, battaglia|Luta, combate
+Heikki|m|germanic|scandinavian|2|classic|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Helmi|f|other|scandinavian|3|gem,vintage,sweet|Perla|Pearl|Perle|Perle|Perla|Pérola
+Henrik|m|germanic|scandinavian|3|classic,royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Hjalmar|m|norse|scandinavian|2|vintage,warrior|Guerrero con yelmo|Helmeted warrior|Guerrier casqué|Helmträger, Krieger|Guerriero con elmo|Guerreiro com elmo
+Hjördis|f|norse|scandinavian|1|mythology,vintage,warrior|Diosa de la espada|Sword goddess|Déesse de l'épée|Schwertgöttin|Dea della spada|Deusa da espada
+Idun|f|norse|scandinavian|2|mythology,vintage|Siempre joven|Ever young|Toujours jeune|Die Verjüngende|Sempre giovane|Sempre jovem
+Ilmari|m|other|scandinavian|3|mythology,vintage|Aire, cielo|Air, sky|Air, ciel|Luft, Himmel|Aria, cielo|Ar, céu
+Ingemar|m|norse|scandinavian|1|vintage,mythology|Famoso por Ing|Famous through Ing|Célèbre par Ing|Berühmt durch Ing|Famoso grazie a Ing|Famoso por Ing
+Ingvar|m|norse|scandinavian|2|vintage,warrior|Guerrero de Ing|Warrior of Ing|Guerrier d'Ing|Krieger Ings|Guerriero di Ing|Guerreiro de Ing
+Isak|m|hebrew|scandinavian|4|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Ivar|m|norse|scandinavian|3|warrior,vintage|Guerrero del arco|Bow warrior|Guerrier à l'arc|Bogenkrieger|Guerriero dell'arco|Guerreiro do arco
+Jaakko|m|hebrew|scandinavian|2|classic|El que suplanta|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che soppianta|Aquele que suplanta
+Jesper|m|persian|scandinavian|3|classic,gem|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Joel|m|hebrew|scandinavian,english|4|biblical,classic|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Johan|m|hebrew|scandinavian,dutch|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jon|m|hebrew|scandinavian|2|classic,biblical|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jørgen|m|greek|scandinavian|2|classic,saint|Agricultor|Farmer|Agriculteur|Landmann, Bauer|Agricoltore|Agricultor
+Juha|m|hebrew|scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Juho|m|hebrew|scandinavian|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jukka|m|hebrew|scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Kaarina|f|greek|scandinavian|2|vintage,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Kaarlo|m|germanic|scandinavian|1|vintage,royal|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Kaisa|f|greek|scandinavian|2|classic,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Kalle|m|germanic|scandinavian|2|classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Katrine|f|greek|scandinavian|2|classic,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Kirsten|f|greek|scandinavian,german|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Kjell|m|norse|scandinavian|1|vintage|Caldero, yelmo|Cauldron, helmet|Chaudron, heaume|Kessel, Helm|Calderone, elmo|Caldeirão, elmo
+Kjersti|f|greek|scandinavian|1|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Knud|m|norse|scandinavian|1|royal,vintage|Nudo|Knot|Nœud|Knoten|Nodo|Nó
+Kristian|m|greek|scandinavian|3|classic|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Kristin|f|greek|scandinavian|3|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Kristina|f|greek|scandinavian|3|classic,royal|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Kristoffer|m|greek|scandinavian|3|classic,saint|El que lleva a Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Lahja|f|other|scandinavian|2|sweet,vintage|Regalo|Gift|Cadeau|Geschenk|Dono|Dádiva
+Lars|m|latin|scandinavian|3|classic|Coronado de laurel|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Incoronato d'alloro|Coroado de louro
+Lasse|m|latin|scandinavian|2|classic|Coronado de laurel|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Incoronato d'alloro|Coroado de louro
+Lauri|m|latin|scandinavian|3|classic,nature|Coronado de laurel|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Incoronato d'alloro|Coroado de louro
+Leevi|m|hebrew|scandinavian|4|biblical,trendy,modern|Unido, asociado|Joined, attached|Uni, attaché|Verbunden, anhänglich|Unito, legato|Unido, ligado
+Leif|m|norse|scandinavian|3|classic,vintage|Heredero, descendiente|Heir, descendant|Héritier, descendant|Erbe, Nachkomme|Erede, discendente|Herdeiro, descendente
+Liisa|f|hebrew|scandinavian|3|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Lilja|f|latin|scandinavian|3|flower,sweet,modern|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Linnea|f|other|scandinavian|4|flower,nature,trendy|Linnea, flor del norte|Twinflower|Linnée boréale|Moosglöckchen|Linnea boreale|Linnea, flor do norte
+Liv|f|norse|scandinavian|5|trendy,virtue,modern|Vida|Life|Vie|Leben|Vita|Vida
+Lise|f|hebrew|scandinavian|2|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Lisbeth|f|hebrew|scandinavian|2|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Lovisa|f|germanic|scandinavian|3|royal,classic|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Lumi|f|other|scandinavian|3|nature,modern,sweet|Nieve|Snow|Neige|Schnee|Neve|Neve
+Ludvig|m|germanic|scandinavian|3|vintage,royal|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso

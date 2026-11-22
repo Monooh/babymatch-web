@@ -1,0 +1,68 @@
+Magdalena|f|hebrew|polish,german|4|biblical,saint,classic|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Maksim|m|latin|russian|3|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Marcin|m|latin|polish|4|saint,warrior,classic|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Marek|m|latin|polish|4|saint,classic,warrior|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Marta|f|hebrew|polish,russian|3|biblical,saint,classic|Señora|Lady|Dame|Herrin|Signora|Senhora
+Mateusz|m|hebrew|polish|5|biblical,saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Michał|m|hebrew|polish|4|biblical,saint,strong|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mikhail|m|hebrew|russian|4|biblical,saint,strong|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mikołaj|m|greek|polish|4|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Mila|f|slavic|russian,polish|4|sweet,love,modern|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Liebliche|Cara, graziosa|Querida, graciosa
+Milan|m|slavic|russian,polish|4|sweet,love,classic|Querido, amable|Dear, gracious|Cher, aimable|Lieber, Lieblicher|Caro, grazioso|Querido, gracioso
+Milana|f|slavic|russian|3|sweet,love,modern|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Liebliche|Cara, graziosa|Querida, graciosa
+Milena|f|slavic|russian,polish|4|sweet,love,classic|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Liebliche|Cara, graziosa|Querida, graciosa
+Milica|f|slavic|russian|3|sweet,love,classic|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Liebliche|Cara, graziosa|Querida, graciosa
+Miloslav|m|slavic|polish,russian|2|vintage,love|Gloria amada|Dear glory|Gloire chérie|Liebe Ehre|Gloria amata|Glória amada
+Miloš|m|slavic|russian,polish|4|sweet,love,classic|Querido, amable|Dear, gracious|Cher, aimable|Lieber, Lieblicher|Caro, grazioso|Querido, gracioso
+Mira|f|slavic|russian,polish|3|virtue,classic|Paz, mundo|Peace, world|Paix, monde|Frieden, Welt|Pace, mondo|Paz, mundo
+Miroslav|m|slavic|russian,polish|3|virtue,classic|Gloria de la paz|Glory of peace|Gloire de la paix|Ruhm des Friedens|Gloria della pace|Glória da paz
+Miroslava|f|slavic|russian,polish|3|virtue,classic|Gloria de la paz|Glory of peace|Gloire de la paix|Ruhm des Friedens|Gloria della pace|Glória da paz
+Mirosław|m|slavic|polish|2|virtue,vintage|Gloria de la paz|Glory of peace|Gloire de la paix|Ruhm des Friedens|Gloria della pace|Glória da paz
+Mirosława|f|slavic|polish|1|virtue,vintage|Gloria de la paz|Glory of peace|Gloire de la paix|Ruhm des Friedens|Gloria della pace|Glória da paz
+Mirjana|f|slavic|russian|3|virtue,classic|Pacífica|Peaceful|Paisible|Friedvoll|Pacifica|Pacífica
+Mstislav|m|slavic|russian|1|royal,warrior,vintage|Gloria vengativa|Vengeful glory|Gloire vengeresse|Rächender Ruhm|Gloria vendicativa|Glória vingativa
+Nadezhda|f|slavic|russian|3|virtue,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Nadia|f|slavic|russian,french,intl|4|virtue,sweet,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Natalia|f|latin|polish,russian,intl|5|classic,saint|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nataša|f|latin|russian|3|classic,saint|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nenad|m|slavic|russian|2|classic,vintage|Inesperado|Unexpected|Inattendu|Unerwartet|Inaspettato|Inesperado
+Nevena|f|slavic|russian|3|flower,nature|Caléndula|Marigold|Souci|Ringelblume|Calendula|Calêndula
+Nikita|m|greek|russian|3|saint,warrior,classic|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Nikola|m|greek|russian,polish|4|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Novak|m|slavic|russian|2|classic,modern|Nuevo|New|Nouveau|Neu|Nuovo|Novo
+Oleg|m|norse|russian|3|saint,classic|Santo|Holy, blessed|Saint, béni|Heilig, gesegnet|Santo, benedetto|Santo, abençoado
+Olga|f|norse|russian,polish|4|saint,classic|Santa, bendita|Holy, blessed|Sainte, bénie|Heilige, Gesegnete|Santa, benedetta|Santa, abençoada
+Oliwia|f|latin|polish|4|nature,modern|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Pavel|m|latin|russian,polish|4|saint,classic|Pequeño, humilde|Small, humble|Petit, humble|Klein, bescheiden|Piccolo, umile|Pequeno, humilde
+Paweł|m|latin|polish|4|saint,classic|Pequeño, humilde|Small, humble|Petit, humble|Klein, bescheiden|Piccolo, umile|Pequeno, humilde
+Piotr|m|greek|polish|4|saint,biblical,classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Predrag|m|slavic|russian|2|love,classic|Muy querido|Most dear|Très cher|Sehr lieb|Carissimo|Muito querido
+Rada|f|slavic|russian|2|sweet,vintage|Alegre, contenta|Glad, joyful|Joyeuse, contente|Froh, erfreut|Lieta, contenta|Alegre, contente
+Radka|f|slavic|polish,russian|2|sweet,vintage|Alegre, contenta|Glad, joyful|Joyeuse, contente|Froh, erfreut|Lieta, contenta|Alegre, contente
+Radmila|f|slavic|russian|2|sweet,love|Alegre y querida|Joyful and dear|Joyeuse et chère|Fröhlich und lieb|Lieta e cara|Alegre e querida
+Radomir|m|slavic|russian|2|virtue,vintage|Paz alegre|Joyful peace|Paix joyeuse|Frohe Eintracht|Pace gioiosa|Paz alegre
+Radostina|f|slavic|russian|2|sweet,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Radoslav|m|slavic|russian|2|vintage,royal|Gloria alegre|Joyful glory|Gloire joyeuse|Frohe Ehre|Gloria gioiosa|Glória alegre
+Radosław|m|slavic|polish|2|vintage,royal|Gloria alegre|Joyful glory|Gloire joyeuse|Frohe Ehre|Gloria gioiosa|Glória alegre
+Radovan|m|slavic|russian|2|sweet,vintage|Alegre|Joyful|Joyeux|Fröhlich|Gioioso|Alegre
+Rastislav|m|slavic|polish|2|royal,vintage|Gloria creciente|Growing glory|Gloire grandissante|Wachsender Ruhm|Gloria crescente|Glória crescente
+Roman|m|latin|russian,polish|5|classic,strong|De Roma|Of Rome|De Rome|Aus Rom|Di Roma|De Roma
+Rositsa|f|slavic|russian|2|nature,sweet|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Rostislav|m|slavic|russian|2|royal,vintage|Gloria creciente|Growing glory|Gloire grandissante|Wachsender Ruhm|Gloria crescente|Glória crescente
+Ružica|f|slavic|russian|3|flower,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Růžena|f|slavic|polish|2|flower,vintage|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Slavica|f|slavic|russian|2|vintage,sweet|Gloriosa|Glorious|Glorieuse|Ruhmreich|Gloriosa|Gloriosa
+Slavko|m|slavic|russian|2|vintage,classic|Glorioso|Glorious|Glorieux|Ruhmreich|Glorioso|Glorioso
+Slobodan|m|slavic|russian|2|virtue,classic|Libre|Free|Libre|Frei|Libero|Livre
+Snezhana|f|slavic|russian|3|nature,sweet|Nevada, de nieve|Snowy|Neigeuse|Schneeweiß|Nevosa|Nevada
+Stanislav|m|slavic|russian,polish|3|royal,classic|Que alcance la gloria|May he become glorious|Qu'il devienne glorieux|Er möge ruhmreich werden|Che diventi glorioso|Que alcance a glória
+Stanisław|m|slavic|polish|4|royal,saint,classic|Que alcance la gloria|May he become glorious|Qu'il devienne glorieux|Er möge ruhmreich werden|Che diventi glorioso|Que alcance a glória
+Stanisława|f|slavic|polish|1|royal,vintage|Que alcance la gloria|May she become glorious|Qu'elle devienne glorieuse|Sie möge ruhmreich werden|Che diventi gloriosa|Que alcance a glória
+Stojan|m|slavic|russian|2|strong,classic|Firme, constante|Steadfast, standing firm|Ferme, constant|Standhaft, beständig|Saldo, costante|Firme, constante
+Svetlana|f|slavic|russian|4|light,classic|Luz, luminosa|Light, luminous|Lumière, lumineuse|Licht, leuchtend|Luce, luminosa|Luz, luminosa
+Svetoslav|m|slavic|russian|2|royal,vintage|Gloria santa|Holy glory|Gloire sainte|Heiliger Ruhm|Gloria santa|Glória santa
+Svetozar|m|slavic|russian|2|light,vintage|Luz del amanecer|Light of dawn|Lumière de l'aube|Licht der Morgenröte|Luce dell'alba|Luz da alvorada
+Svyatoslav|m|slavic|russian|2|royal,warrior,vintage|Gloria santa|Holy glory|Gloire sainte|Heiliger Ruhm|Gloria santa|Glória santa
+Sławomir|m|slavic|polish|2|virtue,vintage|Paz gloriosa|Glorious peace|Paix glorieuse|Ruhmreicher Friede|Pace gloriosa|Paz gloriosa
+Sylwia|f|latin|polish|3|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Szymon|m|hebrew|polish|5|biblical,saint,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu

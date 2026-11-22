@@ -1,0 +1,88 @@
+Ash|u|germanic|english|3|nature,modern|Fresno|Ash tree|Frêne|Esche|Frassino|Freixo
+Briar|u|germanic|english|2|nature,modern|Zarza, brezo espinoso|Thorny shrub|Buisson épineux|Dornbusch|Rovo|Sarça
+Cade|m|celtic|english|3|modern|Redondo, barril|Round, cask|Rond, tonneau|Rund, Fass|Rotondo, botte|Redondo, barril
+Cedar|u|other|english|2|nature,modern|Cedro|Cedar tree|Cèdre|Zeder|Cedro|Cedro
+Clay|m|germanic|english|2|nature|Arcilla|Clay|Argile|Lehm|Argilla|Argila
+Dakota|u|native|english|2|place,modern|Aliados, amigos|Allies, friends|Alliés, amis|Verbündete, Freunde|Alleati, amici|Aliados, amigos
+Devon|u|celtic|english|2|place,modern|Del condado de Devon|From Devon|Du Devon|Aus Devon|Del Devon|De Devon
+Eden|u|hebrew|english,hebrew|3|biblical,nature|Deleite, paraíso|Delight, paradise|Délice, paradis|Wonne, Paradies|Delizia, paradiso|Deleite, paraíso
+Emerson|u|germanic|english|3|modern,literary|Hijo de Emery|Son of Emery|Fils d'Emery|Sohn des Emery|Figlio di Emery|Filho de Emery
+Emery|u|germanic|english|3|modern|Gobernante poderoso|Industrious ruler|Souverain travailleur|Fleißiger Herrscher|Sovrano operoso|Governante laborioso
+Easton|m|germanic|english|3|modern|Pueblo del este|East town|Ville de l'est|Östliche Stadt|Città orientale|Povoado do leste
+Ellery|u|germanic|english|1|vintage,modern|Isleño, de los alisos|From the alder tree|De l'aulne|Von der Erle|Dall'ontano|Do amieiro
+Flynn|m|celtic|english,irish|3|modern|Rubicundo|Ruddy|Rubicond|Rötlich|Rubicondo|Rosado
+Gray|u|germanic|english|2|modern|Gris|Grey|Gris|Grau|Grigio|Cinzento
+Hadley|u|germanic|english|3|modern|Prado de brezo|Heather meadow|Prairie de bruyère|Heidewiese|Prato d'erica|Prado de urze
+Hollis|u|germanic|english|1|nature,vintage|Cerca de los acebos|Near the holly trees|Près des houx|Bei den Stechpalmen|Presso gli agrifogli|Junto aos azevinhos
+Indigo|u|greek|english|2|modern,nature|Azul añil|Deep blue dye|Bleu indigo|Indigoblau|Blu indaco|Azul-anil
+Jamie|u|hebrew|english,scottish|3|classic|El que sigue de cerca|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che segue|O que segue de perto
+Jules|u|latin|english,french|2|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Kendrick|m|celtic|english|1|modern|Campeón real|Royal champion|Champion royal|Königlicher Held|Campione reale|Campeão real
+Kingston|m|germanic|english|3|modern,royal|Pueblo del rey|King's town|Ville du roi|Stadt des Königs|Città del re|Povoado do rei
+Landry|u|germanic|english|2|modern|Gobernante de la tierra|Ruler of the land|Souverain du pays|Herrscher des Landes|Sovrano della terra|Governante da terra
+Lane|u|germanic|english|2|modern|Camino estrecho|Narrow road|Chemin étroit|Schmaler Weg|Stradina|Caminho estreito
+Lennox|m|celtic|english,scottish|3|modern|Bosque de olmos|Grove of elms|Bosquet d'ormes|Ulmenhain|Boschetto di olmi|Bosque de olmos
+Linden|u|germanic|english|2|nature,modern|Tilo|Lime tree|Tilleul|Linde|Tiglio|Tília
+Lowell|m|germanic|english|1|vintage|Pequeño lobo|Little wolf|Petit loup|Kleiner Wolf|Piccolo lupo|Pequeno lobo
+Marley|u|germanic|english|2|modern|Prado junto al lago|Pleasant wood|Bois agréable|Angenehmer Wald|Bosco piacevole|Bosque agradável
+Marlowe|u|germanic|english|2|literary,vintage|Resto de un lago|Remnant of a lake|Reste d'un lac|Überrest eines Sees|Resto di un lago|Resto de um lago
+Merrick|m|celtic|english|1|vintage|Gobernante del mar|Sea ruler|Souverain de la mer|Herrscher des Meeres|Sovrano del mare|Governante do mar
+Monroe|u|celtic|english|2|modern|Desde la desembocadura del Roe|From the mouth of the Roe|De l'embouchure de la Roe|Von der Mündung der Roe|Dalla foce del Roe|Da foz do Roe
+Ocean|u|greek|english|2|sea,modern|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Palmer|u|latin|english|2|vintage,modern|Peregrino|Pilgrim|Pèlerin|Pilger|Pellegrino|Peregrino
+Peyton|u|germanic|english|3|modern|Pueblo del guerrero|Fighter's estate|Domaine du guerrier|Hof des Kriegers|Tenuta del guerriero|Propriedade do guerreiro
+Reagan|u|celtic|english,irish|2|modern|Pequeño rey|Little king|Petit roi|Kleiner König|Piccolo re|Pequeno rei
+River|u|germanic|english|3|nature,modern|Río|River|Rivière|Fluss|Fiume|Rio
+Shiloh|u|hebrew|english|2|biblical,modern|Lugar de paz|Place of peace|Lieu de paix|Ort des Friedens|Luogo di pace|Lugar de paz
+Sky|u|norse|english|2|celestial,modern|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Sloan|u|celtic|english|2|modern|Guerrero|Warrior, raider|Guerrier|Krieger|Guerriero|Guerreiro
+Storm|u|germanic|english,scandinavian|2|nature,modern|Tormenta|Storm|Tempête|Sturm|Tempesta|Tempestade
+Sutton|u|germanic|english|2|modern|Pueblo del sur|South town|Ville du sud|Südliche Stadt|Città del sud|Povoado do sul
+Tanner|m|germanic|english|3|modern|Curtidor|Leather worker|Tanneur|Gerber|Conciatore|Curtidor
+Tatum|u|germanic|english|2|modern|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Terry|u|germanic|english|1|classic|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Wilder|u|germanic|english|2|modern|Salvaje|Wild|Sauvage|Wild|Selvaggio|Selvagem
+Winter|u|germanic|english|2|nature,modern|Invierno|Winter|Hiver|Winter|Inverno|Inverno
+Wren|u|germanic|english|3|nature,animal|Chochín, reyezuelo|Wren, small bird|Troglodyte, petit oiseau|Zaunkönig|Scricciolo|Carriça
+Zephyr|m|greek|english|2|nature,modern|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento di ponente|Vento oeste
+Zachariah|m|hebrew|english|2|biblical|Yahvé ha recordado|Yahweh remembered|Yahvé s'est souvenu|Jahwe hat sich erinnert|Yahweh ha ricordato|Javé lembrou
+Cassian|m|latin|english|2|saint,modern|De la familia Casia|Of the Cassius clan|De la famille Cassia|Aus dem Geschlecht der Cassier|Della gens Cassia|Da família Cássia
+Colton|m|germanic|english|3|modern|Pueblo del carbón|Coal town|Ville du charbon|Kohlenstadt|Città del carbone|Povoado do carvão
+Cuthbert|m|germanic|english|1|vintage,saint|Famoso y brillante|Famous and bright|Célèbre et brillant|Berühmt und glänzend|Famoso e splendente|Famoso e brilhante
+Cyril|m|greek|english,french|1|vintage,saint|Señorial|Lordly|Seigneurial|Herrschaftlich|Signorile|Senhorial
+Dorian|m|greek|english|3|literary,modern|De Dóride|From Doris|De Doride|Aus Doris|Dalla Doride|De Dóris
+Dudley|m|germanic|english|1|vintage|Claro de Dudda|Dudda's clearing|Clairière de Dudda|Duddas Lichtung|Radura di Dudda|Clareira de Dudda
+Egbert|m|germanic|english|1|vintage|Espada brillante|Bright edge|Lame brillante|Glänzende Klinge|Lama splendente|Lâmina brilhante
+Elisha|m|hebrew|english|2|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Emmanuel|m|hebrew|english,french,spanish,intl|3|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Enoch|m|hebrew|english|1|biblical,vintage|Dedicado, consagrado|Dedicated|Dévoué, consacré|Geweiht|Dedicato, consacrato|Dedicado, consagrado
+Ephraim|m|hebrew|english|1|biblical,vintage|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Erasmus|m|greek|english,german|1|vintage,saint|Amado|Beloved|Bien-aimé|Geliebt|Amato|Amado
+Eustace|m|greek|english|1|vintage,saint|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Gerard|m|germanic|english,french|2|classic|Lanza valiente|Brave with the spear|Courageux à la lance|Speerstark|Forte con la lancia|Valente com a lança
+Godfrey|m|germanic|english|1|vintage|Paz de Dios|God's peace|Paix de Dieu|Gottes Friede|Pace di Dio|Paz de Deus
+Godwin|m|germanic|english|1|vintage|Amigo de Dios|Friend of God|Ami de Dieu|Freund Gottes|Amico di Dio|Amigo de Deus
+Horatio|m|latin|english|1|literary,vintage|Del clan Horacio|Of the Horatius clan|Du clan Horatius|Aus dem Geschlecht Horatius|Della gens Orazia|Da família Horácio
+Hubert|m|germanic|english,french,german|1|vintage,saint|Mente brillante|Bright mind|Esprit brillant|Strahlender Geist|Mente splendente|Mente brilhante
+Isidore|m|greek|english,french|1|vintage,saint|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Jedidiah|m|hebrew|english|2|biblical|Amado de Yahvé|Beloved of Yahweh|Bien-aimé de Yahvé|Geliebter Jahwes|Amato da Yahweh|Amado de Javé
+Jethro|m|hebrew|english|2|biblical,vintage|Abundancia|Abundance|Abondance|Überfluss|Abbondanza|Abundância
+Jonas|m|hebrew|english,german,scandinavian|2|biblical|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Judah|m|hebrew|english|3|biblical|Alabado|Praised|Loué|Gepriesen|Lodato|Louvado
+Lazarus|m|hebrew|english|1|biblical|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Lucian|m|latin|english|2|vintage|Luz|Light|Lumière|Licht|Luce|Luz
+Lucius|m|latin|english|2|classic,light|Luz|Light|Lumière|Licht|Luce|Luz
+Magnus|m|latin|english,scandinavian|3|royal,strong|Grande|Great|Grand|Groß|Grande|Grande
+Manfred|m|germanic|english,german|1|vintage|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Matthias|m|hebrew|english,german|2|biblical|Regalo de Yahvé|Gift of Yahweh|Don de Yahvé|Geschenk Jahwes|Dono di Yahweh|Dádiva de Javé
+Maynard|m|germanic|english|1|vintage|Fuerte y valiente|Strong and brave|Fort et courageux|Stark und tapfer|Forte e coraggioso|Forte e valente
+Moses|m|hebrew|english|3|biblical|Sacado de las aguas|Drawn from the water|Tiré des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Tirado das águas
+Nehemiah|m|hebrew|english|1|biblical|Yahvé consuela|Yahweh comforts|Yahvé console|Jahwe tröstet|Yahweh consola|Javé consola
+Nestor|m|greek|english|1|mythology|El que regresa|He who returns|Celui qui revient|Der Heimkehrer|Colui che ritorna|O que regressa
+Octavius|m|latin|english|1|classic,royal|Octavo|Eighth|Huitième|Achter|Ottavo|Oitavo
+Peregrine|m|latin|english|1|vintage,animal|Viajero, peregrino|Traveller, pilgrim|Voyageur, pèlerin|Wanderer, Pilger|Viaggiatore, pellegrino|Viajante, peregrino
+Percy|m|latin|english|2|vintage|Del pueblo de Perci|From Percy|De Percy|Aus Percy|Da Percy|De Percy
+Roderick|m|germanic|english,scottish|1|vintage|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Rudolph|m|germanic|english|1|vintage|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Sylvan|m|latin|english|1|nature|Del bosque|Of the woods|Des bois|Waldbewohner|Del bosco|Da floresta
+Wendell|m|germanic|english|1|vintage|Caminante, vagabundo|Wanderer|Voyageur|Wanderer|Viandante|Andarilho

@@ -1,0 +1,99 @@
+Ilan|m|hebrew|french,hebrew|3|nature,modern|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Inès|f|greek|french|4|virtue,classic|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Irène|f|greek|french|2|virtue,vintage|Paz|Peace|Paix|Frieden|Pace|Paz
+Isaac|m|hebrew|french,english,spanish|3|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Isabelle|f|hebrew|french,english|3|classic,royal|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Isidore|m|greek|french|1|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Dom de Ísis
+Iris|f|greek|french,english,german|3|flower,mythology,nature|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Ismaël|m|hebrew|french|2|biblical|Dios escucha|God hears|Dieu écoute|Gott hört|Dio ascolta|Deus ouve
+Jacinthe|f|greek|french|1|flower,vintage|Jacinto|Hyacinth|Jacinthe|Hyazinthe|Giacinto|Jacinto
+Jacqueline|f|hebrew|french|2|vintage,classic|El que suplanta|The supplanter|Celle qui supplante|Die Nachfolgerin|Colei che soppianta|Aquela que suplanta
+Jacques|m|hebrew|french|3|classic,saint|El que suplanta|The supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Jade|f|other|french,english|5|gem,modern,sweet|Jade|Jade|Jade|Jade|Giada|Jade
+Jasmine|f|persian|french,english|3|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Jean|m|hebrew|french|3|biblical,saint,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jean-Baptiste|m|hebrew|french|2|biblical,saint,classic|Dios es misericordioso, el que bautiza|God is gracious, the baptizer|Dieu fait grâce, celui qui baptise|Gott ist gnädig, der Täufer|Dio è misericordioso, il battista|Deus é misericordioso, o batista
+Jean-Claude|m|hebrew|french|1|vintage,classic|Dios es misericordioso, cojo|God is gracious, lame|Dieu fait grâce, boiteux|Gott ist gnädig, hinkend|Dio è misericordioso, zoppo|Deus é misericordioso, coxo
+Jean-Marc|m|hebrew|french|1|vintage,classic|Dios es misericordioso, consagrado a Marte|God is gracious, devoted to Mars|Dieu fait grâce, consacré à Mars|Gott ist gnädig, dem Mars geweiht|Dio è misericordioso, dedicato a Marte|Deus é misericordioso, consagrado a Marte
+Jean-Michel|m|hebrew|french|1|vintage,classic|Dios es misericordioso, quién como Dios|God is gracious, who is like God|Dieu fait grâce, qui est comme Dieu|Gott ist gnädig, wer ist wie Gott|Dio è misericordioso, chi è come Dio|Deus é misericordioso, quem é como Deus
+Jean-Paul|m|hebrew|french|1|vintage,classic|Dios es misericordioso, pequeño|God is gracious, small|Dieu fait grâce, petit|Gott ist gnädig, klein|Dio è misericordioso, piccolo|Deus é misericordioso, pequeno
+Jean-Pierre|m|hebrew|french|1|vintage,classic|Dios es misericordioso, roca|God is gracious, rock|Dieu fait grâce, roc|Gott ist gnädig, Fels|Dio è misericordioso, roccia|Deus é misericordioso, rocha
+Jeanne|f|hebrew|french|4|classic,vintage,saint|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jérémie|m|hebrew|french|2|biblical|Dios exalta|God will uplift|Dieu élève|Gott erhöht|Dio innalza|Deus exalta
+Jérôme|m|greek|french|3|saint,classic|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Joachim|m|hebrew|french,german|2|biblical,saint|Dios establece|God establishes|Dieu établit|Gott richtet auf|Dio stabilisce|Deus estabelece
+Joël|u|hebrew|french|2|biblical|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Jonas|m|hebrew|french,german|3|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jonathan|m|hebrew|french,english|2|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Jordan|m|hebrew|french,english|2|biblical,modern|El que desciende|Flowing down|Celui qui descend|Der Herabfließende|Colui che scende|Aquele que desce
+Joseph|m|hebrew|french,english,german|3|biblical,saint,classic|Dios añadirá|God will add|Dieu ajoute|Gott fügt hinzu|Dio aggiunga|Deus acrescenta
+Joséphine|f|hebrew|french|3|vintage,royal|Dios añadirá|God will add|Dieu ajoute|Gott fügt hinzu|Dio aggiunga|Deus acrescenta
+Josué|m|hebrew|french|1|biblical|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Judith|f|hebrew|french,german,english|2|biblical,strong|Alabada|Praised|Louée|Die Gelobte|Lodata|Louvada
+Jules|m|latin|french|5|classic,vintage,royal|Consagrado a Júpiter|Devoted to Jupiter|Consacré à Jupiter|Jupiter geweiht|Consacrato a Giove|Consagrado a Júpiter
+Julie|f|latin|french,english,german|3|classic,sweet|Consagrada a Júpiter|Devoted to Jupiter|Consacrée à Jupiter|Jupiter geweiht|Consacrata a Giove|Consagrada a Júpiter
+Julien|m|latin|french|3|classic,saint|Consagrado a Júpiter|Devoted to Jupiter|Consacré à Jupiter|Jupiter geweiht|Consacrato a Giove|Consagrado a Júpiter
+Juliette|f|latin|french|4|classic,literary,sweet|Consagrada a Júpiter|Devoted to Jupiter|Consacrée à Jupiter|Jupiter geweiht|Consacrata a Giove|Consagrada a Júpiter
+Justin|m|latin|french|2|virtue,classic|Justo|Just|Juste|Gerecht|Giusto|Justo
+Justine|f|latin|french|3|virtue,classic|Justa|Just|Juste|Gerecht|Giusta|Justa
+Laetitia|f|latin|french|2|virtue,classic|Alegría|Joy|Joie|Freude|Letizia|Alegria
+Laure|f|latin|french|3|nature,classic|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Laurence|f|latin|french|2|classic|Coronada de laurel|Crowned with laurel|Couronnée de laurier|Mit Lorbeer gekrönt|Incoronata d'alloro|Coroada de louro
+Laurent|m|latin|french|3|classic,saint|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Lazare|m|hebrew|french|1|biblical,vintage|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Léa|f|hebrew|french,german|5|biblical,classic|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Léandre|m|greek|french|2|mythology,vintage|Hombre león|Lion man|Homme-lion|Löwenmann|Uomo leone|Homem-leão
+Léna|f|greek|french,german|3|modern,light|Antorcha|Torch|Torche|Fackel|Fiaccola|Tocha
+Léo|m|latin|french,german|5|animal,classic,strong|León|Lion|Lion|Löwe|Leone|Leão
+Léon|m|latin|french,german|4|vintage,animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Léonard|m|germanic|french|3|vintage,animal,strong|León fuerte|Brave lion|Lion fort|Starker Löwe|Leone forte|Leão forte
+Léonie|f|latin|french|3|vintage,animal|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Léonce|m|greek|french|1|vintage,animal|León|Lion|Lion|Löwe|Leone|Leão
+Léopold|m|germanic|french,german|2|vintage,royal|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Léopoldine|f|germanic|french|1|vintage,royal|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Lila|f|sanskrit|french,indian|4|modern,sweet|Juego divino|Divine play|Jeu divin|Göttliches Spiel|Gioco divino|Jogo divino
+Lilas|f|persian|french|2|flower,sweet|Lila (flor)|Lilac|Lilas|Flieder|Lillà|Lilás
+Lise|f|hebrew|french|3|classic,sweet|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Loïc|m|celtic|french|2|warrior,classic|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lorraine|f|other|french|1|place,vintage|De Lorena|From Lorraine|De Lorraine|Aus Lothringen|Della Lorena|Da Lorena
+Lou|u|germanic|french|4|modern,sweet|Guerrero glorioso|Famous warrior|Guerrier glorieux|Ruhmreicher Krieger|Guerriero glorioso|Guerreiro glorioso
+Louis|m|germanic|french|5|royal,classic,warrior|Guerrero glorioso|Famous warrior|Guerrier glorieux|Ruhmreicher Krieger|Guerriero glorioso|Guerreiro glorioso
+Louise|f|germanic|french,english|5|royal,classic,vintage|Guerrera gloriosa|Famous warrior|Guerrière glorieuse|Ruhmreiche Kriegerin|Guerriera gloriosa|Guerreira gloriosa
+Luc|m|latin|french|3|biblical,saint,classic|De Lucania, luminoso|From Lucania, luminous|De Lucanie, lumineux|Aus Lukanien, leuchtend|Della Lucania, luminoso|Da Lucânia, luminoso
+Lucas|m|latin|french,spanish,portuguese,english|5|biblical,saint|De Lucania, luminoso|From Lucania, luminous|De Lucanie, lumineux|Aus Lukanien, leuchtend|Della Lucania, luminoso|Da Lucânia, luminoso
+Lucie|f|latin|french,german|4|light,saint,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Lucien|m|latin|french|3|light,vintage|Luz, luminoso|Light, luminous|Lumière, lumineux|Licht, leuchtend|Luce, luminoso|Luz, luminoso
+Lucile|f|latin|french|3|light,vintage|Luz|Light|Lumière|Licht|Luce|Luz
+Ludivine|f|germanic|french|2|sweet,vintage|Amiga del pueblo|Friend of the people|Amie du peuple|Freundin des Volkes|Amica del popolo|Amiga do povo
+Ludovic|m|germanic|french|2|warrior,classic|Guerrero glorioso|Famous warrior|Guerrier glorieux|Ruhmreicher Krieger|Guerriero glorioso|Guerreiro glorioso
+Madeleine|f|hebrew|french|3|biblical,saint,vintage|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Maël|m|celtic|french|4|royal,modern,strong|Príncipe|Prince|Prince|Prinz|Principe|Príncipe
+Maëlle|f|celtic|french|3|royal,modern|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Maëva|f|polynesian|french|2|modern,sweet|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Manon|f|hebrew|french|4|classic,literary|Diminutivo de María|Diminutive of Marie|Diminutif de Marie|Koseform von Marie|Diminutivo di Maria|Diminutivo de Maria
+Marc|m|latin|french,catalan,german|3|biblical,saint,classic|Consagrado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Consagrado a Marte
+Marcel|m|latin|french,german,polish|3|vintage,classic|Pequeño martillo|Little hammer|Petit marteau|Kleiner Hammer|Piccolo martello|Pequeno martelo
+Marcelle|f|latin|french|1|vintage|Pequeño martillo|Little hammer|Petit marteau|Kleiner Hammer|Piccolo martello|Pequeno martelo
+Margaux|f|greek|french|3|gem,sweet,modern|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margot|f|greek|french|4|gem,sweet,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marguerite|f|greek|french|3|flower,gem,vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marianne|f|hebrew|french,german|2|classic,vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Marie|f|hebrew|french,german,intl|4|biblical,saint,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Marie-Ange|f|hebrew|french|1|biblical,vintage|Amada, ángel|Beloved, angel|Bien-aimée, ange|Geliebte, Engel|Amata, angelo|Amada, anjo
+Marie-Claire|f|hebrew|french|1|vintage,light|Amada, clara|Beloved, bright|Bien-aimée, claire|Geliebte, klar|Amata, chiara|Amada, clara
+Marie-Louise|f|hebrew|french|1|vintage,royal|Amada, guerrera gloriosa|Beloved, famous warrior|Bien-aimée, guerrière glorieuse|Geliebte, ruhmreiche Kriegerin|Amata, guerriera gloriosa|Amada, guerreira gloriosa
+Marie-Lou|f|hebrew|french|1|vintage,sweet|Amada, guerrera gloriosa|Beloved, famous warrior|Bien-aimée, guerrière glorieuse|Geliebte, ruhmreiche Kriegerin|Amata, guerriera gloriosa|Amada, guerreira gloriosa
+Marin|m|latin|french|3|sea,vintage|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Marine|f|latin|french|3|sea,nature|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Marion|f|hebrew|french|3|classic,sweet|Diminutivo de María|Diminutive of Marie|Diminutif de Marie|Koseform von Marie|Diminutivo di Maria|Diminutivo de Maria
+Marius|m|latin|french,german|3|vintage,classic|Consagrado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Consagrado a Marte
+Marthe|f|hebrew|french|2|biblical,vintage|Señora|Lady|Maîtresse de maison|Herrin|Signora|Senhora
+Martin|m|latin|french,german|4|saint,classic,warrior|Consagrado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Consagrado a Marte
+Mathias|m|hebrew|french,german|3|biblical,classic|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Mathieu|m|hebrew|french|3|biblical,saint,classic|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Mathilde|f|germanic|french|3|classic,warrior|Fuerza en la batalla|Strength in battle|Force au combat|Kraft im Kampf|Forza in battaglia|Força na batalha
+Mathis|m|hebrew|french|4|modern,biblical|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Maurice|m|latin|french|2|vintage,saint|De piel oscura|Dark-skinned|Maure, à la peau sombre|Dunkelhäutig|Dalla pelle scura|De pele escura
+Maxence|m|latin|french|3|modern,classic|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maxime|u|latin|french|4|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maximilien|m|latin|french|2|royal,vintage|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior

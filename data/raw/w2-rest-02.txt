@@ -1,0 +1,62 @@
+Aislinn|f|celtic|irish|3|modern,sweet|Sueño, visión|Dream, vision|Rêve, vision|Traum, Vision|Sogno, visione|Sonho, visão
+Alannah|f|celtic|irish|2|love,sweet|Mi niña|My child|Mon enfant|Mein Kind|Mio bambino|Meu filho
+Mór|f|celtic|irish|1|vintage,strong|Grande|Great|Grande|Groß|Grande|Grande
+Orlaith|f|celtic|irish|2|royal|Princesa dorada|Golden princess|Princesse dorée|Goldene Prinzessin|Principessa dorata|Princesa dourada
+Treasa|f|greek|irish|1|classic|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Síle|f|latin|irish|1|vintage|Ciega, del cielo|Blind, heavenly|Aveugle, céleste|Blind, himmlisch|Cieca, celeste|Cega, celeste
+Ríona|f|celtic|irish|2|royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Róis|f|latin|irish|1|flower|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Muireall|f|celtic|scottish,irish|1|sea|Brillante como el mar|Sea-bright|Brillante comme la mer|Meerglänzend|Luminosa come il mare|Brilhante como o mar
+Nóirín|f|latin|irish|1|vintage,virtue|Honor|Honour|Honneur|Ehre|Onore|Honra
+Art|m|celtic|irish|1|animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Fiachra|m|celtic|irish|2|animal,saint|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Manus|m|latin|irish,scottish|1|royal|Grande|Great|Grand|Groß|Grande|Grande
+Oran|m|celtic|irish|2|saint,nature|Pequeño verde pálido|Little pale green one|Petit vert pâle|Kleiner Blassgrüner|Piccolo verde pallido|Pequeno verde pálido
+Rían|m|celtic|irish|2|royal|Pequeño rey|Little king|Petit roi|Kleiner König|Piccolo re|Pequeno rei
+Finan|m|celtic|irish|1|saint|Pequeño rubio|Little fair one|Petit blond|Kleiner Heller|Piccolo biondo|Pequeno loiro
+Colum|m|latin|irish|2|saint,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Flann|m|celtic|irish|1|vintage|Rojizo, rubicundo|Ruddy|Rougeaud|Rötlich|Rubicondo|Rubicundo
+Gearóid|m|germanic|irish|1|classic|Lanza poderosa|Spear ruler|Maître de la lance|Speerherrscher|Signore della lancia|Senhor da lança
+Mairtín|m|latin|irish|2|classic|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Muiris|m|latin|irish|1|classic|De piel oscura|Dark-skinned|À la peau sombre|Dunkelhäutig|Dalla pelle scura|De pele escura
+Séafra|m|germanic|irish|1|classic|Paz de Dios|God's peace|Paix de Dieu|Gottes Friede|Pace di Dio|Paz de Deus
+Proinsias|m|latin|irish|1|classic|Francés|Frenchman|Français|Franzose|Francese|Francês
+Uilliam|m|germanic|irish|1|classic|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Sorley|m|norse|scottish,irish|2|vintage|Viajero de verano|Summer traveller|Voyageur d'été|Sommerwanderer|Viaggiatore d'estate|Viajante de verão
+Morag|f|celtic|scottish|2|vintage|Grande|Great|Grande|Groß|Grande|Grande
+Moira|f|hebrew|scottish,irish|2|vintage|Amarga, amada|Bitter, beloved|Amère, aimée|Bitter, geliebt|Amara, amata|Amarga, amada
+Sheena|f|hebrew|scottish,irish|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Effie|f|greek|scottish|2|vintage|De buena fama|Well spoken of|De bonne réputation|Wohlbeleumdet|Di buona fama|De boa fama
+Raonaid|f|hebrew|scottish|1|vintage|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Peigi|f|greek|scottish|1|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Torquil|m|norse|scottish|2|vintage|Caldero de Thor|Thor's cauldron|Chaudron de Thor|Thors Kessel|Calderone di Thor|Caldeirão de Thor
+Struan|m|celtic|scottish|2|nature|Arroyo, corriente|Stream|Ruisseau|Bach|Ruscello|Riacho
+Gregor|m|greek|scottish|2|classic|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante
+Aderyn|f|celtic|welsh|2|nature,animal|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Alaw|f|celtic|welsh|2|nature,flower|Nenúfar|Water lily|Nénuphar|Seerose|Ninfea|Nenúfar
+Awen|f|celtic|welsh|2|music|Inspiración poética|Poetic inspiration|Inspiration poétique|Dichterische Inspiration|Ispirazione poetica|Inspiração poética
+Berwyn|m|celtic|welsh|2|place|Montes de Berwyn|Berwyn mountains|Monts Berwyn|Berwyn-Berge|Monti Berwyn|Montes Berwyn
+Blodwen|f|celtic|welsh|2|flower|Flor blanca|White flower|Fleur blanche|Weiße Blume|Fiore bianco|Flor branca
+Blodeuwedd|f|celtic|welsh|1|mythology,flower|Cara de flor|Flower face|Visage de fleur|Blumengesicht|Volto di fiore|Cara de flor
+Cadfael|m|celtic|welsh|1|warrior,literary|Metal de batalla|Battle metal|Métal de bataille|Schlachtmetall|Metallo di battaglia|Metal de batalha
+Cai|m|celtic|welsh|2|mythology|Gozoso|Rejoicing|Joyeux|Frohlockend|Gioioso|Jubiloso
+Ceridwen|f|celtic|welsh|2|mythology|Bella y amada|Fair and beloved|Belle et aimée|Schön und geliebt|Bella e amata|Bela e amada
+Ceinwen|f|celtic|welsh|1|sweet|Hermosa y blanca|Fair and beautiful|Belle et blanche|Schön und weiß|Bella e bianca|Bela e branca
+Eirwen|f|celtic|welsh|2|nature|Blanca como la nieve|White as snow|Blanche comme la neige|Schneeweiß|Bianca come la neve|Branca como a neve
+Enid|f|celtic|welsh|2|literary|Alma, vida|Soul, life|Âme, vie|Seele, Leben|Anima, vita|Alma, vida
+Gwawr|f|celtic|welsh|2|light|Amanecer|Dawn|Aube|Morgenröte|Alba|Amanhecer
+Gwydion|m|celtic|welsh|2|mythology|Nacido de los árboles|Born of trees|Né des arbres|Von Bäumen geboren|Nato dagli alberi|Nascido das árvores
+Ioan|m|hebrew|welsh|2|biblical,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Iorwerth|m|celtic|welsh|1|vintage|Señor apuesto|Handsome lord|Beau seigneur|Schöner Herr|Bel signore|Belo senhor
+Meinir|f|celtic|welsh|2|vintage|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Medi|f|celtic|welsh|2|nature|Septiembre|September|Septembre|September|Settembre|Setembro
+Tegwen|f|celtic|welsh|2|sweet|Bella y bendita|Fair and blessed|Belle et bénie|Schön und gesegnet|Bella e benedetta|Bela e abençoada
+Tesni|f|celtic|welsh|1|light|Calor del sol|Warmth of the sun|Chaleur du soleil|Wärme der Sonne|Calore del sole|Calor do sol
+Tirion|f|celtic|welsh|1|virtue,sweet|Amable, tierna|Kind, gentle|Gentille, tendre|Freundlich, sanft|Gentile, tenera|Gentil, terna
+Trystan|m|celtic|welsh|2|literary,mythology|Tumulto, estruendo|Tumult, uproar|Tumulte, vacarme|Tumult, Aufruhr|Tumulto, clamore|Tumulto, estrondo
+Wyn|m|celtic|welsh|2|virtue|Blanco, bendito|White, fair, blessed|Blanc, béni|Weiß, gesegnet|Bianco, benedetto|Branco, abençoado
+Sioned|f|hebrew|welsh|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Siôn|m|hebrew|welsh|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Elis|m|hebrew|welsh|2|biblical|Mi Dios es Jehová|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Aeron|u|celtic|welsh|2|mythology,warrior|Batalla|Battle|Bataille|Schlacht|Battaglia|Batalha
+Cadell|m|celtic|welsh|1|warrior|Espíritu de batalla|Battle spirit|Esprit de bataille|Kampfgeist|Spirito di battaglia|Espírito de batalha

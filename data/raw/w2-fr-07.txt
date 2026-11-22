@@ -1,0 +1,20 @@
+Yassine|m|arabic|french,arabic|3|modern|Letra del Corán|Quranic letters Ya Sin|Lettres coraniques Ya Sin|Koranische Buchstaben Ya Sin|Lettere coraniche Ya Sin|Letras corânicas Ya Sin
+Kenzo|m|japanese|french,japanese|3|modern|Sano y fuerte|Healthy and strong|Sain et fort|Gesund und stark|Sano e forte|Saudável e forte
+Aldéric|m|germanic|french|1|vintage|Viejo gobernante|Old ruler|Vieux souverain|Alter Herrscher|Vecchio sovrano|Velho governante
+Alphonsine|f|germanic|french|1|vintage|Noble y dispuesta|Noble and ready|Noble et prête|Edel und bereit|Nobile e pronta|Nobre e pronta
+Anastase|m|greek|french|1|vintage,saint|Resurrección|Resurrection|Résurrection|Auferstehung|Risurrezione|Ressurreição
+Antonia|f|latin|french,italian|2|classic|De la familia Antonia|Of the Antonius family|De la famille Antonia|Aus dem Hause der Antonier|Della famiglia Antonia|Da família Antónia
+Ariel|u|hebrew|french,english|2|biblical|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Athanase|m|greek|french|1|vintage,saint|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Bienvenue|f|latin|french,african|1|virtue|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Bonaventure|m|latin|french|1|vintage,saint|Buena fortuna|Good fortune|Bonne fortune|Gutes Glück|Buona ventura|Boa ventura
+Candide|m|latin|french|1|vintage,literary|Blanco, puro|White, pure|Blanc, pur|Weiß, rein|Bianco, puro|Branco, puro
+Dieudonnée|f|hebrew|french|1|vintage|Dada por Dios|God-given|Donnée par Dieu|Von Gott gegeben|Data da Dio|Dada por Deus
+Ghislain|m|germanic|french|2|vintage,saint|Promesa|Pledge|Gage|Pfand|Pegno|Penhor
+Ghislaine|f|germanic|french|2|vintage,saint|Promesa|Pledge|Gage|Pfand|Pegno|Penhor
+Gilberte|f|germanic|french|1|vintage|Promesa brillante|Bright pledge|Gage brillant|Glänzendes Pfand|Pegno splendente|Penhor brilhante
+Jourdain|m|hebrew|french|1|biblical|Río que desciende|Flowing down|Qui descend|Hinabfließend|Che discende|Que desce
+Lucrèce|f|latin|french|1|vintage|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Mélaine|f|greek|french|1|vintage|Oscura|Dark one|Noire|Dunkle|Scura|Escura
+Nérée|m|greek|french|1|vintage,mythology|Mar, agua|Of the water|De l'eau|Vom Wasser|Dell'acqua|Da água
+Ludmilla|f|slavic|french|1|vintage|Querida por el pueblo|Loved by the people|Chère au peuple|Dem Volk lieb|Cara al popolo|Querida do povo

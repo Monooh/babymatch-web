@@ -1,0 +1,63 @@
+Adrienne|f|latin|french|2|classic,vintage|De Hadria|From Hadria|De Hadria|Aus Hadria|Di Adria|De Adria
+Aimée|f|latin|french|3|love,classic|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Alberte|f|germanic|french|1|vintage,royal|Noble y brillante|Noble and bright|Noble et brillante|Edel und strahlend|Nobile e splendente|Nobre e brilhante
+Alma|f|latin|french,spanish|3|sweet,classic|Nutricia|Nourishing|Nourricière|Nährende|Nutriente|Nutridora
+Amaryllis|f|greek|french|2|flower,nature|Resplandeciente|Sparkling|Étincelante|Funkelnde|Scintillante|Resplandecente
+Andrée|f|greek|french|2|vintage,strong|Valiente|Brave|Courageuse|Tapfere|Coraggiosa|Corajosa
+Andréa|f|greek|french|3|classic|Valiente|Brave|Courageuse|Tapfere|Coraggiosa|Corajosa
+Angeline|f|greek|french|2|sweet,vintage|Pequeño ángel|Little angel|Petit ange|Kleiner Engel|Piccolo angelo|Pequeno anjo
+Annabelle|f|hebrew|french,english|3|sweet,modern|Gracia y belleza|Grace and beauty|Grâce et beauté|Anmut und Schönheit|Grazia e bellezza|Graça e beleza
+Annick|f|hebrew|french|2|vintage,sweet|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Annaïg|f|hebrew|french|1|sweet|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Armelle|f|celtic|french|2|strong,vintage|Príncipe oso|Bear prince|Prince ours|Bärenfürst|Principe orso|Príncipe urso
+Bérengère|f|germanic|french|2|vintage,strong|Lanza del oso|Bear spear|Lance de l'ours|Bärenspeer|Lancia dell'orso|Lança do urso
+Carla|f|germanic|french|3|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cerise|f|greek|french|2|nature,sweet|Cereza|Cherry|Cerise|Kirsche|Ciliegia|Cereja
+Christelle|f|greek|french|2|vintage|Perteneciente a Cristo|Belonging to Christ|Qui appartient au Christ|Christus zugehörig|Appartenente a Cristo|Pertencente a Cristo
+Clio|f|greek|french|2|mythology,music|La que celebra|She who celebrates|Celle qui célèbre|Die Rühmende|Colei che celebra|Aquela que celebra
+Coline|f|greek|french|2|vintage,sweet|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Cynthia|f|greek|french,english|2|mythology,celestial|Del monte Cinto|From Mount Cynthus|Du mont Cynthe|Vom Berg Kynthos|Del monte Cinto|Do monte Cinto
+Adhémar|m|germanic|french|1|vintage,royal|Noble y famoso|Noble and famous|Noble et célèbre|Edel und berühmt|Nobile e famoso|Nobre e famoso
+Adolphe|m|germanic|french|1|vintage,warrior|Lobo noble|Noble wolf|Loup noble|Edler Wolf|Nobile lupo|Lobo nobre
+Aimery|m|germanic|french|2|vintage,strong|Poderoso en el trabajo|Work ruler|Puissant au travail|Herrscher durch Arbeit|Potente nel lavoro|Poderoso no trabalho
+Albin|m|latin|french|2|vintage,saint|Blanco, claro|White, bright|Blanc, clair|Weiß, hell|Bianco, chiaro|Branco, claro
+Alcide|m|greek|french|1|vintage,strong|Fuerte|Strong one|Le fort|Der Starke|Il forte|O forte
+Aldric|m|germanic|french|2|vintage,strong|Viejo gobernante|Old ruler|Vieux souverain|Alter Herrscher|Vecchio sovrano|Velho governante
+Amaury|m|germanic|french|2|vintage,strong|Jefe del trabajo|Ruler of work|Chef de l'ouvrage|Herrscher des Werks|Capo dell'opera|Chefe da obra
+Anicet|m|greek|french|1|vintage,saint|Invencible|Unconquered|Invaincu|Unbesiegt|Invitto|Invencível
+Arnould|m|germanic|french|1|vintage|Águila poderosa|Eagle power|Puissance de l'aigle|Adlerkraft|Potere dell'aquila|Poder da águia
+Baudouin|m|germanic|french|2|vintage,royal|Amigo audaz|Bold friend|Ami audacieux|Kühner Freund|Amico audace|Amigo audaz
+Blaise|m|latin|french|2|vintage,saint|Tartamudo|Stammering|Qui zézaie|Der Stammelnde|Balbuziente|Gago
+Boris|m|slavic|french,russian|2|strong|Luchador|Fighter|Combattant|Kämpfer|Combattente|Lutador
+Calixte|m|greek|french|1|vintage,saint|El más hermoso|The most beautiful|Le plus beau|Der Schönste|Il più bello|O mais belo
+Clair|m|latin|french|1|vintage,light|Claro, luminoso|Bright, clear|Clair, lumineux|Hell, klar|Chiaro, luminoso|Claro, luminoso
+Côme|m|greek|french|2|vintage,saint|Orden, adorno|Order, ornament|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, ornamento
+Crépin|m|latin|french|1|vintage,saint|Rizado|Curly-haired|Aux cheveux bouclés|Der Kraushaarige|Riccioluto|De cabelo encaracolado
+Cyriaque|m|greek|french|1|vintage,saint|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Delphin|m|greek|french|1|vintage,sea|Delfín|Dolphin|Dauphin|Delfin|Delfino|Golfinho
+Dieudonné|m|hebrew|french,african|2|vintage,saint|Dado por Dios|God-given|Donné par Dieu|Von Gott gegeben|Dato da Dio|Dado por Deus
+Donatien|m|latin|french|2|vintage,saint|Regalado|Gift|Don, offert|Geschenkt|Donato|Presenteado
+Dylan|m|celtic|french,welsh,english|3|sea,modern|Hijo del mar|Son of the sea|Fils de la mer|Sohn des Meeres|Figlio del mare|Filho do mar
+Emeric|m|germanic|french|2|vintage,strong|Poderoso en el trabajo|Work ruler|Puissant au travail|Herrscher durch Arbeit|Potente nel lavoro|Poderoso no trabalho
+Eustache|m|greek|french|1|vintage,saint|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutuoso
+Évrard|m|germanic|french|1|vintage,strong|Fuerte como un jabalí|Strong as a boar|Fort comme un sanglier|Stark wie ein Eber|Forte come un cinghiale|Forte como um javali
+Ferdinand|m|germanic|french,german|2|vintage,royal|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Viaggiatore audace|Viajante audaz
+Fernand|m|germanic|french|2|vintage,classic|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Viaggiatore audace|Viajante audaz
+Firmin|m|latin|french|2|vintage,saint|Firme, sólido|Firm, steadfast|Ferme, solide|Fest, standhaft|Fermo, saldo|Firme, sólido
+Fortuné|m|latin|french|1|vintage,virtue|Afortunado|Fortunate|Chanceux|Glücklich|Fortunato|Afortunado
+Francis|m|germanic|french,english|3|classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Gaston|m|germanic|french|2|vintage|Huésped|Guest|Hôte|Gast|Ospite|Hóspede
+Godefroy|m|germanic|french|1|vintage,royal|Paz de Dios|God's peace|Paix de Dieu|Gottes Friede|Pace di Dio|Paz de Deus
+Gontran|m|germanic|french|1|vintage,warrior|Cuervo de guerra|War raven|Corbeau de guerre|Kriegsrabe|Corvo di guerra|Corvo de guerra
+Gratien|m|latin|french|2|vintage,saint|Agradecido, agraciado|Grateful, graced|Reconnaissant, gracieux|Dankbar, anmutig|Grato, aggraziato|Grato, agraciado
+Hervé|m|celtic|french|2|vintage,saint|Digno de batalla|Worthy in battle|Digne au combat|Kampfwürdig|Degno in battaglia|Digno em batalha
+Hyacinthe|m|greek|french|1|vintage,flower|Jacinto|Hyacinth|Jacinthe|Hyazinthe|Giacinto|Jacinto
+Jason|m|greek|french,english|3|mythology|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Jocelyn|m|germanic|french|2|vintage|De la tribu de los godos|From the Gaut tribe|De la tribu des Goths|Vom Stamm der Gauten|Della tribù dei Geati|Da tribo dos Gautas
+Josselin|m|germanic|french|2|vintage|De la tribu de los godos|From the Gaut tribe|De la tribu des Goths|Vom Stamm der Gauten|Della tribù dei Geati|Da tribo dos Gautas
+Judicaël|m|celtic|french|1|vintage,royal|Señor generoso|Generous lord|Seigneur généreux|Großzügiger Herr|Signore generoso|Senhor generoso
+Kilian|m|celtic|french,german,irish|3|saint,modern|Iglesia pequeña|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Léger|m|germanic|french|1|vintage,saint|Lanza del pueblo|People's spear|Lance du peuple|Speer des Volkes|Lancia del popolo|Lança do povo
+Lévi|m|hebrew|french|2|biblical,modern|Unido|Joined|Uni|Verbunden|Unito|Unido
+Lilian|m|latin|french|3|modern,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lubin|m|germanic|french|1|vintage,saint|Amado por los amigos|Friend-beloved|Cher à ses amis|Freundesliebling|Caro agli amici|Querido dos amigos

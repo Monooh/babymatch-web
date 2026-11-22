@@ -1,0 +1,76 @@
+Abigail|f|hebrew|spanish,english,intl|3|biblical,sweet|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Abril|f|latin|spanish|3|nature,modern|Mes de abril|Month of April|Mois d'avril|Monat April|Mese di aprile|Mês de abril
+Ada|f|germanic|spanish,english,german,italian|2|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adela|f|germanic|spanish,italian|2|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adelaida|f|germanic|spanish|2|vintage,royal|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Adelina|f|germanic|spanish,italian|2|vintage,sweet|Pequeña noble|Little noble one|Petite noble|Kleine Edle|Piccola nobile|Pequena nobre
+Adoración|f|latin|spanish|1|vintage,saint|Acto de adorar|Adoration|Adoration|Anbetung|Adorazione|Adoração
+Adriana|f|latin|spanish,italian,portuguese|4|classic|De la ciudad de Adria|From the town of Adria|De la ville d'Adria|Aus der Stadt Adria|Della città di Adria|Da cidade de Adria
+Águeda|f|greek|spanish|1|vintage,saint,virtue|Buena, virtuosa|Good, virtuous|Bonne, vertueuse|Gut, tugendhaft|Buona, virtuosa|Boa, virtuosa
+Agustina|f|latin|spanish|4|saint,classic|Venerable, majestuosa|Venerable, majestic|Vénérable, majestueuse|Ehrwürdig, erhaben|Venerabile, maestosa|Venerável, majestosa
+Aída|f|arabic|spanish,italian|2|literary,classic|Visitante que regresa|Returning visitor|Visiteuse qui revient|Wiederkehrende Besucherin|Visitatrice che ritorna|Visitante que retorna
+Ainara|f|basque|spanish,basque|2|animal,modern|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Ainhoa|f|basque|spanish,basque|4|place,saint|Advocación mariana vasca|Basque Marian shrine|Sanctuaire marial basque|Baskisches Marienheiligtum|Santuario mariano basco|Santuário mariano basco
+Aitana|f|basque|spanish,basque|5|place,modern|Montaña de gloria|Mountain of glory|Montagne de gloire|Berg des Ruhms|Montagna di gloria|Montanha de glória
+Alba|f|latin|spanish,catalan,italian|4|light,celestial,classic|Amanecer, blanca|Dawn, white|Aube, blanche|Morgendämmerung, weiß|Alba, bianca|Alvorada, branca
+Albina|f|latin|spanish,italian|1|vintage|Blanca|White|Blanche|Weiße|Bianca|Branca
+Aldonza|f|germanic|spanish|1|vintage|Amable, agradable|Kind, pleasant|Aimable, agréable|Freundlich, angenehm|Gentile, piacevole|Amável, agradável
+Alegría|f|latin|spanish|2|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Alejandra|f|greek|spanish|4|classic,strong|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexia|f|greek|spanish,french|3|modern,strong|Defensora|Defender|Défenseuse|Verteidigerin|Difenditrice|Defensora
+Alicia|f|germanic|spanish,english|3|classic,literary|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alma|f|latin|spanish,english|3|sweet,virtue|Alma, espíritu|Soul, spirit|Âme, esprit|Seele, Geist|Anima, spirito|Alma, espírito
+Almudena|f|arabic|spanish|3|saint,place|La ciudadela|The citadel|La citadelle|Die Zitadelle|La cittadella|A cidadela
+Altagracia|f|latin|spanish|2|saint,virtue|Alta gracia|High grace|Haute grâce|Hohe Gnade|Alta grazia|Alta graça
+Amada|f|latin|spanish|1|vintage,love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Amaia|f|basque|spanish,basque|3|modern|Fin, final|End, ending|Fin, terme|Ende, Schluss|Fine, termine|Fim, final
+Amalia|f|germanic|spanish,german,italian|3|vintage,classic|Laboriosa|Industrious|Travailleuse|Arbeitsame|Operosa|Laboriosa
+Amanda|f|latin|spanish,english,intl|4|love,classic|Digna de ser amada|Worthy of love|Digne d'être aimée|Liebenswert|Degna di essere amata|Digna de ser amada
+Amaya|f|basque|spanish,basque|3|modern|Fin, final|End, ending|Fin, terme|Ende, Schluss|Fine, termine|Fim, final
+Ámbar|f|arabic|spanish|3|gem,modern|Resina fósil, ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Amelia|f|germanic|spanish,english,italian|4|classic,vintage|Trabajadora|Industrious|Travailleuse|Fleißige|Operosa|Trabalhadora
+Amira|f|arabic|spanish,arabic|2|royal,modern|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Amparo|f|latin|spanish|2|saint,vintage|Protección, refugio|Protection, shelter|Protection, refuge|Schutz, Zuflucht|Protezione, rifugio|Proteção, refúgio
+Ana|f|hebrew|spanish,portuguese,intl|5|biblical,classic,saint|Gracia, favor|Grace, favor|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Anabel|f|hebrew|spanish|2|modern,sweet|Gracia y belleza|Grace and beauty|Grâce et beauté|Anmut und Schönheit|Grazia e bellezza|Graça e beleza
+Anahí|f|native|spanish|3|flower,nature|Flor del ceibo|Ceibo flower|Fleur de ceibo|Ceibo-Blüte|Fiore di ceibo|Flor de ceibo
+Anaís|f|hebrew|spanish,french,catalan|3|modern,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anastasia|f|greek|spanish,russian,intl|3|classic,saint|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Andrea|f|greek|spanish,italian|4|strong,classic|Valiente, viril|Brave, manly|Courageuse, virile|Mutig, männlich|Coraggiosa, virile|Corajosa, viril
+Ángela|f|greek|spanish|4|saint,classic|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Ángeles|f|greek|spanish|3|saint,classic|Los ángeles|The angels|Les anges|Die Engel|Gli angeli|Os anjos
+Angélica|f|greek|spanish,portuguese|3|classic,sweet|Angelical|Angelic|Angélique|Engelsgleich|Angelica|Angelical
+Angelina|f|greek|spanish,italian|2|sweet|Pequeño ángel|Little angel|Petit ange|Kleiner Engel|Piccolo angelo|Pequeno anjo
+Angustias|f|latin|spanish|1|saint,vintage|Aflicción (Virgen de las Angustias)|Anguish (Our Lady of Sorrows)|Angoisse (Vierge des Douleurs)|Angst (Schmerzensmutter)|Angustia (Madonna Addolorata)|Angústia (Nossa Senhora das Dores)
+Anunciación|f|latin|spanish|1|saint,vintage|Anuncio del ángel a María|The Annunciation|L'Annonciation|Verkündigung|Annunciazione|Anunciação
+Araceli|f|latin|spanish|2|saint,celestial|Altar del cielo|Altar of heaven|Autel du ciel|Altar des Himmels|Altare del cielo|Altar do céu
+Aránzazu|f|basque|spanish,basque|2|saint,place|Espino|Thorn bush|Buisson d'épines|Dornbusch|Cespuglio di spine|Espinheiro
+Arantxa|f|basque|spanish,basque|2|saint,place|Espino|Thorn bush|Buisson d'épines|Dornbusch|Cespuglio di spine|Espinheiro
+Ariadna|f|greek|spanish,catalan|3|mythology,classic|Muy pura, muy santa|Most pure, most holy|Très pure, très sainte|Die Reinste, Heiligste|Purissima, santissima|Muito pura, santíssima
+Ariana|f|greek|spanish,english,italian|3|modern,mythology|Muy santa|Most holy|Très sainte|Allerheiligste|Santissima|Muito santa
+Ariel|u|hebrew|spanish,english,hebrew|2|biblical,literary|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Armonía|f|greek|spanish|1|music,virtue|Armonía, concordia|Harmony, concord|Harmonie, concorde|Harmonie, Eintracht|Armonia, concordia|Harmonia, concórdia
+Ascensión|f|latin|spanish|1|saint,vintage|Ascenso|Ascent|Ascension|Aufstieg|Ascensione|Ascensão
+Asunción|f|latin|spanish|2|saint,vintage|Elevación al cielo|Assumption into heaven|Assomption|Mariä Himmelfahrt|Assunzione|Assunção
+Atenea|f|greek|spanish|3|mythology,strong|Diosa de la sabiduría|Goddess of wisdom|Déesse de la sagesse|Göttin der Weisheit|Dea della saggezza|Deusa da sabedoria
+Aura|f|latin|spanish,italian|2|nature,sweet|Brisa suave|Gentle breeze|Douce brise|Sanfte Brise|Brezza leggera|Brisa suave
+Aurea|f|latin|spanish|1|vintage,gem|Dorada|Golden|Dorée|Goldene|Dorata|Dourada
+Aurelia|f|latin|spanish,italian,german|2|vintage,gem|Dorada|Golden|Dorée|Goldene|Dorata|Dourada
+Aurora|f|latin|spanish,italian,english|4|light,celestial,classic|Amanecer|Dawn|Aurore|Morgenröte|Alba|Aurora
+Ayelén|f|native|spanish|3|modern,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Azahar|f|arabic|spanish|2|flower,nature|Flor del naranjo|Orange blossom|Fleur d'oranger|Orangenblüte|Fiore d'arancio|Flor de laranjeira
+Azucena|f|arabic|spanish|2|flower,nature|Lirio blanco|White lily|Lys blanc|Weiße Lilie|Giglio bianco|Lírio branco
+Baltasara|f|other|spanish|1|vintage,royal|Dios proteja al rey|May God protect the king|Que Dieu protège le roi|Gott schütze den König|Dio protegga il re|Que Deus proteja o rei
+Bárbara|f|greek|spanish,portuguese|3|saint,classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Beatriz|f|latin|spanish,portuguese|4|classic,saint,virtue|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringende|Colei che rende felici|Aquela que traz felicidade
+Belén|f|hebrew|spanish|3|biblical,saint|Casa del pan|House of bread|Maison du pain|Haus des Brotes|Casa del pane|Casa do pão
+Benita|f|latin|spanish|1|vintage,saint|Bendecida|Blessed|Bénie|Gesegnete|Benedetta|Abençoada
+Berenice|f|greek|spanish,french|2|biblical,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Bernarda|f|germanic|spanish|1|vintage,strong|Oso valiente|Brave bear|Ours courageux|Tapferer Bär|Orso coraggioso|Urso valente
+Berta|f|germanic|spanish,german|2|vintage,light|Brillante|Bright, famous|Brillante|Glänzend|Splendente|Brilhante
+Bibiana|f|latin|spanish|2|saint,vintage|Llena de vida|Full of life|Pleine de vie|Lebendig|Piena di vita|Cheia de vida
+Blanca|f|germanic|spanish,catalan|3|classic,light|Blanca, brillante|White, shining|Blanche, brillante|Weiß, glänzend|Bianca, splendente|Branca, brilhante
+Bonifacia|f|latin|spanish|1|vintage,saint|La que hace el bien|She who does good|Celle qui fait le bien|Wohltäterin|Colei che fa del bene|Aquela que faz o bem
+Brígida|f|celtic|spanish|1|saint,vintage|Exaltada, fuerte|Exalted, strong|Exaltée, forte|Erhabene, Starke|Esaltata, forte|Exaltada, forte
+Brisa|f|other|spanish|3|nature,modern|Viento suave|Gentle breeze|Douce brise|Sanfte Brise|Brezza leggera|Brisa suave
+Bruna|f|germanic|spanish,italian,portuguese|1|vintage|Morena, coraza|Brown-haired, armour|Brune, cuirasse|Braune, Rüstung|Bruna, corazza|Morena, couraça

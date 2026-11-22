@@ -1,0 +1,83 @@
+Abigail|f|hebrew|english|4|biblical,classic|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Ada|f|germanic|english,german|3|vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adelaide|f|germanic|english|3|vintage,royal|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Adeline|f|germanic|english,french|3|vintage,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Agatha|f|greek|english|2|classic,saint|Buena|Good|Bonne|Gut|Buona|Boa
+Agnes|f|greek|english|2|vintage,saint|Pura|Pure|Pure|Rein|Pura|Pura
+Alexandra|f|greek|english|4|classic,strong|Defensora de la humanidad|Defender of mankind|Défenseure des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Alexis|f|greek|english|3|modern,strong|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Alice|f|germanic|english,french,intl|4|classic,literary|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alicia|f|germanic|english,spanish|3|classic|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alison|f|germanic|english|2|classic|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Allison|f|germanic|english|3|classic|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alma|f|latin|english,spanish|2|vintage,sweet|Nutricia, que da vida|Nourishing|Nourricière|Nährend|Nutriente|Que nutre
+Amanda|f|latin|english|3|classic,love|Digna de ser amada|Worthy of love|Digne d'être aimée|Liebenswert|Degna di essere amata|Digna de ser amada
+Amber|f|other|english|3|gem,nature|Ámbar|Amber gem|Ambre|Bernstein|Ambra|Âmbar
+Amelia|f|germanic|english,intl|5|classic,vintage|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Amelie|f|germanic|german,french|3|classic,sweet|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Amy|f|latin|english|3|classic,love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Anastasia|f|greek|english,russian,greek|3|classic,saint|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Andrea|f|greek|english|3|classic,strong|Valiente|Brave|Courageuse|Tapfer|Coraggiosa|Corajosa
+Angela|f|greek|english,italian|3|classic,saint|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Angelica|f|greek|english,italian|2|classic,sweet|Angelical|Angelic|Angélique|Engelsgleich|Angelica|Angelical
+Angelina|f|greek|english,italian|3|sweet,classic|Pequeño ángel|Little angel|Petit ange|Kleiner Engel|Piccolo angelo|Pequeno anjo
+Anna|f|hebrew|english,intl|4|biblical,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Annabel|f|latin|english|3|vintage,sweet|Amable, hermosa|Lovable, beautiful|Aimable, belle|Liebenswert, schön|Amabile, bella|Amável, bela
+Annabelle|f|latin|english|3|sweet,vintage|Amable, hermosa|Lovable, beautiful|Aimable, belle|Liebenswert, schön|Amabile, bella|Amável, bela
+Anne|f|hebrew|english,french,german|3|biblical,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Annette|f|hebrew|english,french|2|classic,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Annie|f|hebrew|english|3|sweet,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+April|f|latin|english|3|nature,sweet|Abril, apertura|Opening, spring month|Avril, ouverture|April, Öffnung|Aprile, apertura|Abril, abertura
+Aria|f|other|english,italian|4|music,modern|Melodía|Melody, air|Mélodie, air|Melodie, Arie|Melodia, aria|Melodia, ária
+Ariel|f|hebrew|english|2|biblical,strong|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Ashley|f|germanic|english|3|nature,modern|Bosque de fresnos|Ash tree meadow|Prairie de frênes|Eschenwiese|Prato di frassini|Prado de freixos
+Astrid|f|norse|english,scandinavian|2|strong,love|Hermosura divina|Divinely beautiful|Divinement belle|Göttlich schön|Divinamente bella|Divinamente bela
+Athena|f|greek|english,greek|3|mythology,strong|Diosa de la sabiduría|Goddess of wisdom|Déesse de la sagesse|Göttin der Weisheit|Dea della saggezza|Deusa da sabedoria
+Aubrey|f|germanic|english|4|modern,strong|Gobernante de los elfos|Elf ruler|Souverain des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Audrey|f|germanic|english|3|vintage,strong|Fuerza noble|Noble strength|Force noble|Edle Stärke|Nobile forza|Força nobre
+Augusta|f|latin|english|1|vintage,royal|Venerable|Venerable|Vénérable|Erhaben|Venerabile|Venerável
+Aurora|f|latin|english,intl|4|celestial,light|Amanecer|Dawn|Aurore|Morgenröte|Alba|Alvorecer
+Autumn|f|latin|english|3|nature,modern|Otoño|Season of autumn|Automne|Herbst|Autunno|Outono
+Ava|f|other|english|5|modern,sweet|Vida, pájaro|Life, bird|Vie, oiseau|Leben, Vogel|Vita, uccello|Vida, pássaro
+Avery|f|germanic|english|3|modern,strong|Gobernante de los elfos|Elf ruler|Souverain des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Barbara|f|greek|english,german|2|classic,saint|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Beatrice|f|latin|english,italian|3|classic,vintage|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringende|Colei che rende felici|A que traz felicidade
+Beatrix|f|latin|english,german|2|vintage,literary|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringende|Colei che rende felici|A que traz felicidade
+Belinda|f|germanic|english|2|classic,sweet|Serpiente hermosa|Beautiful serpent|Beau serpent|Schöne Schlange|Bella serpe|Bela serpente
+Bella|f|latin|english,italian|4|sweet,modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Bernadette|f|germanic|english,french|2|saint,classic|Valiente como un oso|Brave as a bear|Courageuse comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Bertha|f|germanic|english,german|1|vintage,classic|Brillante|Bright, famous|Brillante|Glänzend|Splendente|Brilhante
+Beryl|f|greek|english|1|gem,vintage|Piedra de berilo|Beryl gemstone|Pierre de béryl|Beryll-Edelstein|Gemma di berillo|Pedra de berilo
+Beth|f|hebrew|english|2|classic,sweet|Consagrada a Dios|Pledged to God|Vouée à Dieu|Gott geweiht|Consacrata a Dio|Consagrada a Deus
+Bethany|f|hebrew|english|3|biblical,place|Casa de higos|House of figs|Maison des figues|Haus der Feigen|Casa dei fichi|Casa dos figos
+Betsy|f|hebrew|english|1|vintage,sweet|Consagrada a Dios|Pledged to God|Vouée à Dieu|Gott geweiht|Consacrata a Dio|Consagrada a Deus
+Beverly|f|germanic|english|1|vintage,place|Arroyo de los castores|Beaver stream|Ruisseau des castors|Biberbach|Ruscello dei castori|Riacho dos castores
+Bianca|f|germanic|english,italian|3|classic,literary|Blanca|White|Blanche|Weiß|Bianca|Branca
+Blair|f|celtic|english,scottish|2|modern,place|Llanura, campo|Plain, field|Plaine, champ|Ebene, Feld|Pianura, campo|Planície, campo
+Blake|f|germanic|english|2|modern,nature|Oscuro o pálido|Dark or pale|Sombre ou pâle|Dunkel oder hell|Scuro o pallido|Escuro ou pálido
+Blanche|f|germanic|english,french|1|vintage,classic|Blanca|White|Blanche|Weiß|Bianca|Branca
+Bluebell|f|other|english|1|flower,nature|Campanilla azul|Bluebell flower|Jacinthe des bois|Glockenblume|Giacinto selvatico|Campainha azul
+Blythe|f|germanic|english|1|virtue,vintage|Alegre|Joyful, carefree|Joyeuse, insouciante|Fröhlich|Gioiosa|Alegre
+Bonnie|f|celtic|english,scottish|2|vintage,sweet|Bonita, buena|Pretty, good|Jolie, bonne|Hübsch, gut|Graziosa, buona|Bonita, boa
+Brenda|f|norse|english|1|classic|Espada|Sword|Épée|Schwert|Spada|Espada
+Briar|f|germanic|english|2|nature,modern|Zarza espinosa|Thorny shrub|Ronce|Dornstrauch|Rovo spinoso|Sarça espinhosa
+Bridie|f|celtic|english|1|vintage,sweet|Fuerza, poder|Strength, exalted|Force, élevée|Kraft, erhaben|Forza, esaltata|Força, exaltada
+Brittany|f|other|english|2|place,modern|Pequeña Bretaña|Little Britain|Petite Bretagne|Kleines Britannien|Piccola Britannia|Pequena Bretanha
+Brooke|f|germanic|english|3|nature,modern|Arroyo|Small stream|Ruisseau|Bach|Ruscello|Riacho
+Brooklyn|f|other|english|3|place,modern|Arroyo quebrado|Broken stream|Ruisseau brisé|Gebrochener Bach|Ruscello spezzato|Riacho quebrado
+Bryony|f|greek|english|2|flower,nature|Planta trepadora|Climbing vine|Plante grimpante|Kletterpflanze|Pianta rampicante|Planta trepadeira
+Bridget|f|celtic|english|2|saint,classic|Fuerza, exaltada|Strength, exalted one|Force, exaltée|Kraft, die Erhabene|Forza, esaltata|Força, exaltada
+Brianna|f|celtic|english|2|modern,strong|Fuerte, noble|Strong, noble|Forte, noble|Stark, edel|Forte, nobile|Forte, nobre
+Bree|f|celtic|english|1|modern,sweet|Fuerza, colina|Strength, hill|Force, colline|Kraft, Hügel|Forza, collina|Força, colina
+Bailey|f|other|english|2|modern,strong|Alguacil, administrador|Steward, bailiff|Intendant, bailli|Verwalter, Vogt|Amministratore, balivo|Administrador, bailio
+Becky|f|hebrew|english|1|classic,sweet|Lazo, atadura|To bind, snare|Lien, nœud|Bindung, Fessel|Legame, nodo|Laço, vínculo
+Bernice|f|greek|english|1|vintage,biblical|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Berenice|f|greek|english|1|vintage,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Blossom|f|other|english|1|flower,nature|Flor, floración|Flower, blossom|Fleur, floraison|Blüte|Fiore, fioritura|Flor, floração
+Briony|f|greek|english|2|flower,nature|Planta trepadora|Climbing vine|Plante grimpante|Kletterpflanze|Pianta rampicante|Planta trepadeira
+Bessie|f|hebrew|english|1|vintage,sweet|Consagrada a Dios|Pledged to God|Vouée à Dieu|Gott geweiht|Consacrata a Dio|Consagrada a Deus
+Billie|f|germanic|english|2|vintage,strong|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Bonita|f|latin|english,spanish|1|sweet,vintage|Bonita|Pretty|Jolie|Hübsch|Graziosa|Bonita
+Brigitte|f|celtic|english,french,german|1|classic|Fuerza, exaltada|Strength, exalted one|Force, exaltée|Kraft, die Erhabene|Forza, esaltata|Força, exaltada
+Bronwyn|f|celtic|english,welsh|1|sweet,vintage|Pecho blanco|White breast|Poitrine blanche|Weiße Brust|Petto bianco|Peito branco
+Barbie|f|greek|english|1|classic,sweet|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira

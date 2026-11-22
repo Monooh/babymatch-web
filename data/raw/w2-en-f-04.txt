@@ -1,0 +1,69 @@
+Sabina|f|latin|english,italian,german|2|classic|Mujer sabina|Woman of the Sabines|Femme sabine|Sabinerin|Donna sabina|Mulher sabina
+Sabine|f|latin|english,french,german|2|classic|Mujer sabina|Woman of the Sabines|Femme sabine|Sabinerin|Donna sabina|Mulher sabina
+Sadhbh|f|celtic|irish|1|sweet,mythology|Dulce|Sweet|Douce|Süß|Dolce|Doce
+Sapphire|f|greek|english|2|gem|Zafiro|Sapphire|Saphir|Saphir|Zaffiro|Safira
+Saoirse|f|celtic|irish,english|4|virtue,modern|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Selah|f|hebrew|english|1|biblical,music|Pausa, alabanza|Pause, praise|Pause, louange|Pause, Lobpreis|Pausa, lode|Pausa, louvor
+Seraphina|f|hebrew|english|2|biblical|Ardiente, de los serafines|Fiery one, seraph|Ardente, séraphin|Feurige, Seraph|Ardente, serafino|Ardente, serafim
+Seren|f|celtic|welsh|2|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Serenity|f|latin|english|3|virtue,modern|Serenidad|Serenity|Sérénité|Gelassenheit|Serenità|Serenidade
+Shona|f|hebrew|scottish,english|1|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sian|f|hebrew|welsh,english|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sinéad|f|hebrew|irish,english|3|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Siobhán|f|hebrew|irish,english|3|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sofia|f|greek|english,spanish,italian,portuguese|5|classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sorcha|f|celtic|irish,scottish|2|light|Brillante, luminosa|Radiant, bright|Radieuse, lumineuse|Strahlend, hell|Radiosa, luminosa|Radiante, luminosa
+Sorrel|f|germanic|english|1|nature,flower|Acedera|Sorrel plant|Oseille|Sauerampfer|Acetosa|Azeda
+Summer|f|germanic|english|4|nature,modern|Verano|Summer|Été|Sommer|Estate|Verão
+Susie|f|hebrew|english|2|vintage,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Temperance|f|latin|english|1|virtue,vintage|Moderación|Moderation|Tempérance|Mäßigung|Temperanza|Temperança
+Theodosia|f|greek|english|1|vintage|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Topaz|f|greek|english|1|gem|Topacio|Topaz|Topaze|Topas|Topazio|Topázio
+Trixie|f|latin|english|1|vintage|Viajera, bendita|Voyager, blessed|Voyageuse, bénie|Reisende, Gesegnete|Viaggiatrice, benedetta|Viajante, abençoada
+Unity|f|latin|english|1|virtue|Unidad|Unity|Unité|Einheit|Unità|Unidade
+Venus|f|latin|english|1|mythology,love|Amor, belleza|Love, beauty|Amour, beauté|Liebe, Schönheit|Amore, bellezza|Amor, beleza
+Verbena|f|latin|english|1|flower|Verbena|Verbena|Verveine|Eisenkraut|Verbena|Verbena
+Wilma|f|germanic|english,german|2|vintage|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Xenia|f|greek|english,german|1|classic|Hospitalidad|Hospitality|Hospitalité|Gastfreundschaft|Ospitalità|Hospitalidade
+Zillah|f|hebrew|english|1|biblical|Sombra|Shade, shadow|Ombre|Schatten|Ombra|Sombra
+Zahra|f|arabic|english,arabic|3|flower,light|Flor brillante|Bright flower, radiant|Fleur éclatante|Strahlende Blume|Fiore splendente|Flor radiante
+Clemency|f|latin|english|1|virtue,vintage|Clemencia|Mercy|Clémence|Milde|Clemenza|Clemência
+Destiny|f|latin|english|3|virtue,modern|Destino|Destiny|Destinée|Schicksal|Destino|Destino
+Emerald|f|other|english|2|gem|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Garnet|f|other|english|1|gem|Granate|Garnet|Grenat|Granat|Granato|Granada
+Gardenia|f|other|english|1|flower|Gardenia|Gardenia flower|Gardénia|Gardenie|Gardenia|Gardênia
+Orchid|f|greek|english|1|flower|Orquídea|Orchid|Orchidée|Orchidee|Orchidea|Orquídea
+Cherry|f|other|english|1|vintage,sweet|Cereza|Cherry|Cerise|Kirsche|Ciliegia|Cereja
+Cassia|f|greek|english|1|flower,sweet|Canela|Cinnamon|Cannelle|Zimt|Cannella|Canela
+Amaranth|f|greek|english|1|flower|Inmarchitable|Unfading|Immortelle|Unverwelklich|Inappassibile|Imarcescível
+Sierra|f|latin|english|2|nature,place|Cordillera|Mountain range|Chaîne de montagnes|Gebirgskette|Catena montuosa|Cordilheira
+Misty|f|germanic|english|1|nature,modern|Brumosa|Misty|Brumeuse|Neblig|Nebbiosa|Brumosa
+Genesis|f|greek|english,spanish|2|biblical,modern|Origen|Origin, beginning|Origine, commencement|Ursprung, Anfang|Origine, inizio|Origem, princípio
+Gianna|f|hebrew|english,italian|3|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Elena|f|greek|english,spanish,italian,russian|4|classic|Antorcha, brillante|Torch, shining light|Torche, lumineuse|Fackel, die Strahlende|Fiaccola, luminosa|Tocha, brilhante
+Camila|f|latin|english,spanish,portuguese|4|classic|Asistente en el culto|Attendant at the rites|Servante du culte|Dienerin beim Opfer|Ministra del culto|Assistente no culto
+Liliana|f|latin|english,spanish,italian|3|flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Kylie|f|other|english|2|modern|Boomerang|Boomerang|Boomerang|Bumerang|Boomerang|Boomerangue
+Annika|f|hebrew|scandinavian,english,german|2|classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Frida|f|germanic|english,german,scandinavian|2|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Goldie|f|germanic|english|1|vintage|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Carlotta|f|germanic|english,italian|1|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Michaela|f|hebrew|english|3|classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Nicolette|f|greek|english,french|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Rachelle|f|hebrew|english,french|1|classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Joelle|f|hebrew|english,french|2|classic|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Ernestine|f|germanic|english,german|1|vintage|Seria, decidida|Earnest, determined|Sérieuse, déterminée|Ernsthaft, entschlossen|Seria, determinata|Séria, determinada
+Kezia|f|hebrew|english|1|biblical|Casia|Cassia|Cassie|Kassia|Cassia|Cássia
+Loveday|f|germanic|english|1|vintage,love|Día de reconciliación|Day of reconciliation|Jour de réconciliation|Tag der Versöhnung|Giorno di riconciliazione|Dia de reconciliação
+Roisin|f|celtic|irish|3|flower|Rosita|Little rose|Petite rose|Röschen|Piccola rosa|Rosinha
+Caoimhe|f|celtic|irish|3|sweet|Amable, gentil|Gentle, kind|Douce, gentille|Sanft, freundlich|Gentile, dolce|Gentil, bondosa
+Catriona|f|greek|scottish,english|2|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Orlaith|f|celtic|irish|2|royal|Princesa dorada|Golden princess|Princesse dorée|Goldene Prinzessin|Principessa dorata|Princesa dourada
+Lowri|f|latin|welsh|2|nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Ffion|f|celtic|welsh|2|flower,modern|Dedalera|Foxglove|Digitale|Fingerhut|Digitale|Dedaleira
+Anwen|f|celtic|welsh|2|sweet|Muy bella|Very fair|Très belle|Sehr schön|Molto bella|Muito bela
+Eowyn|f|germanic|english|2|literary,strong|Alegría de caballo|Horse joy|Joie du cheval|Pferdefreude|Gioia del cavallo|Alegria do cavalo
+Galadriel|f|other|english|1|literary|Doncella coronada de luz|Maiden crowned with radiance|Jeune fille couronnée de lumière|Mit Strahlen gekrönte Jungfrau|Fanciulla incoronata di luce|Donzela coroada de luz
+Perdita|f|latin|english|1|literary|La perdida|The lost one|La perdue|Die Verlorene|La perduta|A perdida
+Desdemona|f|greek|english|1|literary|Desventurada|Ill-fated|Infortunée|Unglückselige|Sventurata|Desventurada
+Antonina|f|latin|english|1|vintage|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável

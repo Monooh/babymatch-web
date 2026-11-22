@@ -1,0 +1,106 @@
+Ada|f|germanic|german,dutch,scandinavian|3|noble,vintage,royal|Noble|Noble|Noble|Edel, vornehm|Nobile|Nobre
+Adele|f|germanic|german,french|3|vintage,royal,classic|Noble|Noble|Noble|Edel, vornehm|Nobile|Nobre
+Adelheid|f|germanic|german|1|vintage,royal|De noble linaje|Of noble kind|De noble lignée|Von edlem Wesen|Di nobile stirpe|De nobre linhagem
+Adrian|m|latin|german,intl|3|classic,place|De Hadria|From Hadria|De Hadria|Der aus Hadria|Di Adria|De Hadria
+Agnes|f|greek|german,scandinavian,english|3|saint,virtue,vintage|Pura, casta|Pure, chaste|Pure, chaste|Die Reine, Keusche|Pura, casta|Pura, casta
+Albert|m|germanic|german,french,english|2|classic,royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Albrecht|m|germanic|german|1|vintage,royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alexander|m|greek|german,intl|4|classic,strong,royal|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Alfred|m|germanic|german,english|2|vintage,royal|Consejero de los elfos|Elf counsel|Conseiller des elfes|Ratgeber der Elfen|Consigliere degli elfi|Conselheiro dos elfos
+Alma|f|latin|german,spanish,scandinavian|3|vintage,sweet,love|Que nutre, alma|Nourishing, soul|Nourricière, âme|Die Nährende, Seele|Che nutre, anima|Que nutre, alma
+Amalia|f|germanic|german,italian,spanish|2|vintage,classic|Trabajo, laboriosa|Work, industrious|Travail, laborieuse|Arbeit, die Tüchtige|Lavoro, operosa|Trabalho, laboriosa
+Amelie|f|germanic|german,french|4|classic,virtue,trendy|Laboriosa|Industrious|Travailleuse|Die Tüchtige|Operosa|Laboriosa
+Andreas|m|greek|german,scandinavian,greek|3|biblical,saint,strong|Viril, valiente|Manly, brave|Viril, courageux|Mannhaft, tapfer|Virile, coraggioso|Viril, corajoso
+Anja|f|hebrew|german,scandinavian,slavic|3|classic,sweet|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Anke|f|hebrew|german,dutch|2|classic,sweet|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Anna|f|hebrew|german,intl|5|biblical,classic,saint|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Anneliese|f|hebrew|german|2|vintage,classic|Gracia y juramento de Dios|Grace and God's oath|Grâce et serment de Dieu|Gnade und Gottes Eid|Grazia e giuramento di Dio|Graça e juramento de Deus
+Annika|f|hebrew|german,scandinavian|3|classic,sweet|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Ansgar|m|germanic|german,scandinavian|2|vintage,saint,warrior|Lanza de los dioses|Spear of the gods|Lance des dieux|Speer der Götter|Lancia degli dei|Lança dos deuses
+Anselm|m|germanic|german|1|vintage,saint|Protección divina|Divine protection|Protection divine|Götterschutz|Protezione divina|Proteção divina
+Anton|m|latin|german,scandinavian,russian|4|classic,saint|De valor inestimable|Of inestimable worth|D'une valeur inestimable|Der Unschätzbare|Di valore inestimabile|De valor inestimável
+Antje|f|hebrew|german,dutch|2|classic|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Arno|m|germanic|german,dutch|2|vintage,animal,strong|Águila poderosa|Eagle power|Puissance de l'aigle|Adlermacht|Potenza dell'aquila|Poder da águia
+Arnold|m|germanic|german,dutch,english|2|vintage,animal,strong|Gobernante águila|Eagle ruler|Souverain aigle|Adlerherrscher|Sovrano aquila|Governante águia
+Astrid|f|norse|german,scandinavian|3|classic,love,strong|Divinamente hermosa|Divinely beautiful|Divinement belle|Göttlich schön|Divinamente bella|Divinamente bela
+August|m|latin|german,scandinavian|3|vintage,royal,classic|Venerable, majestuoso|Venerable, majestic|Vénérable, majestueux|Der Erhabene|Venerabile, maestoso|Venerável, majestoso
+Aurelia|f|latin|german,italian|2|light,vintage,classic|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Barbara|f|greek|german,intl|3|saint,classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Bärbel|f|greek|german|1|vintage,classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Bastian|m|greek|german|3|classic,royal|Venerable|Venerable, revered|Vénérable|Der Verehrungswürdige|Venerabile|Venerável
+Beate|f|latin|german|2|classic,virtue|Bienaventurada|Blessed|Bienheureuse|Die Glückselige|Beata|Bem-aventurada
+Ben|m|hebrew|german,english,intl|4|biblical,classic|Hijo|Son|Fils|Sohn|Figlio|Filho
+Benedikt|m|latin|german|3|saint,classic,virtue|Bendito|Blessed|Béni|Der Gesegnete|Benedetto|Abençoado
+Benjamin|m|hebrew|german,intl|4|biblical,classic|Hijo de la mano derecha|Son of the right hand|Fils de la main droite|Sohn der rechten Hand|Figlio della mano destra|Filho da mão direita
+Bernd|m|germanic|german|2|vintage,animal,strong|Oso valiente|Brave as a bear|Courageux comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Bernhard|m|germanic|german|2|classic,animal,strong|Oso valiente|Brave as a bear|Courageux comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Berthold|m|germanic|german|1|vintage,royal|Gobernante brillante|Bright ruler|Souverain brillant|Glänzender Herrscher|Sovrano splendente|Governante brilhante
+Bettina|f|italian|german|2|classic,saint|Diminutivo de Elisabeth: Dios es mi juramento|Diminutive of Elisabeth: God is my oath|Diminutif d'Élisabeth : Dieu est mon serment|Kurzform von Elisabeth: Gott ist mein Eid|Diminutivo di Elisabetta: Dio è il mio giuramento|Diminutivo de Elisabeth: Deus é o meu juramento
+Birgit|f|norse|german,scandinavian|2|classic,strong|Fuerte, exaltada|Strong, exalted|Forte, élevée|Die Starke, Erhabene|Forte, esaltata|Forte, exaltada
+Björn|m|norse|german,scandinavian|3|classic,animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Brigitte|f|celtic|german,french|2|classic,saint,strong|La exaltada|The exalted one|L'élevée|Die Erhabene|L'eccelsa|A exaltada
+Britta|f|norse|german,scandinavian|2|classic,strong|Fuerte, exaltada|Strong, exalted|Forte, élevée|Die Starke, Erhabene|Forte, esaltata|Forte, exaltada
+Bruno|m|germanic|german,italian,spanish,portuguese|3|classic,strong|Marrón, coraza|Brown, armour|Brun, cuirasse|Der Braune, Panzer|Bruno, corazza|Castanho, couraça
+Brunhild|f|germanic|german|1|mythology,warrior,vintage|Combatiente con coraza|Armoured battle maiden|Combattante cuirassée|Gepanzerte Kämpferin|Guerriera corazzata|Guerreira couraçada
+Burkhard|m|germanic|german|1|vintage,strong|Protección fuerte|Strong protection|Protection forte|Starker Schutz|Forte protezione|Proteção forte
+Carl|m|germanic|german,scandinavian|3|classic,royal,vintage|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Carla|f|germanic|german,italian,spanish|3|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carolin|f|germanic|german|3|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carsten|m|greek|german,scandinavian|2|classic|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Charlotte|f|germanic|german,french,english|4|classic,royal|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Christa|f|greek|german|2|vintage,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christian|m|greek|german,scandinavian,english|3|classic,saint|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Christiane|f|greek|german|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christina|f|greek|german,scandinavian,english|3|classic,saint|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christoph|m|greek|german|3|saint,classic|El que lleva a Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Claas|m|greek|german,dutch|2|classic,warrior|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Clara|f|latin|german,intl|4|classic,light,saint|Clara, brillante|Bright, clear|Claire, brillante|Hell, strahlend|Chiara, luminosa|Clara, brilhante
+Clemens|m|latin|german|3|classic,saint,virtue|Clemente, misericordioso|Merciful, gentle|Clément, miséricordieux|Der Milde, Gnädige|Clemente, mite|Clemente, misericordioso
+Cosima|f|greek|german,italian|2|vintage,sweet|Orden, belleza|Order, beauty|Ordre, beauté|Ordnung, Schönheit|Ordine, bellezza|Ordem, beleza
+Dagmar|f|norse|german,scandinavian,slavic|2|vintage,light|Gloria del día|Glory of the day|Gloire du jour|Ruhm des Tages|Gloria del giorno|Glória do dia
+Dagny|f|norse|german,scandinavian|1|light,vintage|Nuevo día|New day|Nouveau jour|Neuer Tag|Nuovo giorno|Novo dia
+Daniel|m|hebrew|german,intl|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+Daniela|f|hebrew|german,italian|2|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+David|m|hebrew|german,intl|4|biblical,classic,royal|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Detlef|m|germanic|german|1|vintage|Heredero del pueblo|Heir of the people|Héritier du peuple|Erbe des Volkes|Erede del popolo|Herdeiro do povo
+Detlev|m|germanic|german|1|vintage|Heredero del pueblo|Heir of the people|Héritier du peuple|Erbe des Volkes|Erede del popolo|Herdeiro do povo
+Dieter|m|germanic|german|2|vintage,warrior|Ejército del pueblo|People's army|Armée du peuple|Heer des Volkes|Esercito del popolo|Exército do povo
+Dietmar|m|germanic|german|1|vintage|Famoso entre el pueblo|Famous among the people|Célèbre parmi le peuple|Berühmt im Volk|Famoso tra il popolo|Famoso entre o povo
+Dietrich|m|germanic|german|2|vintage,royal|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Dirk|m|germanic|german,dutch|2|classic,royal|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Dominik|m|latin|german,slavic|3|classic,saint|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Dora|f|greek|german,dutch|2|vintage,sweet|Regalo|Gift|Don, cadeau|Geschenk|Dono|Dádiva
+Dorothea|f|greek|german,scandinavian|3|classic,saint|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Dörte|f|greek|german|1|vintage,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Edgar|m|germanic|german,english,french|2|classic,royal|Lanza afortunada|Fortunate spear|Lance fortunée|Glücklicher Speer|Lancia fortunata|Lança afortunada
+Eckhard|m|germanic|german|1|vintage,strong|Filo de espada firme|Firm sword edge|Tranchant d'épée ferme|Starke Schwertschneide|Filo di spada saldo|Gume de espada firme
+Edith|f|germanic|german,english,french|2|vintage,classic|Riqueza en la guerra|Prosperous in war|Richesse dans la guerre|Reichtum im Kampf|Ricchezza in guerra|Riqueza na guerra
+Egon|m|germanic|german|1|vintage|Filo de la espada|Edge of the sword|Tranchant de l'épée|Schwertschneide|Filo della spada|Gume da espada
+Eike|m|germanic|german|2|vintage,strong|Filo de la espada|Edge of the sword|Tranchant de l'épée|Schwertschneide|Filo della spada|Gume da espada
+Elias|m|hebrew|german,scandinavian,intl|5|biblical,trendy,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Elisabeth|f|hebrew|german,intl|3|biblical,classic,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Elise|f|hebrew|german,french,scandinavian|3|classic,vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Elsa|f|hebrew|german,scandinavian,spanish|3|vintage,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Emil|m|latin|german,scandinavian,slavic|5|vintage,classic,trendy|Rival, afanoso|Rival, eager|Rival, ardent|Der Eifrige|Rivale, solerte|Rival, dedicado
+Emilia|f|latin|german,italian,polish,intl|5|classic,trendy|Rival, afanosa|Rival, eager|Rivale, ardente|Die Eifrige|Rivale, solerte|Rival, dedicada
+Emilie|f|latin|german,scandinavian,french|3|classic,vintage|Rival, afanosa|Rival, eager|Rivale, ardente|Die Eifrige|Rivale, solerte|Rival, dedicada
+Emma|f|germanic|german,intl|5|classic,royal|Universal, entera|Whole, universal|Entière, universelle|Die Umfassende|Universale, intera|Universal, inteira
+Erich|m|germanic|german|2|vintage,royal|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Erik|m|norse|german,scandinavian|3|classic,royal|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Erika|f|norse|german,scandinavian|2|classic,royal|Gobernante eterna|Eternal ruler|Souveraine éternelle|Ewige Herrscherin|Sovrana eterna|Governante eterna
+Ernst|m|germanic|german|2|vintage,virtue|Seriedad, firmeza|Earnest, determined|Sérieux, déterminé|Ernst, Entschlossenheit|Serietà, fermezza|Seriedade, firmeza
+Eva|f|hebrew|german,intl|4|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Eveline|f|germanic|german,dutch|1|vintage,sweet|Avellana, vida|Hazelnut, life|Noisette, vie|Haselnuss, Leben|Nocciola, vita|Avelã, vida
+Fabian|m|latin|german,intl|3|classic,saint|De la familia Fabia|Of the Fabii clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della gens Fabia|Da família Fábia
+Falk|m|germanic|german|1|animal,strong|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Felicitas|f|latin|german|2|virtue,classic|Felicidad|Happiness, good fortune|Bonheur|Glück, Glückseligkeit|Felicità|Felicidade
+Felix|m|latin|german,intl|4|classic,virtue|Feliz, afortunado|Happy, lucky|Heureux, chanceux|Der Glückliche|Felice, fortunato|Feliz, afortunado
+Fiete|m|germanic|german|3|classic,royal,trendy|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Governante pacifico|Governante pacífico
+Finn|m|celtic|german,dutch,scandinavian,irish|5|trendy,modern,strong|Rubio, justo|Fair, white|Blond, juste|Der Helle, Weiße|Biondo, giusto|Louro, justo
+Florian|m|latin|german,french|3|saint,flower,classic|Floreciente|Flowering|Fleurissant|Der Blühende|Fiorente|Florescente
+Frank|m|germanic|german,dutch,english|2|classic|Libre, franco|Free, frank|Libre, franc|Der Freie, Franke|Libero, franco|Livre, franco
+Franz|m|latin|german|3|classic,saint|Francés, libre|Frenchman, free|Français, libre|Der Franke|Francese, libero|Francês, livre
+Franziska|f|latin|german|3|classic,saint|Francesa, libre|Frenchwoman, free|Française, libre|Die Fränkin|Francese, libera|Francesa, livre
+Frieda|f|germanic|german|4|vintage,virtue,trendy|Paz|Peace|Paix|Frieden|Pace|Paz
+Friedrich|m|germanic|german|3|classic,royal|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Governante pacifico|Governante pacífico
+Fritz|m|germanic|german|3|vintage,royal|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Governante pacifico|Governante pacífico

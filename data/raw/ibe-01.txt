@@ -1,0 +1,88 @@
+Agate|f|greek|basque|2|saint,virtue|Buena, virtuosa|Good, virtuous|Bonne, vertueuse|Gute, Tugendhafte|Buona, virtuosa|Boa, virtuosa
+Aintza|f|basque|basque|1|virtue|Gloria, fama|Glory, fame|Gloire, renommée|Ruhm, Ehre|Gloria, fama|Glória, fama
+Aintzane|f|basque|basque|2|saint,virtue|Gloria, honor|Glory, honour|Gloire, honneur|Ruhm, Ehre|Gloria, onore|Glória, honra
+Aintzira|f|basque|basque|1|nature,sea|Lago|Lake|Lac|See|Lago|Lago
+Ainara|f|basque|basque,spanish|3|animal,nature|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Ainhoa|f|basque|basque,spanish|4|place,saint|Virgen de Ainhoa, pueblo vasco|Our Lady of Ainhoa, Basque village|Notre-Dame d'Ainhoa, village basque|Muttergottes von Ainhoa, baskisches Dorf|Madonna di Ainhoa, villaggio basco|Nossa Senhora de Ainhoa, vila basca
+Alaia|f|basque|basque,spanish|3|sweet,virtue|Alegre, contenta|Cheerful, joyful|Joyeuse, gaie|Fröhlich, heiter|Allegra, gioiosa|Alegre, contente
+Alazne|f|basque|basque|2|saint,virtue|Milagro|Miracle|Miracle|Wunder|Miracolo|Milagre
+Amaia|f|basque|basque,spanish|4|place,virtue|El fin, la culminación|The end, the culmination|La fin, l'aboutissement|Das Ende, der Höhepunkt|La fine, il culmine|O fim, a culminação
+Amalur|f|basque|basque|1|mythology,nature|Madre tierra|Mother earth|Terre mère|Mutter Erde|Madre terra|Mãe terra
+Ane|f|hebrew|basque,spanish|4|biblical,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Andere|f|basque|basque|2|royal,virtue|Señora, dama|Lady|Dame|Dame, Herrin|Signora, dama|Senhora, dama
+Anuntzi|f|latin|basque|1|saint|Anunciación|Annunciation|Annonciation|Verkündigung|Annunciazione|Anunciação
+Arantxa|f|basque|basque,spanish|4|saint,nature|Espino|Thorn|Épine|Dorn|Spino|Espinho
+Arantzazu|f|basque|basque,spanish|3|saint,place|Lugar de espinos|Place of thorns|Lieu d'épines|Ort der Dornen|Luogo di spine|Lugar de espinhos
+Argia|f|basque|basque|2|light,celestial|Luz|Light|Lumière|Licht|Luce|Luz
+Arrate|f|basque|basque|1|saint,place|Virgen de Arrate, santuario vasco|Our Lady of Arrate, Basque shrine|Notre-Dame d'Arrate, sanctuaire basque|Muttergottes von Arrate, baskisches Heiligtum|Madonna di Arrate, santuario basco|Nossa Senhora de Arrate, santuário basco
+Artizar|f|basque|basque|1|celestial,light|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Bakarne|f|basque|basque|1|saint,virtue|Soledad|Solitude|Solitude|Einsamkeit|Solitudine|Solidão
+Begoña|f|basque|spanish,basque|3|place,saint|Virgen de Begoña, colina de Bilbao|Our Lady of Begoña, hill of Bilbao|Notre-Dame de Begoña, colline de Bilbao|Muttergottes von Begoña, Hügel von Bilbao|Madonna di Begoña, colle di Bilbao|Nossa Senhora de Begoña, colina de Bilbau
+Bittori|f|latin|basque|1|saint,virtue|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Edurne|f|basque|basque,spanish|4|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Eguzkiñe|f|basque|basque|2|celestial,light|Solecito|Little sun|Petit soleil|Sonnenschein|Piccolo sole|Solzinho
+Ekhi|u|basque|basque|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Elene|f|greek|basque|2|saint,light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Torcia, luce splendente|Tocha, luz brilhante
+Elixabete|f|hebrew|basque|2|biblical,saint|Mi Dios es juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Elorri|u|basque|basque|1|flower,nature|Espino|Hawthorn|Aubépine|Weißdorn|Biancospino|Espinheiro
+Elur|f|basque|basque|2|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Enara|f|basque|basque,spanish|2|animal,nature|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Eukene|f|greek|basque|2|saint,virtue|Bien nacida|Well-born|Bien née|Wohlgeboren|Ben nata|Bem-nascida
+Garazi|f|basque|basque,spanish|2|place|Comarca vasca de Baja Navarra|Region of Lower Navarre|Région de Basse-Navarre|Region in Niedernavarra|Regione della Bassa Navarra|Região da Baixa Navarra
+Garbiñe|f|basque|basque|3|saint,virtue|Pura, inmaculada|Pure, immaculate|Pure, immaculée|Rein, unbefleckt|Pura, immacolata|Pura, imaculada
+Garoa|f|basque|basque|1|nature|Helecho|Fern|Fougère|Farn|Felce|Feto
+Goizane|f|basque|basque|1|light,nature|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Amanhecer
+Goizargi|f|basque|basque|2|light,celestial|Luz de la mañana|Morning light|Lumière du matin|Morgenlicht|Luce del mattino|Luz da manhã
+Gorane|f|basque|basque|1|virtue|Elevada, sublime|Lofty, sublime|Élevée, sublime|Erhaben, hoch|Elevata, sublime|Elevada, sublime
+Gurutze|f|latin|basque|2|saint|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Haizea|f|basque|basque,spanish|3|nature|Viento|Wind|Vent|Wind|Vento|Vento
+Hegoa|u|basque|basque|1|nature|Viento del sur|South wind|Vent du sud|Südwind|Vento del sud|Vento do sul
+Hodeia|f|basque|basque|1|nature|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Idoia|f|basque|basque,spanish|3|nature,place|Estanque, charca|Pond, pool|Étang, mare|Teich, Weiher|Stagno, laghetto|Lagoa, charco
+Ihintza|f|basque|basque|2|nature|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Ilargi|u|basque|basque|2|celestial|Luna|Moon|Lune|Mond|Luna|Lua
+Ilazki|f|basque|basque|1|celestial|Luna llena|Full moon|Pleine lune|Vollmond|Luna piena|Lua cheia
+Irati|f|basque|basque,spanish|3|place,nature|Selva de Irati, bosque navarro|Irati forest, Navarrese woodland|Forêt d'Irati, bois navarrais|Irati-Wald, Wald in Navarra|Foresta di Irati, bosco navarrese|Floresta de Irati, bosque navarro
+Iratxe|f|basque|basque|2|place,saint|Monasterio de Irache, helechal|Irache monastery, fernland|Monastère d'Irache, fougeraie|Kloster Irache, Farnland|Monastero di Irache, felceto|Mosteiro de Irache, feitoral
+Irantzu|f|basque|basque|1|place,saint|Virgen de Irantzu, monasterio navarro|Our Lady of Irantzu, Navarrese monastery|Notre-Dame d'Irantzu, monastère navarrais|Muttergottes von Irantzu, Kloster in Navarra|Madonna di Irantzu, monastero navarrese|Nossa Senhora de Irantzu, mosteiro navarro
+Itsaso|f|basque|basque,spanish|3|sea|Mar|Sea|Mer|Meer|Mare|Mar
+Itziar|f|basque|basque,spanish|3|place,saint|Virgen de Itziar, santuario guipuzcoano|Our Lady of Itziar, Gipuzkoan shrine|Notre-Dame d'Itziar, sanctuaire guipuscoan|Muttergottes von Itziar, Heiligtum in Gipuzkoa|Madonna di Itziar, santuario guipuzcoano|Nossa Senhora de Itziar, santuário guipuscoano
+Itxaro|f|basque|basque|1|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Ixabel|f|hebrew|basque|1|biblical,saint|Mi Dios es juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Izar|f|basque|basque,spanish|3|celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Izaskun|f|basque|basque|2|saint,place|Virgen de Izaskun|Our Lady of Izaskun|Notre-Dame d'Izaskun|Muttergottes von Izaskun|Madonna di Izaskun|Nossa Senhora de Izaskun
+Jaione|f|basque|basque|2|saint|Natividad, nacimiento|Nativity, birth|Nativité, naissance|Geburt Christi, Geburt|Natività, nascita|Natividade, nascimento
+Jone|f|hebrew|basque|2|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Josebe|f|hebrew|basque|2|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Karmele|f|hebrew|basque|2|saint,nature|Jardín de Dios, viñedo|Garden of God, vineyard|Jardin de Dieu, vignoble|Garten Gottes, Weinberg|Giardino di Dio, vigneto|Jardim de Deus, vinhedo
+Kattalin|f|greek|basque|2|saint|Pura|Pure|Pure|Rein|Pura|Pura
+Leire|f|basque|basque,spanish|3|place,saint|Monasterio de Leyre|Leyre monastery|Monastère de Leyre|Kloster Leyre|Monastero di Leyre|Mosteiro de Leyre
+Lore|f|basque|basque|3|flower|Flor|Flower|Fleur|Blume|Fiore|Flor
+Lorea|f|basque|basque|3|flower|La flor|The flower|La fleur|Die Blume|Il fiore|A flor
+Lur|f|basque|basque|2|nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Lurdes|f|other|basque,spanish|2|saint,place|Virgen de Lourdes|Our Lady of Lourdes|Notre-Dame de Lourdes|Muttergottes von Lourdes|Madonna di Lourdes|Nossa Senhora de Lourdes
+Maddi|f|hebrew|basque|2|biblical,saint|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Maialen|f|hebrew|basque,spanish|4|biblical,saint|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Maite|f|basque|basque,spanish|4|love,sweet|Amada, querida|Beloved, dear|Bien-aimée, chérie|Geliebte, Liebste|Amata, cara|Amada, querida
+Maitane|f|basque|basque,spanish|3|love,sweet|Amada, querida|Beloved, dear|Bien-aimée, chérie|Geliebte, Liebste|Amata, cara|Amada, querida
+Maitena|f|basque|basque|2|love,sweet|Querida|Dear one|Chérie|Liebste|Cara|Querida
+Malen|f|hebrew|basque|2|biblical,saint|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Mertxe|f|latin|basque|2|saint|Merced, favor|Mercy, favour|Merci, faveur|Gnade, Gunst|Grazia, favore|Mercê, favor
+Miren|f|hebrew|basque,spanish|4|biblical,saint|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Mirari|f|basque|basque|1|saint,virtue|Milagro|Miracle|Miracle|Wunder|Miracolo|Milagre
+Nahia|f|basque|basque|2|virtue|Deseo, voluntad|Wish, will|Désir, volonté|Wunsch, Wille|Desiderio, volontà|Desejo, vontade
+Naiara|f|basque|basque,spanish|3|place,saint|Virgen de Nájera|Our Lady of Nájera|Notre-Dame de Nájera|Muttergottes von Nájera|Madonna di Nájera|Nossa Senhora de Nájera
+Nekane|f|basque|basque,spanish|3|saint,virtue|Dolores, penas|Sorrows, pains|Douleurs, peines|Schmerzen, Leiden|Dolori, pene|Dores, penas
+Nerea|f|basque|spanish,basque|5|love,sweet|Mía, la mía|Mine, my own|Mienne, ma bien-aimée|Meine, die Meine|Mia, la mia|Minha, a minha
+Oihana|f|basque|basque,spanish|3|nature|Selva, bosque|Forest, jungle|Forêt, jungle|Wald, Dschungel|Foresta, giungla|Floresta, selva
+Oihane|f|basque|basque,spanish|3|nature|Selva, bosque|Forest, jungle|Forêt, jungle|Wald, Dschungel|Foresta, giungla|Floresta, selva
+Olatz|f|basque|basque|2|saint,place|Virgen de Olatz, ermita guipuzcoana|Our Lady of Olatz, Gipuzkoan chapel|Notre-Dame d'Olatz, chapelle guipuscoane|Muttergottes von Olatz, Kapelle in Gipuzkoa|Madonna di Olatz, eremo guipuzcoano|Nossa Senhora de Olatz, ermida guipuscoana
+Ortzadar|f|basque|basque|1|nature,celestial|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Sorkunde|f|basque|basque|1|saint|Nacimiento, cuna|Birth, cradle|Naissance, berceau|Geburt, Wiege|Nascita, culla|Nascimento, berço
+Udara|f|basque|basque|1|nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Usoa|f|basque|basque|2|animal,nature|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Uxue|f|basque|basque,spanish|3|place,animal|Paloma, Ujué|Dove, Ujué|Colombe, Ujué|Taube, Ujué|Colomba, Ujué|Pomba, Ujué
+Zerua|f|basque|basque|1|celestial|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Zorione|f|basque|basque|2|virtue|Felicidad|Happiness|Bonheur|Glück|Felicità|Felicidade
+Zuri|f|basque|basque|2|nature|Blanca|White one|Blanche|Die Weiße|Bianca|Branca
+Zuriñe|f|basque|basque|3|virtue|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura

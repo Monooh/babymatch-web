@@ -1,0 +1,70 @@
+Daria|f|persian|english|2|classic|La que posee riqueza|She who holds wealth|Celle qui possède|Die Besitzende|Colei che possiede|A que possui
+Della|f|germanic|english|1|vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Delphine|f|greek|english,french|2|classic,sea|Delfín, de Delfos|Dolphin, of Delphi|Dauphin, de Delphes|Delfin, aus Delphi|Delfino, di Delfi|Golfinho, de Delfos
+Delyth|f|celtic|welsh|2|sweet|Bonita, agradable|Pretty, neat|Jolie, soignée|Hübsch, nett|Graziosa, curata|Bonita, graciosa
+Désirée|f|latin|english,french|2|love|Deseada|Desired|Désirée|Ersehnte|Desiderata|Desejada
+Dilys|f|celtic|welsh|1|vintage,virtue|Genuina, verdadera|Genuine, true|Authentique, vraie|Echt, wahr|Genuina, vera|Genuína, verdadeira
+Dinah|f|hebrew|english|2|biblical,vintage|Juzgada, vindicada|Judged, vindicated|Jugée, justifiée|Gerichtet, gerechtfertigt|Giudicata, vendicata|Julgada, vindicada
+Diantha|f|greek|english|1|flower,vintage|Flor divina|Divine flower|Fleur divine|Göttliche Blume|Fiore divino|Flor divina
+Dione|f|greek|english|1|mythology|Diosa divina|Divine queen|Reine divine|Göttliche Königin|Regina divina|Rainha divina
+Dionne|f|greek|english|2|mythology|Divina|Divine|Divine|Göttlich|Divina|Divina
+Dolores|f|latin|english,spanish|2|vintage|Dolores, penas|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Donna|f|latin|english|2|vintage|Señora|Lady|Dame|Herrin|Signora|Senhora
+Dorcas|f|greek|english|1|biblical,animal|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Dorothea|f|greek|english,german|2|classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Dottie|f|greek|english|1|vintage|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Dulcie|f|latin|english|1|vintage,sweet|Dulce|Sweet|Douce|Süß|Dolce|Doce
+Edie|f|germanic|english|3|vintage|Próspera en la guerra|Prosperous in war|Prospère à la guerre|Wohlhabend im Krieg|Prospera in guerra|Próspera na guerra
+Edwina|f|germanic|english|1|vintage|Amiga rica|Rich friend|Amie riche|Reiche Freundin|Ricca amica|Amiga rica
+Effie|f|greek|english,scottish|2|vintage|De buen hablar|Well-spoken|Qui parle bien|Wohlredend|Dalla bella parola|De boa fala
+Eira|f|celtic|welsh|2|nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Eirlys|f|celtic|welsh|1|flower|Campanilla de invierno|Snowdrop|Perce-neige|Schneeglöckchen|Bucaneve|Campainha-de-inverno
+Eithne|f|celtic|irish|1|mythology|Grano, semilla|Kernel, grain|Grain, noyau|Korn, Kern|Chicco, seme|Grão, semente
+Eliana|f|hebrew|english|3|modern,biblical|Mi Dios ha respondido|My God has answered|Mon Dieu a répondu|Mein Gott hat geantwortet|Il mio Dio ha risposto|O meu Deus respondeu
+Elise|f|hebrew|english,french,german|3|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Elisa|f|hebrew|english,italian,spanish|2|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Ember|f|germanic|english|3|modern,nature|Ascua|Glowing coal, ember|Braise|Glut|Brace|Brasa
+Emeline|f|germanic|english|2|vintage|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Laboriosa
+Emmeline|f|germanic|english|2|vintage|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Laboriosa
+Enid|f|celtic|welsh,english|1|vintage,literary|Alma, vida|Soul, life|Âme, vie|Seele, Leben|Anima, vita|Alma, vida
+Erica|f|norse|english|2|classic|Gobernante eterna|Eternal ruler|Souveraine éternelle|Ewige Herrscherin|Sovrana eterna|Governante eterna
+Esmeralda|f|other|english,spanish|2|gem|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Estella|f|latin|english|2|vintage,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eugenie|f|greek|english,french|2|royal|De noble cuna|Well-born|De noble naissance|Wohlgeboren|Ben nata|Bem-nascida
+Eulalia|f|greek|english|1|vintage,saint|De dulce hablar|Sweetly speaking|Qui parle avec douceur|Wohlredend|Di dolce parola|De fala doce
+Fenella|f|celtic|scottish,english|1|vintage|Hombro blanco|White shoulder|Épaule blanche|Weiße Schulter|Spalla bianca|Ombro branco
+Fidelia|f|latin|english|1|virtue,vintage|Fiel|Faithful|Fidèle|Treu|Fedele|Fiel
+Fionnuala|f|celtic|irish|1|mythology|Hombro blanco|White shoulder|Épaule blanche|Weiße Schulter|Spalla bianca|Ombro branco
+Flavia|f|latin|english,italian|1|classic|Rubia, dorada|Golden-haired|Blonde, dorée|Goldhaarig|Bionda, dorata|Loura, dourada
+Francine|f|latin|english,french|2|vintage|Libre|Free|Libre|Frei|Libera|Livre
+Gaia|f|greek|english,italian|2|mythology,nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Georgiana|f|greek|english|2|vintage|Agricultora|Farmer|Agricultrice|Bäuerin|Agricoltrice|Agricultora
+Georgie|f|greek|english|2|vintage|Agricultora|Farmer|Agricultrice|Bäuerin|Agricoltrice|Agricultora
+Glenda|f|celtic|welsh,english|1|vintage|Pura y buena|Pure and good|Pure et bonne|Rein und gut|Pura e buona|Pura e boa
+Glenys|f|celtic|welsh|1|vintage|Pura, santa|Pure, holy|Pure, sainte|Rein, heilig|Pura, santa|Pura, santa
+Godiva|f|germanic|english|1|vintage|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Gretchen|f|greek|german,english|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Guinevere|f|celtic|english,welsh|2|literary,royal|Blanca y suave|Fair and smooth|Blanche et douce|Hell und sanft|Bianca e liscia|Clara e suave
+Gwenda|f|celtic|welsh,english|1|vintage|Blanca y bendita|Fair and blessed|Blanche et bénie|Hell und gesegnet|Bianca e benedetta|Clara e abençoada
+Gwenith|f|celtic|welsh|1|nature|Trigo|Wheat|Blé|Weizen|Grano|Trigo
+Harmony|f|greek|english|3|virtue,music|Armonía|Harmony|Harmonie|Harmonie|Armonia|Harmonia
+Hayley|f|germanic|english|3|modern,place|Claro de heno|Hay clearing|Clairière de foin|Heuwiese|Radura di fieno|Clareira de feno
+Hephzibah|f|hebrew|english|1|biblical,vintage|Mi deleite está en ella|My delight is in her|Mon plaisir est en elle|Meine Lust ist an ihr|La mia gioia è in lei|O meu prazer está nela
+Hester|f|persian|english|1|vintage,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Honor|f|latin|english|2|virtue|Honor|Honor|Honneur|Ehre|Onore|Honra
+Honora|f|latin|english,irish|1|virtue,vintage|Honor|Honor|Honneur|Ehre|Onore|Honra
+Hyacinth|f|greek|english|1|flower,vintage|Jacinto|Hyacinth flower|Jacinthe|Hyazinthe|Giacinto|Jacinto
+India|f|sanskrit|english|2|place|Del río Indo|From the Indus river|Du fleuve Indus|Vom Indus|Dal fiume Indo|Do rio Indo
+Isadora|f|greek|english|2|vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Dom de Ísis
+Isobel|f|hebrew|scottish,english|3|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Jacinta|f|greek|english|1|flower|Jacinto|Hyacinth|Jacinthe|Hyazinthe|Giacinto|Jacinto
+Jeanette|f|hebrew|english|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jessamine|f|persian|english|1|flower,vintage|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Jewel|f|latin|english|2|gem|Joya|Jewel|Joyau|Juwel|Gioiello|Joia
+Jillian|f|latin|english|2|classic|Juvenil|Youthful|Juvénile|Jugendlich|Giovanile|Juvenil
+Joanne|f|hebrew|english|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Johanna|f|hebrew|english,german|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jolie|f|latin|english,french|2|sweet|Bonita|Pretty|Jolie|Hübsch|Graziosa|Bonita
+Jonquil|f|latin|english|1|flower,vintage|Junquillo|Rush, jonquil|Jonquille|Jonquille|Giunchiglia|Junquilho
+Juliana|f|latin|english|2|classic|Juvenil|Youthful|Juvénile|Jugendlich|Giovanile|Juvenil
+Justina|f|latin|english|1|virtue|Justa|Just|Juste|Gerecht|Giusta|Justa

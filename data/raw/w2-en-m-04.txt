@@ -1,0 +1,50 @@
+Abe|m|hebrew|english|2|biblical,vintage|Padre de multitudes|Father of multitudes|Père d'une multitude|Vater der Menge|Padre di una moltitudine|Pai de multidões
+Bert|m|germanic|english|1|vintage|Brillante|Bright|Brillant|Glänzend|Splendente|Brilhante
+Cohen|m|hebrew|english|3|modern|Sacerdote|Priest|Prêtre|Priester|Sacerdote|Sacerdote
+Dave|m|hebrew|english|3|classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Danny|m|hebrew|english|3|classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+Ed|m|germanic|english|2|classic|Guardián próspero|Wealthy guardian|Gardien prospère|Wohlhabender Beschützer|Guardiano prospero|Guardião próspero
+Falcon|u|latin|english|1|animal,modern|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Finch|u|germanic|english|1|animal,modern|Pinzón|Finch|Pinson|Fink|Fringuello|Tentilhão
+Gabe|m|hebrew|english|2|biblical,sweet|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Kestrel|u|other|english|1|animal,modern|Cernícalo|Kestrel|Crécerelle|Turmfalke|Gheppio|Peneireiro
+King|m|germanic|english|2|royal,modern|Rey|King|Roi|König|Re|Rei
+Lake|u|latin|english|2|nature,modern|Lago|Lake|Lac|See|Lago|Lago
+Lenny|m|germanic|english|3|sweet,classic|Fuerte como un león|Brave as a lion|Courageux comme un lion|Löwenstark|Forte come un leone|Corajoso como um leão
+Matt|m|hebrew|english|3|classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Scout|u|latin|english|2|modern|Explorador|Scout|Éclaireur|Kundschafter|Esploratore|Explorador
+Sam|m|hebrew|english|4|classic|Dios ha oído|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sammy|m|hebrew|english|3|sweet|Dios ha oído|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Septimus|m|latin|english|1|vintage|Séptimo|Seventh|Septième|Der Siebte|Settimo|Sétimo
+Sheldon|m|germanic|english|2|place|Valle escarpado|Steep-sided valley|Vallée escarpée|Steiles Tal|Valle scoscesa|Vale escarpado
+Simeon|m|hebrew|english|2|biblical|Él ha oído|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Slate|u|germanic|english|1|nature,modern|Pizarra|Slate|Ardoise|Schiefer|Ardesia|Ardósia
+Sol|u|latin|english|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Sonny|m|germanic|english|3|sweet,vintage|Hijito|Little son|Petit fils|Söhnchen|Figlioletto|Filhinho
+Soren|m|latin|english,scandinavian|2|strong|Severo|Stern|Sévère|Streng|Severo|Severo
+Sparrow|u|germanic|english|1|animal,modern|Gorrión|Sparrow|Moineau|Spatz|Passero|Pardal
+Stanton|m|germanic|english|1|place|Ciudad de piedra|Stone town|Ville de pierre|Steinstadt|Città di pietra|Cidade de pedra
+Steve|m|greek|english|3|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stevie|u|greek|english|2|sweet|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stone|m|germanic|english|1|nature,modern|Piedra|Stone|Pierre|Stein|Pietra|Pedra
+Sunny|u|germanic|english|2|sweet,light|Soleado|Sunny|Ensoleillé|Sonnig|Soleggiato|Ensolarado
+Tempest|u|latin|english|1|nature,modern|Tormenta|Storm|Tempête|Sturm|Tempesta|Tempestade
+Thaddeus|m|hebrew|english|2|biblical,vintage|Valiente|Courageous|Courageux|Mutig|Coraggioso|Corajoso
+Thatcher|m|germanic|english|2|modern|Techador|Roof thatcher|Couvreur de chaume|Dachdecker|Copritetto di paglia|Colmeiro
+Theobald|m|germanic|english|1|vintage|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Thorne|m|germanic|english|1|nature|Espino|Thorn|Épine|Dorn|Spina|Espinho
+Tiberius|m|latin|english|1|classic,royal|Del río Tíber|From the Tiber|Du Tibre|Vom Tiber|Del Tevere|Do rio Tibre
+Vince|m|latin|english|2|classic|Conquistador|Conquering|Conquérant|Siegreich|Vincente|Conquistador
+Wally|m|germanic|english|1|vintage|Gobernante del ejército|Army ruler|Chef de l'armée|Heerführer|Comandante dell'esercito|Governante do exército
+Whitaker|m|germanic|english|1|place|Campo blanco|White field|Champ blanc|Weißes Feld|Campo bianco|Campo branco
+Whitley|u|germanic|english|1|place|Claro blanco|White clearing|Clairière blanche|Weiße Lichtung|Radura bianca|Clareira branca
+Winfred|m|germanic|english|1|vintage|Amigo de la paz|Friend of peace|Ami de la paix|Friedensfreund|Amico della pace|Amigo da paz
+Wolf|m|germanic|english,german|2|animal|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Woodrow|m|germanic|english|1|vintage,nature|Hilera de árboles junto al bosque|Row of trees by the wood|Rangée d'arbres près du bois|Baumreihe am Wald|Filare di alberi nel bosco|Fileira de árvores junto ao bosque
+Wulfric|m|germanic|english|1|vintage|Gobernante lobo|Wolf ruler|Souverain loup|Wolfsherrscher|Sovrano lupo|Governante lobo
+Wulfstan|m|germanic|english|1|saint,vintage|Piedra del lobo|Wolf stone|Pierre du loup|Wolfsstein|Pietra del lupo|Pedra do lobo
+Zac|m|hebrew|english|3|classic|Yahvé recuerda|Yahweh remembers|Yahvé se souvient|Jahwe erinnert sich|Yahweh ricorda|Javé lembra
+Zack|m|hebrew|english|3|classic|Yahvé recuerda|Yahweh remembers|Yahvé se souvient|Jahwe erinnert sich|Yahweh ricorda|Javé lembra
+Zebedee|m|hebrew|english|1|biblical|Don de Yahvé|Gift of Yahweh|Don de Yahvé|Geschenk Jahwes|Dono di Yahweh|Dom de Javé
+Zechariah|m|hebrew|english|2|biblical|Yahvé recuerda|Yahweh remembers|Yahvé se souvient|Jahwe erinnert sich|Yahweh ricorda|Javé lembra
+Zephaniah|m|hebrew|english|1|biblical|Yahvé ha ocultado|Yahweh has hidden|Yahvé a caché|Jahwe hat geborgen|Yahweh ha nascosto|Javé escondeu

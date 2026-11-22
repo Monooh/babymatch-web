@@ -1,0 +1,73 @@
+Dalila|f|hebrew|spanish|2|biblical|Delicada|Delicate|Délicate|Zarte|Delicata|Delicada
+Daría|f|persian|spanish|2|classic,royal|La que posee el bien|She who holds the good|Celle qui possède le bien|Die das Gute besitzt|Colei che possiede il bene|A que possui o bem
+Dayana|f|latin|spanish|3|modern,celestial|Divina, luminosa|Divine, luminous|Divine, lumineuse|Göttliche, leuchtende|Divina, luminosa|Divina, luminosa
+Demetria|f|greek|spanish|1|mythology,vintage|Consagrada a Deméter|Devoted to Demeter|Consacrée à Déméter|Demeter geweiht|Consacrata a Demetra|Consagrada a Deméter
+Denise|f|greek|spanish,french|2|classic|Consagrada a Dioniso|Devoted to Dionysus|Consacrée à Dionysos|Dionysos geweiht|Consacrata a Dioniso|Consagrada a Dioniso
+Desdémona|f|greek|spanish|1|literary|Infortunada|Ill-fated|Infortunée|Die Unglückliche|Sfortunata|Infeliz
+Desideria|f|latin|spanish|1|vintage,saint|Deseada|Desired|Désirée|Die Ersehnte|Desiderata|Desejada
+Dídima|f|greek|spanish|1|vintage,saint|Gemela|Twin|Jumelle|Zwilling|Gemella|Gêmea
+Digna|f|latin|spanish|2|vintage,virtue|Merecedora, digna|Worthy|Digne|Würdige|Degna|Digna
+Diodora|f|greek|spanish|1|vintage,saint|Regalo de Zeus|Gift of Zeus|Don de Zeus|Geschenk des Zeus|Dono di Zeus|Presente de Zeus
+Dominica|f|latin|spanish|2|saint,classic|Del Señor|Of the Lord|Du Seigneur|Die dem Herrn Gehörende|Del Signore|Do Senhor
+Donata|f|latin|spanish|1|vintage,saint|Regalo, dada|Given, gift|Donnée|Die Geschenkte|Donata|Dada
+Dora|f|greek|spanish|2|classic,vintage|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Dorcas|f|greek|spanish|1|biblical,animal|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Eduarda|f|germanic|spanish|1|vintage|Guardiana de la riqueza|Guardian of wealth|Gardienne de la richesse|Hüterin des Reichtums|Custode della ricchezza|Guardiã da riqueza
+Eladia|f|greek|spanish|1|vintage,saint|Griega|Greek woman|Grecque|Die Griechin|Greca|Grega
+Electra|f|greek|spanish|1|mythology,light|Brillante, resplandeciente|Bright, radiant|Brillante, rayonnante|Strahlende|Brillante, radiosa|Brilhante, radiante
+Eleuteria|f|greek|spanish|1|vintage,saint|Libre|Free|Libre|Freie|Libera|Livre
+Elia|f|hebrew|spanish|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Elizabeth|f|hebrew|spanish|3|biblical,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é o meu juramento
+Elpidia|f|greek|spanish|1|vintage,virtue|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Emanuela|f|hebrew|spanish,italian|1|biblical|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Emelina|f|germanic|spanish|1|vintage|Trabajadora|Hard-working|Travailleuse|Fleißige|Laboriosa|Trabalhadora
+Emerenciana|f|latin|spanish|1|saint,vintage|Merecedora|Deserving|Méritante|Die Verdienstvolle|Meritevole|Merecedora
+Emperatriz|f|latin|spanish|2|royal,vintage|Emperatriz|Empress|Impératrice|Kaiserin|Imperatrice|Imperatriz
+Epifanía|f|greek|spanish|1|saint,vintage|Manifestación|Manifestation|Manifestation|Erscheinung|Manifestazione|Manifestação
+Eréndira|f|native|spanish|2|literary,historical|La que sonríe|She who smiles|Celle qui sourit|Die Lächelnde|Colei che sorride|A que sorri
+Eudora|f|greek|spanish|1|vintage|Buen regalo|Good gift|Beau cadeau|Gute Gabe|Buon dono|Bom presente
+Eudoxia|f|greek|spanish|1|vintage,saint|Buena fama|Good reputation|Bonne renommée|Guter Ruf|Buona fama|Boa fama
+Eufrosina|f|greek|spanish|1|vintage,saint|Alegría|Joy|Joie|Frohsinn|Gioia|Alegria
+Eulogia|f|greek|spanish|1|vintage,saint|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Eunice|f|greek|spanish|2|biblical|Buena victoria|Good victory|Belle victoire|Guter Sieg|Buona vittoria|Boa vitória
+Eurídice|f|greek|spanish|1|mythology|Amplia justicia|Wide justice|Large justice|Weite Gerechtigkeit|Ampia giustizia|Ampla justiça
+Euterpe|f|greek|spanish|1|mythology,music|Deleitosa|Delightful|Réjouissante|Die Erfreuende|Deliziosa|Deleitosa
+Evarista|f|greek|spanish|1|vintage,saint|Excelente|Excellent|Excellente|Vortreffliche|Eccellente|Excelente
+Fedra|f|greek|spanish|1|mythology,literary|Brillante|Bright|Brillante|Strahlende|Splendente|Brilhante
+Feliciana|f|latin|spanish|1|vintage,saint|Feliz|Happy|Heureuse|Glückliche|Felice|Feliz
+Fermina|f|latin|spanish|1|vintage,literary|Firme|Firm|Ferme|Standhafte|Salda|Firme
+Fidelia|f|latin|spanish|1|vintage,virtue|Fiel|Faithful|Fidèle|Treue|Fedele|Fiel
+Fidencia|f|latin|spanish|1|vintage,virtue|Confiada|Trusting|Confiante|Vertrauensvolle|Fiduciosa|Confiante
+Filiberta|f|germanic|spanish|1|vintage|Muy brillante|Very bright|Très brillante|Sehr glänzend|Molto brillante|Muito brilhante
+Filotea|f|greek|spanish|1|vintage,saint|Amante de Dios|Lover of God|Amie de Dieu|Gottesfreundin|Amante di Dio|Amante de Deus
+Fiorella|f|latin|spanish,italian|3|flower,modern|Pequeña flor|Little flower|Petite fleur|Blümchen|Piccolo fiore|Florzinha
+Florentina|f|latin|spanish|2|flower,vintage|En flor|Blooming|En fleur|Blühende|In fiore|Em flor
+Fortunata|f|latin|spanish|1|vintage,virtue|Afortunada|Fortunate|Chanceuse|Glückliche|Fortunata|Afortunada
+Franca|f|germanic|spanish|1|vintage|Libre|Free|Libre|Freie|Libera|Livre
+Fructuosa|f|latin|spanish|1|vintage,saint|Fructífera|Fruitful|Fructueuse|Fruchtbare|Fruttuosa|Frutífera
+Fuensanta|f|latin|spanish|1|saint,vintage|Fuente santa|Holy spring|Source sainte|Heilige Quelle|Fonte santa|Fonte santa
+Fulgencia|f|latin|spanish|1|vintage,saint|Resplandeciente|Radiant|Resplendissante|Strahlende|Splendente|Resplandecente
+Gaia|f|greek|spanish,italian|2|mythology,nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Galilea|f|hebrew|spanish|2|biblical,place|Círculo, distrito|Circle, district|Cercle, district|Kreis, Bezirk|Cerchio, distretto|Círculo, distrito
+Gaudiosa|f|latin|spanish|1|vintage,saint|Llena de gozo|Full of joy|Pleine de joie|Voller Freude|Piena di gioia|Cheia de alegria
+Génesis|f|greek|spanish|3|biblical,modern,trendy|Origen, principio|Origin, beginning|Origine, commencement|Ursprung, Anfang|Origine, principio|Origem, princípio
+Geraldina|f|germanic|spanish|1|vintage|Gobernante con la lanza|Ruler with the spear|Souveraine à la lance|Herrscherin mit dem Speer|Sovrana con la lancia|Governante com a lança
+Germana|f|latin|spanish|1|vintage,saint|Hermana, hermanada|Sister, kindred|Sœur, apparentée|Schwester, verwandt|Sorella, affine|Irmã, aparentada
+Ginebra|f|celtic|spanish|1|literary,royal|Blanca y hermosa|White and fair|Blanche et belle|Weiß und schön|Bianca e bella|Branca e bela
+Griselda|f|germanic|spanish|2|literary,vintage|Batalla gris|Gray battle|Bataille grise|Graue Schlacht|Battaglia grigia|Batalha cinzenta
+Guillerma|f|germanic|spanish|1|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Hebe|f|greek|spanish|1|mythology|Juventud|Youth|Jeunesse|Jugend|Giovinezza|Juventude
+Heliodora|f|greek|spanish|1|vintage,light|Regalo del sol|Gift of the sun|Don du soleil|Geschenk der Sonne|Dono del sole|Presente do sol
+Hipatia|f|greek|spanish|1|classic,strong|La más alta|The highest|La plus haute|Die Höchste|La più alta|A mais alta
+Hipólita|f|greek|spanish|1|mythology,warrior|La que libera los caballos|She who frees the horses|Celle qui délie les chevaux|Die Pferdebefreierin|Colei che libera i cavalli|A que liberta os cavalos
+Honorata|f|latin|spanish|1|vintage,saint|Honrada|Honoured|Honorée|Geehrte|Onorata|Honrada
+Honoria|f|latin|spanish|1|vintage,virtue|Honorable|Honourable|Honorable|Ehrenvolle|Onorevole|Honrada
+Ifigenia|f|greek|spanish|1|mythology|Nacida fuerte|Born strong|Née forte|Starkgeborene|Nata forte|Nascida forte
+Ildefonsa|f|germanic|spanish|1|vintage|Dispuesta para la batalla|Ready for battle|Prête au combat|Kampfbereite|Pronta alla battaglia|Pronta para a batalha
+Iliana|f|greek|spanish|2|classic|De Ilión (Troya)|From Ilium (Troy)|D'Ilion (Troie)|Aus Ilion (Troja)|Di Ilio (Troia)|De Ílion (Troia)
+Iluminada|f|latin|spanish|1|vintage,light|Iluminada|Enlightened|Illuminée|Erleuchtete|Illuminata|Iluminada
+Irina|f|greek|spanish,russian|2|classic,virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Isadora|f|greek|spanish|2|classic|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Isaura|f|greek|spanish|1|vintage,place|De Isauria|From Isauria|D'Isaurie|Aus Isaurien|Dell'Isauria|De Isáuria
+Isidra|f|greek|spanish|1|vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Isis|f|other|spanish|2|mythology,royal|Trono|Throne|Trône|Thron|Trono|Trono

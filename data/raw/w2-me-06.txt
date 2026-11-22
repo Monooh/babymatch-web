@@ -1,0 +1,86 @@
+Ada|f|turkish|turkish|4|sea,place|Isla|Island|Île|Insel|Isola|Ilha
+Alparslan|m|turkish|turkish|3|animal,warrior|León valiente|Brave lion|Lion vaillant|Tapferer Löwe|Leone valoroso|Leão valente
+Aydın|m|turkish|turkish|3|light,virtue|Iluminado, culto|Enlightened, educated|Éclairé, instruit|Aufgeklärt, gebildet|Illuminato, colto|Iluminado, culto
+Bahadır|m|persian|turkish|3|warrior,strong|Valiente, héroe|Brave, hero|Vaillant, héros|Tapfer, Held|Valoroso, eroe|Valente, herói
+Banu|f|persian|turkish,persian|3|royal,classic|Dama, señora|Lady, noblewoman|Dame, noble dame|Dame, Edelfrau|Signora, nobildonna|Dama, nobre senhora
+Bülent|m|turkish|turkish|3|strong,classic|Elevado, excelso|Lofty, exalted|Élevé, exalté|Erhaben|Elevato, eccelso|Elevado, excelso
+Büşra|f|arabic|turkish|4|sweet,virtue|Buena noticia|Good news|Bonne nouvelle|Gute Nachricht|Buona notizia|Boa notícia
+Canan|f|persian|turkish|3|love,sweet|Amada, querida|Beloved, darling|Bien-aimée, chérie|Geliebte|Amata, cara|Amada, querida
+Cemal|m|arabic|turkish|3|sweet,classic|Belleza|Beauty|Beauté|Schönheit|Bellezza|Beleza
+Cihan|u|persian|turkish|3|classic,place|Mundo|World|Monde|Welt|Mondo|Mundo
+Çağla|f|turkish|turkish|3|nature,sweet|Almendra verde|Green almond|Amande verte|Grüne Mandel|Mandorla verde|Amêndoa verde
+Derya|f|persian|turkish|4|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Dilek|f|turkish|turkish|3|sweet,virtue|Deseo|Wish|Souhait|Wunsch|Desiderio|Desejo
+Doğan|m|turkish|turkish|3|animal,strong|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Elmas|f|persian|turkish|3|gem,classic|Diamante|Diamond|Diamant|Diamant|Diamante|Diamante
+Emine|f|arabic|turkish|4|virtue,classic|Digna de confianza|Trustworthy|Digne de confiance|Vertrauenswürdig|Fidata|Confiável
+Erdem|m|turkish|turkish|3|virtue,classic|Virtud, mérito|Virtue, merit|Vertu, mérite|Tugend, Verdienst|Virtù, merito|Virtude, mérito
+Ferhat|m|persian|turkish|3|sweet,literary|Alegría, felicidad|Joy, happiness|Joie, bonheur|Freude, Glück|Gioia, felicità|Alegria, felicidade
+Fatih|m|arabic|turkish|3|strong,warrior|Conquistador|Conqueror|Conquérant|Eroberer|Conquistatore|Conquistador
+Fidan|f|turkish|turkish|3|nature,sweet|Brote, plantón|Sapling|Jeune pousse|Setzling|Germoglio|Rebento
+Funda|f|turkish|turkish|3|nature,flower|Brezo|Heather|Bruyère|Heidekraut|Erica|Urze
+Gökhan|m|turkish|turkish|3|royal,celestial|Señor del cielo|Ruler of the sky|Maître du ciel|Herrscher des Himmels|Signore del cielo|Senhor do céu
+Gonca|f|persian|turkish|3|flower,sweet|Capullo de rosa|Rosebud|Bouton de rose|Rosenknospe|Bocciolo di rosa|Botão de rosa
+Gülşen|f|persian|turkish|3|flower,nature|Jardín de rosas|Rose garden|Roseraie|Rosengarten|Roseto|Roseiral
+Hülya|f|turkish|turkish|3|sweet,modern|Ensueño|Daydream|Rêverie|Tagtraum|Fantasticheria|Devaneio
+Ilgın|f|turkish|turkish|3|nature,sweet|Tamarisco|Tamarisk|Tamaris|Tamariske|Tamerice|Tamargueira
+Irmak|f|turkish|turkish|4|nature,modern|Río|River|Rivière|Fluss|Fiume|Rio
+Kader|f|arabic|turkish|3|virtue,classic|Destino|Fate, destiny|Destin|Schicksal|Destino|Destino
+Kardelen|f|turkish|turkish|3|flower,nature|Campanilla de invierno|Snowdrop|Perce-neige|Schneeglöckchen|Bucaneve|Campainha-branca
+Kaya|m|turkish|turkish|3|nature,strong|Roca|Rock|Rocher|Fels|Roccia|Rocha
+Kumsal|f|turkish|turkish|2|nature,sea|Playa|Beach|Plage|Strand|Spiaggia|Praia
+Kuzey|m|turkish|turkish|4|nature,modern|Norte|North|Nord|Norden|Nord|Norte
+Meltem|f|turkish|turkish|3|nature,sea|Brisa marina|Sea breeze|Brise marine|Meeresbrise|Brezza marina|Brisa marítima
+Nazlı|f|persian|turkish|3|sweet,classic|Delicada, coqueta|Delicate, coy|Délicate, coquette|Zart, kokett|Delicata, civettuola|Delicada, faceira
+Nergis|f|persian|turkish|3|flower,nature|Narciso|Narcissus|Narcisse|Narzisse|Narciso|Narciso
+Nihan|f|persian|turkish|3|sweet,modern|Oculto, secreto|Hidden, secret|Caché, secret|Verborgen, geheim|Nascosto, segreto|Oculto, secreto
+Özlem|f|turkish|turkish|4|love,sweet|Anhelo, nostalgia|Longing, yearning|Nostalgie, désir|Sehnsucht|Nostalgia, desiderio|Saudade, anseio
+Polat|m|turkish|turkish|3|strong,warrior|Acero|Steel|Acier|Stahl|Acciaio|Aço
+Rüzgar|m|turkish|turkish|3|nature,modern|Viento|Wind|Vent|Wind|Vento|Vento
+Sarp|m|turkish|turkish|3|strong,nature|Escarpado, abrupto|Steep, rugged|Escarpé, abrupt|Steil, schroff|Scosceso, impervio|Escarpado, íngreme
+Savaş|m|turkish|turkish|3|warrior,strong|Guerra, batalla|War, battle|Guerre, bataille|Krieg, Schlacht|Guerra, battaglia|Guerra, batalha
+Sedef|f|persian|turkish|3|gem,sea|Nácar|Mother-of-pearl|Nacre|Perlmutt|Madreperla|Madrepérola
+Semih|m|arabic|turkish|3|virtue,classic|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Serdar|m|persian|turkish|3|warrior,royal|Comandante, jefe|Commander, chief|Commandant, chef|Befehlshaber, Anführer|Comandante, capo|Comandante, chefe
+Servet|u|arabic|turkish|2|virtue,classic|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Simge|f|turkish|turkish|3|modern,virtue|Símbolo|Symbol|Symbole|Symbol|Simbolo|Símbolo
+Sinan|m|arabic|turkish|3|warrior,strong|Punta de lanza|Spearhead|Pointe de lance|Speerspitze|Punta di lancia|Ponta de lança
+Songül|f|turkish|turkish|3|flower,sweet|Última rosa|Last rose|Dernière rose|Letzte Rose|Ultima rosa|Última rosa
+Tayfun|m|turkish|turkish|2|nature,strong|Tifón|Typhoon|Typhon|Taifun|Tifone|Tufão
+Toprak|u|turkish|turkish|3|nature,modern|Tierra, suelo|Earth, soil|Terre, sol|Erde, Boden|Terra, suolo|Terra, solo
+Uğur|u|turkish|turkish|4|virtue,classic|Suerte, buena fortuna|Luck, good fortune|Chance, bonne fortune|Glück|Fortuna, buona sorte|Sorte, boa fortuna
+Utku|m|turkish|turkish|3|strong,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Yasemin|f|persian|turkish|4|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yeşim|f|turkish|turkish|3|gem,nature|Jade|Jade|Jade|Jade|Giada|Jade
+Zafer|m|arabic|turkish|3|strong,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Zümrüt|f|persian|turkish|2|gem,classic|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Afsaneh|f|persian|persian|3|literary,classic|Leyenda, cuento|Legend, tale|Légende, conte|Legende, Märchen|Leggenda, racconto|Lenda, conto
+Anoosh|m|persian|persian|2|virtue,sweet|Dulce, inmortal|Sweet, immortal|Doux, immortel|Süß, unsterblich|Dolce, immortale|Doce, imortal
+Bita|f|persian|persian|3|virtue,classic|Única, incomparable|Unique, incomparable|Unique, incomparable|Einzigartig|Unica, incomparabile|Única, incomparável
+Fariba|f|persian|persian|3|sweet,classic|Encantadora|Charming|Charmante|Bezaubernd|Incantevole|Encantadora
+Farrokh|m|persian|persian|2|virtue,classic|Afortunado, feliz|Fortunate, happy|Fortuné, heureux|Glücklich, gesegnet|Fortunato, felice|Afortunado, feliz
+Farhang|m|persian|persian|2|virtue,classic|Cultura|Culture|Culture|Kultur|Cultura|Cultura
+Farzin|m|persian|persian|3|virtue,classic|Sabio, culto|Wise, learned|Sage, savant|Weise, gelehrt|Saggio, dotto|Sábio, culto
+Fereshteh|f|persian|persian|3|sweet,classic|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Forough|f|persian|persian|3|light,literary|Resplandor|Radiance|Éclat|Glanz|Splendore|Esplendor
+Golnar|f|persian|persian|3|flower,nature|Flor de granado|Pomegranate blossom|Fleur de grenadier|Granatapfelblüte|Fiore di melograno|Flor de romãzeira
+Hasti|f|persian|persian|3|virtue,modern|Existencia, ser|Existence, being|Existence, être|Dasein, Sein|Esistenza, essere|Existência, ser
+Homa|f|persian|persian|3|mythology,animal|Ave mítica de la fortuna|Mythical bird of fortune|Oiseau mythique de la fortune|Mythischer Glücksvogel|Uccello mitico della fortuna|Ave mítica da fortuna
+Jahan|u|persian|persian|3|classic,place|Mundo|World|Monde|Welt|Mondo|Mundo
+Kamyar|m|persian|persian|3|strong,virtue|Exitoso, victorioso|Successful, victorious|Réussi, victorieux|Erfolgreich, siegreich|Di successo, vittorioso|Bem-sucedido, vitorioso
+Mahtab|f|persian|persian|3|celestial,light|Luz de luna|Moonlight|Clair de lune|Mondschein|Chiaro di luna|Luar
+Mandana|f|persian|persian|2|virtue,classic|Perdurable, eterna|Everlasting, enduring|Éternelle, durable|Ewig, beständig|Eterna, duratura|Duradoura, eterna
+Mehr|u|persian|persian|2|celestial,love|Sol, amor|Sun, love|Soleil, amour|Sonne, Liebe|Sole, amore|Sol, amor
+Nahid|f|persian|persian|3|celestial,mythology|Venus|Venus|Vénus|Venus|Venere|Vênus
+Narges|f|persian|persian|4|flower,nature|Narciso|Narcissus|Narcisse|Narzisse|Narciso|Narciso
+Nazanin|f|persian|persian|3|sweet,classic|Delicada, querida|Delicate, darling|Délicate, chérie|Zart, Liebling|Delicata, cara|Delicada, querida
+Parastoo|f|persian|persian|3|animal,sweet|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Pari|f|persian|persian|3|mythology,sweet|Hada|Fairy|Fée|Fee|Fata|Fada
+Parvaneh|f|persian|persian|3|animal,sweet|Mariposa|Butterfly|Papillon|Schmetterling|Farfalla|Borboleta
+Peyman|m|persian|persian|3|virtue,classic|Pacto, promesa|Pact, promise|Pacte, promesse|Pakt, Versprechen|Patto, promessa|Pacto, promessa
+Pouya|m|persian|persian|3|virtue,modern|Dinámico, incansable|Dynamic, tireless|Dynamique, infatigable|Dynamisch, rastlos|Dinamico, instancabile|Dinâmico, incansável
+Roshanak|f|persian|persian|2|light,sweet|Pequeña luz|Little light|Petite lumière|Kleines Licht|Piccola luce|Pequena luz
+Shahriar|m|persian|persian|3|royal,literary|Rey, soberano|King, ruler|Roi, souverain|König, Herrscher|Re, sovrano|Rei, soberano
+Simin|f|persian|persian|3|gem,sweet|Plateada|Silvery|Argentée|Silbrig|Argentea|Prateada
+Yalda|f|persian|persian|3|celestial,classic|Noche del solsticio de invierno|Winter solstice night|Nuit du solstice d'hiver|Wintersonnenwendnacht|Notte del solstizio d'inverno|Noite do solstício de inverno
+Zarin|f|persian|persian|2|gem,classic|Dorada|Golden|Dorée|Goldene|Dorata|Dourada

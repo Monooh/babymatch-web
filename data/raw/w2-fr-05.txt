@@ -1,0 +1,53 @@
+Adélie|f|germanic|french|2|modern,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Aïcha|f|arabic|french,arabic,african|3|african,modern|Viva|Alive, living|Vivante|Lebendig|Viva|Viva
+Alicia|f|germanic|french,spanish,english|3|classic|De clase noble|Of noble kind|De noble espèce|Von edler Art|Di nobile stirpe|De linhagem nobre
+Amalia|f|germanic|french,spanish|2|classic|Trabajadora|Industrious|Laborieuse|Fleißige|Laboriosa|Trabalhadora
+Amina|f|arabic|french,arabic,african|3|african,virtue|Fiel, digna de confianza|Faithful, trustworthy|Fidèle, digne de confiance|Treu, vertrauenswürdig|Fedele, affidabile|Fiel, confiável
+Aminata|f|arabic|french,african|3|african,virtue|Fiel, digna de confianza|Faithful, trustworthy|Fidèle, digne de confiance|Treu, vertrauenswürdig|Fedele, affidabile|Fiel, confiável
+Anissa|f|arabic|french,arabic|3|modern,sweet|Amiga|Friendly companion|Amie, compagne|Freundin|Amica|Amiga
+Astrid|f|norse|french,scandinavian|2|classic,love|Divinamente hermosa|Divinely beautiful|Divinement belle|Göttlich schön|Divinamente bella|Divinamente bela
+Awa|f|african|french,african|3|african|Eva, vida|Eve, life|Ève, vie|Eva, Leben|Eva, vita|Eva, vida
+Aya|f|arabic|french,arabic|4|modern,sweet|Señal, versículo|Sign, verse|Signe, verset|Zeichen, Vers|Segno, versetto|Sinal, versículo
+Bianca|f|germanic|french,italian|2|classic|Blanca|White|Blanche|Weiß|Bianca|Branca
+Célestine|f|latin|french|2|vintage,celestial|Celestial|Heavenly|Céleste|Himmlische|Celeste|Celestial
+Cécilia|f|latin|french|2|classic,music|Ciega|Blind|Aveugle|Blinde|Cieca|Cega
+Charline|f|germanic|french|2|vintage,sweet|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cloé|f|greek|french|3|nature,classic|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Rebento verde
+Dalila|f|arabic|french,arabic|2|classic|Guía, la que conduce|Guide|Guide|Führerin|Guida|Guia
+Eden|u|hebrew|french,english|3|modern,biblical|Deleite|Delight|Délice|Wonne|Delizia|Deleite
+Elena|f|greek|french,spanish,italian|3|classic|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Fatima|f|arabic|french,arabic|3|classic|Que desteta|Weaner|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Guillemette|f|germanic|french|1|vintage|Pequeña protectora resuelta|Little resolute protector|Petite protectrice résolue|Kleine entschlossene Beschützerin|Piccola protettrice risoluta|Pequena protetora resoluta
+Hanna|f|hebrew|french,german|3|biblical|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Hawa|f|african|french,african,arabic|3|african|Eva, vida|Eve, life|Ève, vie|Eva, Leben|Eva, vita|Eva, vida
+Huguette|f|germanic|french|1|vintage|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Isabeau|f|hebrew|french|1|vintage,royal|Dios es mi juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Jeannette|f|hebrew|french|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Kadiatou|f|arabic|french,african|2|african|Nacida prematura|Premature child|Enfant née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Khadija|f|arabic|french,arabic|3|classic|Nacida prematura|Premature child|Enfant née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Lalie|f|greek|french|1|vintage,sweet|Bien hablada|Sweetly spoken|Qui parle bien|Wohlredende|Ben parlante|Bem falante
+Leïla|f|arabic|french,arabic|3|classic|Noche|Night|Nuit|Nacht|Notte|Noite
+Lina|f|arabic|french,arabic|3|sweet,modern|Tierna|Tender|Tendre|Zart|Tenera|Terna
+Louisa|f|germanic|french,german|3|classic|Guerrera famosa|Famous warrior|Guerrière illustre|Berühmte Kriegerin|Guerriera illustre|Guerreira ilustre
+Lucy|f|latin|french,english|3|classic,light|Luz|Light|Lumière|Licht|Luce|Luz
+Maïa|f|greek|french|3|mythology,celestial|Nodriza, madre|Nurse, mother|Nourrice, mère|Amme, Mutter|Nutrice, madre|Ama, mãe
+Malak|f|arabic|french,arabic|3|modern,celestial|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Maïwenn|f|celtic|french|2|modern|María bendita y blanca|Blessed white Mary|Marie bénie et blanche|Gesegnete weiße Maria|Maria benedetta e bianca|Maria abençoada e branca
+Mariam|f|hebrew|french,arabic|3|biblical|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Mariama|f|hebrew|french,african|3|african,biblical|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Mathilda|f|germanic|french,german|2|vintage|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Maya|f|sanskrit|french,intl|4|modern|Ilusión|Illusion|Illusion|Illusion|Illusione|Ilusão
+Mélina|f|greek|french|2|modern,sweet|Miel|Honey|Miel|Honig|Miele|Mel
+Nawel|f|arabic|french,arabic|2|modern|Regalo|Gift|Don|Geschenk|Dono|Presente
+Nesrine|f|persian|french,arabic|2|flower,modern|Rosa silvestre|Wild rose|Églantine|Heckenrose|Rosa selvatica|Rosa silvestre
+Ophélia|f|greek|french|3|literary|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Rania|f|arabic|french,arabic|3|modern,royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Rozenn|f|celtic|french|2|flower,modern|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rym|f|arabic|french,arabic|3|animal,modern|Gacela blanca|White gazelle|Gazelle blanche|Weiße Gazelle|Gazzella bianca|Gazela branca
+Safia|f|arabic|french,arabic|2|virtue|Pura, sincera|Pure, sincere|Pure, sincère|Rein, aufrichtig|Pura, sincera|Pura, sincera
+Salma|f|arabic|french,arabic|3|modern,virtue|Tranquila, serena|Safe, peaceful|Paisible, sereine|Friedlich, heiter|Tranquilla, serena|Tranquila, serena
+Sélène|f|greek|french|2|celestial,mythology|Luna|Moon|Lune|Mond|Luna|Lua
+Victoria|f|latin|french,spanish,english|3|classic,royal|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Yasmina|f|persian|french,arabic|3|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yasmine|f|persian|french,arabic|4|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Zahra|f|arabic|french,arabic|3|light|Radiante, brillante|Radiant, shining|Radieuse, brillante|Strahlend|Radiosa, splendente|Radiante, brilhante

@@ -1,0 +1,43 @@
+Tadeo|m|hebrew|spanish|3|biblical,saint|Valiente de corazón|Brave-hearted|Au cœur vaillant|Mutigen Herzens|Dal cuore valoroso|De coração valente
+Telesforo|m|greek|spanish|1|saint,vintage|El que lleva a término|One who brings to completion|Celui qui mène à terme|Der zum Ziel führt|Colui che porta a compimento|Aquele que leva a termo
+Teo|m|greek|spanish|3|modern,trendy|Dios|God|Dieu|Gott|Dio|Deus
+Teobaldo|m|germanic|spanish|1|vintage,warrior|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Teodoro|m|greek|spanish|3|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Teodosio|m|greek|spanish|1|saint,vintage,royal|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Teófilo|m|greek|spanish|2|saint,vintage,love|Amigo de Dios|Friend of God|Ami de Dieu|Freund Gottes|Amico di Dio|Amigo de Deus
+Thiago|m|hebrew|spanish,portuguese|5|modern,trendy|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Timoteo|m|greek|spanish|2|biblical,saint|El que honra a Dios|He who honours God|Celui qui honore Dieu|Der Gott ehrt|Colui che onora Dio|Aquele que honra a Deus
+Tirso|m|greek|spanish|1|mythology,vintage|Bastón de Dioniso|Staff of Dionysus|Thyrse de Dionysos|Thyrsosstab|Tirso di Dioniso|Tirso de Dioniso
+Tobías|m|hebrew|spanish|3|biblical|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Tomás|m|hebrew|spanish|5|biblical,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Tonatiuh|m|native|spanish|2|celestial,light|Sol, el que ilumina|Sun, the one who shines|Soleil, celui qui brille|Sonne, der Leuchtende|Sole, colui che illumina|Sol, aquele que ilumina
+Tranquilino|m|latin|spanish|1|saint,vintage,virtue|Tranquilo|Tranquil|Tranquille|Ruhig|Tranquillo|Tranquilo
+Trinidad|u|latin|spanish|2|saint,virtue|Trinidad|Trinity|Trinité|Dreifaltigkeit|Trinità|Trindade
+Tristán|m|celtic|spanish|3|literary,love|Tumulto, estruendo|Tumult, uproar|Tumulte, fracas|Tumult, Lärm|Tumulto, fragore|Tumulto, estrondo
+Túpac|m|native|spanish|1|royal,light|Resplandeciente|Radiant|Resplendissant|Strahlend|Splendente|Resplandecente
+Ubaldo|m|germanic|spanish,italian|1|saint,vintage|Audaz de espíritu|Bold in spirit|Audacieux d'esprit|Kühn im Geist|Audace di spirito|Audaz de espírito
+Ulises|m|greek|spanish|3|mythology,literary|Iracundo|Wrathful|Courroucé|Zornig|Irato|Irado
+Unai|m|basque|spanish,basque|4|modern,trendy|Pastor de vacas|Cowherd|Vacher|Kuhhirt|Mandriano|Vaqueiro
+Urbano|m|latin|spanish,italian|1|saint,vintage|De la ciudad|Of the city|De la ville|Aus der Stadt|Della città|Da cidade
+Uriel|m|hebrew|spanish|3|biblical,light|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é minha luz
+Valentín|m|latin|spanish|4|saint,love,classic|Fuerte, sano|Strong, healthy|Fort, sain|Stark, gesund|Forte, sano|Forte, saudável
+Valeriano|m|latin|spanish|1|saint,vintage|Fuerte, valiente|Strong, valiant|Fort, vaillant|Stark, tapfer|Forte, valoroso|Forte, valente
+Valerio|m|latin|spanish,italian|2|classic|Fuerte, valiente|Strong, valiant|Fort, vaillant|Stark, tapfer|Forte, valoroso|Forte, valente
+Venancio|m|latin|spanish|1|saint,vintage|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Ventura|m|latin|spanish|1|vintage,virtue|Felicidad, buena suerte|Happiness, good luck|Bonheur, bonne chance|Glück, gutes Geschick|Felicità, buona sorte|Felicidade, boa sorte
+Venustiano|m|latin|spanish|1|vintage|Gracioso, encantador|Graceful, charming|Gracieux, charmant|Anmutig, charmant|Grazioso, incantevole|Gracioso, encantador
+Vicente|m|latin|spanish,portuguese|4|saint,classic|Vencedor|Conquering|Vainqueur|Siegend|Vincente|Vencedor
+Víctor|m|latin|spanish|4|classic,warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Victoriano|m|latin|spanish|1|saint,vintage,warrior|Vencedor|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Vidal|m|latin|spanish,catalan|2|saint,vintage|Vital|Vital|Vital|Lebenskräftig|Vitale|Vital
+Vito|m|latin|spanish,italian|1|saint,vintage|Vital|Vital|Vital|Lebenskräftig|Vitale|Vital
+Wálter|m|germanic|spanish|2|classic,warrior|Jefe del ejército|Army ruler|Chef de l'armée|Heerführer|Capo dell'esercito|Chefe do exército
+Wilfredo|m|germanic|spanish|2|vintage|Deseo de paz|Desire for peace|Désir de paix|Wunsch nach Frieden|Desiderio di pace|Desejo de paz
+Yago|m|hebrew|spanish,galician|3|modern,saint|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Zacarías|m|hebrew|spanish|2|biblical|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus se lembra
+Zaqueo|m|hebrew|spanish|1|biblical|Puro, inocente|Pure, innocent|Pur, innocent|Rein, unschuldig|Puro, innocente|Puro, inocente
+Zenobio|m|greek|spanish|1|saint,vintage|Vida de Zeus|Life of Zeus|Vie de Zeus|Leben des Zeus|Vita di Zeus|Vida de Zeus
+Zenón|m|greek|spanish|1|vintage,mythology|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zeferino|m|greek|spanish,portuguese|1|saint,vintage,nature|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento dell'ovest|Vento do oeste
+Zoilo|m|greek|spanish|1|saint,vintage|Lleno de vida|Full of life|Plein de vie|Voller Leben|Pieno di vita|Cheio de vida
+Zósimo|m|greek|spanish|1|saint,vintage|Vital, lleno de vida|Vital, full of life|Vital, plein de vie|Lebenskräftig|Vitale, pieno di vita|Vital, cheio de vida

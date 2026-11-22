@@ -1,0 +1,65 @@
+Adelina|f|germanic|german,italian|2|royal,sweet|Noble|Noble|Noble|Die Edle|Nobile|Nobre
+Almut|f|germanic|german|2|strong,vintage|Noble valor|Noble courage|Noble courage|Edler Mut|Nobile coraggio|Nobre coragem
+Alwine|f|germanic|german|1|vintage,love|Amiga noble|Noble friend|Noble amie|Edle Freundin|Nobile amica|Nobre amiga
+Amalie|f|germanic|german,scandinavian|3|classic,vintage|Laboriosa|Industrious|Travailleuse|Die Tüchtige|Laboriosa|Laboriosa
+Angelika|f|greek|german|3|classic,saint|Angelical|Angelic|Angélique|Die Engelgleiche|Angelica|Angelical
+Antonia|f|latin|german,italian,spanish|4|classic,strong|Inestimable|Priceless|Inestimable|Die Unschätzbare|Inestimabile|Inestimável
+Benita|f|latin|german,spanish|2|saint,sweet|Bendecida|Blessed|Bénie|Die Gesegnete|Benedetta|Abençoada
+Bernadette|f|germanic|french,german|2|saint,strong|Fuerte como un oso|Brave as a bear|Courageuse comme un ours|Bärenstark|Forte come un orso|Forte como um urso
+Carola|f|germanic|german|2|vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carlotta|f|germanic|german,italian|3|classic,vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cäcilia|f|latin|german|2|saint,music,vintage|Ciega|Blind|Aveugle|Die Blinde|Cieca|Cega
+Clarissa|f|latin|german,italian,english|3|saint,light|Clara, brillante|Bright, clear|Claire, brillante|Die Klare, Helle|Chiara, luminosa|Clara, brilhante
+Denise|f|greek|german,french|2|mythology|De Dionisio|Follower of Dionysus|Disciple de Dionysos|Die zu Dionysos Gehörige|Seguace di Dioniso|Seguidora de Dioniso
+Diana|f|latin|german,spanish,italian,intl|4|mythology,classic,celestial|Divina|Divine|Divine|Die Göttliche|Divina|Divina
+Doris|f|greek|german,english|2|vintage,sea|Regalo del mar|Gift of the sea|Don de la mer|Gabe des Meeres|Dono del mare|Dádiva do mar
+Dorothee|f|greek|german|3|vintage,saint|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Edeltraud|f|germanic|german|1|vintage,strong|Fuerza noble|Noble strength|Force noble|Edle Kraft|Nobile forza|Nobre força
+Elke|f|germanic|german|2|vintage|Noble|Noble|Noble|Die Edle|Nobile|Nobre
+Erna|f|germanic|german|1|vintage,virtue|Seria, resuelta|Earnest, serious|Sérieuse, résolue|Die Ernste|Seria, risoluta|Séria, resoluta
+Eugenie|f|greek|german,french|2|vintage,royal|De noble cuna|Well-born|Bien née|Die Wohlgeborene|Nobile di nascita|Bem-nascida
+Franka|f|germanic|german|2|strong|Mujer libre|Free woman|Femme libre|Die Freie|Donna libera|Mulher livre
+Frauke|f|germanic|german|2|vintage,sweet|Pequeña señora|Little lady|Petite dame|Kleine Herrin|Piccola signora|Pequena senhora
+Friederike|f|germanic|german|2|royal,vintage|Gobernante pacífica|Peaceful ruler|Souveraine pacifique|Friedensherrscherin|Sovrana pacifica|Governante pacífica
+Gabriela|f|hebrew|german,spanish,portuguese,italian|3|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Henriette|f|germanic|german,french|2|royal,vintage|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrin des Hauses|Signora della casa|Senhora do lar
+Henrike|f|germanic|german|2|royal|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrin des Hauses|Signora della casa|Senhora do lar
+Hilke|f|germanic|german|1|warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Hiltrud|f|germanic|german|1|warrior,vintage|Fuerza en la batalla|Battle strength|Force au combat|Kampfkraft|Forza in battaglia|Força na batalha
+Isabella|f|hebrew|german,italian,spanish,english,intl|4|classic,royal|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Josephine|f|hebrew|german,french,english|3|classic,biblical|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Jutta|f|hebrew|german|2|vintage|La alabada|Praised|La louée|Die Gelobte|La lodata|A louvada
+Käthe|f|greek|german|1|vintage|Pura|Pure|Pure|Die Reine|Pura|Pura
+Kathrin|f|greek|german|3|classic|Pura|Pure|Pure|Die Reine|Pura|Pura
+Konstanze|f|latin|german|2|vintage,virtue|Constante|Constant|Constante|Die Beständige|Costante|Constante
+Kordula|f|latin|german|1|vintage,saint|Corazoncito|Little heart|Petit cœur|Herzchen|Cuoricino|Coraçãozinho
+Kunigunde|f|germanic|german|1|vintage,royal,warrior|Guerrera del clan|Brave in clan battle|Guerrière du clan|Sippenkämpferin|Guerriera del clan|Guerreira do clã
+Lilli|f|english|german|3|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lilly|f|english|german,english|4|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Linda|f|germanic|german,spanish|3|sweet|Suave, tierna|Gentle, soft|Douce, tendre|Die Sanfte|Dolce, tenera|Suave, terna
+Lioba|f|germanic|german|1|saint,love,vintage|Amada|Beloved|Bien-aimée|Die Liebe|Amata|Amada
+Margit|f|greek|german,scandinavian|2|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margot|f|greek|french,german|2|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Mathilde|f|germanic|german,french|3|classic,warrior|Poderosa en la batalla|Mighty in battle|Puissante au combat|Mächtig in der Schlacht|Potente in battaglia|Poderosa na batalha
+Mechthild|f|germanic|german|1|vintage,warrior,saint|Poderosa en la batalla|Mighty in battle|Puissante au combat|Mächtig in der Schlacht|Potente in battaglia|Poderosa na batalha
+Melanie|f|greek|german,french,english|3|classic|Oscura|Dark|Sombre|Die Dunkle|Scura|Escura
+Nova|f|latin|german,english|3|modern,celestial|Nueva|New|Nouvelle|Die Neue|Nuova|Nova
+Oda|f|germanic|german,scandinavian|2|vintage|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Ortrud|f|germanic|german|1|vintage,strong|Fuerza de la lanza|Spear strength|Force de la lance|Speerkraft|Forza della lancia|Força da lança
+Philippa|f|greek|german,english|3|classic|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante de cavalos
+Rahel|f|hebrew|german|3|biblical|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Rebekka|f|hebrew|german,scandinavian|3|biblical|Atar, cautivar|To bind, to captivate|Lier, captiver|Die Bindende|Legare, avvincere|Atar, cativar
+Rieke|f|germanic|german|2|vintage|Gobernante poderosa|Powerful ruler|Souveraine puissante|Mächtige Herrscherin|Potente sovrana|Governante poderosa
+Roswitha|f|germanic|german|1|vintage,strong|Fuerza famosa|Famous strength|Force renommée|Berühmte Stärke|Forza famosa|Força famosa
+Sieglinde|f|germanic|german|1|vintage,strong|Victoria suave|Gentle victory|Douce victoire|Sanfte Siegerin|Dolce vittoria|Doce vitória
+Silke|f|latin|german|2|vintage|Ciega|Blind|Aveugle|Die Blinde|Cieca|Cega
+Simone|f|hebrew|german,french,italian|3|biblical|Dios ha escuchado|He has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Stephanie|f|greek|german,french,english|3|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Ulrike|f|germanic|german|2|vintage,royal|Gobernante poderosa|Prosperous ruler|Souveraine prospère|Herrscherin über Besitz|Sovrana prospera|Governante próspera
+Uta|f|germanic|german|2|vintage|Prosperidad|Prosperity|Prospérité|Wohlstand|Prosperità|Prosperidade
+Ute|f|germanic|german|2|vintage|Prosperidad|Prosperity|Prospérité|Wohlstand|Prosperità|Prosperidade
+Valerie|f|latin|german,french,english|3|classic,strong|Fuerte, sana|Strong, healthy|Forte, vaillante|Die Starke, Gesunde|Forte, sana|Forte, saudável
+Waltraud|f|germanic|german|1|vintage,strong|Fuerza de la gobernante|Strength of the ruler|Force de la souveraine|Kraft der Herrscherin|Forza della sovrana|Força da governante
+Wilma|f|germanic|german,dutch,english|2|vintage,strong|Protección firme|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Anna-Lena|f|hebrew|german|3|modern,light|Gracia y luz|Grace and light|Grâce et lumière|Gnade und Licht|Grazia e luce|Graça e luz
+Anne-Kathrin|f|hebrew|german|2|classic|Gracia y pureza|Grace and purity|Grâce et pureté|Gnade und Reinheit|Grazia e purezza|Graça e pureza

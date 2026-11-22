@@ -1,0 +1,88 @@
+Maddalena|f|hebrew|italian|2|biblical,saint,vintage|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Margherita|f|greek|italian|4|flower,gem,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marcella|f|latin|italian|2|classic,saint|Joven consagrada a Marte|Little one dedicated to Mars|Petite consacrée à Mars|Dem Mars geweiht|Giovane devota a Marte|Jovem consagrada a Marte
+Marta|f|hebrew|italian,spanish|3|biblical,saint,classic|Señora|Lady|Dame|Herrin|Signora|Senhora
+Martina|f|latin|italian,german|4|saint,classic|Consagrada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Devota a Marte|Consagrada a Marte
+Matilde|f|germanic|italian,spanish,portuguese|3|warrior,classic,royal|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Forte in battaglia|Forte na batalha
+Melissa|f|greek|italian,english|3|nature,mythology|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Michela|f|hebrew|italian|3|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Morgana|f|celtic|italian|1|mythology,literary,sea|Nacida del mar|Sea-born|Née de la mer|Meeresgeborene|Nata dal mare|Nascida do mar
+Marina|f|latin|italian,spanish,russian|3|sea,classic|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Mara|f|hebrew|italian|1|biblical,vintage|Amarga|Bitter|Amère|Bitter|Amara|Amarga
+Manuela|f|hebrew|italian,spanish|2|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Marzia|f|latin|italian|1|mythology,vintage|Consagrada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Devota a Marte|Consagrada a Marte
+Melania|f|greek|italian|1|saint,vintage|Negra, oscura|Black, dark|Noire, sombre|Schwarz, dunkel|Nera, scura|Negra, escura
+Mirta|f|greek|italian|1|flower,vintage|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Miranda|f|latin|italian,english|1|literary,virtue|Admirable|Admirable|Admirable|Bewundernswert|Ammirevole|Admirável
+Maria Vittoria|f|hebrew|italian|2|royal,classic|Amada, victoriosa|Beloved, victorious|Bien-aimée, victorieuse|Geliebte, siegreich|Amata, vittoriosa|Amada, vitoriosa
+Maurizio|m|latin|italian|3|saint,classic|Moreno, moro|Dark-skinned, Moorish|Brun, maure|Dunkelhäutig, maurisch|Moro, di carnagione scura|Moreno, mouro
+Mauro|m|latin|italian|2|saint,classic|Moreno, moro|Dark-skinned, Moorish|Brun, maure|Dunkelhäutig, maurisch|Moro, di carnagione scura|Moreno, mouro
+Marcello|m|latin|italian|3|classic,warrior|Joven consagrado a Marte|Little one dedicated to Mars|Petit consacré à Mars|Dem Mars geweiht|Giovane devoto a Marte|Jovem consagrado a Marte
+Marco|m|latin|italian|4|classic,saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Devoto a Marte|Consagrado a Marte
+Martino|m|latin|italian|2|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Devoto a Marte|Consagrado a Marte
+Massimo|m|latin|italian|3|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Massimiliano|m|latin|italian|3|classic,royal|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Matteo|m|hebrew|italian|5|biblical,saint,classic|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Mattia|m|hebrew|italian|4|biblical,saint|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Michele|m|hebrew|italian|3|biblical,saint,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Michelangelo|m|hebrew|italian|2|saint,classic|¿Quién como Dios?, mensajero|Who is like God?, messenger|Qui est comme Dieu ?, messager|Wer ist wie Gott?, Bote|Chi è come Dio?, messaggero|Quem é como Deus?, mensageiro
+Modesto|m|latin|italian|1|virtue,vintage|Modesto|Modest|Modeste|Bescheiden|Modesto|Modesto
+Mosè|m|hebrew|italian|1|biblical,vintage|Sacado de las aguas|Drawn from the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Marino|m|latin|italian|2|sea,vintage|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Melchiorre|m|hebrew|italian|1|biblical,royal,vintage|Rey de luz|King of light|Roi de lumière|König des Lichts|Re di luce|Rei de luz
+Manfredi|m|germanic|italian|1|vintage,royal|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Nadia|f|slavic|italian,russian|2|virtue,sweet|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Natalia|f|latin|italian,spanish,russian|2|classic|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nicoletta|f|greek|italian|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Noemi|f|hebrew|italian|4|biblical,sweet|Mi dulzura|My pleasantness|Ma douceur|Meine Anmut|Mia dolcezza|Minha doçura
+Norma|f|latin|italian|1|literary,music,vintage|Regla, norma|Rule, standard|Règle, norme|Regel, Norm|Regola, norma|Regra, norma
+Novella|f|latin|italian|1|vintage|Nueva|New|Nouvelle|Neu|Nuova|Nova
+Nunzia|f|latin|italian|1|saint,vintage|Mensajera|Messenger|Messagère|Botin|Messaggera|Mensageira
+Nerina|f|greek|italian|1|sea,mythology,vintage|Ninfa del mar|Sea nymph|Nymphe marine|Meernymphe|Ninfa marina|Ninfa do mar
+Neve|f|latin|italian|1|nature,modern|Nieve|Snow|Neige|Schnee|Neve|Neve
+Nicola|m|greek|italian|4|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Niccolò|m|greek|italian|3|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nunzio|m|latin|italian|1|vintage,saint|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Nazario|m|hebrew|italian|1|saint,vintage,place|De Nazaret|From Nazareth|De Nazareth|Aus Nazaret|Di Nazaret|De Nazaré
+Natale|m|latin|italian|2|classic,vintage|Navidad, natalicio|Christmas, birth|Noël, naissance|Weihnachten, Geburt|Natale, nascita|Natal, nascimento
+Nereo|m|greek|italian|1|sea,mythology|Dios del mar|Sea god|Dieu de la mer|Meeresgott|Dio del mare|Deus do mar
+Nestore|m|greek|italian|1|mythology,vintage|El que regresa|He who returns|Celui qui revient|Der Heimkehrer|Colui che ritorna|Aquele que regressa
+Norberto|m|germanic|italian,spanish|1|saint,vintage|Brillo del norte|Brightness of the north|Éclat du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Ofelia|f|greek|italian,spanish|2|literary,classic|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Olga|f|norse|italian,russian|1|vintage,saint|Santa|Holy|Sainte|Heilig|Santa|Santa
+Olimpia|f|greek|italian,spanish|2|mythology,vintage|Del Olimpo|Of Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Olivia|f|latin|italian,english|3|nature,classic,trendy|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Orsola|f|latin|italian|1|saint,animal,vintage|Osita|Little she-bear|Petite ourse|Kleine Bärin|Piccola orsa|Ursinha
+Ottavia|f|latin|italian|2|classic,royal|Octava|Eighth|Huitième|Achte|Ottava|Oitava
+Ondina|f|latin|italian|1|sea,mythology|Pequeña ola|Little wave|Petite vague|Kleine Welle|Piccola onda|Pequena onda
+Ortensia|f|latin|italian|1|flower,vintage|Del jardín|Of the garden|Du jardin|Aus dem Garten|Del giardino|Do jardim
+Oliviero|m|latin|italian|1|vintage,literary|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Orazio|m|latin|italian|2|classic,literary|De la familia Horacia|Of the Horatian clan|De la famille Horatia|Aus dem Geschlecht der Horatier|Della gente Orazia|Da família Horácia
+Oreste|m|greek|italian|1|mythology,vintage|De la montaña|Of the mountain|De la montagne|Vom Berg|Della montagna|Da montanha
+Orlando|m|germanic|italian,english|2|literary,warrior|Famoso en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nella terra|Famoso na terra
+Osvaldo|m|germanic|italian,spanish|1|vintage|Poder divino|Divine power|Pouvoir divin|Göttliche Macht|Potere divino|Poder divino
+Ottavio|m|latin|italian|2|classic,royal|Octavo|Eighth|Huitième|Achter|Ottavo|Oitavo
+Ottone|m|germanic|italian|1|vintage,royal|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Paola|f|latin|italian,spanish|3|saint,classic|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Patrizia|f|latin|italian|3|classic,royal|Noble, patricia|Noble, patrician|Noble, patricienne|Adlig, patrizisch|Nobile, patrizia|Nobre, patrícia
+Perla|f|latin|italian,spanish|2|gem,sea|Perla|Pearl|Perle|Perle|Perla|Pérola
+Petra|f|greek|italian,german|1|classic,biblical|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Pia|f|latin|italian,german|2|virtue,sweet|Piadosa|Pious|Pieuse|Fromm|Pia|Piedosa
+Prisca|f|latin|italian|1|biblical,vintage|Antigua, venerable|Ancient, venerable|Antique, vénérable|Altehrwürdig|Antica, venerabile|Antiga, venerável
+Priscilla|f|latin|italian,english|1|biblical,vintage|Antigua, venerable|Ancient, venerable|Antique, vénérable|Altehrwürdig|Antica, venerabile|Antiga, venerável
+Pasqualina|f|latin|italian|1|vintage,saint|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Placida|f|latin|italian|1|vintage,virtue|Apacible|Calm|Paisible|Friedlich|Placida, serena|Plácida
+Palmira|f|latin|italian,spanish|1|place,vintage|De Palmira|From Palmyra|De Palmyre|Aus Palmyra|Di Palmira|De Palmira
+Paolo|m|latin|italian|3|biblical,saint,classic|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pasquale|m|latin|italian|2|saint,vintage|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Patrizio|m|latin|italian|2|saint,royal|Noble, patricio|Noble, patrician|Noble, patricien|Adlig, patrizisch|Nobile, patrizio|Nobre, patrício
+Pellegrino|m|latin|italian|1|vintage,saint|Peregrino|Pilgrim|Pèlerin|Pilger|Pellegrino|Peregrino
+Pierluigi|m|greek|italian|2|classic|Roca, guerrero famoso|Rock, famous warrior|Roche, guerrier célèbre|Fels, berühmter Krieger|Roccia, guerriero famoso|Rocha, guerreiro famoso
+Pierpaolo|m|greek|italian|2|classic|Roca, pequeño|Rock, small|Roche, petit|Fels, klein|Roccia, piccolo|Rocha, pequeno
+Pietro|m|greek|italian|3|biblical,saint,classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Piero|m|greek|italian|2|vintage|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Placido|m|latin|italian|1|virtue,vintage|Apacible|Calm|Paisible|Friedlich|Placido, sereno|Plácido
+Prospero|m|latin|italian|1|virtue,literary|Próspero|Prosperous|Prospère|Wohlhabend|Prospero|Próspero
+Primo|m|latin|italian|1|vintage|Primero|First|Premier|Erster|Primo|Primeiro
+Pio|m|latin|italian|1|saint,virtue,vintage|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Pancrazio|m|greek|italian|1|saint,strong,vintage|Todopoderoso|All-powerful|Tout-puissant|Allmächtig|Onnipotente|Todo-poderoso

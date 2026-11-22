@@ -1,0 +1,70 @@
+Alda|f|norse|scandinavian|2|sea,nature|Ola|Wave|Vague|Welle|Onda|Onda
+Birna|f|norse|scandinavian|2|animal,strong|Osa|She-bear|Ourse|Bärin|Orsa|Ursa
+Bryndís|f|norse|scandinavian|2|warrior,mythology|Diosa de la armadura|Armor goddess|Déesse de l'armure|Rüstungsgöttin|Dea dell'armatura|Deusa da armadura
+Halla|f|norse|scandinavian|2|nature|Roca|Rock|Roc|Fels|Roccia|Rocha
+Hildur|f|norse|scandinavian|2|warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Hrefna|f|norse|scandinavian|1|animal|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Ragna|f|norse|scandinavian|2|mythology|Consejo divino|Divine counsel|Conseil divin|Göttlicher Rat|Consiglio divino|Conselho divino
+Sigríður|f|norse|scandinavian|2|vintage,strong|Hermosa victoria|Beautiful victory|Belle victoire|Schöner Sieg|Bella vittoria|Bela vitória
+Svana|f|norse|scandinavian|2|animal,sweet|Cisne|Swan|Cygne|Schwan|Cigno|Cisne
+Unnur|f|norse|scandinavian|2|sea,nature|Ola|Wave|Vague|Welle|Onda|Onda
+Vigdís|f|norse|scandinavian|2|warrior,mythology|Diosa de la guerra|War goddess|Déesse de la guerre|Kriegsgöttin|Dea della guerra|Deusa da guerra
+Ylfa|f|norse|scandinavian|1|animal,strong|Loba|She-wolf|Louve|Wölfin|Lupa|Loba
+Auður|f|norse|scandinavian|2|vintage|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Ásdís|f|norse|scandinavian|2|mythology|Diosa de los dioses|Goddess of the gods|Déesse des dieux|Göttin der Götter|Dea degli dei|Deusa dos deuses
+Guðrún|f|norse|scandinavian|2|mythology|Secreto de Dios|Divine secret|Secret divin|Göttliches Geheimnis|Segreto divino|Segredo divino
+Ægir|m|norse|scandinavian|1|sea,mythology|Mar|Sea|Mer|Meer|Mare|Mar
+Ásgeir|m|norse|scandinavian|2|mythology,warrior|Lanza de los dioses|Spear of the gods|Lance des dieux|Speer der Götter|Lancia degli dei|Lança dos deuses
+Atli|m|norse|scandinavian|2|strong|Padrecito|Little father|Petit père|Väterchen|Padrino|Paizinho
+Bergur|m|norse|scandinavian|1|nature|Montaña|Mountain|Montagne|Berg|Montagna|Montanha
+Bjarni|m|norse|scandinavian|2|animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Freyr|m|norse|scandinavian|2|mythology|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Haukur|m|norse|scandinavian|2|animal|Halcón|Hawk|Faucon|Habicht|Falco|Falcão
+Helgi|m|norse|scandinavian|2|vintage|Santo|Holy|Saint|Heilig|Santo|Santo
+Hjörtur|m|norse|scandinavian|1|animal|Ciervo|Stag|Cerf|Hirsch|Cervo|Cervo
+Rúnar|m|norse|scandinavian|2|mythology|Saber secreto|Secret lore, rune|Savoir secret, rune|Geheimes Wissen, Rune|Sapere segreto, runa|Saber secreto, runa
+Sigurður|m|norse|scandinavian|3|warrior,strong|Guardián de la victoria|Victory guardian|Gardien de la victoire|Hüter des Sieges|Custode della vittoria|Guardião da vitória
+Steinar|m|norse|scandinavian|2|strong|Guerrero de piedra|Stone warrior|Guerrier de pierre|Steinkrieger|Guerriero di pietra|Guerreiro de pedra
+Aada|f|hebrew|scandinavian|3|modern|Noble|Noble|Noble|Die Edle|Nobile|Nobre
+Armi|f|other|scandinavian|2|virtue,vintage|Gracia, compasión|Mercy, grace|Grâce, clémence|Gnade, Barmherzigkeit|Grazia, compassione|Graça, compaixão
+Ilta|f|other|scandinavian|1|nature|Tarde, anochecer|Evening|Soir|Abend|Sera|Entardecer
+Kielo|f|other|scandinavian|2|flower|Lirio de los valles|Lily of the valley|Muguet|Maiglöckchen|Mughetto|Lírio-do-vale
+Kukka|f|other|scandinavian|1|flower|Flor|Flower|Fleur|Blume|Fiore|Flor
+Lempi|f|other|scandinavian|2|love,vintage|Amor|Love|Amour|Liebe|Amore|Amor
+Meri|f|other|scandinavian|3|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Mielikki|f|other|scandinavian|1|mythology,nature|Diosa del bosque|Forest goddess|Déesse de la forêt|Waldgöttin|Dea della foresta|Deusa da floresta
+Orvokki|f|other|scandinavian|2|flower|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Pilvi|f|other|scandinavian|2|nature|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Ruusu|f|other|scandinavian|1|flower|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Sade|f|other|scandinavian|1|nature|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Sointu|f|other|scandinavian|2|music|Armonía, acorde|Harmony, chord|Harmonie, accord|Harmonie, Akkord|Armonia, accordo|Harmonia, acorde
+Tellervo|f|other|scandinavian|1|mythology,nature|Diosa del bosque|Forest goddess|Déesse de la forêt|Waldgöttin|Dea della foresta|Deusa da floresta
+Vilja|f|other|scandinavian|2|nature|Grano, cereal|Grain, wheat|Grain, blé|Getreide|Grano, cereale|Grão, cereal
+Katriina|f|greek|scandinavian|2|classic|Pura|Pure|Pure|Die Reine|Pura|Pura
+Aarre|m|other|scandinavian|1|vintage|Tesoro|Treasure|Trésor|Schatz|Tesoro|Tesouro
+Aleksanteri|m|greek|scandinavian|2|classic|Defensor de hombres|Defender of mankind|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Antti|m|greek|scandinavian|3|classic|Viril|Manly|Viril|Der Männliche|Virile|Viril
+Eero|m|norse|scandinavian|3|royal|Gobernante eterno|Ever ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Eljas|m|hebrew|scandinavian|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Jere|m|hebrew|scandinavian|3|biblical|Dios levantará|God will uplift|Dieu élèvera|Gott erhöht|Dio solleverà|Deus levantará
+Juhani|m|hebrew|scandinavian|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jussi|m|hebrew|scandinavian|3|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Markku|m|latin|scandinavian|2|classic|De Marte|Of Mars|De Mars|Der dem Mars Geweihte|Di Marte|De Marte
+Matias|m|hebrew|scandinavian|3|biblical|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Miika|m|hebrew|scandinavian|2|biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Niilo|m|greek|scandinavian|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Paavo|m|latin|scandinavian|2|classic|Pequeño|Small|Petit|Der Kleine|Piccolo|Pequeno
+Samuli|m|hebrew|scandinavian|3|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Santeri|m|greek|scandinavian|2|modern|Defensor de hombres|Defender of mankind|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Sauli|m|hebrew|scandinavian|2|biblical|Pedido a Dios|Asked for|Demandé à Dieu|Der Erbetene|Il richiesto|O pedido
+Sulo|m|other|scandinavian|2|virtue|Encanto, gracia|Charm, grace|Charme, grâce|Anmut, Charme|Grazia, fascino|Encanto, graça
+Tapani|m|greek|scandinavian|2|vintage|Corona|Crown|Couronne|Krone|Corona|Coroa
+Toivo|m|other|scandinavian|2|virtue,vintage|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Tuomo|m|hebrew|scandinavian|2|biblical|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Unto|m|other|scandinavian|1|vintage|Sueño|Dream|Rêve|Traum|Sogno|Sonho
+Urho|m|other|scandinavian|2|strong|Héroe, valiente|Hero, brave|Héros, vaillant|Held, tapfer|Eroe, valoroso|Herói, valente
+Valtteri|m|germanic|scandinavian|2|strong|Gobernante del ejército|Ruler of the army|Souverain de l'armée|Herrscher des Heeres|Sovrano dell'esercito|Governante do exército
+Veikko|m|other|scandinavian|2|vintage|Hermano|Brother|Frère|Bruder|Fratello|Irmão
+Veli|m|other|scandinavian|2|vintage|Hermano|Brother|Frère|Bruder|Fratello|Irmão
+Vesa|m|other|scandinavian|2|nature|Retoño, brote|Sprout, shoot|Pousse|Spross, Trieb|Germoglio|Rebento
+Viljami|m|germanic|scandinavian|2|classic|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta

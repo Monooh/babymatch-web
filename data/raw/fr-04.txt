@@ -1,0 +1,70 @@
+Mélanie|f|greek|french,english|3|classic|Oscura|Dark-skinned|Noire, sombre|Die Dunkle|Scura|Escura
+Mélissa|f|greek|french,english|3|animal,nature,classic|Abeja|Honey bee|Abeille|Biene|Ape|Abelha
+Mélodie|f|greek|french|3|music,sweet|Melodía|Melody|Mélodie|Melodie|Melodia|Melodia
+Michel|m|hebrew|french|2|biblical,saint,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Michèle|f|hebrew|french|1|biblical,vintage|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mirabelle|f|latin|french|2|sweet,vintage|Admirable|Wonderful|Admirable|Wunderbar|Ammirabile|Admirável
+Mireille|f|latin|french|2|literary,vintage|La que admira|One who admires|Celle qui admire|Die Bewundernde|Colei che ammira|Aquela que admira
+Morgane|f|celtic|french|4|literary,sea,mythology|Nacida del mar|Born of the sea|Née de la mer|Meergeborene|Nata dal mare|Nascida do mar
+Muriel|f|celtic|french,english|2|sea,vintage|Mar brillante|Bright sea|Mer brillante|Leuchtendes Meer|Mare luminoso|Mar brilhante
+Nadège|f|slavic|french|2|virtue,vintage|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Nathalie|f|latin|french|2|classic|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nathan|m|hebrew|french,english,german|4|biblical,classic|Él ha dado|He gave|Il a donné|Er hat gegeben|Egli ha dato|Ele deu
+Nathanaël|m|hebrew|french|2|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Nicolas|m|greek|french|4|saint,classic,warrior|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicole|f|greek|french,english,german|2|classic,warrior|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Noé|m|hebrew|french|3|biblical,classic|Descanso|Rest|Repos|Ruhe|Riposo|Descanso
+Noémie|f|hebrew|french|3|biblical,sweet|Dulzura, agrado|Pleasantness|Douceur, agrément|Lieblichkeit|Dolcezza, piacevolezza|Doçura, agrado
+Noël|m|latin|french|2|saint,vintage|Natividad|Nativity|Naissance du Christ|Geburt Christi|Natività|Natividade
+Noëlle|f|latin|french|2|saint,vintage|Natividad|Nativity|Naissance du Christ|Geburt Christi|Natività|Natividade
+Norbert|m|germanic|french,german|1|vintage,saint|Brillo del norte|Brightness of the north|Lumière du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Océane|f|greek|french|3|sea,modern,sweet|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Octave|m|latin|french|3|vintage,royal|Octavo|Eighth|Huitième|Der Achte|Ottavo|Oitavo
+Octavie|f|latin|french|1|vintage,royal|Octava|Eighth|Huitième|Die Achte|Ottava|Oitava
+Odette|f|germanic|french|2|vintage,literary|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Odile|f|germanic|french|2|saint,vintage|Riqueza, prosperidad|Wealth, prosperity|Richesse, prospérité|Reichtum, Wohlstand|Ricchezza, prosperità|Riqueza, prosperidade
+Olivier|m|latin|french|3|nature,classic|Olivo, árbol de paz|Olive tree|Olivier, arbre de paix|Olivenbaum|Ulivo, albero di pace|Oliveira, árvore da paz
+Olympe|f|greek|french|2|mythology,vintage|Del monte Olimpo|Of Mount Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Ophélie|f|greek|french|3|literary,classic|Ayuda, socorro|Help, assistance|Aide, secours|Hilfe, Beistand|Aiuto, soccorso|Ajuda, socorro
+Oscar|m|celtic|french,english,scandinavian|3|classic,warrior|Amigo del ciervo|Friend of the deer|Ami du cerf|Freund des Hirsches|Amico del cervo|Amigo do cervo
+Pascal|m|hebrew|french|2|saint,classic|De la Pascua|Of Easter|De Pâques|Zu Ostern gehörig|Di Pasqua|Da Páscoa
+Pâquerette|f|other|french|1|flower,vintage|Margarita silvestre|Daisy|Pâquerette|Gänseblümchen|Margheritina|Margarida
+Patrice|m|latin|french|2|classic,royal|Noble|Nobleman|Noble|Edelmann|Nobile|Nobre
+Paul|m|latin|french,english,german|4|biblical,saint,classic|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Paulin|m|latin|french|1|vintage,saint|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pauline|f|latin|french,german|3|classic,vintage|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Pélagie|f|greek|french|1|vintage,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Perrine|f|greek|french|2|vintage,sweet|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Philibert|m|germanic|french|1|vintage,saint|Muy brillante|Very bright|Très brillant|Sehr strahlend|Molto splendente|Muito brilhante
+Philippe|m|greek|french|3|classic,royal,saint|Amigo de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amico dei cavalli|Amigo dos cavalos
+Pierre|m|greek|french|4|biblical,saint,classic|Piedra, roca|Rock, stone|Pierre, roc|Fels, Stein|Pietra, roccia|Pedra, rocha
+Placide|m|latin|french|1|vintage,virtue|Apacible|Peaceful|Paisible|Friedlich|Placido|Plácido
+Prisca|f|latin|french,german|1|vintage,biblical|Antigua|Ancient|Ancienne|Altehrwürdig|Antica|Antiga
+Priscille|f|latin|french|2|biblical,vintage|Antigua|Ancient|Ancienne|Altehrwürdig|Antica|Antiga
+Prosper|m|latin|french|1|vintage,virtue|Próspero|Prosperous|Prospère|Glücklich|Prospero|Próspero
+Prudence|f|latin|french,english|2|virtue,vintage|Prudencia|Prudence|Prudence|Klugheit|Prudenza|Prudência
+Quentin|m|latin|french|3|classic,saint|Quinto|Fifth|Cinquième|Der Fünfte|Quinto|Quinto
+Rachel|f|hebrew|french,english|3|biblical,classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Raoul|m|germanic|french|2|vintage,animal|Lobo consejero|Wolf counsel|Loup conseiller|Ratgebender Wolf|Lupo consigliere|Lobo conselheiro
+Raphaël|m|hebrew|french|5|biblical,saint,classic|Dios sana|God heals|Dieu guérit|Gott heilt|Dio guarisce|Deus cura
+Raphaëlle|f|hebrew|french|3|biblical,sweet|Dios sana|God heals|Dieu guérit|Gott heilt|Dio guarisce|Deus cura
+Raymond|m|germanic|french|2|vintage,classic|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Rébecca|f|hebrew|french|2|biblical,classic|La que ata|Tied, bound|Celle qui lie|Die Bindende|Colei che lega|Aquela que une
+Reine|f|latin|french|1|royal,vintage|Reina|Queen|Reine|Königin|Regina|Rainha
+Régine|f|latin|french|1|royal,vintage|Reina|Queen|Reine|Königin|Regina|Rainha
+Rémi|m|latin|french|4|classic,sea,saint|Remero|Rower|Rameur|Ruderer|Rematore|Remador
+Renaud|m|germanic|french|2|vintage,warrior|Consejo poderoso|Mighty counsel|Conseil puissant|Mächtiger Rat|Consiglio possente|Conselho poderoso
+René|m|latin|french|2|vintage,classic|Renacido|Reborn|Né de nouveau|Wiedergeboren|Rinato|Renascido
+Renée|f|latin|french|1|vintage,classic|Renacida|Reborn|Née de nouveau|Wiedergeboren|Rinata|Renascida
+Robert|m|germanic|french,english,german|3|classic,royal|Gloria brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Rodolphe|m|germanic|french|1|vintage,animal|Lobo glorioso|Famous wolf|Loup glorieux|Ruhmreicher Wolf|Lupo glorioso|Lobo glorioso
+Roger|m|germanic|french,english|2|classic,warrior|Lanza gloriosa|Famous spear|Lance glorieuse|Ruhmreicher Speer|Lancia gloriosa|Lança gloriosa
+Roland|m|germanic|french,german|2|classic,literary,warrior|Gloria de la tierra|Fame of the land|Gloire du pays|Ruhm des Landes|Gloria della terra|Glória da terra
+Romain|m|latin|french|4|classic,place|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Romane|f|latin|french|2|modern,place|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Roméo|m|latin|french|3|literary,love|Peregrino de Roma|Pilgrim to Rome|Pèlerin de Rome|Rom-Pilger|Pellegrino di Roma|Peregrino de Roma
+Rosalie|f|latin|french,german|3|flower,vintage,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rose|f|latin|french,english|4|flower,classic,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Roseline|f|latin|french|1|flower,vintage|Pequeña rosa|Little rose|Petite rose|Kleine Rose|Piccola rosa|Pequena rosa
+Roxane|f|persian|french|2|light,literary|Amanecer, brillante|Dawn, bright|Aube, brillante|Morgenröte, strahlend|Alba, splendente|Aurora, brilhante
+Ruben|m|hebrew|french,spanish,german|2|biblical|Mirad, un hijo|Behold, a son|Voyez, un fils|Seht, ein Sohn|Ecco, un figlio|Eis um filho

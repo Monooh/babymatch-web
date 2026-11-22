@@ -1,0 +1,86 @@
+Adèle|f|germanic|french|4|royal,vintage,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adélaïde|f|germanic|french|2|royal,vintage|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Adrien|m|latin|french|3|classic,saint|De la ciudad de Hadria|From the town of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Agathe|f|greek|french|3|saint,virtue,vintage|Buena|Good|Bonne|Die Gute|Buona|Boa
+Agnès|f|greek|french|2|saint,virtue,classic|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Aimé|m|latin|french|2|love,vintage|Amado|Beloved|Aimé|Geliebter|Amato|Amado
+Albert|m|germanic|french,german,english|2|royal,classic|Noble y brillante|Noble and bright|Noble et brillant|Edel und strahlend|Nobile e splendente|Nobre e brilhante
+Alexandre|m|greek|french|4|classic,warrior,royal|Defensor de los hombres|Defender of men|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Alexandrine|f|greek|french|1|vintage,warrior|Defensora de los hombres|Defender of men|Défenseuse des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora dos homens
+Alice|f|germanic|french,english,intl|4|classic,royal,literary|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alix|f|germanic|french|2|royal,vintage|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Amandine|f|latin|french|3|love,sweet|Digna de ser amada|Worthy of love|Digne d'être aimée|Der Liebe würdig|Degna d'essere amata|Digna de ser amada
+Amélie|f|germanic|french|3|classic,sweet|Trabajadora|Industrious|Travailleuse|Die Fleißige|Operosa|Trabalhadora
+Ambre|f|arabic|french|4|gem,modern,sweet|Ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Ambroise|m|greek|french|2|saint,vintage|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Anaïs|f|hebrew|french|3|sweet,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anatole|m|greek|french|2|vintage,celestial|Amanecer|Sunrise|Lever du soleil|Sonnenaufgang|Alba|Nascer do sol
+André|m|greek|french,portuguese|3|saint,classic,strong|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Angèle|f|greek|french|2|saint,sweet,vintage|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Angélique|f|greek|french|2|sweet,classic|Angelical|Angelic|Angélique|Engelsgleich|Angelica|Angelical
+Anne|f|hebrew|french,english,german|3|biblical,saint,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anouk|f|hebrew|french,dutch|3|modern,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Antoine|m|latin|french|4|classic,saint|De valor incalculable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonin|m|latin|french|2|vintage,saint|De valor incalculable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Apolline|f|greek|french|2|mythology,light|Consagrada a Apolo|Devoted to Apollo|Consacrée à Apollon|Apollo geweiht|Consacrata ad Apollo|Consagrada a Apolo
+Arnaud|m|germanic|french|2|strong,classic|Águila poderosa|Powerful eagle|Aigle puissant|Mächtiger Adler|Aquila potente|Águia poderosa
+Arthur|m|celtic|french,english,german|5|royal,literary,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Aubin|m|latin|french|1|vintage,saint|Blanco|White|Blanc|Weiß|Bianco|Branco
+Audrey|f|germanic|french,english|3|classic,strong|Fuerza noble|Noble strength|Force noble|Edle Stärke|Nobile forza|Nobre força
+Auguste|m|latin|french|3|vintage,royal|Venerable|Venerable|Vénérable|Erhaben|Venerabile|Venerável
+Augustin|m|latin|french|4|vintage,saint,royal|Venerable|Venerable|Vénérable|Erhaben|Venerabile|Venerável
+Aurélie|f|latin|french|3|classic,light|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Aurélien|m|latin|french|3|classic,royal|Dorado|Golden|Doré|Der Goldene|Dorato|Dourado
+Aurore|f|latin|french|3|celestial,light,classic|Amanecer|Dawn|Aube|Morgenröte|Aurora|Aurora
+Axelle|f|germanic|french|3|modern,sweet|Padre de la paz|Father of peace|Père de la paix|Vater des Friedens|Padre della pace|Pai da paz
+Aymeric|m|germanic|french|2|vintage,strong|Jefe trabajador|Industrious ruler|Chef vaillant|Fleißiger Herrscher|Capo operoso|Chefe trabalhador
+Baptiste|m|greek|french|4|saint,biblical,classic|El que bautiza|The baptizer|Celui qui baptise|Der Täufer|Colui che battezza|Aquele que batiza
+Barnabé|m|hebrew|french|1|biblical,vintage|Hijo del consuelo|Son of consolation|Fils de la consolation|Sohn des Trostes|Figlio della consolazione|Filho da consolação
+Basile|m|greek|french|2|royal,vintage|Real|Royal|Royal|Königlich|Regale|Real
+Bastien|m|greek|french|2|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Béatrice|f|latin|french|2|classic,literary|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringerin|Colei che porta felicità|Aquela que traz felicidade
+Bénédicte|f|latin|french|2|saint,classic|Bendita|Blessed|Bénie|Die Gesegnete|Benedetta|Abençoada
+Benjamin|m|hebrew|french,german,english,intl|4|biblical,classic|Hijo de la mano derecha|Son of the right hand|Fils de la main droite|Sohn der rechten Hand|Figlio della mano destra|Filho da mão direita
+Benoît|m|latin|french|3|saint,classic|Bendito|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Bérénice|f|greek|french|2|literary,vintage|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Bernadette|f|germanic|french|2|saint,vintage|Valiente como un oso|Brave as a bear|Courageuse comme l'ours|Tapfer wie ein Bär|Coraggiosa come un orso|Corajosa como um urso
+Bernard|m|germanic|french|2|classic,saint,strong|Oso valiente|Brave bear|Ours courageux|Tapferer Bär|Orso coraggioso|Urso corajoso
+Bertrand|m|germanic|french|2|classic,warrior|Cuervo brillante|Bright raven|Corbeau brillant|Glänzender Rabe|Corvo splendente|Corvo brilhante
+Blanche|f|germanic|french|3|vintage,light|Blanca|White|Blanche|Weiß|Bianca|Branca
+Brigitte|f|celtic|french|2|saint,strong,classic|La exaltada|The exalted one|L'élevée|Die Erhabene|L'eccelsa|A exaltada
+Bruno|m|germanic|french,german,italian,portuguese|3|classic,strong|Moreno|Brown|Brun|Braun|Bruno|Moreno
+Camille|u|latin|french|4|classic,sweet|Servidor del culto|Attendant at the altar|Serviteur du culte|Diener des Kultes|Servitore del culto|Servidor do culto
+Capucine|f|other|french|3|flower,modern,sweet|Capuchina|Nasturtium|Capucine|Kapuzinerkresse|Nasturzio|Capuchinha
+Caroline|f|germanic|french,english,german|3|classic,sweet|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Casimir|m|slavic|french,polish|1|vintage,royal|El que proclama la paz|Proclaimer of peace|Celui qui proclame la paix|Friedensverkünder|Colui che proclama la pace|Aquele que proclama a paz
+Catherine|f|greek|french,english|3|saint,classic,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Cécile|f|latin|french|3|saint,music,classic|Ciega|Blind|Aveugle|Blind|Cieca|Cega
+Céleste|u|latin|french|3|celestial,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Célestin|m|latin|french|2|celestial,vintage|Celestial|Heavenly|Céleste|Himmlisch|Celestino|Celestial
+Célia|f|latin|french|3|celestial,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Céline|f|latin|french|3|classic,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+César|m|latin|french|3|royal,strong|Emperador|Emperor|Empereur|Kaiser|Imperatore|Imperador
+Chantal|f|other|french|2|vintage,place|Piedra, roca|Stone, rock|Pierre, rocher|Stein, Fels|Pietra, roccia|Pedra, rocha
+Charles|m|germanic|french,english|4|royal,classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Charlotte|f|germanic|french,english|5|royal,classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Chloé|f|greek|french|5|nature,classic,sweet|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Rebento verde
+Christian|m|greek|french,german,english|2|classic,saint|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Christine|f|greek|french,english,german|2|classic,saint|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christophe|m|greek|french|3|saint,classic|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Claire|f|latin|french,english|4|light,classic|Clara, brillante|Clear, bright|Claire, lumineuse|Klar, hell|Chiara, luminosa|Clara, brilhante
+Clara|f|latin|french,german,spanish,portuguese|4|light,classic|Clara, brillante|Clear, bright|Claire, lumineuse|Klar, hell|Chiara, luminosa|Clara, brilhante
+Clarisse|f|latin|french|3|light,vintage|Clara, brillante|Clear, bright|Claire, lumineuse|Klar, hell|Chiara, luminosa|Clara, brilhante
+Claude|u|latin|french|2|classic,vintage|Cojo|Lame|Boiteux|Hinkend|Zoppo|Coxo
+Claudine|f|latin|french|1|vintage,literary|Cojita|Lame|Boiteuse|Hinkend|Zoppa|Coxa
+Clémence|f|latin|french|4|virtue,sweet,classic|Clemencia, dulzura|Mercy, mildness|Douceur, clémence|Milde, Gnade|Clemenza, dolcezza|Clemência, doçura
+Clément|m|latin|french|4|virtue,classic|Clemente, dulce|Merciful, mild|Doux, clément|Milde, gnädig|Clemente, mite|Clemente, brando
+Clémentine|f|latin|french|3|virtue,sweet|Clemente, dulce|Merciful, mild|Douce, clémente|Milde, gnädig|Clemente, mite|Clemente, branda
+Clothilde|f|germanic|french|2|royal,warrior,vintage|Gloria en la batalla|Glory in battle|Gloire au combat|Ruhm im Kampf|Gloria in battaglia|Glória na batalha
+Clovis|m|germanic|french|2|royal,warrior|Combate glorioso|Famous in battle|Combat glorieux|Ruhmreicher Kampf|Battaglia gloriosa|Combate glorioso
+Colette|f|greek|french|2|vintage,literary|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Constance|f|latin|french,english|3|virtue,vintage|Constancia|Constancy|Constance|Beständigkeit|Costanza|Constância
+Constant|m|latin|french|2|virtue,vintage|Constante|Steadfast|Constant|Beständig|Costante|Constante
+Constantin|m|latin|french,german|2|royal,virtue|Constante|Steadfast|Constant|Beständig|Costantino|Constante
+Corentin|m|celtic|french|2|saint,strong|Amigo, aliado|Friend, ally|Ami, allié|Freund, Verbündeter|Amico, alleato|Amigo, aliado
+Cyprien|m|greek|french|1|saint,vintage|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Cyrille|m|greek|french|1|saint,vintage|Señor|Lord|Seigneur|Herr|Signore|Senhor

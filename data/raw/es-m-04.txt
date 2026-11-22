@@ -1,0 +1,56 @@
+Ian|m|hebrew|spanish,scottish,english|3|modern,trendy|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Iker|m|basque|spanish,basque|4|modern,saint|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Ignacio|m|latin|spanish|4|saint,classic|Ardiente, fogoso|Fiery, ardent|Ardent, fougueux|Feurig, glühend|Ardente, focoso|Ardente, fogoso
+Ildefonso|m|germanic|spanish|1|saint,vintage|Dispuesto para el combate|Ready for battle|Prêt au combat|Kampfbereit|Pronto al combattimento|Pronto para o combate
+Inocencio|m|latin|spanish|1|saint,vintage,virtue|Inocente|Innocent|Innocent|Unschuldig|Innocente|Inocente
+Inti|m|native|spanish|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Ireneo|m|greek|spanish|1|saint,vintage,virtue|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Isaac|m|hebrew|spanish,intl|4|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Isaías|m|hebrew|spanish|2|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Isidoro|m|greek|spanish|2|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Isidro|m|greek|spanish|2|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Ismael|m|hebrew|spanish|3|biblical,classic|Dios escucha|God hears|Dieu entend|Gott hört|Dio ascolta|Deus ouve
+Israel|m|hebrew|spanish,intl|2|biblical,strong|El que lucha con Dios|He who struggles with God|Celui qui lutte avec Dieu|Der mit Gott ringt|Colui che lotta con Dio|Aquele que luta com Deus
+Ítalo|m|latin|spanish,italian|1|place,vintage|De Italia|From Italy|D'Italie|Aus Italien|D'Italia|Da Itália
+Iván|m|hebrew|spanish,russian|4|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jacinto|m|greek|spanish,portuguese|2|flower,saint,vintage|Flor del jacinto|Hyacinth flower|Fleur de jacinthe|Hyazinthenblüte|Fiore di giacinto|Flor de jacinto
+Jacobo|m|hebrew|spanish|3|biblical,classic|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Jaime|m|hebrew|spanish|4|biblical,classic|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Jairo|m|hebrew|spanish|3|biblical|Dios ilumina|God enlightens|Dieu éclaire|Gott erleuchtet|Dio illumina|Deus ilumina
+Jasón|m|greek|spanish,english|2|mythology,warrior|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Javier|m|basque|spanish|5|saint,classic|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Jeremías|m|hebrew|spanish|3|biblical|Dios exalta|God exalts|Dieu élève|Gott erhöht|Dio esalta|Deus exalta
+Jerónimo|m|greek|spanish|3|saint,classic|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Jesús|m|hebrew|spanish|4|biblical,saint,classic|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Joaquín|m|hebrew|spanish|4|biblical,saint,classic|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Joel|m|hebrew|spanish,intl|3|biblical|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Jonás|m|hebrew|spanish|2|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jonatán|m|hebrew|spanish|3|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Jordán|m|hebrew|spanish|2|biblical,place|El que desciende|The one who descends|Celui qui descend|Der Herabfließende|Colui che scende|Aquele que desce
+Jorge|m|greek|spanish,portuguese|4|saint,classic|Agricultor|Farmer|Agriculteur|Landmann|Agricoltore|Agricultor
+José|m|hebrew|spanish,portuguese|5|biblical,saint,classic|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Josué|m|hebrew|spanish|3|biblical,strong|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Juan|m|hebrew|spanish|5|biblical,saint,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Julián|m|latin|spanish|4|classic,saint|De la familia Julia|Of the Julian clan|De la gens Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Julio|m|latin|spanish|3|classic,royal|Consagrado a Júpiter|Devoted to Jupiter|Consacré à Jupiter|Jupiter geweiht|Consacrato a Giove|Consagrado a Júpiter
+Justino|m|latin|spanish|1|saint,vintage,virtue|Justo|Just|Juste|Gerecht|Giusto|Justo
+Justo|m|latin|spanish|2|saint,virtue,classic|Justo, recto|Just, righteous|Juste, droit|Gerecht|Giusto, retto|Justo, reto
+Juvenal|m|latin|spanish|1|vintage|Joven|Youthful|Jeune|Jugendlich|Giovanile|Juvenil
+Lamberto|m|germanic|spanish,italian|1|vintage,saint|Tierra brillante|Bright land|Terre brillante|Glänzendes Land|Terra splendente|Terra brilhante
+Laureano|m|latin|spanish|1|saint,vintage|Coronado de laurel|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Coronato d'alloro|Coroado de louros
+Lautaro|m|native|spanish|3|warrior,animal,trendy|Halcón veloz|Swift hawk|Faucon rapide|Schneller Falke|Falco veloce|Falcão veloz
+Lázaro|m|hebrew|spanish|3|biblical,classic|Dios ayuda|God helps|Dieu aide|Gott hilft|Dio aiuta|Deus ajuda
+Leandro|m|greek|spanish,portuguese|3|classic,mythology|Hombre león|Lion-man|Homme-lion|Löwenmann|Uomo leone|Homem-leão
+Leo|m|latin|spanish,intl|5|animal,modern,trendy|León|Lion|Lion|Löwe|Leone|Leão
+León|m|greek|spanish|4|animal,saint,strong|León|Lion|Lion|Löwe|Leone|Leão
+Leonardo|m|germanic|spanish,italian,portuguese|4|animal,classic,strong|León fuerte|Brave lion|Lion courageux|Starker Löwe|Leone forte|Leão forte
+Leonel|m|latin|spanish|3|animal,classic|Leoncito|Little lion|Petit lion|Kleiner Löwe|Leoncino|Leãozinho
+Leónidas|m|greek|spanish|1|warrior,animal,classic|Hijo del león|Son of the lion|Fils du lion|Sohn des Löwen|Figlio del leone|Filho do leão
+Leopoldo|m|germanic|spanish,italian|2|royal,vintage|Pueblo valiente|Brave people|Peuple courageux|Mutiges Volk|Popolo coraggioso|Povo valente
+Lisandro|m|greek|spanish|3|classic,warrior|Liberador|Liberator|Libérateur|Befreier|Liberatore|Libertador
+Lope|m|latin|spanish|1|vintage,animal|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Lorenzo|m|latin|spanish,italian|4|saint,classic|Laureado|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Laureato|Laureado
+Lucas|m|latin|spanish,portuguese,intl|5|biblical,light,classic|Luminoso|Luminous|Lumineux|Leuchtend|Luminoso|Luminoso
+Luciano|m|latin|spanish,italian,portuguese|4|classic,light|Luminoso|Luminous|Lumineux|Leuchtend|Luminoso|Luminoso
+Lucio|m|latin|spanish,italian|2|classic,light|Luz|Light|Lumière|Licht|Luce|Luz
+Luis|m|germanic|spanish|5|royal,classic|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso

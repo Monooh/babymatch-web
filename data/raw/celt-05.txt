@@ -1,0 +1,47 @@
+Ailbhe|u|celtic|irish|1|saint,light|Blanca, brillante|White, bright|Blanche, brillante|Weiß, strahlend|Bianca, luminosa|Branca, brilhante
+Alastair|m|greek|scottish,english|3|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Beschützer der Männer|Difensore degli uomini|Defensor dos homens
+Arianrhod|f|celtic|welsh|1|mythology,celestial|Rueda de plata|Silver wheel|Roue d'argent|Silbernes Rad|Ruota d'argento|Roda de prata
+Bairbre|f|greek|irish|1|classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Bláithín|f|celtic|irish|2|flower,sweet|Pequeña flor|Little flower|Petite fleur|Kleine Blume|Piccolo fiore|Pequena flor
+Briallen|f|celtic|welsh|1|flower,nature|Prímula|Primrose|Primevère|Primel|Primula|Prímula
+Bronwen|f|celtic|welsh|3|classic,sweet|Pecho blanco, hermosa|White breast, fair|Poitrine blanche, belle|Weiße Brust, schön|Petto bianco, bella|Peito branco, bela
+Cáit|f|greek|irish|2|classic,virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Calder|u|celtic|scottish,english|2|nature,modern|Agua rocosa, rápida|Rocky water, rough stream|Eau rocheuse, torrent|Felsiges Wasser, reißender Bach|Acqua rocciosa, torrente|Água rochosa, torrente
+Campbell|m|celtic|scottish,english|2|modern|Boca torcida|Crooked mouth|Bouche tordue|Schiefer Mund|Bocca storta|Boca torta
+Colleen|f|celtic|irish,english|2|vintage|Muchacha, joven|Girl|Jeune fille|Mädchen|Ragazza|Rapariga, moça
+Colmán|m|latin|irish|2|saint|Pequeña paloma|Little dove|Petite colombe|Kleine Taube|Piccola colomba|Pequena pomba
+Casey|u|celtic|irish,english|3|modern,warrior|Vigilante, valiente|Vigilant, watchful|Vigilant, attentif|Wachsam|Vigile, attento|Vigilante, atento
+Efa|f|hebrew|welsh|1|biblical|Vida|Life|Vie|Leben|Vita|Vida
+Eilís|f|hebrew|irish|2|biblical,classic|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist ein Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Emyr|m|celtic|welsh|2|royal|Rey, señor|King, lord|Roi, seigneur|König, Herr|Re, signore|Rei, senhor
+Enfys|f|celtic|welsh|1|nature,sweet|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Fenella|f|celtic|scottish|2|vintage|Hombros blancos|White shoulders|Épaules blanches|Weiße Schultern|Spalle bianche|Ombros brancos
+Finbar|m|celtic|irish|2|saint,light|Cabello claro|Fair-haired|Aux cheveux clairs|Hellhaarig|Dai capelli chiari|De cabelos claros
+Fingal|m|celtic|scottish|1|mythology,warrior|Extranjero blanco|Fair stranger|Étranger blond|Heller Fremder|Straniero biondo|Estrangeiro claro
+Geraint|m|greek|welsh|2|classic,literary|Anciano|Old man|Vieil homme|Alter Mann|Uomo anziano|Homem idoso
+Gwalchmai|m|celtic|welsh|1|mythology,animal|Halcón de mayo|Hawk of May|Faucon de mai|Falke des Mai|Falco di maggio|Falcão de maio
+Gwilym|m|germanic|welsh|2|classic|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Haf|f|celtic|welsh|1|nature,sweet|Verano|Summer|Été|Sommer|Estate|Verão
+Hafwen|f|celtic|welsh|1|nature,sweet|Hermosa como el verano|Fair as summer|Belle comme l'été|Schön wie der Sommer|Bella come l'estate|Bela como o verão
+Harri|m|germanic|welsh|3|royal,classic|Gobernante del hogar|Ruler of the home|Maître du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Hefin|m|celtic|welsh|1|nature|Veraniego|Summery|Estival|Sommerlich|Estivo|Estival
+Hoël|m|celtic|french|1|royal,classic|Eminente|Eminent|Éminent|Hervorragend|Eminente|Eminente
+Ifan|m|hebrew|welsh|3|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ishbel|f|hebrew|scottish|1|vintage,biblical|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist ein Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Iwan|m|hebrew|welsh|2|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Keegan|m|celtic|irish,english|3|modern,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Keir|m|celtic|scottish,english|2|modern|Oscuro, moreno|Dark, swarthy|Sombre, brun|Dunkel, schwarzhaarig|Scuro, bruno|Escuro, moreno
+Keith|m|celtic|scottish,english|2|nature,classic|Bosque|Wood, forest|Bois, forêt|Wald|Bosco|Bosque
+Kerry|f|celtic|irish,english|2|place|Condado de Kerry|County Kerry|Comté de Kerry|Grafschaft Kerry|Contea di Kerry|Condado de Kerry
+Lasair|f|celtic|irish|1|nature,light|Llama|Flame|Flamme|Flamme|Fiamma|Chama
+Llinos|f|celtic|welsh|2|animal,sweet|Pardillo (ave)|Linnet|Linotte|Hänfling|Fanello|Pintassilgo
+Lloyd|m|celtic|welsh,english|3|classic|Gris|Grey|Gris|Grau|Grigio|Cinzento
+Malachy|m|hebrew|irish|1|biblical,saint|Mi mensajero|My messenger|Mon messager|Mein Bote|Mio messaggero|Meu mensageiro
+Mícheál|m|hebrew|irish|2|biblical,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mungo|m|celtic|scottish|1|saint,vintage|Querido|Dear one|Cher|Teuer, lieb|Caro|Querido
+Nollaig|f|latin|irish|1|saint|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Nóra|f|latin|irish|2|classic,virtue|Honor|Honour|Honneur|Ehre|Onore|Honra
+Peadar|m|greek|irish|1|biblical,saint|Piedra|Rock, stone|Pierre, roc|Fels, Stein|Roccia, pietra|Rocha, pedra
+Seosamh|m|hebrew|irish|1|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott fügt hinzu|Dio aggiungerà|Deus acrescentará
+Seumas|m|hebrew|scottish|1|biblical,classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Tomás|m|hebrew|irish|2|biblical,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo

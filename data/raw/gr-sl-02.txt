@@ -1,0 +1,74 @@
+Filippos|m|greek|greek|3|saint,animal,classic|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante dos cavalos
+Filimon|m|greek|greek|1|saint,love|Cariñoso, amante|Loving, affectionate|Affectueux|Liebevoll|Affettuoso|Afetuoso
+Filomena|f|greek|greek,italian|2|saint,vintage,love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Foivi|f|greek|greek|2|mythology,celestial,light|Radiante, brillante|Bright, radiant|Radieuse, brillante|Strahlend, leuchtend|Radiosa, splendente|Radiante, brilhante
+Foivos|m|greek|greek|1|mythology,celestial,light|Radiante, brillante|Bright, radiant|Radieux, brillant|Strahlend, leuchtend|Radioso, splendente|Radiante, brilhante
+Fotini|f|greek|greek|3|saint,light|Luminosa|Luminous|Lumineuse|Leuchtende|Luminosa|Luminosa
+Fotis|m|greek|greek|2|saint,light|Luz|Light|Lumière|Licht|Luce|Luz
+Gaia|f|greek|greek,italian|2|mythology,nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Galatea|f|greek|greek|2|mythology,literary,sea|Blanca como la leche|Milk-white|Blanche comme le lait|Milchweiß|Bianca come il latte|Branca como o leite
+Georgia|f|greek|greek,english|3|saint,classic|Agricultora|Farmer|Agricultrice|Landwirtin|Agricoltrice|Agricultora
+Georgios|m|greek|greek|4|saint,classic|Agricultor|Farmer|Agriculteur|Landwirt|Agricoltore|Agricultor
+Gerasimos|m|greek|greek|2|saint,classic|Honor, honrado|Honour, honoured|Honneur, honoré|Ehre, geehrt|Onore, onorato|Honra, honrado
+Glykeria|f|greek|greek|2|saint,sweet|Dulce|Sweet|Douce|Süße|Dolce|Doce
+Grigorios|m|greek|greek|2|saint,classic|Vigilante, atento|Watchful, alert|Vigilant, éveillé|Wachsam|Vigile, attento|Vigilante, atento
+Hebe|f|greek|english,greek|1|mythology,vintage|Juventud|Youth|Jeunesse|Jugend|Giovinezza|Juventude
+Helios|m|greek|greek,english|2|mythology,celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Hestia|f|greek|greek,english|1|mythology,light|Hogar, hogar encendido|Hearth|Foyer|Herd|Focolare|Lareira
+Hypatia|f|greek|greek,english|1|classic,virtue|La más alta|Highest|La plus haute|Die Höchste|La più alta|A mais elevada
+Hyperion|m|greek|english,greek|1|mythology,celestial|El que está en lo alto|High one, he who goes above|Celui qui est au-dessus|Der Hochragende|Colui che è in alto|Aquele que está no alto
+Ianthe|f|greek|english,greek|1|flower,literary,vintage|Flor violeta|Violet flower|Fleur violette|Violette Blume|Fiore viola|Flor violeta
+Iasonas|m|greek|greek|3|mythology,warrior|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Iolanthe|f|greek|english,greek|1|flower,literary|Flor violeta|Violet flower|Fleur violette|Violette Blume|Fiore viola|Flor violeta
+Ione|f|greek|greek,english|1|flower,mythology|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Ippolytos|m|greek|greek|1|mythology,animal|El que desata los caballos|Freer of horses|Celui qui délie les chevaux|Rosselöser|Colui che scioglie i cavalli|Aquele que solta os cavalos
+Iraklis|m|greek|greek|3|mythology,strong,warrior|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Iris|f|greek|greek,german,english|3|mythology,flower,celestial|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Kalliopi|f|greek|greek|3|mythology,music|De hermosa voz|Beautiful voice|Belle voix|Schöne Stimme|Bella voce|Bela voz
+Kalliroi|f|greek|greek|1|mythology,sea|De hermoso fluir|Beautifully flowing|Au beau flot|Schönfließend|Dal bel fluire|De belo fluir
+Kallisto|f|greek|greek|1|mythology,celestial|La más hermosa|Most beautiful|La plus belle|Die Schönste|La più bella|A mais bela
+Kallistos|m|greek|greek|1|saint,classic|El más hermoso|Most beautiful|Le plus beau|Der Schönste|Il più bello|O mais belo
+Kalypso|f|greek|greek,english|2|mythology,sea,literary|La que oculta|She who conceals|Celle qui cache|Die Verbergende|Colei che nasconde|A que oculta
+Katerina|f|greek|greek,russian|4|saint,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Kleanthis|m|greek|greek|2|classic,flower|Flor gloriosa|Glorious flower|Fleur glorieuse|Ruhmvolle Blume|Fiore glorioso|Flor gloriosa
+Kleio|f|greek|greek|1|mythology,literary|Proclamadora, la que da fama|Proclaimer, giver of fame|Celle qui proclame|Die Rühmende|Colei che rende celebre|A que proclama
+Kleopatra|f|greek|greek|2|royal,classic,literary|Gloria del padre|Glory of the father|Gloire du père|Ruhm des Vaters|Gloria del padre|Glória do pai
+Korina|f|greek|greek|2|classic,sweet|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Kosmas|m|greek|greek|2|saint,classic|Orden, adorno|Order, adornment|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, adorno
+Kynthia|f|greek|greek,english|1|mythology,celestial|Del monte Cinto|Of Mount Cynthus|Du mont Cynthe|Vom Berg Kynthos|Del monte Cinto|Do monte Cinto
+Kyra|f|greek|greek|2|royal,classic|Señora|Lady|Dame|Herrin|Signora|Senhora
+Kyriaki|f|greek|greek|3|saint,classic|Del Señor, domingo|Of the Lord, Sunday|Du Seigneur, dimanche|Des Herrn, Sonntag|Del Signore, domenica|Do Senhor, domingo
+Kyriakos|m|greek|greek|3|saint,classic|Del Señor, domingo|Of the Lord, Sunday|Du Seigneur, dimanche|Des Herrn, Sonntag|Del Signore, domenica|Do Senhor, domingo
+Kyrillos|m|greek|greek|1|saint,royal|Señorial|Lordly|Seigneurial|Herrschaftlich|Signorile|Senhorial
+Lambrini|f|greek|greek|2|saint,light|Brillante, radiante|Bright, radiant|Brillante, radieuse|Strahlend, leuchtend|Brillante, radiosa|Brilhante, radiante
+Lambros|m|greek|greek|2|saint,light|Brillante, radiante|Bright, radiant|Brillant, radieux|Strahlend, leuchtend|Brillante, radioso|Brilhante, radiante
+Leandros|m|greek|greek|3|mythology,animal,strong|Hombre león|Lion man|Homme lion|Löwenmann|Uomo leone|Homem leão
+Lefteris|m|greek|greek|2|virtue,classic|Libre|Free|Libre|Frei|Libero|Livre
+Leon|m|greek|greek,german,polish,intl|4|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Leonidas|m|greek|greek,english|3|animal,warrior,classic|Hijo del león|Son of the lion|Fils du lion|Sohn des Löwen|Figlio del leone|Filho do leão
+Lydia|f|greek|greek,english,german|3|biblical,place,classic|De Lidia|Of Lydia|De Lydie|Aus Lydien|Della Lidia|Da Lídia
+Lysandros|m|greek|greek|2|classic,warrior|Libertador|Liberator|Libérateur|Befreier|Liberatore|Libertador
+Makarios|m|greek|greek|2|saint,virtue|Bienaventurado|Blessed|Bienheureux|Selig|Beato|Bem-aventurado
+Margarita|f|greek|greek,spanish,russian|3|flower,gem,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Melina|f|greek|greek,intl|3|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Melissa|f|greek|greek,english|4|nature,animal,sweet|Abeja de miel|Honey bee|Abeille à miel|Honigbiene|Ape del miele|Abelha de mel
+Melpomeni|f|greek|greek|2|mythology,music|La que canta|To sing, the singer|Celle qui chante|Die Singende|Colei che canta|A que canta
+Methodios|m|greek|greek|1|saint,classic|Búsqueda, camino|Pursuit, method|Poursuite, méthode|Streben, Methode|Ricerca, metodo|Busca, método
+Mnemosyne|f|greek|greek|1|mythology,literary|Memoria|Memory|Mémoire|Erinnerung|Memoria|Memória
+Morfeas|m|greek|greek|1|mythology,literary|Forma, figura|Form, shape|Forme, figure|Gestalt, Form|Forma, figura|Forma, figura
+Myrsini|f|greek|greek|2|nature,saint|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Myrto|f|greek|greek|3|nature,mythology|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Myron|m|greek|greek|2|saint,classic|Aceite perfumado|Fragrant oil|Huile parfumée|Duftöl|Olio profumato|Óleo perfumado
+Nausika|f|greek|greek|1|mythology,literary,sea|La que quema las naves|Burner of ships|Celle qui brûle les navires|Schiffsverbrennerin|Colei che brucia le navi|A que queima os navios
+Nefeli|f|greek|greek|3|nature,mythology,celestial|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Nektaria|f|greek|greek|2|saint,sweet|Néctar, inmortal|Nectar, immortal|Nectar, immortelle|Nektar, unsterblich|Nettare, immortale|Néctar, imortal
+Nektarios|m|greek|greek|3|saint,sweet|Néctar, inmortal|Nectar, immortal|Nectar, immortel|Nektar, unsterblich|Nettare, immortale|Néctar, imortal
+Nereida|f|greek|greek|1|mythology,sea|Ninfa del mar|Sea nymph|Nymphe de la mer|Meeresnymphe|Ninfa del mare|Ninfa do mar
+Nestor|m|greek|greek|1|mythology,classic|El que regresa a casa|He who returns home|Celui qui revient chez lui|Der Heimkehrende|Colui che torna a casa|Aquele que regressa a casa
+Nikandros|m|greek|greek|1|classic,warrior|Victoria del hombre|Victory of man|Victoire de l'homme|Sieg des Mannes|Vittoria dell'uomo|Vitória do homem
+Nike|f|greek|greek,english|2|mythology,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Nikiforos|m|greek|greek|2|saint,warrior|Portador de victoria|Bringer of victory|Porteur de victoire|Siegbringer|Portatore di vittoria|Portador de vitória
+Nikitas|m|greek|greek|2|saint,warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Nikolaos|m|greek|greek|4|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nikoleta|f|greek|greek|3|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nyx|f|greek|greek,english|2|mythology,celestial,modern|Noche|Night|Nuit|Nacht|Notte|Noite

@@ -1,0 +1,84 @@
+Abelina|f|hebrew|spanish|1|vintage,sweet|Soplo de vida|Breath of life|Souffle de vie|Lebenshauch|Soffio di vita|Sopro de vida
+Adelia|f|germanic|spanish|2|classic,vintage|Noble|Noble|Noble|Edle|Nobile|Nobre
+Adelinda|f|germanic|spanish|1|vintage|Noble y dulce|Noble and gentle|Noble et douce|Edel und sanft|Nobile e dolce|Nobre e doce
+Adhara|f|arabic|spanish|2|celestial,modern|Las vírgenes (estrella)|The maidens (star)|Les vierges (étoile)|Die Jungfrauen (Stern)|Le vergini (stella)|As virgens (estrela)
+Adina|f|hebrew|spanish|1|biblical,sweet|Delicada, suave|Delicate, gentle|Délicate, douce|Zart, sanft|Delicata, dolce|Delicada, suave
+Adolfina|f|germanic|spanish|1|vintage|Lobo noble|Noble wolf|Loup noble|Edler Wolf|Lupo nobile|Lobo nobre
+Afrodita|f|greek|spanish|1|mythology,love|Nacida de la espuma|Born of the foam|Née de l'écume|Die Schaumgeborene|Nata dalla schiuma|Nascida da espuma
+Aixa|f|arabic|spanish|2|royal,vintage|Viva|Alive|Vivante|Die Lebendige|Viva|Viva
+Alberta|f|germanic|spanish|1|vintage|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e brillante|Nobre e brilhante
+Albertina|f|germanic|spanish|2|vintage,classic|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e brillante|Nobre e brilhante
+Alcira|f|arabic|spanish|1|place,vintage|La isla|The island|L'île|Die Insel|L'isola|A ilha
+Aleida|f|germanic|spanish|2|vintage|De noble linaje|Of noble kind|De noble lignage|Von edler Art|Di nobile stirpe|De linhagem nobre
+Alejandrina|f|greek|spanish|2|classic,vintage|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexa|f|greek|spanish,english|3|modern,strong|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alexandra|f|greek|spanish,intl|3|classic,strong|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschen|Difenditrice dell'umanità|Defensora da humanidade
+Alfonsina|f|germanic|spanish|2|vintage,literary|Noble y dispuesta|Noble and ready|Noble et prête|Edel und bereit|Nobile e pronta|Nobre e pronta
+Alhelí|f|arabic|spanish|2|flower,vintage|Flor de alhelí|Wallflower|Giroflée|Goldlack|Violacciocca|Goivo
+Almira|f|arabic|spanish|1|royal,vintage|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Alondra|f|latin|spanish|4|animal,music,modern|Alondra, ave cantora|Lark, songbird|Alouette, oiseau chanteur|Lerche, Singvogel|Allodola, uccello canoro|Cotovia, ave canora
+Altea|f|greek|spanish|2|flower,modern|Sanadora|Healer|Guérisseuse|Heilerin|Guaritrice|Curadora
+Amapola|f|other|spanish|2|flower,nature|Flor de la amapola|Poppy flower|Fleur de coquelicot|Mohnblume|Fiore di papavero|Flor da papoila
+Amaranta|f|greek|spanish|2|flower,literary|Flor que no se marchita|Unfading flower|Fleur qui ne se fane pas|Unverwelkliche Blume|Fiore che non appassisce|Flor que não murcha
+Amarilis|f|greek|spanish|2|flower,vintage|La que brilla|She who sparkles|Celle qui brille|Die Funkelnde|Colei che brilla|A que brilha
+Amatista|f|greek|spanish|1|gem|Piedra preciosa violeta|Violet gemstone|Pierre précieuse violette|Violetter Edelstein|Gemma viola|Pedra preciosa violeta
+Ambrosia|f|greek|spanish|1|mythology,vintage|Inmortal|Immortal|Immortelle|Unsterbliche|Immortale|Imortal
+Anabella|f|hebrew|spanish|3|modern,sweet|Graciosa y bella|Graceful and beautiful|Gracieuse et belle|Anmutig und schön|Graziosa e bella|Graciosa e bela
+Anacaona|f|native|spanish|1|royal,strong|Flor de oro|Golden flower|Fleur d'or|Goldene Blume|Fiore d'oro|Flor de ouro
+Anacleta|f|greek|spanish|1|saint,vintage|Invocada, llamada|Called upon|Appelée|Die Gerufene|Invocata|Invocada
+Anatolia|f|greek|spanish|1|saint,vintage|Salida del sol|Sunrise|Lever du soleil|Sonnenaufgang|Alba|Nascer do sol
+Andreína|f|greek|spanish|3|modern|Valiente|Brave|Courageuse|Tapfere|Coraggiosa|Corajosa
+Andrómeda|f|greek|spanish|1|mythology,celestial|Gobernante de hombres|Ruler of men|Souveraine des hommes|Herrscherin der Männer|Sovrana degli uomini|Governante dos homens
+Anselma|f|germanic|spanish|1|vintage|Protegida por Dios|Protected by God|Protégée par Dieu|Von Gott beschützt|Protetta da Dio|Protegida por Deus
+Apolinaria|f|greek|spanish|1|saint,vintage|Consagrada a Apolo|Devoted to Apollo|Consacrée à Apollon|Apollo geweiht|Consacrata ad Apollo|Consagrada a Apolo
+Apolonia|f|greek|spanish|1|saint,vintage|Consagrada a Apolo|Devoted to Apollo|Consacrée à Apollon|Apollo geweiht|Consacrata ad Apollo|Consagrada a Apolo
+Aquilina|f|latin|spanish|1|vintage,animal|Como un águila|Like an eagle|Comme un aigle|Wie ein Adler|Come un'aquila|Como uma águia
+Arcadia|f|greek|spanish|1|vintage,place|De Arcadia|From Arcadia|D'Arcadie|Aus Arkadien|Dell'Arcadia|Da Arcádia
+Argelia|f|arabic|spanish|2|place|Las islas (Argel)|The islands (Algiers)|Les îles (Alger)|Die Inseln (Algier)|Le isole (Algeri)|As ilhas (Argel)
+Ariela|f|hebrew|spanish|2|biblical,strong|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Aristea|f|greek|spanish|1|vintage|La mejor|The best|La meilleure|Die Beste|La migliore|A melhor
+Aspasia|f|greek|spanish|1|classic|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Astrea|f|greek|spanish|1|celestial,mythology|Doncella estrellada|Starry maiden|Vierge étoilée|Sternenjungfrau|Fanciulla stellata|Donzela estrelada
+Atanasia|f|greek|spanish|1|saint,vintage|Inmortal|Immortal|Immortelle|Unsterbliche|Immortale|Imortal
+Augusta|f|latin|spanish|1|vintage,royal|Venerable, majestuosa|Venerable, majestic|Vénérable, majestueuse|Erhaben, majestätisch|Venerabile, maestosa|Venerável, majestosa
+Auxiliadora|f|latin|spanish|1|saint,vintage|La que ayuda|The one who helps|Celle qui aide|Die Helferin|Colei che aiuta|A que ajuda
+Auxilio|f|latin|spanish|1|saint,vintage|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Azahara|f|arabic|spanish|2|place,flower|La brillante|The radiant one|La brillante|Die Strahlende|La splendente|A brilhante
+Azul|f|other|spanish|3|modern,celestial|Color del cielo|Sky blue|Bleu ciel|Himmelblau|Azzurro|Azul-celeste
+Basilia|f|greek|spanish|1|vintage,royal|Real, regia|Royal, regal|Royale|Königliche|Regale|Real, régia
+Basilisa|f|greek|spanish|1|saint,royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Bella|f|latin|spanish|2|sweet,classic|Hermosa|Beautiful|Belle|Schöne|Bella|Bela
+Benedicta|f|latin|spanish|1|vintage,saint|Bendita|Blessed|Bénie|Gesegnete|Benedetta|Abençoada
+Benigna|f|latin|spanish|1|vintage,virtue|Bondadosa|Kind|Bienveillante|Gütige|Benigna|Bondosa
+Benjamina|f|hebrew|spanish|1|biblical|Hija de la mano derecha|Daughter of the right hand|Fille de la main droite|Tochter der rechten Hand|Figlia della mano destra|Filha da mão direita
+Berenguela|f|germanic|spanish|1|royal,vintage|Lanza de oso|Bear spear|Lance d'ours|Bärenspeer|Lancia d'orso|Lança de urso
+Bernardita|f|germanic|spanish|2|saint,vintage|Fuerte como un oso|Strong as a bear|Forte comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Betsabé|f|hebrew|spanish|1|biblical|Hija del juramento|Daughter of the oath|Fille du serment|Tochter des Eides|Figlia del giuramento|Filha do juramento
+Bianca|f|latin|spanish,italian|3|classic,light|Blanca|White|Blanche|Weiße|Bianca|Branca
+Bienvenida|f|latin|spanish|1|vintage,virtue|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Brunilda|f|germanic|spanish|1|warrior,mythology|Guerrera acorazada|Armored warrior|Guerrière cuirassée|Gepanzerte Kämpferin|Guerriera corazzata|Guerreira encouraçada
+Calíope|f|greek|spanish|1|mythology,music|La de hermosa voz|She of the beautiful voice|Celle à la belle voix|Die Schönstimmige|Colei dalla bella voce|A de bela voz
+Calista|f|greek|spanish|1|classic|La más bella|The most beautiful|La plus belle|Die Schönste|La più bella|A mais bela
+Carmelita|f|hebrew|spanish|2|vintage,saint|Del Monte Carmelo|Of Mount Carmel|Du mont Carmel|Vom Berg Karmel|Del Monte Carmelo|Do Monte Carmelo
+Casta|f|latin|spanish|1|vintage,virtue|Pura|Pure|Pure|Reine|Pura|Pura
+Cataleya|f|other|spanish|3|flower,modern,trendy|Orquídea cattleya|Cattleya orchid|Orchidée cattleya|Cattleya-Orchidee|Orchidea cattleya|Orquídea cattleya
+Ceferina|f|greek|spanish|1|vintage,nature|Brisa suave del oeste|Gentle west wind|Doux vent d'ouest|Sanfter Westwind|Dolce vento d'occidente|Suave vento do oeste
+Celedonia|f|greek|spanish|1|vintage,animal|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Celestina|f|latin|spanish|2|celestial,literary|Celestial|Heavenly|Céleste|Himmlische|Celestiale|Celestial
+Celsa|f|latin|spanish|1|vintage,saint|Elevada|Lofty|Élevée|Erhabene|Elevata|Elevada
+Cipriana|f|greek|spanish|1|vintage,place|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Circe|f|greek|spanish|1|mythology|Halcón|Hawk|Faucon|Falke|Falco|Falcão
+Ciriaca|f|greek|spanish|1|vintage,saint|Del Señor|Of the Lord|Du Seigneur|Die dem Herrn Gehörende|Del Signore|Do Senhor
+Cirila|f|greek|spanish|1|vintage,saint|Señorial|Lordly|Seigneuriale|Herrschaftliche|Signorile|Senhorial
+Clarisa|f|latin|spanish|3|classic,light|Clara, brillante|Clear, bright|Claire, brillante|Klar, strahlend|Chiara, brillante|Clara, brilhante
+Claribel|f|latin|spanish|2|literary,sweet|Brillante y hermosa|Bright and beautiful|Brillante et belle|Strahlend und schön|Brillante e bella|Brilhante e bela
+Cleopatra|f|greek|spanish|1|royal,classic|Gloria de su padre|Glory of her father|Gloire de son père|Ruhm ihres Vaters|Gloria di suo padre|Glória do seu pai
+Clío|f|greek|spanish|1|mythology,music|La que celebra, la que da fama|She who celebrates, gives fame|Celle qui célèbre, qui rend célèbre|Die Rühmende|Colei che celebra|A que celebra, a que dá fama
+Concordia|f|latin|spanish|1|virtue,vintage|Armonía|Harmony|Harmonie|Eintracht|Armonia|Harmonia
+Consolación|f|latin|spanish|1|saint,vintage|Consuelo|Comfort|Consolation|Trost|Consolazione|Consolação
+Constancia|f|latin|spanish|1|virtue,vintage|Firmeza|Steadfastness|Constance|Beständigkeit|Costanza|Constância
+Crescencia|f|latin|spanish|1|vintage,saint|La que crece|She who grows|Celle qui grandit|Die Wachsende|Colei che cresce|A que cresce
+Crisanta|f|greek|spanish|1|flower,vintage|Flor de oro|Golden flower|Fleur d'or|Goldblume|Fiore d'oro|Flor de ouro
+Crispina|f|latin|spanish|1|vintage,saint|De cabello rizado|Curly-haired|Aux cheveux bouclés|Die Lockige|Dai capelli ricci|De cabelo encaracolado
+Cristal|f|greek|spanish|3|gem,modern|Hielo claro, cristal|Clear ice, crystal|Glace claire, cristal|Klares Eis, Kristall|Ghiaccio chiaro, cristallo|Gelo claro, cristal
+Cristiana|f|greek|spanish|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo

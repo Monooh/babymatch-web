@@ -1,0 +1,55 @@
+Sabatino|m|hebrew|italian|1|saint|Nacido en sábado|Born on the Sabbath|Né le jour du sabbat|Am Sabbat geboren|Nato di sabato|Nascido no sábado
+Salomone|m|hebrew|italian|2|biblical|Pacífico|Peaceful|Pacifique|Friedvoll|Pacifico|Pacífico
+Salvo|m|latin|italian|2|saint|Salvado|Saved|Sauvé|Gerettet|Salvo|Salvo
+Salvatrice|f|latin|italian|1|saint|Salvadora|Savior|Sauveuse|Retterin|Salvatrice|Salvadora
+Samuel|m|hebrew|italian,english,spanish,german,french|3|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sansone|m|hebrew|italian|1|biblical,strong|Del sol|Of the sun|Du soleil|Der Sonnige|Del sole|Do sol
+Saturnino|m|latin|italian|1|saint|Consagrado a Saturno|Devoted to Saturn|Consacré à Saturne|Dem Saturn geweiht|Devoto a Saturno|Consagrado a Saturno
+Savina|f|latin|italian|1|saint|Mujer sabina|Sabine woman|Femme sabine|Sabinerin|Donna sabina|Mulher sabina
+Savino|m|latin|italian|1|saint|Hombre sabino|Sabine man|Homme sabin|Sabiner|Uomo sabino|Homem sabino
+Scipione|m|latin|italian|1|classic|Bastón|Staff|Bâton|Stab|Bastone|Bastão
+Scolastica|f|latin|italian|1|saint|Estudiosa|Scholarly|Studieuse|Gelehrte|Studiosa|Estudiosa
+Secondo|m|latin|italian|1|vintage|Segundo|Second|Second|Zweiter|Secondo|Segundo
+Sesto|m|latin|italian|1|classic|Sexto|Sixth|Sixième|Sechster|Sesto|Sexto
+Settima|f|latin|italian|1|vintage|Séptima|Seventh|Septième|Siebte|Settima|Sétima
+Severina|f|latin|italian|1|saint|Severa|Strict|Sévère|Streng|Severa|Severa
+Sibilla|f|greek|italian|1|mythology|Profetisa|Prophetess|Prophétesse|Prophetin|Profetessa|Profetisa
+Sigismondo|m|germanic|italian|1|royal|Victoria protectora|Protecting victory|Victoire protectrice|Schützender Sieg|Vittoria protettrice|Vitória protetora
+Silverio|m|latin|italian|1|saint|De la selva|Of the woods|Des bois|Aus dem Wald|Del bosco|Do bosque
+Silvestro|m|latin|italian|2|saint,nature|De la selva|Of the woods|Des bois|Aus dem Wald|Del bosco|Do bosque
+Simeone|m|hebrew|italian|2|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Simonetta|f|hebrew|italian|2|vintage,sweet|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Siro|m|latin|italian|1|saint|De Siria|Syrian|De Syrie|Aus Syrien|Siriano|Sírio
+Sisto|m|greek|italian|1|saint|Pulido|Polished|Poli|Poliert|Levigato|Polido
+Stanislao|m|slavic|italian|1|saint|El que alcanza la gloria|He who attains glory|Celui qui atteint la gloire|Der Ruhm erlangt|Colui che raggiunge la gloria|Aquele que alcança a glória
+Tamara|f|hebrew|italian|2|nature|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da dattero|Tamareira
+Tancredi|m|germanic|italian|2|vintage,literary|Pensamiento prudente|Thoughtful counsel|Pensée avisée|Kluger Rat|Pensiero saggio|Pensamento prudente
+Tea|f|greek|italian|2|mythology|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Tebaldo|m|germanic|italian|1|vintage|Audaz entre el pueblo|Bold among the people|Hardi parmi le peuple|Kühn im Volk|Audace tra il popolo|Audaz entre o povo
+Telemaco|m|greek|italian|1|mythology,literary|Combatiente lejano|Far-fighter|Combattant lointain|Fernkämpfer|Colui che combatte lontano|Combatente distante
+Temistocle|m|greek|italian|1|classic|Gloria de la ley|Glory of the law|Gloire de la loi|Ruhm des Rechts|Gloria della legge|Glória da lei
+Teodosio|m|greek|italian|1|saint|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Teofila|f|greek|italian|1|saint|Amada de Dios|Beloved of God|Aimée de Dieu|Von Gott geliebt|Amata da Dio|Amada por Deus
+Terzo|m|latin|italian|1|vintage|Tercero|Third|Troisième|Dritter|Terzo|Terceiro
+Tolomeo|m|greek|italian|1|classic|Guerrero|Warlike|Guerrier|Kriegerisch|Guerriero|Guerreiro
+Tosca|f|latin|italian|2|literary,music|Toscana|Woman from Tuscany|Toscane|Frau aus der Toskana|Donna toscana|Toscana
+Tranquillo|m|latin|italian|1|virtue|Tranquilo|Calm|Tranquille|Ruhig|Tranquillo|Tranquilo
+Ulderico|m|germanic|italian|1|saint|Riqueza y poder|Wealth and power|Richesse et pouvoir|Reichtum und Macht|Ricchezza e potere|Riqueza e poder
+Urbana|f|latin|italian|1|saint|De la ciudad|Of the city|De la ville|Aus der Stadt|Della città|Da cidade
+Valente|m|latin|italian|1|classic|Fuerte|Strong|Fort|Stark|Forte|Forte
+Valeriano|m|latin|italian|1|saint|Fuerte y sano|Strong and healthy|Fort et sain|Stark und gesund|Forte e sano|Forte e saudável
+Venanzia|f|latin|italian|1|saint|Cazadora|Huntress|Chasseresse|Jägerin|Cacciatrice|Caçadora
+Venere|f|latin|italian|1|mythology,love|Amor, deseo|Love, desire|Amour, désir|Liebe, Verlangen|Amore, desiderio|Amor, desejo
+Veneranda|f|latin|italian|1|saint|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Vero|m|latin|italian|1|virtue|Verdadero|True|Vrai|Wahr|Vero|Verdadeiro
+Vilma|f|germanic|italian|2|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Violante|f|latin|italian|1|flower,vintage|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Vitalia|f|latin|italian|1|saint|Llena de vida|Full of life|Pleine de vie|Lebensvoll|Piena di vita|Cheia de vida
+Vitaliano|m|latin|italian|1|saint|Lleno de vida|Full of life|Plein de vie|Lebensvoll|Pieno di vita|Cheio de vida
+Vittore|m|latin|italian|1|saint|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Viviano|m|latin|italian|1|saint|Vivaz|Lively|Vif|Lebhaft|Vivace|Vivaz
+Vladimiro|m|slavic|italian|1|royal|Gobernante de la paz|Ruler of peace|Souverain de la paix|Herrscher des Friedens|Sovrano della pace|Governante da paz
+Zaccheo|m|hebrew|italian|1|biblical|Puro|Pure|Pur|Rein|Puro|Puro
+Zenobio|m|greek|italian|1|saint|Vida de Zeus|Life of Zeus|Vie de Zeus|Leben des Zeus|Vita di Zeus|Vida de Zeus
+Zenone|m|greek|italian|1|saint|Regalo de Zeus|Gift of Zeus|Don de Zeus|Geschenk des Zeus|Dono di Zeus|Presente de Zeus
+Zita|f|other|italian|2|saint,vintage|Niña|Girl|Fille|Mädchen|Ragazza|Menina

@@ -1,0 +1,68 @@
+Sabino|m|latin|portuguese|1|vintage|Del pueblo sabino|Of the Sabine people|Du peuple sabin|Vom Volk der Sabiner|Del popolo sabino|Do povo sabino
+Safira|f|hebrew|portuguese|2|gem|Zafiro|Sapphire|Saphir|Saphir|Zaffiro|Safira
+Salomé|f|hebrew|portuguese|2|biblical,vintage|Paz|Peace|Paix|Frieden|Pace|Paz
+Salvador|m|latin|portuguese,spanish|2|classic|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Samira|f|arabic|portuguese,arabic|2|classic|Compañera de charlas nocturnas|Evening companion|Compagne des veillées|Abendliche Gefährtin|Compagna di veglie|Companheira de serões
+Samuel|m|hebrew|portuguese,spanish,intl|4|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sandra|f|greek|portuguese,spanish|3|classic|Defensora de la humanidad|Defender of mankind|Défenseure des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Sara|f|hebrew|portuguese,spanish,intl|4|biblical,classic,royal|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sebastiana|f|greek|portuguese|1|saint,vintage|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Sebastião|m|greek|portuguese|3|saint,royal,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Serafim|m|hebrew|portuguese|1|biblical,vintage|Ardiente, serafín|Fiery, seraph|Ardent, séraphin|Feurig, Seraph|Ardente, serafino|Ardente, serafim
+Serena|f|latin|portuguese,italian,english|2|virtue,sweet|Serena, tranquila|Serene, calm|Sereine, calme|Heiter, ruhig|Serena, tranquilla|Serena, tranquila
+Severino|m|latin|portuguese|1|saint,vintage|Severo|Strict, serious|Sévère|Streng|Severo|Severo
+Silvana|f|latin|portuguese,italian|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Sílvia|f|latin|portuguese|3|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Sílvio|m|latin|portuguese|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Simão|m|hebrew|portuguese|2|biblical,saint|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Simone|f|hebrew|portuguese,french|2|classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sofia|f|greek|portuguese,spanish,intl|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sophia|f|greek|portuguese,intl|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sol|f|latin|portuguese,spanish|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Solange|f|latin|portuguese,french|1|vintage|Solemne, ritual|Solemn, ritual|Solennelle, rituelle|Feierlich, rituell|Solenne, rituale|Solene, ritual
+Sônia|f|greek|portuguese|2|classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Susana|f|hebrew|portuguese,spanish|3|biblical,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Tadeu|m|hebrew|portuguese|1|biblical,saint,vintage|Valiente de corazón|Courageous of heart|Courageux de cœur|Mutig|Coraggioso di cuore|Corajoso de coração
+Tainá|f|native|portuguese|3|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Tâmara|f|hebrew|portuguese|2|nature,biblical|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Telmo|m|greek|portuguese|2|saint,vintage|Amado, deseado|Beloved, desired|Aimé, désiré|Geliebt, begehrt|Amato, desiderato|Amado, desejado
+Teodora|f|greek|portuguese|2|vintage,royal|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Teodoro|m|greek|portuguese|2|vintage,royal|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Teresa|f|greek|portuguese,spanish|3|saint,classic|Cosechadora, cazadora|Harvester, hunter|Moissonneuse, chasseresse|Erntende, Jägerin|Mietitrice, cacciatrice|Ceifeira, caçadora
+Theo|m|greek|portuguese|5|modern,trendy|Dios|God|Dieu|Gott|Dio|Deus
+Thiago|m|hebrew|portuguese|5|classic,biblical|El que sujeta el talón|He who holds the heel|Celui qui tient le talon|Der die Ferse hält|Colui che tiene il calcagno|Aquele que segura o calcanhar
+Tiago|m|hebrew|portuguese|4|classic,biblical|El que sujeta el talón|He who holds the heel|Celui qui tient le talon|Der die Ferse hält|Colui che tiene il calcagno|Aquele que segura o calcanhar
+Tobias|m|hebrew|portuguese,german|2|biblical|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Tomás|m|hebrew|portuguese,spanish|5|biblical,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Tomé|m|hebrew|portuguese|1|biblical,vintage|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Ubirajara|m|native|portuguese|2|warrior,nature|Señor de la lanza|Lord of the spear|Seigneur de la lance|Herr der Lanze|Signore della lancia|Senhor da lança
+Ubiratã|m|native|portuguese|1|nature,strong|Madera dura|Hard wood|Bois dur|Hartholz|Legno duro|Madeira dura
+Urânia|f|greek|portuguese|1|celestial,mythology|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Urbano|m|latin|portuguese|1|saint,vintage|De la ciudad|Of the city|De la ville|Städtisch|Della città|Da cidade
+Uriel|m|hebrew|portuguese|2|biblical,light|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é a minha luz
+Úrsula|f|latin|portuguese,german|1|saint,animal|Osita|Little she-bear|Petite ourse|Kleine Bärin|Piccola orsa|Ursinha
+Valdemar|m|germanic|portuguese|1|royal,vintage|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Valentim|m|latin|portuguese|3|saint,strong|Fuerte, sano|Strong, healthy|Fort, en bonne santé|Stark, gesund|Forte, sano|Forte, saudável
+Valentina|f|latin|portuguese,spanish,italian|5|saint,strong,trendy|Fuerte, sana|Strong, healthy|Forte, en bonne santé|Stark, gesund|Forte, sana|Forte, saudável
+Valéria|f|latin|portuguese|2|classic,strong|Fuerte, valiente|Strong, brave|Forte, vaillante|Stark, tapfer|Forte, coraggiosa|Forte, corajosa
+Valério|m|latin|portuguese|1|vintage,strong|Fuerte, valiente|Strong, brave|Fort, vaillant|Stark, tapfer|Forte, coraggioso|Forte, corajoso
+Valquíria|f|norse|portuguese|2|mythology,warrior|Elegidora de los caídos|Chooser of the slain|Celle qui choisit les morts|Wählerin der Gefallenen|Colei che sceglie i caduti|Escolhedora dos caídos
+Vera|f|slavic|portuguese,russian|2|virtue,classic|Fe, verdad|Faith, truth|Foi, vérité|Glaube, Wahrheit|Fede, verità|Fé, verdade
+Verónica|f|greek|portuguese|2|saint,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Vicente|m|latin|portuguese,spanish|4|saint,classic|Vencedor|Conquering|Vainqueur|Siegend|Vincente|Vencedor
+Violeta|f|latin|portuguese,spanish|2|flower,sweet|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Virgínia|f|latin|portuguese|2|classic,virtue|Virginal, pura|Maiden, pure|Vierge, pure|Jungfräulich, rein|Verginale, pura|Virginal, pura
+Vitória|f|latin|portuguese|5|virtue,classic|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Vítor|m|latin|portuguese|4|classic,warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Vitorino|m|latin|portuguese|1|vintage,warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Viviana|f|latin|portuguese,italian|2|classic|Viva|Alive|Vivante|Lebendig|Viva|Viva
+Walter|m|germanic|portuguese,german,english|2|classic|Jefe del ejército|Ruler of the army|Chef de l'armée|Heerführer|Capo dell'esercito|Chefe do exército
+Xavier|m|basque|portuguese,basque,spanish,catalan,french|2|saint|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Xénia|f|greek|portuguese|1|virtue|Hospitalidad|Hospitality|Hospitalité|Gastfreundschaft|Ospitalità|Hospitalidade
+Yasmin|f|persian|portuguese,arabic|3|flower,modern|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yuri|m|slavic|portuguese,russian|3|modern|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador
+Zacarias|m|hebrew|portuguese|2|biblical,vintage|Yahvé se ha acordado|Yahweh remembered|Yahvé s'est souvenu|Jahwe hat sich erinnert|Yahweh si è ricordato|Javé se lembrou
+Zeferino|m|greek|portuguese|1|vintage,nature|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento d'ovest|Vento do oeste
+Zélia|f|greek|portuguese|1|vintage,virtue|Celosa, fervorosa|Zealous, ardent|Zélée, ardente|Eifrig, glühend|Zelante, ardente|Zelosa, fervorosa
+Zoe|f|greek|portuguese,intl|4|classic,modern|Vida|Life|Vie|Leben|Vita|Vida
+Zuleica|f|arabic|portuguese|1|vintage|Hermosa, radiante|Beautiful, radiant|Belle, radieuse|Schön, strahlend|Bella, radiosa|Bela, radiante

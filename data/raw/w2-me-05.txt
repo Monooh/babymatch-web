@@ -1,0 +1,96 @@
+Abhay|m|sanskrit|indian|3|strong,virtue|Sin miedo|Fearless|Sans peur|Furchtlos|Senza paura|Destemido
+Abhijit|m|sanskrit|indian|3|strong,warrior|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Abhinav|m|sanskrit|indian|3|modern,virtue|Nuevo, moderno|New, modern|Nouveau, moderne|Neu, modern|Nuovo, moderno|Novo, moderno
+Abhishek|m|sanskrit|indian|3|virtue,classic|Unción, consagración|Anointing, consecration|Onction, consécration|Salbung, Weihe|Unzione, consacrazione|Unção, consagração
+Aman|m|arabic|indian,arabic|3|virtue,modern|Paz, seguridad|Peace, safety|Paix, sécurité|Frieden, Sicherheit|Pace, sicurezza|Paz, segurança
+Amar|m|sanskrit|indian|3|strong,classic|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Amrit|u|sanskrit|indian|3|virtue,classic|Néctar de inmortalidad|Nectar of immortality|Nectar d'immortalité|Nektar der Unsterblichkeit|Nettare dell'immortalità|Néctar da imortalidade
+Anant|m|sanskrit|indian|3|virtue,classic|Infinito|Infinite|Infini|Unendlich|Infinito|Infinito
+Anuj|m|sanskrit|indian|3|virtue,classic|Hermano menor|Younger brother|Frère cadet|Jüngerer Bruder|Fratello minore|Irmão mais novo
+Anurag|m|sanskrit|indian|3|love,classic|Amor, cariño|Love, affection|Amour, affection|Liebe, Zuneigung|Amore, affetto|Amor, carinho
+Arun|m|sanskrit|indian|4|light,classic|Rojo del amanecer|Reddish glow of dawn|Rougeoiement de l'aube|Morgenrot|Rosso dell'alba|Vermelho da aurora
+Atul|m|sanskrit|indian|3|virtue,classic|Incomparable|Incomparable|Incomparable|Unvergleichlich|Incomparabile|Incomparável
+Avinash|m|sanskrit|indian|3|virtue,strong|Imperecedero|Imperishable|Impérissable|Unvergänglich|Imperituro|Imperecível
+Ayush|m|sanskrit|indian|4|modern,virtue|Larga vida|Long life|Longue vie|Langes Leben|Lunga vita|Longa vida
+Bhaskar|m|sanskrit|indian|3|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Bhuvan|m|sanskrit|indian|2|classic,nature|Mundo, tierra|World, earth|Monde, terre|Welt, Erde|Mondo, terra|Mundo, terra
+Chaitanya|m|sanskrit|indian|3|virtue,classic|Conciencia|Consciousness|Conscience|Bewusstsein|Coscienza|Consciência
+Chandan|m|sanskrit|indian|3|nature,classic|Sándalo|Sandalwood|Bois de santal|Sandelholz|Sandalo|Sândalo
+Chandra|m|sanskrit|indian|3|celestial,classic|Luna|Moon|Lune|Mond|Luna|Lua
+Chirag|m|persian|indian|3|light,classic|Lámpara|Lamp|Lampe|Lampe|Lampada|Lâmpada
+Deepak|m|sanskrit|indian|4|light,classic|Lámpara|Lamp|Lampe|Lampe|Lampada|Lâmpada
+Dhairya|m|sanskrit|indian|2|virtue,strong|Valor, paciencia|Courage, patience|Courage, patience|Mut, Geduld|Coraggio, pazienza|Coragem, paciência
+Dinesh|m|sanskrit|indian|3|celestial,classic|Señor del día, el sol|Lord of the day, the sun|Seigneur du jour, le soleil|Herr des Tages, die Sonne|Signore del giorno, il sole|Senhor do dia, o sol
+Gagan|m|sanskrit|indian|3|celestial,classic|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Gaurav|m|sanskrit|indian|3|virtue,classic|Orgullo, honor|Pride, honor|Fierté, honneur|Stolz, Ehre|Orgoglio, onore|Orgulho, honra
+Girish|m|sanskrit|indian|3|mythology,nature|Señor de la montaña|Lord of the mountain|Seigneur de la montagne|Herr des Berges|Signore della montagna|Senhor da montanha
+Govind|m|sanskrit|indian|3|mythology,classic|Pastor de vacas, Krishna|Cowherd, Krishna|Vacher, Krishna|Kuhhirte, Krishna|Mandriano, Krishna|Vaqueiro, Krishna
+Gurpreet|u|sanskrit|indian|4|love,virtue|Amor del maestro|Love of the guru|Amour du gourou|Liebe des Gurus|Amore del guru|Amor do guru
+Harpreet|u|sanskrit|indian|4|love,virtue|Amor de Dios|Love of God|Amour de Dieu|Liebe Gottes|Amore di Dio|Amor de Deus
+Hemant|m|sanskrit|indian|2|nature,classic|Invierno|Winter|Hiver|Winter|Inverno|Inverno
+Ishan|m|sanskrit|indian|3|celestial,mythology|Señor, el sol|Lord, the sun|Seigneur, le soleil|Herr, die Sonne|Signore, il sole|Senhor, o sol
+Jagdish|m|sanskrit|indian|3|mythology,classic|Señor del universo|Lord of the universe|Seigneur de l'univers|Herr des Universums|Signore dell'universo|Senhor do universo
+Jeevan|m|sanskrit|indian|3|virtue,classic|Vida|Life|Vie|Leben|Vita|Vida
+Kabir|m|arabic|indian,arabic|4|virtue,classic|Grande, poderoso|Great, powerful|Grand, puissant|Groß, mächtig|Grande, potente|Grande, poderoso
+Kalyan|m|sanskrit|indian|2|virtue,classic|Auspicioso, bienestar|Auspicious, welfare|Propice, bien-être|Glückverheißend, Wohlergehen|Auspicioso, benessere|Auspicioso, bem-estar
+Keshav|m|sanskrit|indian|3|mythology,classic|El de bello cabello, Krishna|The long-haired one, Krishna|Le chevelu, Krishna|Der Langhaarige, Krishna|Il chiomato, Krishna|O de belos cabelos, Krishna
+Kishore|m|sanskrit|indian|3|classic,virtue|Joven, adolescente|Young one, youth|Jeune, adolescent|Junger, Jugendlicher|Giovane, adolescente|Jovem, adolescente
+Kuldeep|m|sanskrit|indian|3|light,classic|Lámpara de la familia|Lamp of the family|Lampe de la famille|Lampe der Familie|Lampada della famiglia|Lâmpada da família
+Kushal|m|sanskrit|indian|3|virtue,classic|Hábil, diestro|Skilled, adept|Habile, adroit|Geschickt|Abile, esperto|Hábil, perito
+Lakshman|m|sanskrit|indian|3|mythology,classic|El de signos auspiciosos|Bearer of auspicious signs|Porteur de signes propices|Träger glückverheißender Zeichen|Portatore di segni propizi|Portador de sinais auspiciosos
+Lalit|m|sanskrit|indian|3|sweet,classic|Hermoso, encantador|Beautiful, charming|Beau, charmant|Schön, anmutig|Bello, grazioso|Belo, encantador
+Mahesh|m|sanskrit|indian|3|mythology,classic|Gran señor, Shiva|Great lord, Shiva|Grand seigneur, Shiva|Großer Herr, Shiva|Gran signore, Shiva|Grande senhor, Shiva
+Manoj|m|sanskrit|indian|3|mythology,classic|Nacido de la mente|Born of the mind|Né de l'esprit|Aus dem Geist geboren|Nato dalla mente|Nascido da mente
+Mayank|m|sanskrit|indian|3|celestial,classic|Luna|Moon|Lune|Mond|Luna|Lua
+Mukund|m|sanskrit|indian|3|mythology,classic|Libertador, Vishnu|Liberator, Vishnu|Libérateur, Vishnu|Befreier, Vishnu|Liberatore, Vishnu|Libertador, Vishnu
+Naman|m|sanskrit|indian|3|virtue,modern|Saludo reverente|Reverent salutation|Salutation révérencieuse|Ehrerbietiger Gruß|Saluto riverente|Saudação reverente
+Narayan|m|sanskrit|indian|3|mythology,classic|Refugio de los hombres, Vishnu|Refuge of mankind, Vishnu|Refuge des hommes, Vishnu|Zuflucht der Menschen, Vishnu|Rifugio degli uomini, Vishnu|Refúgio dos homens, Vishnu
+Narendra|m|sanskrit|indian|3|royal,classic|Señor de los hombres, rey|Lord of men, king|Seigneur des hommes, roi|Herr der Menschen, König|Signore degli uomini, re|Senhor dos homens, rei
+Naresh|m|sanskrit|indian|3|royal,classic|Rey|King|Roi|König|Re|Rei
+Nirav|m|sanskrit|indian|3|virtue,modern|Silencioso, sereno|Silent, calm|Silencieux, serein|Still, ruhig|Silenzioso, sereno|Silencioso, sereno
+Nishant|m|sanskrit|indian|3|light,classic|Final de la noche, alba|End of night, dawn|Fin de la nuit, aube|Ende der Nacht, Morgendämmerung|Fine della notte, alba|Fim da noite, alvorada
+Pankaj|m|sanskrit|indian|3|flower,classic|Loto|Lotus|Lotus|Lotos|Loto|Lótus
+Piyush|m|sanskrit|indian|3|sweet,classic|Néctar|Nectar|Nectar|Nektar|Nettare|Néctar
+Pradeep|m|sanskrit|indian|3|light,classic|Luz, lámpara|Light, lamp|Lumière, lampe|Licht, Lampe|Luce, lampada|Luz, lâmpada
+Prakash|m|sanskrit|indian|4|light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Pramod|m|sanskrit|indian|3|sweet,classic|Deleite, alegría|Delight, joy|Plaisir, joie|Wonne, Freude|Diletto, gioia|Deleite, alegria
+Prasad|m|sanskrit|indian|3|virtue,classic|Gracia, ofrenda bendecida|Grace, blessed offering|Grâce, offrande bénie|Gnade, gesegnete Gabe|Grazia, offerta benedetta|Graça, oferenda abençoada
+Pratap|m|sanskrit|indian|3|strong,royal|Valor, majestad|Valor, majesty|Vaillance, majesté|Tapferkeit, Majestät|Valore, maestà|Valor, majestade
+Pratyush|m|sanskrit|indian|2|light,modern|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Pritam|m|sanskrit|indian|3|love,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Puneet|m|sanskrit|indian|3|virtue,classic|Puro, sagrado|Pure, holy|Pur, saint|Rein, heilig|Puro, sacro|Puro, sagrado
+Purushottam|m|sanskrit|indian|2|mythology,classic|El mejor de los hombres, Vishnu|Best of men, Vishnu|Le meilleur des hommes, Vishnu|Der Beste der Menschen, Vishnu|Il migliore degli uomini, Vishnu|O melhor dos homens, Vishnu
+Raghav|m|sanskrit|indian|3|mythology,classic|Descendiente de Raghu, Rama|Descendant of Raghu, Rama|Descendant de Raghu, Rama|Nachkomme des Raghu, Rama|Discendente di Raghu, Rama|Descendente de Raghu, Rama
+Rajat|m|sanskrit|indian|3|gem,classic|Plata|Silver|Argent|Silber|Argento|Prata
+Rajesh|m|sanskrit|indian|3|royal,classic|Señor de los reyes|Lord of kings|Seigneur des rois|Herr der Könige|Signore dei re|Senhor dos reis
+Rakesh|m|sanskrit|indian|3|celestial,classic|Señor de la noche, la luna|Lord of the night, the moon|Seigneur de la nuit, la lune|Herr der Nacht, der Mond|Signore della notte, la luna|Senhor da noite, a lua
+Ranveer|m|sanskrit|indian|3|warrior,strong|Valiente guerrero|Brave warrior|Vaillant guerrier|Tapferer Krieger|Valoroso guerriero|Valente guerreiro
+Rishabh|m|sanskrit|indian|3|animal,strong|Toro, excelente|Bull, excellent|Taureau, excellent|Stier, vortrefflich|Toro, eccellente|Touro, excelente
+Rishi|m|sanskrit|indian|3|classic,virtue|Sabio, vidente|Sage, seer|Sage, voyant|Weiser, Seher|Saggio, veggente|Sábio, vidente
+Sagar|m|sanskrit|indian|3|sea,classic|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Sahil|m|arabic|indian,arabic|3|sea,modern|Orilla, costa|Shore, coast|Rivage, côte|Ufer, Küste|Riva, costa|Margem, costa
+Samarth|m|sanskrit|indian|3|strong,virtue|Capaz, poderoso|Capable, powerful|Capable, puissant|Fähig, mächtig|Capace, potente|Capaz, poderoso
+Sanket|m|sanskrit|indian|2|modern,virtue|Señal, indicio|Sign, signal|Signe, signal|Zeichen, Signal|Segno, segnale|Sinal, indício
+Saurabh|m|sanskrit|indian|3|nature,sweet|Fragancia|Fragrance|Parfum|Duft|Profumo|Fragrância
+Shashank|m|sanskrit|indian|3|celestial,classic|Luna|Moon|Lune|Mond|Luna|Lua
+Shekhar|m|sanskrit|indian|3|classic,royal|Cresta, corona|Crest, crown|Cime, couronne|Gipfel, Krone|Cima, corona|Cume, coroa
+Shivam|m|sanskrit|indian|4|mythology,virtue|Auspicioso|Auspicious|Propice|Glückverheißend|Propizio|Auspicioso
+Siddhant|m|sanskrit|indian|3|virtue,classic|Principio, doctrina|Principle, doctrine|Principe, doctrine|Prinzip, Lehre|Principio, dottrina|Princípio, doutrina
+Sudhir|m|sanskrit|indian|3|virtue,classic|Sabio y firme|Wise and steadfast|Sage et ferme|Weise und standhaft|Saggio e saldo|Sábio e firme
+Sumit|m|sanskrit|indian|3|virtue,classic|Buen amigo|Good friend|Bon ami|Guter Freund|Buon amico|Bom amigo
+Sundar|m|sanskrit|indian|3|sweet,classic|Hermoso|Beautiful|Beau|Schön|Bello|Belo
+Suraj|m|sanskrit|indian|4|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Suresh|m|sanskrit|indian|3|mythology,classic|Señor de los dioses|Lord of the gods|Seigneur des dieux|Herr der Götter|Signore degli dei|Senhor dos deuses
+Sushil|m|sanskrit|indian|2|virtue,classic|De buen carácter, virtuoso|Of good character, virtuous|De bon caractère, vertueux|Charaktervoll, tugendhaft|Di buon carattere, virtuoso|De bom caráter, virtuoso
+Swapnil|m|sanskrit|indian|3|modern,sweet|Soñador|Dreamy, dreamer|Rêveur|Träumerisch|Sognatore|Sonhador
+Tarun|m|sanskrit|indian|3|classic,virtue|Joven|Young|Jeune|Jung|Giovane|Jovem
+Tushar|m|sanskrit|indian|3|nature,classic|Nieve, escarcha|Snow, frost|Neige, givre|Schnee, Frost|Neve, brina|Neve, geada
+Uday|m|sanskrit|indian|3|light,classic|Amanecer, salida del sol|Rise, sunrise|Lever, aube|Aufgang, Sonnenaufgang|Sorgere, alba|Nascer, amanhecer
+Utkarsh|m|sanskrit|indian|2|virtue,strong|Excelencia, progreso|Excellence, progress|Excellence, progrès|Vortrefflichkeit, Fortschritt|Eccellenza, progresso|Excelência, progresso
+Vaibhav|m|sanskrit|indian|3|virtue,royal|Prosperidad, riqueza|Prosperity, wealth|Prospérité, richesse|Wohlstand, Reichtum|Prosperità, ricchezza|Prosperidade, riqueza
+Vikas|m|sanskrit|indian|3|virtue,modern|Crecimiento, desarrollo|Growth, development|Croissance, développement|Wachstum, Entwicklung|Crescita, sviluppo|Crescimento, desenvolvimento
+Vinod|m|sanskrit|indian|3|sweet,classic|Alegría, placer|Joy, pleasure|Joie, plaisir|Freude, Vergnügen|Gioia, piacere|Alegria, prazer
+Vipul|m|sanskrit|indian|2|virtue,classic|Abundante, vasto|Abundant, vast|Abondant, vaste|Reichlich, weit|Abbondante, vasto|Abundante, vasto
+Vishal|m|sanskrit|indian|4|strong,classic|Vasto, grande|Vast, great|Vaste, grand|Weit, groß|Vasto, grande|Vasto, grande
+Vivek|m|sanskrit|indian|3|virtue,classic|Discernimiento, sabiduría|Discernment, wisdom|Discernement, sagesse|Unterscheidungskraft, Weisheit|Discernimento, saggezza|Discernimento, sabedoria
+Yogesh|m|sanskrit|indian|3|mythology,classic|Señor del yoga|Lord of yoga|Seigneur du yoga|Herr des Yoga|Signore dello yoga|Senhor do yoga

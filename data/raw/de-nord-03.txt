@@ -1,0 +1,106 @@
+Laura|f|latin|german,intl|3|classic,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Laurenz|m|latin|german|2|vintage,saint|De Laurento, laureado|From Laurentum, laurelled|De Laurentum, couronné de laurier|Der aus Laurentum, Lorbeerbekränzte|Di Laurento, laureato|De Laurento, laureado
+Lea|f|hebrew|german,dutch|3|biblical,classic|Vaca salvaje, cansada|Wild cow, weary|Vache sauvage, lasse|Wildkuh, die Müde|Giovenca selvatica, stanca|Vaca selvagem, cansada
+Leander|m|greek|german,greek|2|mythology,strong|Hombre león|Lion man|Homme lion|Löwenmann|Uomo leone|Homem leão
+Lena|f|greek|german,scandinavian,russian|4|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Lennard|m|germanic|german,dutch|3|animal,strong,modern|León audaz|Brave lion|Lion courageux|Löwenstark|Leone audace|Leão audaz
+Lennart|m|germanic|german,scandinavian|2|animal,strong|León audaz|Brave lion|Lion courageux|Löwenstark|Leone audace|Leão audaz
+Leni|f|greek|german|4|trendy,sweet|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Leo|m|latin|german,intl|5|animal,strong,classic|León|Lion|Lion|Löwe|Leone|Leão
+Leon|m|greek|german,intl|5|animal,strong,classic|León|Lion|Lion|Löwe|Leone|Leão
+Leonard|m|germanic|german,english|2|animal,strong,classic|León audaz|Brave lion|Lion courageux|Löwenstark|Leone audace|Leão audaz
+Leonie|f|latin|german,dutch|4|animal,strong,classic|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Leopold|m|germanic|german|2|vintage,royal|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Lieselotte|f|hebrew|german|1|vintage|Dios es mi juramento, mujer libre|God is my oath, free woman|Dieu est mon serment, femme libre|Gott ist mein Eid, freie Frau|Dio è il mio giuramento, donna libera|Deus é meu juramento, mulher livre
+Lina|f|latin|german,scandinavian,arabic|5|trendy,sweet,classic|Tierna, suave|Tender, gentle|Tendre, douce|Die Zarte|Tenera, dolce|Terna, suave
+Linus|m|greek|german,scandinavian|3|mythology,music,trendy|Lino, canto de lamento|Flax, lament song|Lin, chant de lamentation|Flachs, Klagelied|Lino, canto di lamento|Linho, canto de lamento
+Lisa|f|hebrew|german,intl|3|classic,biblical|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Lore|f|greek|german|1|vintage|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Lotta|f|germanic|german,scandinavian,dutch|4|vintage,trendy,sweet|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Lotte|f|germanic|german,dutch|3|vintage,sweet|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Louis|m|germanic|german,french|4|royal,classic|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Louisa|f|germanic|german,dutch|3|royal,classic|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Luca|m|latin|german,italian,intl|4|classic,saint,light|De Lucania, luminoso|From Lucania, bringer of light|De Lucanie, lumineux|Der aus Lukanien, der Lichtvolle|Di Lucania, luminoso|De Lucânia, luminoso
+Ludwig|m|germanic|german|3|vintage,royal,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Luise|f|germanic|german|3|vintage,royal,classic|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Lukas|m|latin|german,scandinavian,slavic|4|classic,saint,biblical|De Lucania, luminoso|From Lucania, bringer of light|De Lucanie, lumineux|Der aus Lukanien, der Lichtvolle|Di Lucania, luminoso|De Lucânia, luminoso
+Luna|f|latin|german,intl|5|celestial,nature,trendy|Luna|Moon|Lune|Mond|Luna|Lua
+Lutz|m|germanic|german|1|vintage|Famoso en la batalla|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famoso in battaglia|Famoso na batalha
+Lydia|f|greek|german,english|2|biblical,place,classic|De Lidia|From Lydia|De Lydie|Die Lyderin|Della Lidia|Da Lídia
+Magdalena|f|hebrew|german,polish,intl|3|biblical,saint,classic|De Magdala|From Magdala|De Magdala|Die aus Magdala|Di Magdala|De Magdala
+Magnus|m|latin|german,scandinavian|3|royal,strong,classic|Grande|Great|Grand|Der Große|Grande|Grande
+Manfred|m|germanic|german|1|vintage,strong|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Manuel|m|hebrew|german,spanish,portuguese|3|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus connosco
+Marc|m|latin|german,french,catalan|2|classic,warrior|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Marcel|m|latin|german,french|3|classic,warrior|Pequeño Marcos|Little Marcus|Petit Marc|Kleiner Marcus|Piccolo Marco|Pequeno Marcos
+Margarete|f|greek|german|2|classic,gem,flower|Perla|Pearl|Perle|Perle|Perla|Pérola
+Maria|f|hebrew|german,intl|4|biblical,saint,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Die Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Marianne|f|hebrew|german,french|2|classic,vintage|Amada y gracia|Beloved and grace|Bien-aimée et grâce|Geliebte und Gnade|Amata e grazia|Amada e graça
+Marie|f|hebrew|german,french|4|biblical,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Die Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Marlene|f|hebrew|german|2|classic,vintage|María Magdalena|Maria Magdalene|Marie-Madeleine|Maria Magdalena|Maria Maddalena|Maria Madalena
+Martin|m|latin|german,french,scandinavian|3|classic,saint,warrior|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Martha|f|hebrew|german,english|2|biblical,saint,classic|Señora|Lady, mistress|Maîtresse|Herrin|Signora|Senhora
+Mathilda|f|germanic|german,scandinavian|3|vintage,warrior,royal|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Forte in battaglia|Forte na batalha
+Matteo|m|hebrew|german,italian|5|biblical,trendy|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dádiva de Deus
+Matthias|m|hebrew|german,scandinavian|3|biblical,saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dádiva de Deus
+Max|m|latin|german,intl|4|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maximilian|m|latin|german|4|classic,strong,royal|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Mia|f|latin|german,intl|5|sweet,trendy,modern|Mía, amada|Mine, beloved|À moi, bien-aimée|Meine, Geliebte|Mia, amata|Minha, amada
+Mila|f|slavic|german,slavic|5|sweet,trendy,modern|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Gnädige|Cara, graziosa|Querida, graciosa
+Merle|f|latin|german|3|animal,nature,trendy|Mirlo|Blackbird|Merle|Amsel|Merlo|Melro
+Moritz|m|latin|german|4|vintage,classic,saint|De piel oscura, moro|Dark-skinned, Moorish|Au teint foncé, maure|Der Dunkle, Maure|Scuro, moro|De pele escura, mouro
+Nick|m|greek|german,english|2|classic,warrior|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nico|m|greek|german,italian,spanish|3|classic,trendy|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Niklas|m|greek|german,scandinavian|3|classic,saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nina|f|hebrew|german,slavic,intl|3|classic,sweet|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Noah|m|hebrew|german,intl|5|biblical,trendy|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Nora|f|latin|german,scandinavian,english|4|classic,virtue|Honor, luz|Honour, light|Honneur, lumière|Ehre, Licht|Onore, luce|Honra, luz
+Norbert|m|germanic|german|1|vintage,saint|Brillo del norte|Brightness of the north|Éclat du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Oskar|m|germanic|german,scandinavian|5|vintage,trendy,strong|Lanza divina|Divine spear|Lance divine|Göttlicher Speer|Lancia divina|Lança divina
+Otto|m|germanic|german,scandinavian|4|vintage,royal,trendy|Riqueza, bienes|Wealth, prosperity|Richesse, prospérité|Reichtum, Besitz|Ricchezza, prosperità|Riqueza, prosperidade
+Ottilie|f|germanic|german|2|vintage,saint,sweet|Riqueza de la patria|Prosperous heritage|Richesse de l'héritage|Wohlstand der Heimat|Ricchezza dell'eredità|Riqueza da herança
+Paul|m|latin|german,french,english|5|classic,saint,biblical|Pequeño, humilde|Small, humble|Petit, humble|Der Kleine, Bescheidene|Piccolo, umile|Pequeno, humilde
+Paula|f|latin|german,spanish,portuguese|4|classic,saint|Pequeña, humilde|Small, humble|Petite, humble|Die Kleine, Bescheidene|Piccola, umile|Pequena, humilde
+Paulina|f|latin|german,polish|3|classic,saint|Pequeña, humilde|Small, humble|Petite, humble|Die Kleine, Bescheidene|Piccola, umile|Pequena, humilde
+Peter|m|greek|german,scandinavian,english|3|biblical,saint,classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Philipp|m|greek|german|3|classic,royal,saint|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amigo dos cavalos
+Pia|f|latin|german,italian,scandinavian|3|virtue,sweet,classic|Piadosa, devota|Pious, devout|Pieuse, dévote|Die Fromme|Pia, devota|Piedosa, devota
+Rainer|m|germanic|german|1|vintage|Consejero del ejército|Army counsel|Conseiller d'armée|Ratgeber des Heeres|Consigliere dell'esercito|Conselheiro do exército
+Ralf|m|germanic|german|1|vintage,animal|Consejo del lobo|Wolf counsel|Conseil du loup|Wolfsrat|Consiglio del lupo|Conselho do lobo
+Reinhard|m|germanic|german|1|vintage,strong|Consejo fuerte|Strong counsel|Conseil fort|Starker Rat|Consiglio forte|Conselho forte
+Renate|f|latin|german|1|vintage,virtue|Renacida|Reborn|Renaissante|Die Wiedergeborene|Rinata|Renascida
+Richard|m|germanic|german,english,french|2|classic,royal,strong|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Robert|m|germanic|german,english,french|2|classic,royal|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Rolf|m|germanic|german,scandinavian|1|vintage,animal|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Rosa|f|latin|german,spanish,italian,intl|3|flower,classic,vintage|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rudolf|m|germanic|german|2|vintage|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Ruth|f|hebrew|german,english|2|biblical,vintage,virtue|Compañera, amiga|Companion, friend|Compagne, amie|Gefährtin, Freundin|Compagna, amica|Companheira, amiga
+Sabine|f|latin|german,french|2|classic|Mujer sabina|Sabine woman|Femme sabine|Die Sabinerin|Donna sabina|Mulher sabina
+Sarah|f|hebrew|german,intl|3|biblical,classic,royal|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sebastian|m|greek|german,scandinavian,intl|4|classic,saint|Venerable|Venerable, revered|Vénérable|Der Verehrungswürdige|Venerabile|Venerável
+Sibylle|f|greek|german|1|vintage,mythology|Profetisa|Prophetess|Prophétesse|Seherin|Profetessa|Profetisa
+Siegfried|m|germanic|german|1|mythology,vintage,warrior|Victoria y paz|Victory and peace|Victoire et paix|Sieg und Frieden|Vittoria e pace|Vitória e paz
+Sigrid|f|norse|german,scandinavian|2|vintage,strong|Hermosa victoria|Beautiful victory|Belle victoire|Schöner Sieg|Bella vittoria|Bela vitória
+Sophia|f|greek|german,intl|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sophie|f|greek|german,french,english|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Stefan|m|greek|german,slavic|2|classic,saint|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stefanie|f|greek|german|2|classic,royal|Coronada|Crowned|Couronnée|Die Gekrönte|Incoronata|Coroada
+Sven|m|norse|german,scandinavian|2|classic,warrior|Joven, muchacho|Young man, boy|Jeune homme|Junger Mann, Bursche|Giovane, ragazzo|Jovem, rapaz
+Thea|f|greek|german,scandinavian|3|vintage,mythology,virtue|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Theo|m|greek|german,scandinavian,intl|5|classic,trendy|Dios, regalo de Dios|God, gift of God|Dieu, don de Dieu|Gott, Gottesgeschenk|Dio, dono di Dio|Deus, dádiva de Deus
+Theodor|m|greek|german,scandinavian|3|vintage,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Tilda|f|germanic|german,scandinavian|3|vintage,trendy,warrior|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Forte in battaglia|Forte na batalha
+Tim|m|greek|german,english|3|classic|El que honra a Dios|Honouring God|Qui honore Dieu|Der Gottesehrende|Colui che onora Dio|Aquele que honra a Deus
+Tobias|m|hebrew|german,scandinavian|3|biblical,classic|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Tom|m|hebrew|german,english,dutch|3|classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Ulrich|m|germanic|german|2|vintage,royal|Gobernante próspero|Prosperous ruler|Souverain prospère|Wohlhabender Herrscher|Sovrano prospero|Governante próspero
+Ursula|f|latin|german,english|2|animal,saint,classic|Osita|Little she-bear|Petite ourse|Kleine Bärin|Piccola orsa|Pequena ursa
+Valentin|m|latin|german,french|2|classic,saint,strong|Fuerte, sano|Strong, healthy|Fort, vigoureux|Der Starke, Gesunde|Forte, sano|Forte, saudável
+Vera|f|latin|german,slavic,scandinavian|3|virtue,vintage|Fe, verdad|Faith, truth|Foi, vérité|Glaube, Wahrheit|Fede, verità|Fé, verdade
+Veronika|f|greek|german,slavic|2|saint,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Viktoria|f|latin|german,scandinavian|3|royal,classic,strong|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Vincent|m|latin|german,french,english|3|classic,saint,strong|Vencedor|Conquering|Vainqueur|Der Siegende|Vincitore|Vencedor
+Walter|m|germanic|german,english|2|vintage,warrior|Gobernante del ejército|Army ruler|Chef d'armée|Heerführer|Comandante dell'esercito|Comandante do exército
+Wilhelm|m|germanic|german|2|vintage,royal|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Wolfgang|m|germanic|german|1|vintage,animal,music|Camino del lobo|Wolf's path|Voie du loup|Weg des Wolfes|Cammino del lupo|Caminho do lobo
+Wolfram|m|germanic|german|1|vintage,animal|Lobo y cuervo|Wolf and raven|Loup et corbeau|Wolf und Rabe|Lupo e corvo|Lobo e corvo

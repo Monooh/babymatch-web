@@ -1,0 +1,72 @@
+Agatón|m|greek|spanish|1|vintage,virtue|Bueno|Good|Bon|Gut|Buono|Bom
+Aldo|m|germanic|spanish,italian|2|classic|Anciano, sabio|Elder, wise|Ancien, sage|Alt, weise|Anziano, saggio|Ancião, sábio
+Amable|m|latin|spanish|1|virtue,vintage,sweet|Digno de ser amado|Lovable|Aimable|Liebenswert|Amabile|Amável
+Amancio|m|latin|spanish|1|love,vintage|El que ama|He who loves|Celui qui aime|Der Liebende|Colui che ama|Aquele que ama
+Balam|m|native|spanish|1|animal,strong|Jaguar|Jaguar|Jaguar|Jaguar|Giaguaro|Jaguar
+Benigno|m|latin|spanish|1|virtue,vintage,saint|Bondadoso|Kind|Bienveillant|Gütig|Benigno|Benigno
+Bernardino|m|germanic|spanish,italian|1|saint,vintage,animal|Pequeño oso valiente|Little brave bear|Petit ours courageux|Kleiner tapferer Bär|Piccolo orso coraggioso|Pequeno urso valente
+Bienvenido|m|other|spanish|1|vintage,virtue|Bien venido|Welcome|Bienvenu|Willkommen|Benvenuto|Bem-vindo
+Casto|m|latin|spanish|1|virtue,vintage|Puro, casto|Pure, chaste|Pur, chaste|Rein, keusch|Puro, casto|Puro, casto
+Ciriaco|m|greek|spanish,italian|1|saint,vintage|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Cleto|m|greek|spanish|1|saint,vintage|Llamado|Called|Appelé|Gerufen|Chiamato|Chamado
+Conrado|m|germanic|spanish|2|classic,warrior|Consejero audaz|Bold counsellor|Conseiller audacieux|Kühner Ratgeber|Consigliere audace|Conselheiro audaz
+Constancio|m|latin|spanish|1|virtue,vintage|Constante, firme|Constant, steadfast|Constant, ferme|Beständig, standhaft|Costante, fermo|Constante, firme
+Cristiano|m|latin|spanish,portuguese,italian|3|modern,saint|Cristiano|Christian|Chrétien|Christ|Cristiano|Cristão
+Cruz|u|latin|spanish|1|saint,vintage|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Custodio|m|latin|spanish|1|saint,vintage|Guardián|Guardian|Gardien|Wächter|Custode|Guardião
+Demóstenes|m|greek|spanish|1|classic,vintage|Fuerza del pueblo|Strength of the people|Force du peuple|Stärke des Volkes|Forza del popolo|Força do povo
+Dídimo|m|greek|spanish|1|biblical,vintage|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Diógenes|m|greek|spanish|1|classic,vintage|Nacido de Zeus|Born of Zeus|Né de Zeus|Von Zeus geboren|Nato da Zeus|Nascido de Zeus
+Eleodoro|m|greek|spanish|1|vintage,celestial|Regalo del sol|Gift of the sun|Don du soleil|Geschenk der Sonne|Dono del sole|Presente do sol
+Eliezer|m|hebrew|spanish|1|biblical|Dios es ayuda|God is help|Dieu est aide|Gott ist Hilfe|Dio è aiuto|Deus é ajuda
+Elpidio|m|greek|spanish|1|saint,vintage|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Emmanuel|m|hebrew|spanish,french,english|3|biblical,modern|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Eric|m|germanic|spanish,catalan,scandinavian|4|modern,royal|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Eustaquio|m|greek|spanish|1|saint,vintage|Fértil, espiga buena|Fruitful|Fécond|Fruchtbar|Fecondo|Fecundo
+Eutiquio|m|greek|spanish|1|saint,vintage|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Filemón|m|greek|spanish|1|biblical,vintage,love|Amistoso, afectuoso|Friendly, affectionate|Amical, affectueux|Freundlich, liebevoll|Amichevole, affettuoso|Amigável, afetuoso
+Flavio|m|latin|spanish,italian|3|classic,royal|Rubio, de cabello dorado|Blond, golden-haired|Blond, aux cheveux dorés|Blond, goldhaarig|Biondo, dai capelli dorati|Loiro, de cabelo dourado
+Florentino|m|latin|spanish|2|saint,vintage,flower|Floreciente|Flourishing|Florissant|Blühend|Fiorente|Florescente
+Gamaliel|m|hebrew|spanish|1|biblical,vintage|Dios es mi recompensa|God is my reward|Dieu est ma récompense|Gott ist mein Lohn|Dio è la mia ricompensa|Deus é minha recompensa
+Gedeón|m|hebrew|spanish|2|biblical,warrior|Guerrero poderoso|Mighty warrior|Guerrier puissant|Mächtiger Krieger|Guerriero potente|Guerreiro poderoso
+Geraldo|m|germanic|spanish,portuguese|1|vintage,warrior|Gobernante con lanza|Spear ruler|Souverain à la lance|Speerherrscher|Governante con la lancia|Governante com lança
+Haroldo|m|germanic|spanish|1|vintage,warrior|Jefe del ejército|Army ruler|Chef de l'armée|Heerführer|Capo dell'esercito|Chefe do exército
+Honesto|m|latin|spanish|1|virtue,vintage|Honesto, honrado|Honest, honourable|Honnête, honorable|Ehrlich, ehrenhaft|Onesto, onorevole|Honesto, honrado
+Josafat|m|hebrew|spanish|1|biblical,vintage|Dios juzga|God judges|Dieu juge|Gott richtet|Dio giudica|Deus julga
+Ladislao|m|slavic|spanish|1|royal,vintage|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Governante glorioso|Governante glorioso
+Leví|m|hebrew|spanish|2|biblical|Unido, allegado|Joined, attached|Uni, attaché|Verbunden, anhänglich|Unito, attaccato|Unido, ligado
+Liam|m|celtic|spanish,irish,intl|4|modern,trendy,strong|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Lucero|u|latin|spanish|2|celestial,light|Estrella brillante|Bright star|Étoile brillante|Heller Stern|Stella luminosa|Estrela brilhante
+Malaquías|m|hebrew|spanish|1|biblical,vintage|Mensajero de Dios|Messenger of God|Messager de Dieu|Bote Gottes|Messaggero di Dio|Mensageiro de Deus
+Manasés|m|hebrew|spanish|1|biblical|El que hace olvidar|He who makes forget|Celui qui fait oublier|Der vergessen lässt|Colui che fa dimenticare|Aquele que faz esquecer
+Manfredo|m|germanic|spanish,italian|1|vintage,royal|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Max|m|latin|spanish,german,intl|3|modern,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Miqueas|m|hebrew|spanish|1|biblical|¿Quién como Yahvé?|Who is like Yahweh?|Qui est comme Yahvé ?|Wer ist wie Jahwe?|Chi è come Yahweh?|Quem como Javé?
+Nahúm|m|hebrew|spanish|1|biblical|Consuelo|Comfort|Consolation|Trost|Conforto|Consolo
+Natán|m|hebrew|spanish|2|biblical|Él ha dado|He gave|Il a donné|Er hat gegeben|Egli ha dato|Ele deu
+Neftalí|m|hebrew|spanish|1|biblical|Mi lucha|My struggle|Ma lutte|Mein Ringen|La mia lotta|Minha luta
+Nehemías|m|hebrew|spanish|1|biblical|Yahvé consuela|Yahweh comforts|Yahvé console|Jahwe tröstet|Yahweh consola|Javé consola
+Neo|m|greek|spanish|2|modern,trendy|Nuevo|New|Nouveau|Neu|Nuovo|Novo
+Nezahualcóyotl|m|native|spanish|1|royal,animal|Coyote en ayunas|Fasting coyote|Coyote jeûnant|Fastender Kojote|Coyote digiuno|Coiote em jejum
+Nicéforo|m|greek|spanish|1|saint,vintage,warrior|Portador de la victoria|Bringer of victory|Porteur de victoire|Siegbringer|Portatore di vittoria|Portador da vitória
+Nicomedes|m|greek|spanish|1|saint,vintage|El que piensa en la victoria|He who plans victory|Celui qui pense à la victoire|Der an den Sieg denkt|Colui che pensa alla vittoria|Aquele que pensa na vitória
+Obed|m|hebrew|spanish|1|biblical|Servidor|Servant|Serviteur|Diener|Servitore|Servo
+Oseas|m|hebrew|spanish|2|biblical|Salvación|Salvation|Salut|Rettung|Salvezza|Salvação
+Pacífico|m|latin|spanish|1|virtue,vintage|Pacífico|Peaceful|Pacifique|Friedfertig|Pacifico|Pacífico
+Pancracio|m|greek|spanish|1|saint,vintage,strong|El que todo lo domina|All-powerful|Qui domine tout|Allbeherrschend|Onnipotente|Que tudo domina
+Pericles|m|greek|spanish|1|classic,vintage|Rodeado de gloria|Surrounded by glory|Entouré de gloire|Von Ruhm umgeben|Circondato di gloria|Rodeado de glória
+Primo|m|latin|spanish,italian|1|vintage|Primero|First|Premier|Erster|Primo|Primeiro
+Prisco|m|latin|spanish|1|saint,vintage|Antiguo, venerable|Ancient, venerable|Ancien, vénérable|Uralt, ehrwürdig|Antico, venerabile|Antigo, venerável
+Quinto|m|latin|spanish|1|vintage,classic|Quinto|Fifth|Cinquième|Fünfter|Quinto|Quinto
+Rufo|m|latin|spanish|1|vintage|Pelirrojo|Red-haired|Roux|Rothaarig|Rosso di capelli|Ruivo
+Segundo|m|latin|spanish|2|vintage,saint|Segundo|Second|Second|Zweiter|Secondo|Segundo
+Set|m|hebrew|spanish|1|biblical|Designado|Appointed|Désigné|Eingesetzter|Designato|Designado
+Silvano|m|latin|spanish,italian|1|nature,vintage|De la selva|Of the woods|De la forêt|Vom Wald|Della selva|Da selva
+Tiberio|m|latin|spanish|1|royal,vintage|Del río Tíber|Of the Tiber|Du Tibre|Vom Tiber|Del Tevere|Do rio Tibre
+Tiburcio|m|latin|spanish|1|saint,vintage|De Tibur|From Tibur|De Tibur|Aus Tibur|Di Tibur|De Tíbur
+Ulrico|m|germanic|spanish|1|vintage,royal|Poder de la herencia|Power of the heritage|Pouvoir de l'héritage|Macht des Erbes|Potere dell'eredità|Poder da herança
+Urías|m|hebrew|spanish|1|biblical|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é minha luz
+Valentino|m|latin|spanish,italian|3|modern,love|Fuerte, sano|Strong, healthy|Fort, sain|Stark, gesund|Forte, sano|Forte, saudável
+Venerando|m|latin|spanish|1|saint,vintage|Digno de veneración|Worthy of veneration|Digne de vénération|Verehrungswürdig|Degno di venerazione|Digno de veneração
+Victorio|m|latin|spanish|1|vintage,warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Yair|m|hebrew|spanish,hebrew|3|biblical,light|Dios ilumina|God enlightens|Dieu éclaire|Gott erleuchtet|Dio illumina|Deus ilumina

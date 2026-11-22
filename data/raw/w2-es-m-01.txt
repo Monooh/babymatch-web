@@ -1,0 +1,100 @@
+Abelardo|m|germanic|spanish|2|vintage,strong|Noble y resistente|Noble and hardy|Noble et robuste|Edel und kühn|Nobile e coraggioso|Nobre e resistente
+Abiel|m|hebrew|spanish|1|biblical|Mi padre es Dios|My father is God|Mon père est Dieu|Mein Vater ist Gott|Mio padre è Dio|Meu pai é Deus
+Adeodato|m|latin|spanish|1|vintage,saint|Dado por Dios|Given by God|Donné par Dieu|Von Gott gegeben|Dato da Dio|Dado por Deus
+Adonis|m|other|spanish,intl|2|mythology,classic|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Alarico|m|germanic|spanish|1|royal,warrior,vintage|Gobernante de todos|Ruler of all|Chef de tous|Herrscher über alle|Sovrano di tutti|Governante de todos
+Albano|m|latin|spanish|1|saint,vintage|De Alba, el blanco|From Alba, the white one|D'Albe, le blanc|Aus Alba, der Weiße|Di Alba, il bianco|De Alba, o branco
+Alcides|m|greek|spanish|2|mythology,strong|Fuerte, vigoroso|Strong, vigorous|Fort, vigoureux|Stark, kräftig|Forte, vigoroso|Forte, vigoroso
+Alexander|m|greek|spanish,intl|3|classic,strong,royal|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Alipio|m|greek|spanish|1|saint,vintage|Sin dolor|Free from pain|Sans douleur|Schmerzfrei|Senza dolore|Sem dor
+Amílcar|m|other|spanish|2|warrior,vintage|Hermano de Melqart|Brother of Melqart|Frère de Melqart|Bruder des Melkart|Fratello di Melqart|Irmão de Melqart
+Aristóteles|m|greek|spanish|2|classic,literary|El mejor propósito|The best purpose|Le meilleur but|Das beste Ziel|Il miglior fine|O melhor propósito
+Arquímedes|m|greek|spanish|1|classic,literary|Maestro del pensamiento|Master of thought|Maître de la pensée|Meister des Denkens|Maestro del pensiero|Mestre do pensamento
+Artemio|m|greek|spanish|1|vintage,mythology|Consagrado a Artemisa|Devoted to Artemis|Consacré à Artémis|Artemis geweiht|Consacrato ad Artemide|Consagrado a Ártemis
+Avelino|m|latin|spanish|1|vintage,saint,place|De Avella|From Avella|D'Avella|Aus Avella|Di Avella|De Avella
+Baldo|m|germanic|spanish|1|vintage,strong|Audaz, valiente|Bold, brave|Audacieux, brave|Kühn, tapfer|Audace, valoroso|Audaz, valente
+Blas|m|latin|spanish|2|saint,vintage|Balbuciente|Stammering one|Bègue|Stotterer|Balbuziente|Gago
+Bryan|m|celtic|spanish|3|modern,trendy|Alto, noble|High, noble|Haut, noble|Hoch, edel|Alto, nobile|Alto, nobre
+Caín|m|hebrew|spanish|1|biblical|Adquirido, forjado|Acquired, forged|Acquis, forgé|Erworben, geschmiedet|Acquisito, forgiato|Adquirido, forjado
+Caleb|m|hebrew|spanish,english|3|biblical,strong|Perro fiel, devoto|Faithful, devoted|Fidèle, dévoué|Treu, ergeben|Fedele, devoto|Fiel, devoto
+Cayo|m|latin|spanish|1|classic,vintage|Alegre|Rejoicing|Joyeux|Fröhlich|Gioioso|Alegre
+Cástor|m|greek|spanish|1|mythology,celestial|El que brilla, sobresale|The one who excels|Celui qui excelle|Der Hervorragende|Colui che eccelle|Aquele que se destaca
+Cecilio|m|latin|spanish|1|saint,vintage|De vista débil|Dim-sighted|À la vue faible|Schwachsichtig|Dalla vista debole|De vista fraca
+Ceferino|m|greek|spanish|2|saint,vintage|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento dell'ovest|Vento do oeste
+Clodomiro|m|germanic|spanish|1|vintage,royal|Famoso y glorioso|Famous and glorious|Célèbre et glorieux|Berühmt und ruhmreich|Famoso e glorioso|Famoso e glorioso
+Clodoveo|m|germanic|spanish|1|vintage,royal,warrior|Glorioso en el combate|Famous in battle|Glorieux au combat|Ruhmreich im Kampf|Glorioso in battaglia|Glorioso em combate
+Cristofer|m|greek|spanish|3|modern,saint|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Dalmacio|m|latin|spanish|1|saint,vintage,place|De Dalmacia|From Dalmatia|De Dalmatie|Aus Dalmatien|Dalmata|Da Dalmácia
+Dilan|m|celtic|spanish|3|modern,trendy,sea|Hijo del mar|Son of the sea|Fils de la mer|Sohn des Meeres|Figlio del mare|Filho do mar
+Domiciano|m|latin|spanish|1|vintage,royal|De la casa, doméstico|Of the house|De la maison|Aus dem Hause|Della casa|Da casa
+Edén|m|hebrew|spanish|2|biblical,modern|Delicia, paraíso|Delight, paradise|Délice, paradis|Wonne, Paradies|Delizia, paradiso|Delícia, paraíso
+Edwin|m|germanic|spanish,english|3|modern,classic|Amigo rico|Rich friend|Ami riche|Reicher Freund|Amico ricco|Amigo rico
+Eber|m|hebrew|spanish|1|biblical|Al otro lado, el que cruza|The one from across|Celui d'au-delà|Der von jenseits|Colui d'oltre|Aquele do outro lado
+Elkin|m|hebrew|spanish|3|modern|Dios es mi redención|God is my redemption|Dieu est ma rédemption|Gott ist meine Erlösung|Dio è la mia redenzione|Deus é minha redenção
+Eliú|m|hebrew|spanish|1|biblical|Él es mi Dios|He is my God|Il est mon Dieu|Er ist mein Gott|Egli è il mio Dio|Ele é o meu Deus
+Esaú|m|hebrew|spanish|1|biblical|Velludo, peludo|Hairy|Velu|Behaart|Peloso|Peludo
+Exequiel|m|hebrew|spanish|2|biblical,vintage|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Froilán|m|germanic|spanish|2|saint,vintage|Señor joven|Young lord|Jeune seigneur|Junger Herr|Giovane signore|Jovem senhor
+Fruela|m|germanic|spanish|1|royal,vintage|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Gaudioso|m|latin|spanish|1|saint,vintage|Gozoso, alegre|Joyful|Joyeux|Freudig|Gioioso|Jubiloso
+Gervasio|m|germanic|spanish|2|saint,vintage|Lanza servidora|Servant spear|Lance servante|Dienende Lanze|Lancia servitrice|Lança servidora
+Gilberto|m|germanic|spanish|2|classic|Rehén brillante|Bright pledge|Gage brillant|Glänzendes Pfand|Pegno luminoso|Penhor brilhante
+Ginés|m|greek|spanish|2|saint,vintage|El que nace, origen|Origin, born one|Origine, celui qui naît|Ursprung, Geborener|Origine, nato|Origem, nascido
+Gumersindo|m|germanic|spanish|1|vintage,warrior|Hombre de guerra|Man of war|Homme de guerre|Kriegsmann|Uomo di guerra|Homem de guerra
+Gundemaro|m|germanic|spanish|1|royal,warrior,vintage|Famoso en la batalla|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famoso in battaglia|Famoso na batalha
+Habacuc|m|hebrew|spanish|1|biblical|Abrazo|Embrace|Étreinte|Umarmung|Abbraccio|Abraço
+Hiram|m|hebrew|spanish|1|biblical|Hermano exaltado|Exalted brother|Frère exalté|Erhabener Bruder|Fratello esaltato|Irmão exaltado
+Humberto|m|germanic|spanish|3|classic|Oso brillante|Bright bear|Ours brillant|Glänzender Bär|Orso splendente|Urso brilhante
+Isauro|m|greek|spanish|1|saint,vintage|De Isauria|From Isauria|D'Isaurie|Aus Isaurien|Dell'Isauria|Da Isáuria
+Jacob|m|hebrew|spanish,english|3|biblical,classic|El que sigue de cerca|He who follows|Celui qui suit|Der Nachfolgende|Colui che segue|Aquele que segue
+Jenaro|m|latin|spanish|1|vintage,saint|Consagrado a Jano, de enero|Dedicated to Janus|Consacré à Janus|Janus geweiht|Consacrato a Giano|Consagrado a Jano
+Job|m|hebrew|spanish|1|biblical,virtue|Perseguido, el que se arrepiente|Persecuted one|Persécuté|Der Verfolgte|Perseguitato|Perseguido
+Johan|m|germanic|spanish|3|modern|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Josías|m|hebrew|spanish|2|biblical|Fuego de Dios|Fire of God|Feu de Dieu|Feuer Gottes|Fuoco di Dio|Fogo de Deus
+Judas|m|hebrew|spanish|1|biblical|Alabado sea Dios|Praised|Loué|Gepriesen|Lodato|Louvado
+Juvencio|m|latin|spanish|1|vintage,saint|Joven|Young|Jeune|Jung|Giovane|Jovem
+Kevin|m|celtic|spanish|4|modern,trendy|Gentil, amable|Gentle, kind|Doux, aimable|Sanft, freundlich|Gentile, amabile|Gentil, amável
+Laurentino|m|latin|spanish|1|vintage,saint|De Laurento|From Laurentum|De Laurente|Aus Laurentum|Di Laurento|De Laurento
+Leovigildo|m|germanic|spanish|1|royal,vintage|Rey de los godos|Goth king|Roi des Goths|König der Goten|Re dei Goti|Rei dos godos
+Liborio|m|latin|spanish|1|saint,vintage|Libre|Free|Libre|Frei|Libero|Livre
+Lino|m|greek|spanish|1|saint,music|Lamento, canto|Lament, song|Lamentation, chant|Klagelied|Lamento, canto|Lamento, canto
+Longinos|m|latin|spanish|1|saint,vintage|El alto, largo|The tall one|Le grand|Der Große|L'alto|O alto
+Lucano|m|latin|spanish|1|literary,vintage|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Della Lucania|Da Lucânia
+Ludovico|m|germanic|spanish|1|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Macedonio|m|greek|spanish|1|saint,place,vintage|De Macedonia|From Macedonia|De Macédoine|Aus Makedonien|Macedone|Da Macedônia
+Mardoqueo|m|hebrew|spanish|1|biblical|Devoto de Marduk|Devotee of Marduk|Dévot de Mardouk|Verehrer des Marduk|Devoto di Marduk|Devoto de Marduque
+Matusalén|m|hebrew|spanish|1|biblical|Hombre de la lanza|Man of the spear|Homme de la lance|Mann des Speers|Uomo della lancia|Homem da lança
+Maximino|m|latin|spanish|2|saint,vintage|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Melitón|m|greek|spanish|1|saint,vintage|Dulce como la miel|Honey-sweet|Doux comme le miel|Honigsüß|Dolce come il miele|Doce como o mel
+Melquíades|m|hebrew|spanish|2|literary,biblical|Mi rey es el Señor|My king is the Lord|Mon roi est le Seigneur|Mein König ist der Herr|Il mio re è il Signore|Meu rei é o Senhor
+Napoleón|m|greek|spanish|2|royal,classic|León de Nápoles|Lion of Naples|Lion de Naples|Löwe von Neapel|Leone di Napoli|Leão de Nápoles
+Nilo|m|greek|spanish|1|nature,place|Río, valle fluvial|River, river valley|Fleuve, vallée|Fluss, Flusstal|Fiume, valle|Rio, vale
+Octaviano|m|latin|spanish|1|royal,classic|Octavo|Eighth|Huitième|Achter|Ottavo|Oitavo
+Orfeo|m|greek|spanish|1|mythology,music|Huérfano de padre|Orphaned|Orphelin|Verwaist|Orfano|Órfão
+Orión|m|greek|spanish|2|mythology,celestial|El cazador celeste|The celestial hunter|Le chasseur céleste|Der himmlische Jäger|Il cacciatore celeste|O caçador celeste
+Oswaldo|m|germanic|spanish|3|classic|Poder divino|Divine power|Pouvoir divin|Göttliche Macht|Potere divino|Poder divino
+Otoniel|m|hebrew|spanish|2|biblical|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Pantaleón|m|greek|spanish|1|saint,vintage|Compasivo en todo|All-compassionate|Compatissant en tout|Allerbarmer|Tutto compassione|Todo compassivo
+Pitágoras|m|greek|spanish|1|classic,literary|Anunciado por la pitia|Announced by the Pythia|Annoncé par la Pythie|Von der Pythia verkündet|Annunciato dalla Pizia|Anunciado pela Pítia
+Platón|m|greek|spanish|1|classic,literary|De anchos hombros|Broad-shouldered|Aux larges épaules|Breitschultrig|Dalle larghe spalle|De ombros largos
+Plutarco|m|greek|spanish|1|literary,classic|Gobernante de la riqueza|Ruler of wealth|Maître de la richesse|Herrscher des Reichtums|Signore della ricchezza|Senhor da riqueza
+Pompeyo|m|latin|spanish|1|classic,royal|Cinco|Five|Cinq|Fünf|Cinque|Cinco
+Ponciano|m|latin|spanish|1|saint,vintage|Del mar, de Poncio|Of Pontius|De Ponce|Des Pontius|Di Ponzio|De Pôncio
+Protasio|m|greek|spanish|1|saint,vintage|El que va delante|The one in front|Celui qui précède|Der Vorderste|Colui che sta davanti|O que vai à frente
+Quirino|m|latin|spanish|1|saint,vintage|Lancero|Spearman|Lancier|Lanzenträger|Lanciere|Lanceiro
+Recaredo|m|germanic|spanish|1|royal,vintage|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Rigoberto|m|germanic|spanish|3|classic|Brillante por su gobierno|Bright in rule|Brillant par son règne|Glänzend durch Herrschaft|Splendente per il governo|Brilhante pelo governo
+Rodulfo|m|germanic|spanish|1|vintage,warrior|Lobo glorioso|Famous wolf|Loup glorieux|Ruhmreicher Wolf|Lupo glorioso|Lobo glorioso
+Sabas|m|hebrew|spanish|1|saint,vintage|Anciano, sabio|Old, wise one|Ancien, sage|Alter, Weiser|Anziano, saggio|Ancião, sábio
+Saturio|m|latin|spanish|1|saint,vintage|Consagrado a Saturno|Devoted to Saturn|Consacré à Saturne|Saturn geweiht|Consacrato a Saturno|Consagrado a Saturno
+Saulo|m|hebrew|spanish|1|biblical,saint|Pedido a Dios|Asked of God|Demandé à Dieu|Von Gott erbeten|Chiesto a Dio|Pedido a Deus
+Séneca|m|latin|spanish|1|literary,classic|Anciano|Elder|Ancien|Der Ältere|Anziano|Ancião
+Serapio|m|greek|spanish|1|saint,vintage|Consagrado a Serapis|Devoted to Serapis|Consacré à Sérapis|Serapis geweiht|Consacrato a Serapide|Consagrado a Serápis
+Sinforiano|m|greek|spanish|1|saint,vintage|Armonioso, que lleva juntos|Harmonious|Harmonieux|Harmonisch|Armonioso|Harmonioso
+Sixto|m|latin|spanish|2|saint,vintage|Pulido, sexto|Polished|Poli|Geglättet|Levigato|Polido
+Sócrates|m|greek|spanish|2|classic,literary|Poder seguro|Sure power|Pouvoir sûr|Sichere Kraft|Potere sicuro|Poder seguro
+Telmo|m|greek|spanish|2|saint,vintage|Amado, deseado|Beloved, desired|Aimé, désiré|Geliebt, ersehnt|Amato, desiderato|Amado, desejado
+Teodomiro|m|germanic|spanish|1|royal,vintage|Famoso del pueblo|Famous among the people|Célèbre parmi le peuple|Berühmt beim Volk|Famoso tra il popolo|Famoso no povo
+Teseo|m|greek|spanish|1|mythology,warrior|Fundador|Founder|Fondateur|Gründer|Fondatore|Fundador
+Tito|m|latin|spanish|3|classic,royal|Honor|Honour|Honneur|Ehre|Onore|Honra
+Toribio|m|greek|spanish|2|saint,vintage|Arco, el que lleva el arco|Bowman|Archer|Bogenschütze|Arciere|Arqueiro

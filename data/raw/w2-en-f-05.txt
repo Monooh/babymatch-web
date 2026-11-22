@@ -1,0 +1,35 @@
+Ebony|f|other|english|2|modern|Ébano|Ebony wood|Ébène|Ebenholz|Ebano|Ébano
+Ivory|f|other|english|1|modern|Marfil|Ivory|Ivoire|Elfenbein|Avorio|Marfim
+Diamond|f|other|english|1|gem|Diamante|Diamond|Diamant|Diamant|Diamante|Diamante
+Precious|f|latin|english|1|virtue|Preciosa|Precious|Précieuse|Kostbar|Preziosa|Preciosa
+Angel|f|greek|english|2|biblical,modern|Mensajera|Messenger|Messagère|Botin|Messaggera|Mensageira
+Aliza|f|hebrew|english,hebrew|2|sweet|Alegre|Joyful|Joyeuse|Fröhlich|Gioiosa|Alegre
+Aviva|f|hebrew|english,hebrew|2|nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Darlene|f|germanic|english|1|vintage,love|Pequeña querida|Little darling|Petite chérie|Liebchen|Piccola cara|Pequena querida
+Josette|f|hebrew|english,french|1|vintage|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Suzanne|f|hebrew|english,french|2|classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Maren|f|latin|scandinavian,english|2|sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Marissa|f|latin|english|2|sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Amie|f|latin|english,french|1|love|Amiga|Beloved friend|Amie|Freundin|Amica|Amiga
+Adrienne|f|latin|english,french|2|classic|De Hadria|From Hadria|De Hadria|Aus Hadria|Di Adria|De Hadria
+Aimee|f|latin|english|2|love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Angelique|f|greek|english,french|1|classic|Angelical|Angelic|Angélique|Engelsgleich|Angelica|Angelical
+Carina|f|latin|english,italian|2|love|Querida|Dear one|Chérie|Liebe|Cara|Querida
+Carmen|f|latin|english,spanish|2|music|Canción, poema|Song, poem|Chant, poème|Lied, Gedicht|Canto, poema|Canção, poema
+Dominique|f|latin|english,french|2|classic|Del Señor|Belonging to the Lord|Appartenant au Seigneur|Dem Herrn gehörend|Appartenente al Signore|Pertencente ao Senhor
+Davina|f|hebrew|scottish,english|2|classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Clementina|f|latin|english|1|vintage|Clemente, misericordiosa|Merciful|Clémente, miséricordieuse|Milde, gnädig|Clemente, misericordiosa|Clemente, misericordiosa
+Eglantine|f|latin|english|1|flower,vintage|Escaramujo, rosal silvestre|Sweet briar rose|Églantine|Heckenrose|Rosa canina|Roseira-brava
+Jerusha|f|hebrew|english|1|biblical|Poseída, desposada|Possessed, married|Possédée, épousée|Besessen, vermählt|Posseduta, sposata|Possuída, desposada
+Adah|f|hebrew|english|1|biblical|Adorno|Adornment|Parure|Schmuck|Ornamento|Adorno
+Tirzah|f|hebrew|english|1|biblical|Amabilidad, deleite|Pleasantness, delight|Agrément, délice|Lieblichkeit, Wonne|Piacevolezza, delizia|Amabilidade, deleite
+Electra|f|greek|english|1|mythology,celestial|Brillante, ámbar|Shining, amber|Brillante, ambre|Strahlend, Bernstein|Splendente, ambra|Brilhante, âmbar
+Eos|f|greek|english|1|mythology,light|Aurora|Dawn|Aurore|Morgenröte|Aurora|Aurora
+Echo|f|greek|english|1|mythology|Eco, sonido|Echo, sound|Écho, son|Echo, Klang|Eco, suono|Eco, som
+Clio|f|greek|english|1|mythology|La que proclama|Proclaimer|Celle qui proclame|Die Rühmende|Colei che proclama|A que proclama
+Urania|f|greek|english|1|mythology,celestial|Celestial|Heavenly|Céleste|Himmlische|Celeste|Celestial
+Selene|f|greek|english|1|mythology,celestial|Luna|Moon|Lune|Mond|Luna|Lua
+Linnet|f|germanic|english|1|animal,vintage|Pardillo|Linnet bird|Linotte|Hänfling|Fanello|Pintassilgo
+Dove|f|germanic|english|1|animal,sweet|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Bea|f|latin|english|3|vintage|Viajera, bendita|Voyager, blessed|Voyageuse, bénie|Reisende, Gesegnete|Viaggiatrice, benedetta|Viajante, abençoada
+Emmanuelle|f|hebrew|english,french|1|classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco

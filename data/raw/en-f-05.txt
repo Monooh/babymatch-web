@@ -1,0 +1,85 @@
+Octavia|f|latin|english|2|vintage,classic|Octava|Eighth|Huitième|Die Achte|Ottava|Oitava
+Odette|f|germanic|english,french|1|vintage,literary|Riqueza, prosperidad|Wealth, fortune|Richesse, fortune|Reichtum|Ricchezza|Riqueza
+Olive|f|latin|english|3|nature,vintage|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Olivia|f|latin|english,intl|5|nature,classic|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Opal|f|sanskrit|english|2|gem,vintage|Joya, piedra preciosa|Precious jewel|Pierre précieuse|Edelstein|Gemma preziosa|Pedra preciosa
+Ophelia|f|greek|english|2|literary,vintage|Ayuda|Help, benefit|Aide, secours|Hilfe, Nutzen|Aiuto, beneficio|Ajuda, benefício
+Orla|f|celtic|english|1|vintage|Princesa de oro|Golden princess|Princesse d'or|Goldene Prinzessin|Principessa d'oro|Princesa dourada
+Paige|f|greek|english|2|modern|Joven asistente|Young attendant|Jeune serviteur|Junger Diener|Giovane paggio|Jovem pajem
+Pamela|f|greek|english|1|vintage,literary|Toda dulzura|All honey|Toute douceur|Ganz Honig|Tutta miele|Toda mel
+Pansy|f|other|english|1|flower,vintage|Pensamiento, flor|Thought, pansy flower|Pensée, fleur|Gedanke, Stiefmütterchen|Pensiero, viola del pensiero|Pensamento, flor
+Patience|f|latin|english|2|virtue,vintage|Paciencia|Patience|Patience|Geduld|Pazienza|Paciência
+Patricia|f|latin|english|2|classic,royal|Noble|Noble|Noble|Edle|Nobile|Nobre
+Paula|f|latin|english,german|2|classic,saint|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Pauline|f|latin|english,french|2|classic,vintage|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Pearl|f|latin|english|3|gem,vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Penelope|f|greek|english|4|mythology,vintage|Tejedora|Weaver|Tisseuse|Weberin|Tessitrice|Tecelã
+Penny|f|greek|english|3|vintage,sweet|Tejedora|Weaver|Tisseuse|Weberin|Tessitrice|Tecelã
+Peony|f|greek|english|2|flower,modern|Flor de peonía|Peony flower|Fleur de pivoine|Pfingstrose|Fiore di peonia|Flor de peônia
+Perpetua|f|latin|english|1|saint,vintage|Perpetua|Everlasting|Perpétuelle|Immerwährend|Perpetua|Perpétua
+Persephone|f|greek|english|2|mythology,modern|Portadora de destrucción|Bringer of destruction|Porteuse de destruction|Überbringerin der Zerstörung|Portatrice di distruzione|Portadora de destruição
+Petra|f|greek|english,german|2|classic,strong|Roca|Rock|Pierre|Fels|Roccia|Rocha
+Philippa|f|greek|english|2|vintage,strong|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante dos cavalos
+Phoebe|f|greek|english|3|vintage,celestial|Brillante, radiante|Bright, radiant|Brillante, radieuse|Strahlend|Splendente, radiosa|Brilhante, radiante
+Phyllis|f|greek|english|1|vintage,nature|Hoja verde|Green leaf|Feuille verte|Grünes Blatt|Foglia verde|Folha verde
+Pippa|f|greek|english|2|sweet,vintage|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante dos cavalos
+Pollyanna|f|hebrew|english|1|literary,vintage|Amada y graciosa|Beloved and graceful|Bien-aimée et gracieuse|Geliebt und anmutig|Amata e graziosa|Amada e graciosa
+Poppy|f|latin|english|4|flower,vintage|Amapola|Poppy flower|Coquelicot|Mohnblume|Papavero|Papoula
+Portia|f|latin|english|1|literary,classic|Ofrenda, cerdita|Offering|Offrande|Opfergabe|Offerta|Oferenda
+Primrose|f|latin|english|2|flower,vintage|Primera rosa|First rose|Première rose|Erste Rose|Prima rosa|Primeira rosa
+Priscilla|f|latin|english|2|biblical,vintage|Antigua, venerable|Ancient, venerable|Ancienne, vénérable|Altehrwürdig|Antica, venerabile|Antiga, venerável
+Prudence|f|latin|english|1|virtue,vintage|Prudencia|Prudence|Prudence|Klugheit|Prudenza|Prudência
+Queenie|f|germanic|english|1|royal,vintage|Reina|Queen|Reine|Königin|Regina|Rainha
+Quinn|f|celtic|english|2|modern,strong|Sabia, jefa|Wise, chief|Sage, chef|Weise, Anführer|Saggia, capo|Sábia, chefe
+Rachel|f|hebrew|english|3|biblical,animal|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Rebecca|f|hebrew|english|3|biblical,classic|Lazo, atadura|To bind, tie firmly|Lien, attache|Verbindung, Fessel|Legame, nodo|Laço, vínculo
+Rebekah|f|hebrew|english|2|biblical,classic|Lazo, atadura|To bind, tie firmly|Lien, attache|Verbindung, Fessel|Legame, nodo|Laço, vínculo
+Regina|f|latin|english,german|2|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Renata|f|latin|english|1|classic,virtue|Renacida|Reborn|Renée|Wiedergeboren|Rinata|Renascida
+Renee|f|latin|english,french|1|classic|Renacida|Reborn|Renée|Wiedergeboren|Rinata|Renascida
+Rhea|f|greek|english|2|mythology,modern|Madre tierra, fluir|Earth mother, flowing|Terre-mère, couler|Erdmutter, fließen|Madre terra, fluire|Mãe-terra, fluir
+Rhoda|f|greek|english|1|biblical,flower|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rhonda|f|celtic|english|1|vintage|Gran lanza|Good spear|Bonne lance|Gute Lanze|Buona lancia|Boa lança
+Rita|f|greek|english,italian|2|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Roberta|f|germanic|english|1|vintage|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Robin|f|germanic|english|2|modern,animal|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Rosa|f|latin|english,spanish,german|3|flower,classic|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rosalie|f|latin|english,french|3|vintage,flower|Guirnalda de rosas|Garland of roses|Guirlande de roses|Rosenkranz|Ghirlanda di rose|Grinalda de rosas
+Rosalind|f|germanic|english|2|literary,vintage|Rosa tierna|Gentle horse, pretty rose|Tendre rose|Zarte Rose|Tenera rosa|Rosa terna
+Rose|f|latin|english|4|flower,classic|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rosemary|f|latin|english|2|flower,vintage|Rocío del mar|Dew of the sea|Rosée de la mer|Tau des Meeres|Rugiada del mare|Orvalho do mar
+Rosie|f|latin|english|3|flower,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rowan|f|celtic|english,irish|3|nature,modern|Serbal, de pelo rojo|Rowan tree, little redhead|Sorbier, petite rousse|Eberesche, kleine Rothaarige|Sorbo, piccola rossa|Sorveira, pequena ruiva
+Roxanne|f|persian|english|1|classic,light|Amanecer|Dawn, bright one|Aube, brillante|Morgenröte|Alba, luminosa|Alvorada, brilhante
+Ruby|f|latin|english|5|gem,vintage|Rubí|Ruby|Rubis|Rubin|Rubino|Rubi
+Ruth|f|hebrew|english|3|biblical,virtue|Compañera, amiga|Companion, friend|Compagne, amie|Gefährtin, Freundin|Compagna, amica|Companheira, amiga
+Ruthie|f|hebrew|english|1|sweet,vintage|Compañera, amiga|Companion, friend|Compagne, amie|Gefährtin, Freundin|Compagna, amica|Companheira, amiga
+Sabrina|f|celtic|english|2|classic,mythology|Del río Severn|Of the River Severn|De la rivière Severn|Vom Fluss Severn|Del fiume Severn|Do rio Severn
+Sadie|f|hebrew|english|3|vintage,sweet|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sally|f|hebrew|english|2|vintage,sweet|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Samantha|f|hebrew|english|3|classic,biblical|Escucha a Dios|Listener of God|Celle qui écoute Dieu|Gottes Zuhörerin|Colei che ascolta Dio|Ouvinte de Deus
+Sandra|f|greek|english|2|classic|Defensora de la humanidad|Defender of mankind|Défenseure des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Sara|f|hebrew|english,spanish,intl|3|biblical,classic|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sarah|f|hebrew|english,french,german|4|biblical,classic|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Savannah|f|other|english|3|nature,place|Llanura sin árboles|Treeless plain|Plaine sans arbres|Baumlose Ebene|Pianura senza alberi|Planície sem árvores
+Scarlett|f|other|english|4|literary,modern|Roja, tela escarlata|Scarlet, red cloth|Écarlate, étoffe rouge|Scharlachrot|Scarlatta|Escarlate
+Selena|f|greek|english|2|celestial,classic|Luna|Moon|Lune|Mond|Luna|Lua
+Serena|f|latin|english,italian|2|virtue,celestial|Serena, tranquila|Serene, calm|Sereine, calme|Heiter, ruhig|Serena, calma|Serena, calma
+Shannon|f|celtic|english,irish|1|modern,nature|Río sabio|Old river|Vieille rivière|Alter Fluss|Antico fiume|Rio antigo
+Sharon|f|hebrew|english|1|biblical,place|Llanura fértil|Fertile plain|Plaine fertile|Fruchtbare Ebene|Pianura fertile|Planície fértil
+Sheila|f|celtic|english,irish|1|vintage|Ciega, celestial|Blind, heavenly|Aveugle, céleste|Blind, himmlisch|Cieca, celeste|Cega, celestial
+Shirley|f|germanic|english|1|vintage,place|Prado luminoso|Bright meadow|Prairie lumineuse|Helle Wiese|Prato luminoso|Prado luminoso
+Sienna|f|other|english|3|place,modern|Color tierra de Siena|Orange-red, from Siena|Terre de Sienne|Siena-Erde, aus Siena|Terra di Siena|Terra de Siena
+Sibyl|f|greek|english|1|vintage,mythology|Profetisa|Prophetess|Prophétesse|Prophetin|Profetessa|Profetisa
+Simone|f|hebrew|english,french|2|classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Skye|f|celtic|english,scottish|3|place,modern|Isla alada, cielo|Winged isle, sky|Île ailée, ciel|Geflügelte Insel, Himmel|Isola alata, cielo|Ilha alada, céu
+Sophia|f|greek|english,intl|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sophie|f|greek|english,french,german|4|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sophronia|f|greek|english|1|vintage,virtue|Prudente|Sensible, prudent|Sensée, prudente|Besonnen|Assennata, prudente|Prudente, ajuizada
+Stella|f|latin|english,italian|4|celestial,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Stephanie|f|greek|english,french|2|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Susan|f|hebrew|english|2|flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Susanna|f|hebrew|english|2|biblical,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Susannah|f|hebrew|english|1|biblical,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Sylvia|f|latin|english|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Sylvie|f|latin|english,french|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta

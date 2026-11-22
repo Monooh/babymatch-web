@@ -1,0 +1,39 @@
+Amancay|f|native|spanish|1|flower,nature|Flor amarilla de los Andes|Yellow Andean flower|Fleur jaune des Andes|Gelbe Andenblume|Fiore giallo delle Ande|Flor amarela dos Andes
+Ana Sofía|f|hebrew|spanish|4|classic,modern|Gracia y sabiduría|Grace and wisdom|Grâce et sagesse|Gnade und Weisheit|Grazia e saggezza|Graça e sabedoria
+Ana Lucía|f|hebrew|spanish|3|classic,light|Gracia y luz|Grace and light|Grâce et lumière|Gnade und Licht|Grazia e luce|Graça e luz
+Ana Belén|f|hebrew|spanish|2|classic,saint|Gracia de Belén|Grace of Bethlehem|Grâce de Bethléem|Gnade von Bethlehem|Grazia di Betlemme|Graça de Belém
+Ana Isabel|f|hebrew|spanish|2|classic|Gracia, Dios es mi juramento|Grace, God is my oath|Grâce, Dieu est mon serment|Gnade, Gott ist mein Schwur|Grazia, Dio è il mio giuramento|Graça, Deus é meu juramento
+Ana María|f|hebrew|spanish|3|classic,saint|Gracia y amada|Grace and beloved|Grâce et bien-aimée|Gnade und Geliebte|Grazia e amata|Graça e amada
+Aylín|f|turkish|spanish,turkish|3|modern,celestial|Luz de luna|Moonlight|Clair de lune|Mondlicht|Luce di luna|Luz do luar
+Bernardina|f|germanic|spanish|1|vintage,strong|Oso valiente|Brave bear|Ours courageux|Tapferer Bär|Orso coraggioso|Urso valente
+Dionisia|f|greek|spanish|1|vintage,mythology|Consagrada a Dioniso|Devoted to Dionysus|Consacrée à Dionysos|Dem Dionysos geweiht|Consacrata a Dioniso|Consagrada a Dioniso
+Eusebia|f|greek|spanish|1|vintage,virtue|Piadosa|Pious|Pieuse|Fromm|Pia|Piedosa
+Eudosia|f|greek|spanish|1|vintage|Buena fama|Good repute|Bonne réputation|Guter Ruf|Buona fama|Boa fama
+Erika|f|germanic|spanish,german|2|modern|Gobernante eterna|Eternal ruler|Souveraine éternelle|Ewige Herrscherin|Sovrana eterna|Governante eterna
+Emiliana|f|latin|spanish|1|vintage|Rival, laboriosa|Rival, industrious|Rivale, travailleuse|Rivalin, fleißig|Rivale, laboriosa|Rival, laboriosa
+Felicia|f|latin|spanish,english|1|vintage,virtue|Afortunada|Fortunate|Fortunée|Glückliche|Fortunata|Afortunada
+Gea|f|greek|spanish|1|mythology,nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Hilaria|f|latin|spanish|1|vintage,saint|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Isabella|f|hebrew|spanish,italian,english|5|modern,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Jesusa|f|hebrew|spanish|1|vintage,saint|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Jovita|f|latin|spanish|1|vintage|Jovial, alegre|Jovial, cheerful|Joviale, joyeuse|Fröhlich, heiter|Gioviale, allegra|Jovial, alegre
+Lázara|f|hebrew|spanish|1|vintage,biblical|Dios ayuda|God helps|Dieu aide|Gott hilft|Dio aiuta|Deus ajuda
+Leila|f|arabic|spanish,arabic|2|modern|Noche|Night|Nuit|Nacht|Notte|Noite
+Magnolia|f|other|spanish|2|flower,nature|Flor de magnolia|Magnolia flower|Fleur de magnolia|Magnolienblüte|Fiore di magnolia|Flor de magnólia
+María Dolores|f|hebrew|spanish|3|saint,classic|Amada, dolores|Beloved, sorrows|Bien-aimée, douleurs|Geliebte, Schmerzen|Amata, dolori|Amada, dores
+María Pilar|f|hebrew|spanish|3|saint,classic|Amada, columna|Beloved, pillar|Bien-aimée, pilier|Geliebte, Säule|Amata, pilastro|Amada, pilar
+María Jesús|f|hebrew|spanish|2|saint,classic|Amada, Dios salva|Beloved, God saves|Bien-aimée, Dieu sauve|Geliebte, Gott rettet|Amata, Dio salva|Amada, Deus salva
+María Ángeles|f|hebrew|spanish|2|saint,classic|Amada, ángeles|Beloved, angels|Bien-aimée, anges|Geliebte, Engel|Amata, angeli|Amada, anjos
+María Luisa|f|hebrew|spanish|2|classic,royal|Amada, guerrera famosa|Beloved, famous warrior|Bien-aimée, guerrière célèbre|Geliebte, berühmte Kriegerin|Amata, guerriera famosa|Amada, guerreira famosa
+María Eugenia|f|hebrew|spanish|1|classic|Amada, de noble origen|Beloved, well-born|Bien-aimée, de noble naissance|Geliebte, Wohlgeborene|Amata, di nobile stirpe|Amada, de nobre origem
+María Camila|f|hebrew|spanish|3|modern,classic|Amada, joven ayudante|Beloved, young attendant|Bien-aimée, jeune servante|Geliebte, junge Gehilfin|Amata, giovane assistente|Amada, jovem auxiliar
+Rosa María|f|latin|spanish|2|flower,classic|Rosa y amada|Rose and beloved|Rose et bien-aimée|Rose und Geliebte|Rosa e amata|Rosa e amada
+Milena|f|slavic|spanish,slavic|3|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Liebe, anmutige|Cara, graziosa|Querida, graciosa
+Oriana|f|latin|spanish,italian|2|literary,gem|Dorada|Golden|Dorée|Goldene|Dorata|Dourada
+Rosalba|f|latin|spanish,italian|1|flower,vintage|Rosa blanca|White rose|Rose blanche|Weiße Rose|Rosa bianca|Rosa branca
+Salvadora|f|latin|spanish|1|vintage,saint|Salvadora|Saviour|Sauveuse|Retterin|Salvatrice|Salvadora
+Samira|f|arabic|spanish,arabic|2|modern|Compañera de charla nocturna|Companion of evening talk|Compagne de veillée|Gefährtin des Abendgesprächs|Compagna delle chiacchiere serali|Companheira de conversa noturna
+Sebastiana|f|greek|spanish|1|vintage,saint|Venerable|Venerable|Vénérable|Ehrwürdige|Venerabile|Venerável
+Tirsa|f|hebrew|spanish|1|biblical|Agradable|Pleasant|Agréable|Liebliche|Piacevole|Agradável
+Violante|f|germanic|spanish|1|vintage,flower|Flor de violeta|Violet flower|Fleur de violette|Veilchenblüte|Fiore di viola|Flor de violeta
+Zulema|f|arabic|spanish|1|vintage,virtue|Pacífica|Peaceful|Paisible|Friedlich|Pacifica|Pacífica

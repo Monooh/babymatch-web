@@ -1,0 +1,88 @@
+Adam|m|hebrew|french,english,intl|5|biblical,classic|Tierra, hombre|Earth, man|Terre, homme|Erde, Mensch|Terra, uomo|Terra, homem
+Aglaé|f|greek|french|1|mythology,vintage,light|Esplendor|Splendour|Splendeur|Glanz|Splendore|Esplendor
+Albane|f|latin|french|2|vintage,light|De la ciudad de Alba|From the town of Alba|De la ville d'Alba|Aus der Stadt Alba|Della città di Alba|Da cidade de Alba
+Alban|m|latin|french,english|2|vintage,saint|De la ciudad de Alba|From the town of Alba|De la ville d'Alba|Aus der Stadt Alba|Della città di Alba|Da cidade de Alba
+Albertine|f|germanic|french|1|vintage,royal|Noble y brillante|Noble and bright|Noble et brillante|Edel und strahlend|Nobile e splendente|Nobre e brilhante
+Alexia|f|greek|french|3|modern,classic|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Alexis|u|greek|french,english|3|classic,strong|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Alphonse|m|germanic|french|2|vintage,royal|Noble y dispuesto|Noble and ready|Noble et prêt|Edel und bereit|Nobile e pronto|Nobre e pronto
+Amédée|m|latin|french|2|vintage,love|El que ama a Dios|Lover of God|Qui aime Dieu|Gottliebend|Colui che ama Dio|Aquele que ama Deus
+Anaëlle|f|hebrew|french|3|modern,biblical|Gracia de Dios|Grace of God|Grâce de Dieu|Gnade Gottes|Grazia di Dio|Graça de Deus
+Anastasie|f|greek|french|1|vintage,saint|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Ange|m|greek|french|2|celestial,saint|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Anna|f|hebrew|french,english,german,intl|4|biblical,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anne-Laure|f|hebrew|french|1|vintage,classic|Gracia, laurel|Grace, laurel|Grâce, laurier|Gnade, Lorbeer|Grazia, alloro|Graça, louro
+Anne-Marie|f|hebrew|french|1|vintage,classic|Gracia, amada|Grace, beloved|Grâce, bien-aimée|Gnade, Geliebte|Grazia, amata|Graça, amada
+Anne-Sophie|f|hebrew|french|2|classic,virtue|Gracia, sabiduría|Grace, wisdom|Grâce, sagesse|Gnade, Weisheit|Grazia, saggezza|Graça, sabedoria
+Annette|f|hebrew|french|1|vintage,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anémone|f|greek|french|1|flower,sweet|Anémona|Anemone|Anémone|Anemone|Anemone|Anêmona
+Anselme|m|germanic|french|1|vintage,saint|Protegido por Dios|Protected by God|Protégé par Dieu|Von Gott beschützt|Protetto da Dio|Protegido por Deus
+Apollinaire|m|latin|french|1|vintage,literary|Consagrado a Apolo|Devoted to Apollo|Consacré à Apollon|Apollo geweiht|Consacrato ad Apollo|Consagrado a Apolo
+Ariane|f|greek|french|3|mythology,classic|Muy pura|Most holy|Très pure|Sehr rein|Purissima|Muito pura
+Arielle|f|hebrew|french|2|biblical,modern|Leona de Dios|Lioness of God|Lionne de Dieu|Löwin Gottes|Leonessa di Dio|Leoa de Deus
+Aristide|m|greek|french|1|vintage,virtue|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Armand|m|germanic|french|3|vintage,warrior|Hombre del ejército|Army man|Homme de l'armée|Mann des Heeres|Uomo dell'esercito|Homem do exército
+Arsène|m|greek|french|2|vintage,strong|Viril|Virile|Viril|Männlich|Virile|Viril
+Aude|f|germanic|french|2|vintage,classic|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Aurèle|m|latin|french|1|vintage,royal|Dorado|Golden|Doré|Goldener|Dorato|Dourado
+Avril|f|latin|french,english|2|nature,sweet|Abril|April|Avril|April|Aprile|Abril
+Balthazar|m|persian|french|3|biblical,vintage,royal|Que Dios proteja al rey|May God protect the king|Que Dieu protège le roi|Gott schütze den König|Dio protegga il re|Que Deus proteja o rei
+Barthélemy|m|hebrew|french|1|biblical,saint|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Béatrix|f|latin|french|1|vintage,royal|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringerin|Colei che porta felicità|Aquela que traz felicidade
+Bertille|f|germanic|french|2|vintage,light|Brillante|Bright|Brillante|Glänzend|Splendente|Brilhante
+Blandine|f|latin|french|2|saint,vintage,sweet|Dulce, halagadora|Gentle, charming|Douce, caressante|Sanft, schmeichelnd|Dolce, lusinghiera|Doce, carinhosa
+Brune|f|germanic|french|1|vintage,strong|Morena|Brown-haired|Brune|Die Braune|Bruna|Morena
+Calliope|f|greek|french|1|mythology,music|La de la hermosa voz|Beautiful voice|Belle voix|Schöne Stimme|Bella voce|Bela voz
+Camélia|f|other|french|2|flower,sweet|Camelia|Camellia|Camélia|Kamelie|Camelia|Camélia
+Cléo|f|greek|french|3|modern,mythology|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Clotaire|m|germanic|french|1|royal,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Colombe|f|latin|french|3|animal,vintage,sweet|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Coralie|f|greek|french|2|sea,classic|Coral|Coral|Corail|Koralle|Corallo|Coral
+Corinne|f|greek|french|2|classic,vintage|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Dagobert|m|germanic|french|1|royal,vintage|Día brillante|Bright day|Jour brillant|Strahlender Tag|Giorno splendente|Dia brilhante
+Daphné|f|greek|french|3|mythology,nature,classic|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Désirée|f|latin|french|1|vintage,love|Deseada|Desired|Désirée|Ersehnte|Desiderata|Desejada
+Edgar|m|germanic|french,english|3|vintage,literary|Lanza de la riqueza|Wealthy spear|Lance de la richesse|Speer des Reichtums|Lancia della ricchezza|Lança da riqueza
+Églantine|f|other|french|2|flower,vintage|Rosal silvestre|Wild rose|Églantier, rose sauvage|Wildrose|Rosa selvatica|Rosa-brava
+Émeline|f|germanic|french|2|vintage,sweet|Trabajadora|Industrious|Travailleuse|Die Fleißige|Operosa|Trabalhadora
+Ernestine|f|germanic|french|1|vintage|Seria, decidida|Earnest, serious|Sérieuse, résolue|Ernst, entschlossen|Seria, risoluta|Séria, resoluta
+Esmée|f|latin|french|3|love,modern|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Ethan|m|hebrew|french,english|4|biblical,modern,strong|Firme, duradero|Firm, enduring|Ferme, solide|Fest, beständig|Fermo, duraturo|Firme, duradouro
+Eudes|m|germanic|french|1|vintage,royal|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Flore|f|latin|french|2|flower,vintage|Flor|Flower|Fleur|Blume|Fiore|Flor
+Gaïa|f|greek|french|3|mythology,nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Gédéon|m|hebrew|french|1|biblical,warrior|Guerrero poderoso|Mighty warrior|Puissant guerrier|Mächtiger Krieger|Guerriero potente|Guerreiro poderoso
+Gwenaël|m|celtic|french|2|strong,classic|Blanco y generoso|White and generous|Blanc et généreux|Weiß und großzügig|Bianco e generoso|Branco e generoso
+Gwenn|f|celtic|french|2|sweet,modern|Blanca, bendita|White, blessed|Blanche, bénie|Weiß, gesegnet|Bianca, benedetta|Branca, abençoada
+Hélios|m|greek|french|2|celestial,mythology,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Hilaire|u|latin|french|1|vintage,saint|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Jean-François|m|hebrew|french|1|vintage,classic|Dios es misericordioso, libre|God is gracious, free man|Dieu fait grâce, libre|Gott ist gnädig, frei|Dio è misericordioso, libero|Deus é misericordioso, livre
+Jean-Louis|m|hebrew|french|1|vintage,classic|Dios es misericordioso, guerrero glorioso|God is gracious, famous warrior|Dieu fait grâce, guerrier glorieux|Gott ist gnädig, ruhmreicher Krieger|Dio è misericordioso, guerriero glorioso|Deus é misericordioso, guerreiro glorioso
+Jean-Luc|m|hebrew|french|1|vintage,classic|Dios es misericordioso, luminoso|God is gracious, luminous|Dieu fait grâce, lumineux|Gott ist gnädig, leuchtend|Dio è misericordioso, luminoso|Deus é misericordioso, luminoso
+Julia|f|latin|french,german,spanish,intl|4|classic,sweet|Consagrada a Júpiter|Devoted to Jupiter|Consacrée à Jupiter|Jupiter geweiht|Consacrata a Giove|Consagrada a Júpiter
+Katell|f|celtic|french|1|saint,sweet|Pura|Pure|Pure|Rein|Pura|Pura
+Lambert|m|germanic|french|1|vintage,saint|Tierra brillante|Bright land|Pays brillant|Strahlendes Land|Terra splendente|Terra brilhante
+Landry|m|germanic|french|1|vintage,strong|Señor de la tierra|Ruler of the land|Maître du pays|Herr des Landes|Signore della terra|Senhor da terra
+Lavande|f|other|french|2|flower,sweet|Lavanda|Lavender|Lavande|Lavendel|Lavanda|Lavanda
+Léontine|f|latin|french|1|vintage,animal|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Loup|m|latin|french|2|animal,modern,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Lothaire|m|germanic|french|1|vintage,warrior|Ejército famoso|Famous army|Armée célèbre|Berühmtes Heer|Esercito famoso|Exército famoso
+Lysandre|m|greek|french|2|vintage,warrior|Libertador|Liberator|Libérateur|Befreier|Liberatore|Libertador
+Marceline|f|latin|french|1|vintage|Pequeño martillo|Little hammer|Petit marteau|Kleiner Hammer|Piccolo martello|Pequeno martelo
+Marie-Christine|f|hebrew|french|1|vintage,classic|Amada, seguidora de Cristo|Beloved, follower of Christ|Bien-aimée, disciple du Christ|Geliebte, Anhängerin Christi|Amata, seguace di Cristo|Amada, seguidora de Cristo
+Marie-Hélène|f|hebrew|french|1|vintage,classic|Amada, antorcha|Beloved, torch|Bien-aimée, torche|Geliebte, Fackel|Amata, fiaccola|Amada, tocha
+Martine|f|latin|french|1|vintage,saint|Consagrada a Marte|Devoted to Mars|Consacrée à Mars|Dem Mars geweiht|Dedicata a Marte|Consagrada a Marte
+Mathéo|m|hebrew|french|4|modern,trendy|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Melchior|m|hebrew|french,german|1|biblical,vintage,royal|Mi rey es luz|My king is light|Mon roi est lumière|Mein König ist Licht|Il mio re è luce|Meu rei é luz
+Mila|f|slavic|french,intl|4|modern,sweet|Querida, amable|Dear, gracious|Chère, gracieuse|Liebe, Gnädige|Cara, graziosa|Querida, graciosa
+Odilon|m|germanic|french|1|vintage,saint|Rico, próspero|Wealthy, prosperous|Riche, prospère|Reich, wohlhabend|Ricco, prospero|Rico, próspero
+Ondine|f|latin|french|2|mythology,sea,vintage|Pequeña ola|Little wave|Petite onde|Kleine Welle|Piccola onda|Pequena onda
+Perle|f|latin|french|1|gem,vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Pervenche|f|other|french|1|flower,vintage|Vinca|Periwinkle|Pervenche|Immergrün|Pervinca|Pervinca
+Phèdre|f|greek|french|1|mythology,literary|Brillante|Bright|Brillante|Strahlend|Splendente|Brilhante
+Philémon|m|greek|french|1|vintage,biblical|Afectuoso|Affectionate|Affectueux|Liebevoll|Affettuoso|Afetuoso
+Pierre-Louis|m|greek|french|1|vintage,classic|Roca, guerrero glorioso|Rock, famous warrior|Roc, guerrier glorieux|Fels, ruhmreicher Krieger|Roccia, guerriero glorioso|Rocha, guerreiro glorioso
+Ronan|m|celtic|french,irish|3|animal,strong|Pequeña foca|Little seal|Petit phoque|Kleine Robbe|Piccola foca|Pequena foca
+Tobie|m|hebrew|french|1|biblical,vintage|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Tom|m|hebrew|french,english|4|modern,biblical|Mellizo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Victorien|m|latin|french|1|vintage,virtue|Vencedor|Victorious|Vainqueur|Sieger|Vittorioso|Vitorioso

@@ -1,0 +1,82 @@
+Muhammad|m|arabic|arabic,intl|5|strong,classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Mohamed|m|arabic|arabic|5|strong,classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Abdelaziz|m|arabic|arabic|3|virtue,classic|Siervo del Poderoso|Servant of the Mighty|Serviteur du Puissant|Diener des Mächtigen|Servo del Potente|Servo do Poderoso
+Abdelkader|m|arabic|arabic|3|virtue,classic|Siervo del Capaz|Servant of the Capable|Serviteur du Capable|Diener des Fähigen|Servo del Capace|Servo do Capaz
+Abdelkarim|m|arabic|arabic|3|virtue,classic|Siervo del Generoso|Servant of the Generous|Serviteur du Généreux|Diener des Großzügigen|Servo del Generoso|Servo do Generoso
+Abdelhamid|m|arabic|arabic|3|virtue,classic|Siervo del Digno de alabanza|Servant of the Praiseworthy|Serviteur du Digne de louange|Diener des Lobenswerten|Servo del Degno di lode|Servo do Digno de louvor
+Abdulaziz|m|arabic|arabic|3|virtue,classic|Siervo del Poderoso|Servant of the Mighty|Serviteur du Puissant|Diener des Mächtigen|Servo del Potente|Servo do Poderoso
+Abdulmalik|m|arabic|arabic|2|virtue,royal|Siervo del Rey|Servant of the King|Serviteur du Roi|Diener des Königs|Servo del Re|Servo do Rei
+Adib|m|arabic|arabic|2|virtue,literary|Culto, refinado|Cultured, refined|Cultivé, raffiné|Gebildet, fein|Colto, raffinato|Culto, refinado
+Amer|m|arabic|arabic|3|strong,classic|Próspero, longevo|Prosperous, long-lived|Prospère, longévif|Wohlhabend, langlebig|Prospero, longevo|Próspero, longevo
+Amine|m|arabic|arabic|4|virtue,classic|Digno de confianza|Trustworthy|Digne de confiance|Vertrauenswürdig|Fidato|Confiável
+Anis|m|arabic|arabic|3|sweet,virtue|Compañero amable|Friendly companion|Compagnon aimable|Freundlicher Gefährte|Compagno amichevole|Companheiro amável
+Ashraf|m|arabic|arabic|3|royal,virtue|El más noble|Most noble|Le plus noble|Der Edelste|Il più nobile|O mais nobre
+Ayoub|m|arabic|arabic|4|biblical,virtue|Job, el que vuelve a Dios|Job, one who turns back to God|Job, celui qui revient à Dieu|Hiob, der zu Gott Zurückkehrende|Giobbe, colui che ritorna a Dio|Jó, aquele que volta a Deus
+Bassam|m|arabic|arabic|3|sweet,modern|Sonriente|Smiling|Souriant|Lächelnd|Sorridente|Sorridente
+Burhan|m|arabic|arabic|2|virtue,classic|Prueba, evidencia|Proof, evidence|Preuve|Beweis|Prova|Prova
+Diab|m|arabic|arabic|2|animal,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Fahim|m|arabic|arabic|2|virtue,classic|Inteligente, comprensivo|Intelligent, understanding|Intelligent, compréhensif|Verständig|Intelligente|Inteligente
+Faris|m|arabic|arabic|3|warrior,strong|Caballero|Knight, horseman|Chevalier|Ritter|Cavaliere|Cavaleiro
+Fawzi|m|arabic|arabic|2|strong,virtue|Victorioso, exitoso|Victorious, successful|Victorieux|Siegreich|Vittorioso|Vitorioso
+Fouad|m|arabic|arabic|3|sweet,classic|Corazón|Heart|Cœur|Herz|Cuore|Coração
+Ghaith|m|arabic|arabic|2|nature,sweet|Lluvia benéfica|Beneficial rain|Pluie bienfaisante|Segensreicher Regen|Pioggia benefica|Chuva benéfica
+Ghazi|m|arabic|arabic|2|warrior,strong|Guerrero, conquistador|Warrior, conqueror|Guerrier, conquérant|Krieger, Eroberer|Guerriero, conquistatore|Guerreiro, conquistador
+Habib|m|arabic|arabic|4|love,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Hadi|m|arabic|arabic|3|virtue,classic|Guía|Guide|Guide|Wegweiser|Guida|Guia
+Hafiz|m|arabic|arabic,persian|2|virtue,classic|Guardián, protector|Guardian, protector|Gardien, protecteur|Hüter, Beschützer|Custode, protettore|Guardião, protetor
+Haidar|m|arabic|arabic|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Hamad|m|arabic|arabic|3|virtue,classic|Alabanza|Praise|Louange|Lob|Lode|Louvor
+Hani|m|arabic|arabic|3|sweet,classic|Feliz, contento|Happy, content|Heureux, content|Glücklich, zufrieden|Felice, contento|Feliz, contente
+Harith|m|arabic|arabic|2|nature,classic|Labrador, cultivador|Plowman, cultivator|Laboureur, cultivateur|Pflüger, Bauer|Aratore, coltivatore|Lavrador, cultivador
+Hazem|m|arabic|arabic|3|strong,virtue|Firme, resuelto|Firm, resolute|Ferme, résolu|Entschlossen|Fermo, risoluto|Firme, resoluto
+Hilal|m|arabic|arabic,turkish|3|celestial,classic|Luna creciente|Crescent moon|Croissant de lune|Mondsichel|Mezzaluna|Lua crescente
+Ilyas|m|arabic|arabic,turkish|3|biblical,classic|Mi Dios es el Señor|My God is the Lord|Mon Dieu est le Seigneur|Mein Gott ist der Herr|Il mio Dio è il Signore|Meu Deus é o Senhor
+Iyad|m|arabic|arabic|2|strong,virtue|Apoyo, fortaleza|Support, strength|Soutien, force|Stütze, Stärke|Sostegno, forza|Apoio, força
+Jaber|m|arabic|arabic|2|virtue,sweet|Consolador|Comforter|Consolateur|Tröster|Consolatore|Consolador
+Jamil|m|arabic|arabic|3|sweet,classic|Hermoso|Beautiful|Beau|Schön|Bello|Belo
+Kamil|m|arabic|arabic,turkish|3|virtue,classic|Perfecto, completo|Perfect, complete|Parfait, complet|Vollkommen|Perfetto, completo|Perfeito, completo
+Khaled|m|arabic|arabic|4|strong,classic|Eterno, inmortal|Eternal, immortal|Éternel, immortel|Ewig, unsterblich|Eterno, immortale|Eterno, imortal
+Khalifa|m|arabic|arabic|3|royal,strong|Sucesor, líder|Successor, leader|Successeur, chef|Nachfolger, Anführer|Successore, capo|Sucessor, líder
+Laith|m|arabic|arabic|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Maher|m|arabic|arabic|3|virtue,classic|Hábil, diestro|Skilled, adept|Habile, adroit|Geschickt|Abile, esperto|Hábil, perito
+Mazin|m|arabic|arabic|2|nature,sweet|Nubes de lluvia|Rain-bearing clouds|Nuages de pluie|Regenwolken|Nuvole di pioggia|Nuvens de chuva
+Mishal|m|arabic|arabic|3|light,modern|Antorcha|Torch|Torche|Fackel|Torcia|Tocha
+Mohsen|m|arabic|arabic,persian|3|virtue,classic|Benefactor|Benefactor|Bienfaiteur|Wohltäter|Benefattore|Benfeitor
+Mubarak|m|arabic|arabic|3|virtue,classic|Bendecido|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Muaz|m|arabic|arabic|2|virtue,strong|Protegido, refugiado|Protected, sheltered|Protégé|Geschützt|Protetto|Protegido
+Mukhtar|m|arabic|arabic|2|virtue,classic|Elegido|Chosen|Choisi|Auserwählter|Scelto|Escolhido
+Munir|m|arabic|arabic|3|light,classic|Radiante, luminoso|Radiant, luminous|Radieux, lumineux|Strahlend, leuchtend|Radioso, luminoso|Radiante, luminoso
+Murad|m|arabic|arabic,turkish|3|virtue,classic|Deseo, anhelo|Desire, wish|Désir, souhait|Wunsch, Verlangen|Desiderio, brama|Desejo, anseio
+Nadir|m|arabic|arabic|2|classic,virtue|Raro, excepcional|Rare, exceptional|Rare, exceptionnel|Selten, außergewöhnlich|Raro, eccezionale|Raro, excepcional
+Najib|m|arabic|arabic|2|royal,virtue|Noble, de buen linaje|Noble, of good lineage|Noble, de bon lignage|Edel, von guter Abstammung|Nobile, di buon lignaggio|Nobre, de boa linhagem
+Nasim|m|arabic|arabic,persian|3|nature,sweet|Brisa suave|Gentle breeze|Douce brise|Sanfte Brise|Brezza leggera|Brisa suave
+Nasir|m|arabic|arabic|3|virtue,strong|Defensor, ayudante|Helper, supporter|Défenseur, soutien|Helfer, Unterstützer|Sostenitore, aiutante|Defensor, ajudante
+Nawaf|m|arabic|arabic|3|strong,virtue|Elevado, excelso|Lofty, high|Élevé, haut|Erhaben, hoch|Elevato, alto|Elevado, excelso
+Nayef|m|arabic|arabic|3|strong,virtue|Eminente, sobresaliente|Eminent, surpassing|Éminent, remarquable|Herausragend|Eminente, eccellente|Eminente, notável
+Nidal|m|arabic|arabic|2|warrior,strong|Lucha, combate|Struggle, fight|Lutte, combat|Kampf|Lotta, battaglia|Luta, combate
+Raed|m|arabic|arabic|3|strong,virtue|Pionero, líder|Pioneer, leader|Pionnier, chef|Pionier, Anführer|Pioniere, capo|Pioneiro, líder
+Rafi|m|arabic|arabic|2|virtue,classic|Elevado, excelso|Exalted, lofty|Élevé, sublime|Erhaben|Elevato, eccelso|Elevado, excelso
+Rabi|m|arabic|arabic|2|nature,sweet|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Rashad|m|arabic|arabic|2|virtue,classic|Recto camino, buen juicio|Right guidance, good judgment|Droiture, bon jugement|Rechte Führung|Retta guida|Retidão, bom juízo
+Rida|m|arabic|arabic|3|virtue,classic|Contentamiento, satisfacción|Contentment, satisfaction|Contentement, satisfaction|Zufriedenheit|Appagamento, soddisfazione|Contentamento, satisfação
+Riyad|m|arabic|arabic|3|nature,place|Jardines|Gardens|Jardins|Gärten|Giardini|Jardins
+Sabir|m|arabic|arabic|2|virtue,classic|Paciente|Patient|Patient|Geduldig|Paziente|Paciente
+Sadiq|m|arabic|arabic|3|virtue,classic|Veraz, sincero|Truthful, sincere|Sincère, véridique|Aufrichtig, wahrhaftig|Sincero, veritiero|Verdadeiro, sincero
+Said|m|arabic|arabic|4|sweet,classic|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich, begünstigt|Felice, fortunato|Feliz, afortunado
+Salem|m|arabic|arabic|3|virtue,classic|Sano y salvo, en paz|Safe, at peace|Sain et sauf, en paix|Unversehrt, friedlich|Sano e salvo, in pace|São e salvo, em paz
+Saqr|m|arabic|arabic|3|animal,strong|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Sharaf|m|arabic|arabic|2|virtue,royal|Honor, nobleza|Honor, nobility|Honneur, noblesse|Ehre, Adel|Onore, nobiltà|Honra, nobreza
+Sharif|m|arabic|arabic|3|royal,virtue|Noble, honorable|Noble, honorable|Noble, honorable|Edel, ehrenhaft|Nobile, onorevole|Nobre, honrado
+Shihab|m|arabic|arabic|2|celestial,light|Estrella fugaz, llama|Shooting star, flame|Étoile filante, flamme|Sternschnuppe, Flamme|Stella cadente, fiamma|Estrela cadente, chama
+Sulaiman|m|arabic|arabic|3|biblical,classic|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Sultan|m|arabic|arabic|3|royal,strong|Gobernante, autoridad|Ruler, authority|Souverain, autorité|Herrscher, Autorität|Sovrano, autorità|Governante, autoridade
+Tahir|m|arabic|arabic|3|virtue,classic|Puro|Pure|Pur|Rein|Puro|Puro
+Tarek|m|arabic|arabic|4|celestial,classic|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Tayeb|m|arabic|arabic|3|virtue,sweet|Bueno, puro|Good, pure|Bon, pur|Gut, rein|Buono, puro|Bom, puro
+Umar|m|arabic|arabic|4|strong,classic|Longevo, próspero|Long-lived, flourishing|Longévif, prospère|Langlebig, blühend|Longevo, florente|Longevo, próspero
+Waleed|m|arabic|arabic|3|sweet,classic|Recién nacido|Newborn|Nouveau-né|Neugeborener|Neonato|Recém-nascido
+Wasim|m|arabic|arabic|3|sweet,classic|Apuesto, de rostro bello|Handsome, graceful|Beau, gracieux|Gutaussehend|Bello, aggraziato|Bonito, gracioso
+Yaqub|m|hebrew|arabic|3|biblical,classic|El que sujeta el talón|He who holds the heel|Celui qui tient le talon|Der die Ferse hält|Colui che afferra il tallone|Aquele que segura o calcanhar
+Zaher|m|arabic|arabic|2|light,virtue|Brillante, radiante|Brilliant, radiant|Brillant, radieux|Strahlend|Brillante, radioso|Brilhante, radiante
+Zayd|m|arabic|arabic|3|virtue,classic|Crecimiento, abundancia|Growth, abundance|Croissance, abondance|Wachstum, Fülle|Crescita, abbondanza|Crescimento, abundância
+Ziyad|m|arabic|arabic|3|virtue,classic|Aumento, abundancia|Increase, abundance|Accroissement, abondance|Zuwachs, Fülle|Aumento, abbondanza|Aumento, abundância

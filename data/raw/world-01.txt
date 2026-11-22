@@ -1,0 +1,80 @@
+Aadhya|f|sanskrit|indian|4|modern,strong|Primer poder|First power|Premier pouvoir|Erste Kraft|Primo potere|Primeiro poder
+Aanya|f|sanskrit|indian|3|modern,sweet|Gracia, bondad|Grace, kindness|Grâce, bonté|Anmut, Güte|Grazia, bontà|Graça, bondade
+Aaradhya|f|sanskrit|indian|3|modern,virtue|Adorada, venerada|Worshipped, revered|Adorée, vénérée|Verehrte, Angebetete|Adorata, venerata|Adorada, venerada
+Aarav|m|sanskrit|indian|4|modern,sweet|Pacífico, melodioso|Peaceful, melodious|Paisible, mélodieux|Friedlich, melodisch|Pacifico, melodioso|Pacífico, melodioso
+Aditi|f|sanskrit|indian|3|mythology,celestial|Ilimitada|Boundless|Sans limites|Grenzenlos|Illimitata|Ilimitada
+Aditya|m|sanskrit|indian|3|celestial,light|Sol, hijo de Aditi|Sun, son of Aditi|Soleil, fils d'Aditi|Sonne, Sohn der Aditi|Sole, figlio di Aditi|Sol, filho de Aditi
+Advait|m|sanskrit|indian|2|modern,strong|Único, sin igual|Unique, without equal|Unique, sans égal|Einzigartig, unvergleichlich|Unico, senza pari|Único, sem igual
+Agastya|m|sanskrit|indian|1|mythology,classic|Sabio legendario|Legendary sage|Sage légendaire|Legendärer Weiser|Saggio leggendario|Sábio lendário
+Ajay|m|sanskrit|indian|3|strong,warrior|Invencible|Invincible|Invincible|Unbesiegbar|Invincibile|Invencível
+Akash|m|sanskrit|indian|3|nature,celestial|Cielo, espacio|Sky, space|Ciel, espace|Himmel, Raum|Cielo, spazio|Céu, espaço
+Amit|m|sanskrit|indian|3|classic,strong|Ilimitado|Limitless|Sans limites|Grenzenlos|Illimitato|Ilimitado
+Amrita|f|sanskrit|indian|3|mythology,classic|Néctar de inmortalidad|Nectar of immortality|Nectar d'immortalité|Nektar der Unsterblichkeit|Nettare dell'immortalità|Néctar da imortalidade
+Anand|m|sanskrit|indian|3|classic,virtue|Alegría, felicidad|Joy, bliss|Joie, félicité|Freude, Glückseligkeit|Gioia, beatitudine|Alegria, felicidade
+Ananya|f|sanskrit|indian|4|modern,sweet|Única, incomparable|Unique, matchless|Unique, incomparable|Einzigartig, unvergleichlich|Unica, incomparabile|Única, incomparável
+Anika|f|sanskrit|indian|3|modern,sweet|Gracia, rostro dulce|Grace, gentle face|Grâce, doux visage|Anmut, sanftes Gesicht|Grazia, volto dolce|Graça, rosto doce
+Anil|m|sanskrit|indian|3|nature,classic|Viento|Wind|Vent|Wind|Vento|Vento
+Anirudh|m|sanskrit|indian|2|mythology,strong|Sin obstáculos|Unobstructed|Sans obstacle|Ungehindert|Senza ostacoli|Sem obstáculos
+Anjali|f|sanskrit|indian|4|classic,virtue|Ofrenda con las manos juntas|Offering with joined hands|Offrande des mains jointes|Opfergabe mit gefalteten Händen|Offerta a mani giunte|Oferenda de mãos juntas
+Ansh|m|sanskrit|indian|2|modern,sweet|Parte, porción|Part, portion|Part, portion|Teil, Anteil|Parte, porzione|Parte, porção
+Anushka|f|sanskrit|indian|3|modern,sweet|Gracia, favor|Grace, favour|Grâce, faveur|Anmut, Gunst|Grazia, favore|Graça, favor
+Arjun|m|sanskrit|indian|4|mythology,warrior|Brillante, blanco|Bright, shining|Brillant, éclatant|Strahlend, hell|Splendente, luminoso|Brilhante, radiante
+Arnav|m|sanskrit|indian|3|sea,modern|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Aryan|m|sanskrit|indian|3|modern,royal|Noble, honorable|Noble, honourable|Noble, honorable|Edel, ehrenhaft|Nobile, onorevole|Nobre, honrado
+Ashok|m|sanskrit|indian|2|classic,royal|Sin pena|Without sorrow|Sans chagrin|Ohne Kummer|Senza dolore|Sem tristeza
+Atharv|m|sanskrit|indian|3|modern,strong|Conocimiento, el primer Veda|Knowledge, the fourth Veda|Savoir, quatrième Veda|Wissen, der vierte Veda|Conoscenza, quarto Veda|Conhecimento, quarto Veda
+Avni|f|sanskrit|indian|3|nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Bharat|m|sanskrit|indian|2|classic,royal|El sustentador, rey legendario|The sustainer, legendary king|Le soutien, roi légendaire|Der Erhalter, legendärer König|Il sostenitore, re leggendario|O sustentador, rei lendário
+Bhavya|f|sanskrit|indian|3|modern,strong|Grandiosa, espléndida|Grand, splendid|Grandiose, splendide|Großartig, prächtig|Grandiosa, splendida|Grandiosa, esplêndida
+Bhumi|f|sanskrit|indian|2|nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Charvi|f|sanskrit|indian|2|modern,sweet|Hermosa, encantadora|Beautiful, charming|Belle, charmante|Schön, bezaubernd|Bella, incantevole|Bela, encantadora
+Chitra|f|sanskrit|indian|2|classic,mythology|Imagen, cuadro|Picture, painting|Image, tableau|Bild, Gemälde|Immagine, dipinto|Imagem, pintura
+Darsh|m|sanskrit|indian|1|modern,light|Visión, aspecto|Sight, vision|Vue, vision|Anblick, Vision|Vista, visione|Visão, aspeto
+Deepika|f|sanskrit|indian|3|light,classic|Lamparita, luz|Little lamp, light|Petite lampe, lumière|Kleine Lampe, Licht|Piccola lampada, luce|Pequena lâmpada, luz
+Dev|m|sanskrit|indian|3|mythology,classic|Dios, divino|God, divine|Dieu, divin|Gott, göttlich|Dio, divino|Deus, divino
+Devi|f|sanskrit|indian|2|mythology,classic|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Dhruv|m|sanskrit|indian|3|celestial,strong|Estrella polar, firme|Pole star, steadfast|Étoile polaire, constant|Polarstern, standhaft|Stella polare, saldo|Estrela polar, firme
+Diya|f|sanskrit|indian|4|light,modern|Lámpara de aceite|Oil lamp|Lampe à huile|Öllampe|Lampada a olio|Lamparina
+Divya|f|sanskrit|indian|3|classic,light|Divina, radiante|Divine, radiant|Divine, radieuse|Göttlich, strahlend|Divina, radiosa|Divina, radiante
+Gauri|f|sanskrit|indian|3|mythology,classic|Radiante, de tez clara|Radiant, fair|Radieuse, claire|Strahlend, hell|Radiosa, chiara|Radiante, clara
+Gautam|m|sanskrit|indian|2|classic,mythology|Descendiente de Gotama|Descendant of Gotama|Descendant de Gotama|Nachkomme des Gotama|Discendente di Gotama|Descendente de Gotama
+Gayatri|f|sanskrit|indian|2|mythology,music|Himno védico|Vedic hymn|Hymne védique|Vedische Hymne|Inno vedico|Hino védico
+Geeta|f|sanskrit|indian|2|classic,music|Canción, canto|Song, hymn|Chant, hymne|Lied, Gesang|Canto, inno|Canção, hino
+Gopal|m|sanskrit|indian|2|mythology,classic|Pastor de vacas|Cowherd|Vacher|Kuhhirte|Mandriano|Vaqueiro
+Hari|m|sanskrit|indian|2|mythology,classic|El que quita, Vishnú|The remover, Vishnu|Celui qui enlève, Vishnou|Der Beseitiger, Vishnu|Colui che rimuove, Vishnu|Aquele que remove, Vishnu
+Harsh|m|sanskrit|indian|3|virtue,classic|Alegría, felicidad|Joy, happiness|Joie, bonheur|Freude, Glück|Gioia, felicità|Alegria, felicidade
+Ira|f|sanskrit|indian|2|nature,modern|Tierra, palabra|Earth, speech|Terre, parole|Erde, Rede|Terra, parola|Terra, fala
+Isha|f|sanskrit|indian|3|modern,mythology|Protectora, diosa|Protector, goddess|Protectrice, déesse|Beschützerin, Göttin|Protettrice, dea|Protetora, deusa
+Ishaan|m|sanskrit|indian|3|modern,celestial|Sol, señor Shiva|Sun, lord Shiva|Soleil, seigneur Shiva|Sonne, Herr Shiva|Sole, signore Shiva|Sol, senhor Shiva
+Ishita|f|sanskrit|indian|2|modern,strong|Deseada, superior|Desired, superior|Désirée, supérieure|Erwünscht, überlegen|Desiderata, superiore|Desejada, superior
+Jai|m|sanskrit|indian|2|classic,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Jaya|f|sanskrit|indian|2|classic,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Jiya|f|sanskrit|indian|3|modern,love|Corazón, vida|Heart, life|Cœur, vie|Herz, Leben|Cuore, vita|Coração, vida
+Karan|m|sanskrit|indian|3|mythology,classic|Oyente, hábil|Ear, skilful|Oreille, habile|Ohr, geschickt|Orecchio, abile|Ouvido, hábil
+Kartik|m|sanskrit|indian|2|mythology,classic|Nacido de las Pléyades|Born of the Pleiades|Né des Pléiades|Geboren aus den Plejaden|Nato dalle Pleiadi|Nascido das Plêiades
+Kavya|f|sanskrit|indian|3|classic,music|Poema|Poem|Poème|Gedicht|Poema|Poema
+Kamala|f|sanskrit|indian|2|flower,classic|Flor de loto|Lotus|Lotus|Lotosblume|Fiore di loto|Flor de lótus
+Kiran|u|sanskrit|indian|3|light,nature|Rayo de luz|Ray of light|Rayon de lumière|Lichtstrahl|Raggio di luce|Raio de luz
+Krish|m|sanskrit|indian|3|modern,mythology|Atractivo, oscuro|Attractive, dark|Attirant, sombre|Anziehend, dunkel|Attraente, scuro|Atraente, escuro
+Krishna|m|sanskrit|indian|3|mythology,classic|Oscuro, el que atrae|Dark, all-attractive|Sombre, celui qui attire|Dunkel, der Anziehende|Scuro, colui che attrae|Escuro, o que atrai
+Kunal|m|sanskrit|indian|2|flower,classic|Flor de loto, de ojos hermosos|Lotus, beautiful-eyed|Lotus, aux beaux yeux|Lotos, schönäugig|Loto, dagli occhi belli|Lótus, de belos olhos
+Lakshmi|f|sanskrit|indian|3|mythology,classic|Fortuna, diosa de la riqueza|Fortune, goddess of wealth|Fortune, déesse de la richesse|Glück, Göttin des Reichtums|Fortuna, dea della ricchezza|Fortuna, deusa da riqueza
+Lakshya|m|sanskrit|indian|2|modern,strong|Meta, objetivo|Aim, target|But, objectif|Ziel, Absicht|Meta, obiettivo|Meta, objetivo
+Lalita|f|sanskrit|indian|2|classic,sweet|Encantadora, juguetona|Charming, playful|Charmante, joueuse|Anmutig, verspielt|Affascinante, giocosa|Encantadora, brincalhona
+Lata|f|sanskrit|indian|2|nature,classic|Enredadera, vid|Creeper, vine|Liane, vigne|Ranke, Rebe|Rampicante, vite|Trepadeira, videira
+Leela|f|sanskrit|indian|2|classic,mythology|Juego divino|Divine play|Jeu divin|Göttliches Spiel|Gioco divino|Jogo divino
+Madhav|m|sanskrit|indian|2|mythology,classic|Primavera, Krishna|Spring, Krishna|Printemps, Krishna|Frühling, Krishna|Primavera, Krishna|Primavera, Krishna
+Mahi|f|sanskrit|indian|3|nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Manish|m|sanskrit|indian|2|classic,virtue|Señor de la mente|Lord of the mind|Maître de l'esprit|Herr des Geistes|Signore della mente|Senhor da mente
+Maya|f|sanskrit|indian,intl|4|classic,mythology|Ilusión, magia|Illusion, magic|Illusion, magie|Illusion, Magie|Illusione, magia|Ilusão, magia
+Mihir|m|sanskrit|indian|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Mohan|m|sanskrit|indian|2|classic,mythology|Encantador, fascinante|Charming, enchanting|Charmant, envoûtant|Bezaubernd, fesselnd|Incantevole, affascinante|Encantador, fascinante
+Mohini|f|sanskrit|indian|1|mythology,classic|Encantadora|Enchantress|Enchanteresse|Zauberin|Incantatrice|Encantadora
+Nakul|m|sanskrit|indian|1|mythology,classic|Mangosta, hermano Pandava|Mongoose, a Pandava brother|Mangouste, frère Pandava|Mungo, ein Pandava-Bruder|Mangusta, fratello Pandava|Mangusto, irmão Pandava
+Nandini|f|sanskrit|indian|2|classic,sweet|Hija, la que da alegría|Daughter, delightful|Fille, source de joie|Tochter, erfreuend|Figlia, deliziosa|Filha, deliciosa
+Naveen|m|sanskrit|indian|2|modern,classic|Nuevo|New|Nouveau|Neu|Nuovo|Novo
+Neel|m|sanskrit|indian|2|nature,modern|Azul|Blue|Bleu|Blau|Blu|Azul
+Neha|f|sanskrit|indian|3|love,classic|Amor, lluvia|Love, rain|Amour, pluie|Liebe, Regen|Amore, pioggia|Amor, chuva
+Nikhil|m|sanskrit|indian|2|classic,virtue|Completo, entero|Whole, complete|Entier, complet|Ganz, vollständig|Intero, completo|Inteiro, completo
+Nisha|f|sanskrit|indian|3|nature,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Om|m|sanskrit|indian|2|classic,music|Sílaba sagrada|Sacred syllable|Syllabe sacrée|Heilige Silbe|Sillaba sacra|Sílaba sagrada

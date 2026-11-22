@@ -1,0 +1,62 @@
+Rachele|f|hebrew|italian|2|biblical,classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Raffaella|f|hebrew|italian|3|biblical,saint|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Regina|f|latin|italian,german|2|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Renata|f|latin|italian,german,portuguese|2|classic,vintage|Renacida|Reborn|Renée|Wiedergeboren|Rinata|Renascida
+Rita|f|greek|italian,spanish,portuguese|2|saint,vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Roberta|f|germanic|italian|2|classic|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Romana|f|latin|italian|1|place,vintage|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Romina|f|latin|italian|2|modern|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Rosa|f|latin|italian,spanish,german|3|flower,classic|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rosalia|f|latin|italian|2|saint,flower,vintage|Fiesta de las rosas|Festival of roses|Fête des roses|Rosenfest|Festa delle rose|Festa das rosas
+Rosaria|f|latin|italian|1|saint,flower,vintage|Rosario|Rosary|Rosaire|Rosenkranz|Rosario|Rosário
+Rosella|f|latin|italian|1|flower,vintage|Rosita|Little rose|Petite rose|Röschen|Piccola rosa|Rosinha
+Rossana|f|persian|italian|1|literary,light|Luminosa|Radiant|Lumineuse|Leuchtend|Luminosa|Luminosa
+Ramona|f|germanic|italian,spanish|1|vintage|Protectora sabia|Wise protector|Protectrice sage|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Raffaele|m|hebrew|italian|3|biblical,saint,classic|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Raimondo|m|germanic|italian|1|vintage,royal|Protector sabio|Wise protector|Protecteur sage|Weiser Beschützer|Protettore saggio|Protetor sábio
+Renato|m|latin|italian|2|classic,vintage|Renacido|Reborn|Né de nouveau|Wiedergeboren|Rinato|Renascido
+Renzo|m|latin|italian|2|classic|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Riccardo|m|germanic|italian|4|classic,royal,strong|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Governante potente|Governante poderoso
+Roberto|m|germanic|italian|3|classic|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Rocco|m|germanic|italian|3|saint,vintage|Reposo|Rest|Repos|Ruhe|Riposo|Repouso
+Rodolfo|m|germanic|italian,spanish|1|vintage,animal|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Rolando|m|germanic|italian,spanish|1|vintage,warrior|Famoso en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nella terra|Famoso na terra
+Romano|m|latin|italian|1|vintage,place|Romano|Roman|Romain|Römer|Romano|Romano
+Romeo|m|latin|italian|2|literary,love|Peregrino a Roma|Pilgrim to Rome|Pèlerin de Rome|Rom-Pilger|Pellegrino a Roma|Peregrino a Roma
+Romolo|m|latin|italian|1|mythology,vintage|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Rosario|m|latin|italian,spanish|2|saint,vintage|Rosario|Rosary|Rosaire|Rosenkranz|Rosario|Rosário
+Ruggero|m|germanic|italian|1|vintage,warrior,royal|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Rinaldo|m|germanic|italian|1|vintage,literary|Consejero poderoso|Powerful counsel|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Sabina|f|latin|italian,german|2|classic|Mujer sabina|Sabine woman|Femme sabine|Sabinerin|Donna sabina|Mulher sabina
+Sabrina|f|celtic|italian,english|3|place,nature|Del río Severn|Of the River Severn|De la rivière Severn|Vom Fluss Severn|Del fiume Severn|Do rio Severn
+Sara|f|hebrew|italian|4|biblical,classic|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Serafina|f|hebrew|italian|1|biblical,light,vintage|Ardiente|Fiery|Ardente|Feurig|Ardente|Ardente
+Serena|f|latin|italian,english|3|virtue,sweet|Serena|Serene|Sereine|Heiter|Serena|Serena
+Silvia|f|latin|italian,spanish|3|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Simona|f|hebrew|italian|3|biblical,classic|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Sofia|f|greek|italian,spanish,portuguese,intl|5|virtue,classic,saint|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sole|f|latin|italian|2|celestial,light,modern|Sol|Sun|Soleil|Sonne|Sole|Sol
+Stefania|f|greek|italian|3|classic,saint|Coronada|Crowned|Couronnée|Gekrönt|Coronata|Coroada
+Stella|f|latin|italian,english,german|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Sandra|f|greek|italian,spanish,german|2|classic|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Speranza|f|latin|italian|1|virtue,vintage|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Susanna|f|hebrew|italian|2|biblical,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Silvana|f|latin|italian|2|nature,vintage|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Sveva|f|germanic|italian|1|vintage,royal,place|Mujer sueva|Swabian woman|Souabe|Schwäbin|Donna sveva|Mulher sueva
+Smeralda|f|greek|italian|1|gem,place|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Santina|f|latin|italian|1|saint,vintage|Pequeña santa|Little saint|Petite sainte|Kleine Heilige|Piccola santa|Pequena santa
+Sabino|m|latin|italian|1|saint,vintage|Sabino|Sabine|Sabin|Sabiner|Sabino|Sabino
+Salvatore|m|latin|italian|3|saint,classic|Salvador|Saviour|Sauveur|Erlöser|Colui che salva|Salvador
+Samuele|m|hebrew|italian|4|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sandro|m|greek|italian|2|classic|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Santo|m|latin|italian|2|saint,vintage|Santo|Holy|Saint|Heilig|Santo|Santo
+Saverio|m|basque|italian|2|saint,classic|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Sebastiano|m|greek|italian|3|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Serafino|m|hebrew|italian|1|biblical,vintage|Ardiente|Fiery|Ardent|Feurig|Ardente|Ardente
+Sergio|m|latin|italian,spanish|2|classic|De la familia Sergia|Of the Sergian clan|De la famille Sergia|Aus dem Geschlecht der Sergier|Della gente Sergia|Da família Sérgia
+Settimio|m|latin|italian|1|vintage|Séptimo|Seventh|Septième|Siebter|Settimo|Sétimo
+Silvano|m|latin|italian|1|nature,vintage|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Silvio|m|latin|italian|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Simone|m|hebrew|italian|4|biblical,saint,classic|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Stefano|m|greek|italian|3|saint,classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Severino|m|latin|italian|1|vintage,virtue|Severo|Severe|Sévère|Streng|Severo|Severo

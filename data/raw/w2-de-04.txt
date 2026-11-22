@@ -1,0 +1,49 @@
+Aart|m|germanic|dutch|2|vintage,animal|Poder del águila|Eagle power|Puissance de l'aigle|Adlerkraft|Potere dell'aquila|Poder da águia
+Arend|m|germanic|dutch|2|animal,strong|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Berend|m|germanic|dutch|2|vintage,animal,strong|Fuerte como un oso|Brave as a bear|Courageux comme un ours|Bärenstark|Forte come un orso|Forte como um urso
+Bastiaan|m|greek|dutch|2|saint|Venerable|Venerable|Vénérable|Der Verehrungswürdige|Venerabile|Venerável
+Dries|m|greek|dutch|2|vintage|Viril|Manly|Viril|Der Männliche|Virile|Viril
+Frans|m|germanic|dutch|3|classic|Libre, francés|Free man, Frenchman|Homme libre, Français|Freier Mann, Franzose|Uomo libero, francese|Homem livre, francês
+Gerard|m|germanic|dutch,english,french|3|classic,warrior|Lanza valiente|Brave with the spear|Lance vaillante|Speerstark|Lancia valorosa|Lança valente
+Gert|m|germanic|dutch,german|2|vintage|Lanza valiente|Brave with the spear|Lance vaillante|Speerstark|Lancia valorosa|Lança valente
+Huub|m|germanic|dutch|2|vintage|Mente brillante|Bright mind|Esprit brillant|Glänzender Geist|Mente brillante|Mente brilhante
+Jef|m|hebrew|dutch|2|vintage|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Joep|m|hebrew|dutch|2|vintage|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Jort|m|greek|dutch|2|modern|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador
+Joeri|m|greek|dutch|2|modern|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador
+Kobe|m|hebrew|dutch|3|modern|El que sigue de cerca|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che segue|O que suplanta
+Kobus|m|hebrew|dutch|1|vintage|El que sigue de cerca|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che segue|O que suplanta
+Lex|m|greek|dutch|2|vintage|Defensor de hombres|Defender of mankind|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Lodewijk|m|germanic|dutch|2|royal,vintage|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Luuk|m|greek|dutch|3|classic|De Lucania|From Lucania|De Lucanie|Der aus Lukanien|Della Lucania|Da Lucânia
+Martijn|m|latin|dutch|3|classic|De Marte|Of Mars|De Mars|Der dem Mars Geweihte|Di Marte|De Marte
+Mathijs|m|hebrew|dutch|2|biblical|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Piet|m|greek|dutch|2|classic|Roca|Rock|Roc|Fels|Roccia|Rocha
+Sander|m|greek|dutch,scandinavian|3|classic|Defensor de hombres|Defender of mankind|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Sebastiaan|m|greek|dutch|3|classic,saint|Venerable|Venerable|Vénérable|Der Verehrungswürdige|Venerabile|Venerável
+Siem|m|hebrew|dutch|3|modern|Dios ha escuchado|He has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Wannes|m|hebrew|dutch|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Wilbert|m|germanic|dutch|1|vintage|Voluntad brillante|Resolute and bright|Volonté brillante|Entschlossen und glänzend|Volontà splendente|Vontade brilhante
+Sjaak|m|hebrew|dutch|1|vintage|El que sigue de cerca|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che segue|O que suplanta
+Dave|m|hebrew|dutch,english|2|modern|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Carlijn|f|germanic|dutch|3|modern|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Daphne|f|greek|dutch,english,german|3|mythology,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Fien|f|hebrew|dutch|3|modern,sweet|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Geertje|f|germanic|dutch|1|vintage|Lanza valiente|Brave with the spear|Lance vaillante|Speerstark|Lancia valorosa|Lança valente
+Hendrika|f|germanic|dutch|1|vintage,royal|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrscherin des Hauses|Signora della casa|Senhora do lar
+Jacoba|f|hebrew|dutch|1|vintage|La que sigue de cerca|Supplanter|Celle qui supplante|Die Fersenhalterin|Colei che segue|A que suplanta
+Kaat|f|greek|dutch|2|modern|Pura|Pure|Pure|Die Reine|Pura|Pura
+Lenthe|f|germanic|dutch|1|nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Lies|f|hebrew|dutch|2|vintage|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Maud|f|germanic|dutch,english,french|3|vintage,warrior|Poderosa en la batalla|Mighty in battle|Puissante au combat|Mächtig in der Schlacht|Potente in battaglia|Poderosa na batalha
+Mirte|f|greek|dutch|3|nature,flower|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Famke|f|germanic|dutch|2|sweet|Niña|Little girl|Petite fille|Mädchen|Bambina|Menina
+Sterre|f|germanic|dutch|2|modern,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Willemijn|f|germanic|dutch|2|vintage,strong|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Madelief|f|germanic|dutch|2|flower,sweet|Margarita|Daisy|Pâquerette|Gänseblümchen|Margherita|Margarida
+Jasmijn|f|persian|dutch|2|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Amber|f|arabic|dutch,english|4|gem,modern|Ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Febe|f|greek|dutch|2|light,mythology|Radiante, brillante|Radiant, bright|Radieuse, brillante|Die Strahlende|Radiosa, luminosa|Radiante, brilhante
+Linde|f|germanic|dutch|3|nature|Tilo|Linden tree|Tilleul|Linde|Tiglio|Tília
+Marthe|f|hebrew|dutch,french|2|biblical|Señora|Lady|Dame|Herrin|Signora|Senhora
+Janne|f|hebrew|dutch|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso

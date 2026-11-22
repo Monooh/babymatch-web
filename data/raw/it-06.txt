@@ -1,0 +1,54 @@
+Tecla|f|greek|italian|1|saint,vintage|Gloria de Dios|Glory of God|Gloire de Dieu|Ruhm Gottes|Gloria di Dio|Glória de Deus
+Tiziana|f|latin|italian|1|classic|De la familia Titia|Of the Titian clan|De la famille Titia|Aus dem Geschlecht der Titier|Della gente Tizia|Da família Tícia
+Teodora|f|greek|italian|1|saint,royal,vintage|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Teodoro|m|greek|italian,spanish|2|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Tiziano|m|latin|italian|1|classic,vintage|De la familia Titia|Of the Titian clan|De la famille Titia|Aus dem Geschlecht der Titier|Della gente Tizia|Da família Tícia
+Tobia|m|hebrew|italian|2|biblical,vintage|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Tommaso|m|hebrew|italian|5|biblical,saint,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Timoteo|m|greek|italian,spanish|1|biblical,saint|El que honra a Dios|Honouring God|Qui honore Dieu|Gottesehrer|Colui che onora Dio|Aquele que honra a Deus
+Tiberio|m|latin|italian|1|royal,place,vintage|Del río Tíber|Of the River Tiber|Du Tibre|Vom Tiber|Del Tevere|Do rio Tibre
+Ugo|m|germanic|italian|2|classic,vintage|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Uberto|m|germanic|italian|1|vintage|Mente brillante|Bright mind|Esprit brillant|Heller Geist|Mente brillante|Mente brilhante
+Ubaldo|m|germanic|italian|1|vintage,strong|Audaz de mente|Bold of mind|Audacieux d'esprit|Kühn im Geist|Audace di mente|Audaz de mente
+Urbano|m|latin|italian|1|vintage,saint|De la ciudad|Of the city|De la ville|Städtisch|Cittadino|Da cidade
+Valentina|f|latin|italian|4|saint,strong,classic|Fuerte, sana|Strong, healthy|Forte, en bonne santé|Stark, gesund|Forte, sana|Forte, saudável
+Valeria|f|latin|italian,spanish|4|classic,strong|Fuerte, sana|Strong, healthy|Forte, en bonne santé|Stark, gesund|Forte, sana|Forte, saudável
+Vera|f|latin|italian,russian|2|virtue,classic|Verdadera|True|Vraie|Wahr|Vera, sincera|Verdadeira
+Veronica|f|greek|italian,spanish|3|saint,classic|Portadora de victoria|Bearer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora da vitória
+Viola|f|latin|italian,english|3|flower,nature|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Violetta|f|latin|italian|2|flower,music,sweet|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Virginia|f|latin|italian,spanish,english|3|classic,virtue|Doncella, pura|Maiden, pure|Vierge, pure|Jungfrau, rein|Fanciulla, pura|Donzela, pura
+Vittoria|f|latin|italian|4|royal,strong,classic|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Vincenza|f|latin|italian|1|saint,vintage|Victoriosa|Victorious|Victorieuse|Siegreiche|Vittoriosa|Vitoriosa
+Vita|f|latin|italian|1|vintage,virtue|Vida|Life|Vie|Leben|Vita|Vida
+Viviana|f|latin|italian|2|classic,sweet|Viva|Lively|Vivante|Lebendig|Viva, vivace|Viva
+Venera|f|latin|italian|1|saint,vintage|De Venus|Of Venus|De Vénus|Der Venus geweiht|Di Venere|De Vénus
+Valentino|m|latin|italian|2|saint,love|Fuerte, sano|Strong, healthy|Fort, en bonne santé|Stark, gesund|Forte, sano|Forte, saudável
+Valerio|m|latin|italian|3|classic,strong|Fuerte, sano|Strong, healthy|Fort, en bonne santé|Stark, gesund|Forte, sano|Forte, saudável
+Vincenzo|m|latin|italian|3|saint,classic|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Vito|m|latin|italian|2|saint,vintage|Vital, vivo|Vital, alive|Vital, vivant|Lebendig, voller Leben|Vitale, vivo|Vital, vivo
+Vittorio|m|latin|italian|3|royal,classic|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Vitale|m|latin|italian|1|vintage,virtue|Vital|Vital|Vital|Lebenskräftig|Vitale|Vital
+Venanzio|m|latin|italian|1|saint,vintage|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Zeno|m|greek|italian|1|mythology,vintage|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zoe|f|greek|italian,english|2|biblical,modern,virtue|Vida|Life|Vie|Leben|Vita|Vida
+Zefiro|m|greek|italian|1|nature,mythology|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento d'occidente|Vento do oeste
+Zenobia|f|greek|italian|1|mythology,royal,vintage|Vida de Zeus|Life of Zeus|Vie de Zeus|Leben des Zeus|Vita di Zeus|Vida de Zeus
+Zaccaria|m|hebrew|italian|1|biblical,vintage|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus recorda
+Adelaide|f|germanic|italian,english|2|royal,classic|De noble estirpe|Of noble kind|De noble race|Von edlem Stand|Di nobile stirpe|De nobre estirpe
+Cloe|f|greek|italian|2|nature,modern|Brote verde|Green shoot|Jeune pousse|Grüner Trieb|Germoglio verde|Rebento verde
+Clio|f|greek|italian|1|mythology,music|Proclamadora|Proclaimer|Celle qui proclame|Verkünderin|Colei che proclama|Proclamadora
+Euridice|f|greek|italian|1|mythology,music|Amplia justicia|Wide justice|Large justice|Weite Gerechtigkeit|Ampia giustizia|Ampla justiça
+Galatea|f|greek|italian|1|mythology,sea|Blanca como la leche|Milk-white|Blanche comme le lait|Milchweiß|Bianca come il latte|Branca como o leite
+Ippolita|f|greek|italian|1|mythology,vintage|La que suelta los caballos|Releaser of horses|Celle qui délie les chevaux|Die Pferdebefreierin|Colei che scioglie i cavalli|Aquela que solta os cavalos
+Psiche|f|greek|italian|1|mythology,love|Alma|Soul|Âme|Seele|Anima|Alma
+Selene|f|greek|italian|2|celestial,mythology,light|Luna|Moon|Lune|Mond|Luna|Lua
+Calliope|f|greek|italian|1|mythology,music|De bella voz|Beautiful-voiced|À la belle voix|Schönstimmige|Dalla bella voce|De bela voz
+Bonaria|f|latin|italian|1|saint,place,vintage|Buen aire|Fair wind|Bon vent|Guter Wind|Buon vento|Bom vento
+Annibale|m|other|italian|1|warrior,vintage|Favor de Baal|Favour of Baal|Faveur de Baal|Gunst des Baal|Grazia di Baal|Graça de Baal
+Aristide|m|greek|italian|1|classic,virtue|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Callisto|m|greek|italian|1|mythology,celestial|El más hermoso|The most beautiful|Le plus beau|Der Schönste|Il più bello|O mais belo
+Gaudenzio|m|latin|italian|1|saint,vintage|Alegre|Joyful|Joyeux|Fröhlich|Gioioso|Alegre
+Quinto|m|latin|italian|1|vintage|Quinto|Fifth|Cinquième|Fünfter|Quinto|Quinto
+Efisio|m|greek|italian|1|saint,place|De Éfeso|From Ephesus|D'Éphèse|Aus Ephesos|Di Efeso|De Éfeso
+Gioele|m|hebrew|italian|2|biblical,modern|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Il Signore è Dio|Javé é Deus

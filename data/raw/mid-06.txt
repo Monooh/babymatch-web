@@ -1,0 +1,104 @@
+Aslı|f|turkish|turkish|3|virtue,modern|Auténtica, original|Genuine, original|Authentique, originale|Echt, ursprünglich|Autentica, originale|Autêntica, original
+Ayça|f|turkish|turkish|3|celestial,modern|Luna nueva|New moon|Nouvelle lune|Neumond|Luna nuova|Lua nova
+Ayla|f|turkish|turkish,english,intl|4|celestial,light|Halo de luna|Moon halo|Halo de lune|Mondhof|Alone lunare|Halo da lua
+Aylin|f|turkish|turkish,english|3|celestial,light|Halo de luna|Moon halo|Halo de lune|Mondhof|Alone lunare|Halo da lua
+Aysel|f|turkish|turkish|2|celestial,nature|Torrente de luna|Moon flood|Torrent de lune|Mondflut|Fiume di luna|Torrente de lua
+Ayşe|f|turkish|turkish|4|classic,virtue|Viva, próspera|Alive, thriving|Vivante, prospère|Lebendig, gedeihend|Viva, prospera|Viva, próspera
+Berrak|f|turkish|turkish|2|nature,virtue|Clara, transparente|Clear, transparent|Claire, transparente|Klar, durchsichtig|Chiara, trasparente|Clara, transparente
+Beyza|f|turkish|turkish|3|virtue,sweet|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura
+Buse|f|turkish|turkish|3|love,sweet|Beso|Kiss|Baiser|Kuss|Bacio|Beijo
+Cansu|f|turkish|turkish|3|nature,virtue|Agua de vida|Water of life|Eau de vie|Wasser des Lebens|Acqua di vita|Água da vida
+Ceren|f|turkish|turkish|2|animal,sweet|Joven gacela|Young gazelle|Jeune gazelle|Junge Gazelle|Giovane gazzella|Jovem gazela
+Damla|f|turkish|turkish|3|nature,sweet|Gota|Drop|Goutte|Tropfen|Goccia|Gota
+Defne|f|turkish|turkish,greek|4|nature,mythology|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Derin|f|turkish|turkish|3|virtue,sea|Profunda|Deep|Profonde|Tief|Profonda|Profunda
+Deniz|u|turkish|turkish|4|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Duygu|f|turkish|turkish|3|virtue,love|Sentimiento, emoción|Feeling, emotion|Sentiment, émotion|Gefühl, Emotion|Sentimento, emozione|Sentimento, emoção
+Ece|f|turkish|turkish|3|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Elif|f|turkish|turkish,arabic|5|classic,virtue|Esbelta, primera letra del alfabeto|Slender, first letter of the alphabet|Élancée, première lettre de l'alphabet|Schlank, erster Buchstabe des Alphabets|Slanciata, prima lettera dell'alfabeto|Esbelta, primeira letra do alfabeto
+Esra|f|turkish|turkish|3|classic,celestial|La que viaja de noche|One who travels by night|Celle qui voyage de nuit|Die nachts Reisende|Colei che viaggia di notte|Aquela que viaja à noite
+Evren|u|turkish|turkish|3|celestial,modern|Universo|Universe|Univers|Universum|Universo|Universo
+Eylül|f|turkish|turkish|3|nature,modern|Septiembre|September|Septembre|September|Settembre|Setembro
+Ezgi|f|turkish|turkish|3|music,sweet|Melodía|Melody|Mélodie|Melodie|Melodia|Melodia
+Gamze|f|turkish|turkish|2|sweet,modern|Hoyuelo|Dimple|Fossette|Grübchen|Fossetta|Covinha
+Gizem|f|turkish|turkish|3|modern,mythology|Misterio|Mystery|Mystère|Geheimnis|Mistero|Mistério
+Gökçe|f|turkish|turkish|2|celestial,nature|Celeste, azul cielo|Celestial, sky-blue|Céleste, bleu ciel|Himmlisch, himmelblau|Celeste, azzurra|Celeste, azul-céu
+Gül|f|turkish|turkish|3|flower,classic|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Gülay|f|turkish|turkish|2|flower,celestial|Luna rosa|Rose moon|Lune rose|Rosenmond|Luna rosa|Lua rosa
+Hande|f|turkish|turkish|3|sweet,modern|Sonrisa, risa|Smile, laughter|Sourire, rire|Lächeln, Lachen|Sorriso, risata|Sorriso, riso
+Hatice|f|turkish|turkish|3|classic,virtue|Nacida antes de tiempo|Born prematurely|Née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Işık|u|turkish|turkish|2|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+İpek|f|turkish|turkish|3|nature,sweet|Seda|Silk|Soie|Seide|Seta|Seda
+İrem|f|turkish|turkish|3|mythology,nature|Jardín del paraíso|Garden of paradise|Jardin du paradis|Garten des Paradieses|Giardino del paradiso|Jardim do paraíso
+Melek|f|turkish|turkish|3|virtue,sweet|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Melis|f|turkish|turkish|3|nature,sweet|Abeja de miel|Honeybee|Abeille à miel|Honigbiene|Ape da miele|Abelha de mel
+Merve|f|turkish|turkish|3|classic,virtue|Roca de sílex|Flint stone|Pierre de silex|Feuerstein|Pietra di selce|Pedra de sílex
+Nehir|f|turkish|turkish|3|nature,modern|Río|River|Rivière|Fluss|Fiume|Rio
+Nilüfer|f|turkish|turkish|2|flower,nature|Nenúfar, loto|Water lily, lotus|Nénuphar, lotus|Seerose, Lotus|Ninfea, loto|Nenúfar, lótus
+Nur|f|turkish|turkish,arabic|3|light,virtue|Luz|Light|Lumière|Licht|Luce|Luz
+Özge|f|turkish|turkish|3|virtue,modern|Especial, distinta|Special, distinct|Spéciale, distincte|Besonders, eigen|Speciale, distinta|Especial, distinta
+Pelin|f|turkish|turkish|2|nature,flower|Ajenjo|Wormwood|Absinthe|Wermut|Assenzio|Absinto
+Pınar|f|turkish|turkish|3|nature,modern|Manantial, fuente|Spring, fountain|Source, fontaine|Quelle, Brunnen|Sorgente, fonte|Nascente, fonte
+Rüya|f|turkish|turkish|3|sweet,modern|Sueño|Dream|Rêve|Traum|Sogno|Sonho
+Seda|f|turkish|turkish|2|sweet,music|Eco|Echo|Écho|Echo|Eco|Eco
+Selin|f|turkish|turkish|3|nature,sweet|Corriente de agua|Flowing water|Eau courante|Fließendes Wasser|Acqua corrente|Água corrente
+Sena|f|turkish|turkish|3|virtue,modern|Alabanza, elogio|Praise, eulogy|Louange, éloge|Lob, Preis|Lode, elogio|Louvor, elogio
+Sevgi|f|turkish|turkish|3|love,virtue|Amor, cariño|Love, affection|Amour, affection|Liebe, Zuneigung|Amore, affetto|Amor, carinho
+Sevil|f|turkish|turkish|2|love,virtue|Sé amada|Be loved|Sois aimée|Sei geliebt|Sii amata|Seja amada
+Şeyma|f|turkish|turkish|2|classic,sweet|Con un lunar, de buen carácter|Beauty-marked|Au grain de beauté|Mit Schönheitsfleck|Con un neo|Com pinta de beleza
+Şule|f|turkish|turkish|2|light,nature|Llama, resplandor|Flame, blaze|Flamme, éclat|Flamme, Glanz|Fiamma, splendore|Chama, resplendor
+Tuğba|f|turkish|turkish|2|nature,classic|Árbol del paraíso|Tree of paradise|Arbre du paradis|Baum des Paradieses|Albero del paradiso|Árvore do paraíso
+Yağmur|f|turkish|turkish|3|nature,modern|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Yıldız|f|turkish|turkish|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Zehra|f|turkish|turkish,arabic|4|light,classic|Radiante, brillante|Radiant, bright|Radieuse, brillante|Strahlend, leuchtend|Radiosa, splendente|Radiante, brilhante
+Zeynep|f|turkish|turkish|5|classic,flower|Árbol fragante, joya|Fragrant tree, jewel|Arbre parfumé, joyau|Duftender Baum, Juwel|Albero profumato, gioiello|Árvore perfumada, joia
+Ahmet|m|turkish|turkish|4|classic,virtue|El más alabado|Most praised|Le plus loué|Der Gepriesenste|Il più lodato|O mais louvado
+Alp|m|turkish|turkish|3|warrior,strong|Héroe valiente|Brave hero|Héros vaillant|Tapferer Held|Eroe valoroso|Herói valente
+Alper|m|turkish|turkish|3|warrior,strong|Héroe valiente|Brave hero|Héros vaillant|Tapferer Held|Eroe valoroso|Herói valente
+Ata|m|turkish|turkish|2|classic,virtue|Antepasado, padre|Ancestor, father|Ancêtre, père|Vorfahre, Vater|Antenato, padre|Ancestral, pai
+Baran|m|turkish|turkish|3|nature,modern|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Barış|u|turkish|turkish|3|virtue,modern|Paz|Peace|Paix|Frieden|Pace|Paz
+Berk|m|turkish|turkish|3|strong,virtue|Sólido, fuerte|Solid, firm|Solide, ferme|Fest, stark|Solido, saldo|Sólido, firme
+Bora|m|turkish|turkish|3|nature,strong|Tormenta, vendaval|Storm, gale|Tempête, bourrasque|Sturm, Windstoß|Tempesta, burrasca|Tempestade, vendaval
+Bulut|u|turkish|turkish|2|nature,celestial|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Burak|m|turkish|turkish|3|mythology,strong|Relámpago, corcel alado|Lightning, winged steed|Éclair, coursier ailé|Blitz, geflügeltes Ross|Fulmine, destriero alato|Relâmpago, corcel alado
+Can|m|turkish|turkish|4|virtue,modern|Alma, vida|Soul, life|Âme, vie|Seele, Leben|Anima, vita|Alma, vida
+Cem|m|turkish|turkish|3|royal,mythology|Rey legendario|Legendary king|Roi légendaire|Legendärer König|Re leggendario|Rei lendário
+Cenk|m|turkish|turkish|2|warrior,strong|Batalla, guerra|Battle, war|Bataille, guerre|Schlacht, Krieg|Battaglia, guerra|Batalha, guerra
+Çınar|u|turkish|turkish|2|nature,strong|Plátano, árbol|Plane tree|Platane|Platane|Platano|Plátano
+Demir|m|turkish|turkish|3|strong,modern|Hierro|Iron|Fer|Eisen|Ferro|Ferro
+Doruk|m|turkish|turkish|3|strong,modern|Cima, cumbre|Summit, peak|Sommet, cime|Gipfel|Vetta, cima|Cume, pico
+Ege|m|turkish|turkish|3|sea,place|Mar Egeo|Aegean|Mer Égée|Ägäis|Egeo|Egeu
+Efe|m|turkish|turkish|4|warrior,strong|Hermano mayor, héroe|Older brother, hero|Grand frère, héros|Älterer Bruder, Held|Fratello maggiore, eroe|Irmão mais velho, herói
+Emir|m|turkish|turkish,arabic|4|royal,classic|Príncipe, comandante|Prince, commander|Prince, commandant|Prinz, Befehlshaber|Principe, comandante|Príncipe, comandante
+Emre|m|turkish|turkish|4|love,classic|Amigo, enamorado|Friend, lover|Ami, amoureux|Freund, Liebender|Amico, innamorato|Amigo, apaixonado
+Enes|m|turkish|turkish|3|virtue,classic|Compañero amable|Friendly companion|Compagnon aimable|Freundlicher Gefährte|Compagno cordiale|Companheiro amável
+Eren|u|turkish|turkish|4|virtue,modern|Santo, sabio|Saint, sage|Saint, sage|Heiliger, Weiser|Santo, saggio|Santo, sábio
+Furkan|m|turkish|turkish|3|virtue,classic|Criterio, distinción|Criterion, distinction|Critère, distinction|Unterscheidung|Criterio, distinzione|Critério, distinção
+Görkem|m|turkish|turkish|3|virtue,modern|Magnificencia|Magnificence|Magnificence|Pracht|Magnificenza|Magnificência
+Hakan|m|turkish|turkish|4|royal,classic|Soberano, kan|Sovereign, khan|Souverain, khan|Herrscher, Khan|Sovrano, khan|Soberano, cã
+Kaan|m|turkish|turkish|4|royal,strong|Rey, soberano|King, sovereign|Roi, souverain|König, Herrscher|Re, sovrano|Rei, soberano
+Kağan|m|turkish|turkish|2|royal,warrior|Gran soberano|Great ruler|Grand souverain|Großherrscher|Gran sovrano|Grande soberano
+Kemal|m|turkish|turkish|3|virtue,classic|Perfección, madurez|Perfection, maturity|Perfection, maturité|Vollkommenheit, Reife|Perfezione, maturità|Perfeição, maturidade
+Kerem|m|turkish|turkish|3|virtue,literary|Generosidad, nobleza|Generosity, nobility|Générosité, noblesse|Großzügigkeit, Edelmut|Generosità, nobiltà|Generosidade, nobreza
+Koray|m|turkish|turkish|2|light,warrior|Brasa|Ember|Braise|Glut|Brace|Brasa
+Mehmet|m|turkish|turkish|5|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Lodevole|Digno de louvor
+Mert|m|turkish|turkish|4|virtue,strong|Valiente, íntegro|Brave, upright|Courageux, intègre|Tapfer, aufrecht|Coraggioso, integro|Corajoso, íntegro
+Mete|m|turkish|turkish|2|warrior,royal|Héroe, soberano huno|Hero, Hun ruler|Héros, souverain hun|Held, hunnischer Herrscher|Eroe, sovrano unno|Herói, soberano huno
+Metin|m|turkish|turkish|2|virtue,strong|Firme, sólido|Firm, solid|Ferme, solide|Fest, stabil|Fermo, solido|Firme, sólido
+Murat|m|turkish|turkish|4|virtue,classic|Deseo, anhelo|Wish, desire|Souhait, désir|Wunsch, Sehnsucht|Desiderio, anelito|Desejo, anseio
+Onur|m|turkish|turkish|3|virtue,modern|Honor, dignidad|Honor, dignity|Honneur, dignité|Ehre, Würde|Onore, dignità|Honra, dignidade
+Orhan|m|turkish|turkish|2|royal,classic|Gran jefe|Great chief|Grand chef|Großer Anführer|Gran capo|Grande chefe
+Ozan|m|turkish|turkish|3|music,literary|Bardo, juglar|Bard, minstrel|Barde, ménestrel|Barde, Minnesänger|Bardo, menestrello|Bardo, menestrel
+Selim|m|turkish|turkish,arabic|3|virtue,royal|Sano y salvo, pacífico|Safe and sound, peaceful|Sain et sauf, paisible|Wohlbehalten, friedlich|Sano e salvo, pacifico|São e salvo, pacífico
+Serkan|m|turkish|turkish|2|strong,warrior|Jefe, líder|Chief, leader|Chef, meneur|Anführer, Chef|Capo, guida|Chefe, líder
+Süleyman|m|turkish|turkish|3|royal,biblical|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Tolga|m|turkish|turkish|3|warrior,strong|Casco de guerra|War helmet|Casque de guerre|Kriegshelm|Elmo da guerra|Capacete de guerra
+Tuna|m|turkish|turkish|2|nature,place|Danubio, río|Danube, river|Danube, fleuve|Donau, Fluss|Danubio, fiume|Danúbio, rio
+Ufuk|u|turkish|turkish|2|nature,celestial|Horizonte|Horizon|Horizon|Horizont|Orizzonte|Horizonte
+Umut|u|turkish|turkish|3|virtue,modern|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Volkan|m|turkish|turkish|2|nature,strong|Volcán|Volcano|Volcan|Vulkan|Vulcano|Vulcão
+Yağız|m|turkish|turkish|3|strong,modern|Moreno, valiente|Dark-haired, brave|Brun, vaillant|Dunkelhaarig, tapfer|Bruno, coraggioso|Moreno, valente
+Yiğit|m|turkish|turkish|4|warrior,strong|Joven valiente|Brave young man|Jeune homme vaillant|Tapferer junger Mann|Giovane valoroso|Jovem valente
+Yunus|m|turkish|turkish,arabic|3|biblical,animal|Delfín, Jonás|Dolphin, Jonah|Dauphin, Jonas|Delfin, Jona|Delfino, Giona|Golfinho, Jonas
+Ömer|m|turkish|turkish|4|classic,virtue|Longevo, floreciente|Long-lived, flourishing|De longue vie, florissant|Langlebig, blühend|Longevo, fiorente|Longevo, florescente

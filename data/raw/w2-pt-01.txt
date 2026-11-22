@@ -1,0 +1,77 @@
+Abigail|f|hebrew|portuguese,english,intl|2|biblical,classic|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Acácia|f|greek|portuguese|2|nature,virtue|Inocente, sin malicia|Innocent, guileless|Innocente, sans malice|Unschuldig, arglos|Innocente, senza malizia|Inocente, sem malícia
+Adelino|m|germanic|portuguese|2|classic,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Ademar|m|germanic|portuguese|2|royal,strong|Noble y famoso|Noble and famous|Noble et célèbre|Edel und berühmt|Nobile e famoso|Nobre e famoso
+Agnelo|m|latin|portuguese|1|saint,sweet|Cordero|Lamb|Agneau|Lamm|Agnello|Cordeiro
+Aleixo|m|greek|portuguese|2|saint,warrior|Defensor|Defender|Défenseur|Verteidiger|Difensore|Defensor
+Alessandra|f|greek|portuguese,italian|3|classic,strong|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschheit|Difenditrice dell'umanità|Defensora da humanidade
+Alexandrina|f|greek|portuguese|2|vintage,strong|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschheit|Difenditrice dell'umanità|Defensora da humanidade
+Alexia|f|greek|portuguese,intl|2|modern,strong|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Alípio|m|greek|portuguese|1|saint|Sin dolor|Without sorrow|Sans chagrin|Ohne Kummer|Senza dolore|Sem dor
+Alva|f|latin|portuguese|2|light,celestial|Amanecer, blanca|Dawn, white|Aube, blanche|Morgendämmerung, weiß|Alba, bianca|Alvorada, branca
+Alarico|m|germanic|portuguese|1|royal,warrior|Gobernante de todos|Ruler of all|Souverain de tous|Herrscher über alle|Sovrano di tutti|Governante de todos
+Albano|m|latin|portuguese|2|saint,vintage|De Alba, blanco|From Alba, white|D'Albe, blanc|Aus Alba, weiß|Di Alba, bianco|De Alba, branco
+Albina|f|latin|portuguese|2|vintage,light|Blanca|White|Blanche|Weiß|Bianca|Branca
+Alcides|m|greek|portuguese|2|strong,mythology|Fuerza, vigor|Strength, might|Force, vigueur|Stärke, Kraft|Forza, vigore|Força, vigor
+Aldo|m|germanic|portuguese,italian|2|classic|Viejo, sabio|Old, wise|Vieux, sage|Alt, weise|Vecchio, saggio|Velho, sábio
+Alma|f|latin|portuguese,spanish,english|2|sweet,virtue|Que nutre, alma|Nourishing, soul|Nourricière, âme|Nährend, Seele|Che nutre, anima|Que nutre, alma
+Amaro|m|latin|portuguese|2|saint,vintage|Moreno, de Mauritania|Dark-skinned, Moorish|Au teint foncé, maure|Dunkelhäutig, maurisch|Scuro di pelle, moro|Moreno, mouro
+Amparo|f|latin|portuguese,spanish|2|saint,virtue|Protección, amparo|Protection, shelter|Protection, refuge|Schutz, Zuflucht|Protezione, riparo|Proteção, amparo
+Anatólio|m|greek|portuguese|1|saint,celestial|Salida del sol, oriente|Sunrise, east|Lever du soleil, orient|Sonnenaufgang, Osten|Alba, oriente|Nascer do sol, oriente
+Andressa|f|greek|portuguese|3|modern,strong|Valiente, viril|Brave, manly|Courageuse, virile|Mutig, tapfer|Coraggiosa, virile|Corajosa, viril
+Andrea|f|greek|portuguese,italian|2|modern,strong|Valiente|Brave|Courageuse|Mutig|Coraggiosa|Corajosa
+Anita|f|hebrew|portuguese,spanish,italian|3|sweet,classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Aniceto|m|greek|portuguese|1|saint,strong|Invencible|Unconquerable|Invincible|Unbesiegbar|Invincibile|Invencível
+Antão|m|latin|portuguese|2|saint,vintage|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonella|f|latin|portuguese,italian|3|modern,sweet|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonieta|f|latin|portuguese|2|vintage|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Anunciação|f|latin|portuguese|1|saint,vintage|Anunciación|Annunciation|Annonciation|Verkündigung|Annunciazione|Anunciação
+Apolinário|m|latin|portuguese|1|saint,mythology|Consagrado a Apolo|Devoted to Apollo|Consacré à Apollon|Apollo geweiht|Consacrato ad Apollo|Consagrado a Apolo
+Aquilino|m|latin|portuguese|1|saint,animal|Como un águila|Eagle-like|Semblable à l'aigle|Adlergleich|Simile all'aquila|Como uma águia
+Ariadne|f|greek|portuguese,intl|2|mythology,classic|Muy santa|Most holy|Très sainte|Allerheiligste|Santissima|Santíssima
+Ariel|u|hebrew|portuguese,english,intl|3|biblical,literary|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Aristóteles|m|greek|portuguese|1|classic|El mejor propósito|The best purpose|Le meilleur dessein|Der beste Zweck|Il miglior proposito|O melhor propósito
+Aroldo|m|germanic|portuguese,italian|2|warrior,royal|Gobernante del ejército|Army ruler|Chef de l'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Assunção|f|latin|portuguese|2|saint,vintage|Asunción|Assumption|Assomption|Himmelfahrt|Assunzione|Assunção
+Atanásio|m|greek|portuguese|1|saint|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Átila|m|germanic|portuguese|2|warrior|Padrecito|Little father|Petit père|Väterchen|Piccolo padre|Paizinho
+Auxiliadora|f|latin|portuguese|2|saint,virtue|La que ayuda|She who helps|Celle qui aide|Die Helferin|Colei che aiuta|Aquela que ajuda
+Áurea|f|latin|portuguese|2|vintage,light|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Baltazar|m|other|portuguese|2|biblical,royal|Que Bel proteja al rey|May Bel protect the king|Que Bel protège le roi|Möge Bel den König schützen|Che Bel protegga il re|Que Bel proteja o rei
+Basílio|m|greek|portuguese|2|saint,royal|Real|Royal|Royal|Königlich|Regale|Real
+Batista|m|greek|portuguese|2|biblical,saint|El que bautiza|The baptizer|Le baptiseur|Der Täufer|Il battezzatore|O que batiza
+Benvinda|f|latin|portuguese|1|vintage,virtue|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Bernadete|f|germanic|portuguese|3|saint,strong|Fuerte como un oso|Brave as a bear|Forte comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Boaventura|m|latin|portuguese|2|saint,vintage|Buena fortuna|Good fortune|Bonne fortune|Gutes Glück|Buona fortuna|Boa fortuna
+Branca|f|germanic|portuguese|2|vintage,light|Blanca|White|Blanche|Weiß|Bianca|Branca
+Brígida|f|celtic|portuguese|2|saint,strong|Exaltada, poderosa|Exalted, mighty|Exaltée, puissante|Erhaben, mächtig|Esaltata, potente|Exaltada, poderosa
+Brisa|f|other|portuguese,spanish|3|nature,modern|Brisa|Breeze|Brise|Brise|Brezza|Brisa
+Brites|f|latin|portuguese|1|vintage,saint|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glück bringt|Colei che porta felicità|Aquela que traz felicidade
+Calebe|m|hebrew|portuguese|3|biblical,modern|Fiel, leal|Faithful, devoted|Fidèle, dévoué|Treu, ergeben|Fedele, devoto|Fiel, leal
+Camélia|f|other|portuguese|2|flower|Flor de camelia|Camellia flower|Fleur de camélia|Kamelienblüte|Fiore di camelia|Flor de camélia
+Capitolina|f|latin|portuguese|1|literary,vintage|Del Capitolio|Of the Capitol|Du Capitole|Vom Kapitol|Del Campidoglio|Do Capitólio
+Caridade|f|latin|portuguese|1|virtue,vintage|Caridad|Charity|Charité|Nächstenliebe|Carità|Caridade
+Carmo|u|hebrew|portuguese|3|saint,nature|Jardín, monte Carmelo|Garden, Mount Carmel|Jardin, mont Carmel|Garten, Berg Karmel|Giardino, monte Carmelo|Jardim, monte Carmelo
+Cátia|f|greek|portuguese|3|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Celestino|m|latin|portuguese|2|saint,celestial|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Cesário|m|latin|portuguese|1|saint,royal|Del César|Of Caesar|De César|Des Cäsar|Di Cesare|De César
+Cid|m|arabic|portuguese,spanish|2|warrior|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Cirilo|m|greek|portuguese|2|saint|Señorial|Lordly|Seigneurial|Herrschaftlich|Signorile|Senhorial
+Clemência|f|latin|portuguese|1|virtue,vintage|Clemencia, bondad|Mercy, mildness|Clémence, douceur|Milde, Gnade|Clemenza, mitezza|Clemência, brandura
+Cleto|m|greek|portuguese|1|saint|Escogido, llamado|Chosen, called|Choisi, appelé|Auserwählt, gerufen|Scelto, chiamato|Escolhido, chamado
+Cleópatra|f|greek|portuguese|1|royal,mythology|Gloria de su padre|Glory of her father|Gloire de son père|Ruhm ihres Vaters|Gloria del padre|Glória do seu pai
+Cloé|f|greek|portuguese|2|nature,classic|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Broto verde
+Crisóstomo|m|greek|portuguese|1|saint,vintage|Boca de oro|Golden mouth|Bouche d'or|Goldmund|Bocca d'oro|Boca de ouro
+Cristiane|f|greek|portuguese|3|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Dafne|f|greek|portuguese,italian|2|mythology,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Dagoberto|m|germanic|portuguese|1|royal,vintage|Día brillante|Bright day|Jour brillant|Strahlender Tag|Giorno splendente|Dia brilhante
+Dante|m|latin|portuguese,italian,spanish|3|literary,modern|Perdurable, firme|Enduring, steadfast|Durable, constant|Ausdauernd, beständig|Duraturo, tenace|Duradouro, firme
+Dário|m|persian|portuguese|2|royal,classic|El que posee el bien|He who holds goodness|Celui qui possède le bien|Der das Gute besitzt|Colui che possiede il bene|Aquele que possui o bem
+Décio|m|latin|portuguese|1|classic|Décimo|Tenth|Dixième|Zehnter|Decimo|Décimo
+Deodato|m|latin|portuguese|1|saint,vintage|Dado por Dios|Given by God|Donné par Dieu|Von Gott gegeben|Dato da Dio|Dado por Deus
+Delfim|m|latin|portuguese|2|animal,sea|Delfín|Dolphin|Dauphin|Delfin|Delfino|Golfinho
+Demétrio|m|greek|portuguese|2|saint,mythology|Consagrado a Deméter|Devoted to Demeter|Consacré à Déméter|Demeter geweiht|Consacrato a Demetra|Consagrado a Deméter
+Diva|f|latin|portuguese|2|modern,music|Divina|Divine|Divine|Göttlich|Divina|Divina
+Dolores|f|latin|portuguese,spanish|3|saint,vintage|Dolores|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Dores|f|latin|portuguese|2|saint,vintage|Dolores|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Dulcineia|f|other|portuguese|2|literary,sweet|Dulce|Sweet one|Douce|Süße|Dolce|Doce

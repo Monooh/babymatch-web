@@ -1,0 +1,102 @@
+Isamu|m|japanese|japanese|1|strong,warrior|Valentía, coraje|Courage, bravery|Courage, bravoure|Mut, Tapferkeit|Coraggio, ardimento|Coragem, bravura
+Itsuki|u|japanese|japanese|4|nature,modern|Árbol, fuerte|Tree, strong|Arbre, fort|Baum, stark|Albero, forte|Árvore, forte
+Izumi|f|japanese|japanese|3|nature,classic|Fuente, manantial|Fountain, spring|Fontaine, source|Quelle, Brunnen|Fontana, sorgente|Fonte, nascente
+Kaede|u|japanese|japanese|3|nature,modern|Arce|Maple|Érable|Ahorn|Acero|Bordo
+Kaito|m|japanese|japanese|4|sea,modern|Océano que vuela|Ocean soar|Océan qui s'élève|Aufsteigender Ozean|Oceano che si innalza|Oceano que se eleva
+Kaori|f|japanese|japanese|3|flower,sweet|Fragancia, aroma|Fragrance, aroma|Parfum, arôme|Duft, Aroma|Fragranza, aroma|Fragrância, aroma
+Kasumi|f|japanese|japanese|3|nature,sweet|Niebla, bruma|Mist, haze|Brume, brouillard léger|Nebel, Dunst|Foschia, bruma|Névoa, bruma
+Kazuki|m|japanese|japanese|3|modern,virtue|Armonía y esperanza|Harmony and hope|Harmonie et espoir|Harmonie und Hoffnung|Armonia e speranza|Harmonia e esperança
+Kazuo|m|japanese|japanese|2|classic,virtue|Hombre armonioso|Harmonious man|Homme harmonieux|Harmonischer Mann|Uomo armonioso|Homem harmonioso
+Keiko|f|japanese|japanese|2|classic,virtue|Niña bendecida|Blessed child|Enfant bénie|Gesegnetes Kind|Bambina benedetta|Criança abençoada
+Kenji|m|japanese|japanese|3|classic,virtue|Segundo hijo inteligente|Intelligent second son|Second fils intelligent|Kluger zweiter Sohn|Secondo figlio intelligente|Segundo filho inteligente
+Kenta|m|japanese|japanese|3|modern,strong|Sano y grande|Healthy and great|Sain et grand|Gesund und groß|Sano e grande|Saudável e grande
+Kenzo|m|japanese|japanese|2|classic,strong|Tercer hijo fuerte y sano|Strong healthy third son|Troisième fils fort et sain|Starker gesunder dritter Sohn|Terzo figlio forte e sano|Terceiro filho forte e saudável
+Kiyoko|f|japanese|japanese|2|vintage,virtue|Niña pura|Pure child|Enfant pure|Reines Kind|Bambina pura|Criança pura
+Koharu|f|japanese|japanese|3|nature,sweet|Pequeña primavera|Little spring|Petit printemps|Kleiner Frühling|Piccola primavera|Pequena primavera
+Kokoro|u|japanese|japanese|3|love,sweet|Corazón, espíritu|Heart, spirit|Cœur, esprit|Herz, Geist|Cuore, spirito|Coração, espírito
+Mai|f|japanese|japanese|3|music,classic|Danza|Dance|Danse|Tanz|Danza|Dança
+Makoto|u|japanese|japanese|3|virtue,classic|Sinceridad, verdad|Sincerity, truth|Sincérité, vérité|Aufrichtigkeit, Wahrheit|Sincerità, verità|Sinceridade, verdade
+Mana|f|japanese|japanese|3|love,modern|Amor, afecto|Love, affection|Amour, affection|Liebe, Zuneigung|Amore, affetto|Amor, afeto
+Mariko|f|japanese|japanese|2|vintage,virtue|Niña de la verdad|Child of truth|Enfant de vérité|Kind der Wahrheit|Bambina della verità|Criança da verdade
+Masaru|m|japanese|japanese|2|classic,warrior|Victoria, superioridad|Victory, excellence|Victoire, excellence|Sieg, Überlegenheit|Vittoria, superiorità|Vitória, superioridade
+Megumi|f|japanese|japanese|3|virtue,classic|Bendición, gracia|Blessing, grace|Bénédiction, grâce|Segen, Gnade|Benedizione, grazia|Bênção, graça
+Michiko|f|japanese|japanese|2|vintage,classic|Niña hermosa y sabia|Child of beauty and wisdom|Enfant de beauté et de sagesse|Kind der Schönheit und Weisheit|Bambina di bellezza e saggezza|Criança de beleza e sabedoria
+Midori|f|japanese|japanese|2|nature,classic|Verde|Green|Vert|Grün|Verde|Verde
+Minato|m|japanese|japanese|4|sea,modern|Puerto|Harbour|Port|Hafen|Porto|Porto
+Mio|f|japanese|japanese|4|sea,modern|Hermoso cerezo, canal de agua|Beautiful cherry, waterway|Beau cerisier, voie d'eau|Schöne Kirsche, Wasserweg|Bel ciliegio, via d'acqua|Bela cerejeira, canal de água
+Misaki|f|japanese|japanese|3|flower,modern|Flor hermosa|Beautiful blossom|Belle fleur|Schöne Blüte|Bel fiore|Bela flor
+Mitsuki|u|japanese|japanese|3|celestial,modern|Hermosa luna|Beautiful moon|Belle lune|Schöner Mond|Bella luna|Bela lua
+Miyuki|f|japanese|japanese|2|nature,classic|Nieve profunda|Deep snow|Neige profonde|Tiefer Schnee|Neve profonda|Neve profunda
+Momo|f|japanese|japanese|3|flower,sweet|Melocotón|Peach|Pêche|Pfirsich|Pesca|Pêssego
+Naoki|m|japanese|japanese|3|classic,virtue|Árbol honesto|Honest tree|Arbre honnête|Ehrlicher Baum|Albero onesto|Árvore honesta
+Naoko|f|japanese|japanese|2|vintage,virtue|Niña obediente, honesta|Honest, obedient child|Enfant honnête, obéissante|Ehrliches, folgsames Kind|Bambina onesta, obbediente|Criança honesta, obediente
+Natsumi|f|japanese|japanese|3|nature,sweet|Belleza de verano|Summer beauty|Beauté d'été|Sommerschönheit|Bellezza d'estate|Beleza de verão
+Noboru|m|japanese|japanese|1|vintage,strong|Ascender|To rise|S'élever|Aufsteigen|Salire|Ascender
+Nozomi|u|japanese|japanese|3|virtue,modern|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Rei|f|japanese|japanese|3|sweet,modern|Gracia, belleza|Grace, beauty|Grâce, beauté|Anmut, Schönheit|Grazia, bellezza|Graça, beleza
+Ren|u|japanese|japanese|5|flower,modern|Loto|Lotus|Lotus|Lotos|Loto|Lótus
+Riku|m|japanese|japanese|4|nature,modern|Tierra firme|Land|Terre ferme|Festland|Terraferma|Terra firme
+Rin|f|japanese|japanese|4|sweet,modern|Digna, imponente|Dignified, cold and clear|Digne, imposante|Würdevoll, klar|Dignitosa, fiera|Digna, imponente
+Ryo|m|japanese|japanese|3|strong,classic|Excelente, claro|Excellent, clear|Excellent, clair|Ausgezeichnet, klar|Eccellente, chiaro|Excelente, claro
+Ryota|m|japanese|japanese|3|strong,classic|Grande y robusto|Great and sturdy|Grand et robuste|Groß und kräftig|Grande e robusto|Grande e robusto
+Ryu|m|japanese|japanese|2|mythology,strong|Dragón|Dragon|Dragon|Drache|Drago|Dragão
+Saki|f|japanese|japanese|3|flower,modern|Flor, florecer|Blossom, bloom|Fleur, éclosion|Blüte, erblühen|Fiore, sbocciare|Flor, florescer
+Sakura|f|japanese|japanese|4|flower,nature|Flor de cerezo|Cherry blossom|Fleur de cerisier|Kirschblüte|Fiore di ciliegio|Flor de cerejeira
+Satoshi|m|japanese|japanese|2|classic,virtue|Sabio, claro de mente|Wise, clear-thinking|Sage, à l'esprit clair|Weise, klar denkend|Saggio, mente chiara|Sábio, de mente clara
+Sayuri|f|japanese|japanese|2|flower,classic|Pequeño lirio|Small lily|Petit lys|Kleine Lilie|Piccolo giglio|Pequeno lírio
+Shiori|f|japanese|japanese|3|literary,modern|Marcapáginas, guía|Bookmark, guide|Marque-page, guide|Lesezeichen, Wegweiser|Segnalibro, guida|Marcador, guia
+Shiro|m|japanese|japanese|2|classic,light|Cuarto hijo, blanco|Fourth son, white|Quatrième fils, blanc|Vierter Sohn, weiß|Quarto figlio, bianco|Quarto filho, branco
+Shota|m|japanese|japanese|3|modern,strong|Volar alto|Soaring high|S'envoler haut|Hoch aufsteigen|Volare in alto|Voar alto
+Shun|m|japanese|japanese|3|modern,virtue|Talento, veloz|Talented, swift|Talentueux, rapide|Talentiert, schnell|Talentuoso, veloce|Talentoso, veloz
+Sora|u|japanese|japanese|4|nature,celestial|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Suzu|f|japanese|japanese|3|music,sweet|Campanilla|Bell|Clochette|Glöckchen|Campanella|Sininho
+Taichi|m|japanese|japanese|3|modern,strong|Gran primero|Great first|Grand premier|Großer Erster|Grande primo|Grande primeiro
+Taiga|m|japanese|japanese|3|nature,strong|Gran río|Great river|Grand fleuve|Großer Fluss|Grande fiume|Grande rio
+Takashi|m|japanese|japanese|3|classic,virtue|Noble, próspero|Noble, prosperous|Noble, prospère|Edel, wohlhabend|Nobile, prospero|Nobre, próspero
+Takeshi|m|japanese|japanese|3|warrior,strong|Guerrero, bravo|Warrior, fierce|Guerrier, brave|Krieger, tapfer|Guerriero, valoroso|Guerreiro, bravo
+Takumi|m|japanese|japanese|4|modern,virtue|Artesano, hábil|Artisan, skilled|Artisan, habile|Handwerker, geschickt|Artigiano, abile|Artesão, habilidoso
+Taro|m|japanese|japanese|2|classic,strong|Hijo mayor|First-born son|Fils aîné|Erstgeborener Sohn|Primogenito|Filho mais velho
+Tsubaki|f|japanese|japanese|2|flower,nature|Camelia|Camellia|Camélia|Kamelie|Camelia|Camélia
+Tsubasa|u|japanese|japanese|3|animal,strong|Ala|Wing|Aile|Flügel|Ala|Asa
+Umi|f|japanese|japanese|3|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Yamato|m|japanese|japanese|3|classic,strong|Gran armonía, Japón antiguo|Great harmony, ancient Japan|Grande harmonie, Japon ancien|Große Harmonie, altes Japan|Grande armonia, Giappone antico|Grande harmonia, Japão antigo
+Yoko|f|japanese|japanese|2|vintage,light|Niña del sol|Child of the sun|Enfant du soleil|Kind der Sonne|Bambina del sole|Criança do sol
+Yui|f|japanese|japanese|4|sweet,modern|Atar, lazo suave|Bind, gentle bond|Lien, doux attachement|Binden, sanftes Band|Legame, dolce vincolo|Laço, vínculo suave
+Yuki|u|japanese|japanese|3|nature,classic|Nieve, felicidad|Snow, happiness|Neige, bonheur|Schnee, Glück|Neve, felicità|Neve, felicidade
+Yumi|f|japanese|japanese|2|vintage,sweet|Hermosa, arco|Beautiful, bow|Belle, arc|Schön, Bogen|Bella, arco|Bela, arco
+Yuna|f|japanese|japanese|3|modern,sweet|Dulzura, ternura|Gentleness, tenderness|Douceur, tendresse|Sanftheit, Zärtlichkeit|Dolcezza, tenerezza|Doçura, ternura
+Yusuke|m|japanese|japanese|2|classic,virtue|Ayudante|Helper|Aide|Helfer|Aiutante|Ajudante
+Yuto|m|japanese|japanese|4|modern,virtue|Persona gentil que vuela|Gentle soaring person|Personne douce qui s'envole|Sanfter, aufsteigender Mensch|Persona gentile che si innalza|Pessoa gentil que se eleva
+Bo|m|chinese|chinese|2|virtue,classic|Erudito, abundante|Learned, abundant|Érudit, abondant|Gelehrt, reichlich|Erudito, abbondante|Erudito, abundante
+Cheng|m|chinese|chinese|2|virtue,classic|Sincero, éxito|Sincere, success|Sincère, succès|Aufrichtig, Erfolg|Sincero, successo|Sincero, sucesso
+Chen|u|chinese|chinese|3|celestial,modern|Mañana, amanecer|Morning, dawn|Matin, aube|Morgen, Dämmerung|Mattino, alba|Manhã, amanhecer
+Fang|f|chinese|chinese|2|flower,sweet|Fragante|Fragrant|Parfumée|Duftend|Fragrante|Fragrante
+Feng|m|chinese|chinese|2|nature,strong|Viento, cumbre|Wind, peak|Vent, sommet|Wind, Gipfel|Vento, vetta|Vento, pico
+Hao|m|chinese|chinese|3|strong,virtue|Vasto, grandioso|Vast, grand|Vaste, grandiose|Weit, großartig|Vasto, grandioso|Vasto, grandioso
+Hong|u|chinese|chinese|2|nature,classic|Arcoíris, vasto|Rainbow, vast|Arc-en-ciel, vaste|Regenbogen, weit|Arcobaleno, vasto|Arco-íris, vasto
+Hua|f|chinese|chinese|2|flower,classic|Flor|Flower|Fleur|Blume|Fiore|Flor
+Hui|f|chinese|chinese|2|virtue,classic|Sabia, inteligente|Wise, intelligent|Sage, intelligente|Weise, klug|Saggia, intelligente|Sábia, inteligente
+Jia|f|chinese|chinese|3|modern,virtue|Excelente, hermosa|Excellent, fine|Excellente, belle|Ausgezeichnet, schön|Eccellente, bella|Excelente, bela
+Jian|m|chinese|chinese|2|strong,warrior|Fuerte, espada|Strong, sword|Fort, épée|Stark, Schwert|Forte, spada|Forte, espada
+Jie|u|chinese|chinese|2|strong,virtue|Héroe, sobresaliente|Hero, outstanding|Héros, remarquable|Held, herausragend|Eroe, eccellente|Herói, notável
+Jing|f|chinese|chinese|3|virtue,sweet|Tranquila, serena|Quiet, serene|Calme, sereine|Ruhig, gelassen|Quieta, serena|Quieta, serena
+Jun|m|chinese|chinese|3|virtue,strong|Apuesto, talentoso|Handsome, talented|Beau, talentueux|Stattlich, begabt|Bello, talentuoso|Belo, talentoso
+Kai|m|chinese|chinese|3|strong,modern|Victoria, triunfo|Triumph, victory|Triomphe, victoire|Triumph, Sieg|Trionfo, vittoria|Triunfo, vitória
+Lan|f|chinese|chinese|2|flower,classic|Orquídea|Orchid|Orchidée|Orchidee|Orchidea|Orquídea
+Lei|m|chinese|chinese|3|nature,strong|Trueno|Thunder|Tonnerre|Donner|Tuono|Trovão
+Li|u|chinese|chinese|3|virtue,classic|Hermosa, fuerza|Beautiful, strength|Belle, force|Schön, Kraft|Bella, forza|Bela, força
+Lian|f|chinese|chinese|2|flower,sweet|Loto|Lotus|Lotus|Lotos|Loto|Lótus
+Liang|m|chinese|chinese|2|light,virtue|Brillante, luminoso|Bright, luminous|Brillant, lumineux|Hell, leuchtend|Brillante, luminoso|Brilhante, luminoso
+Ling|f|chinese|chinese|3|music,sweet|Tintineo de jade, espíritu|Tinkling jade, spirit|Tintement de jade, esprit|Klingendes Jade, Geist|Tintinnio di giada, spirito|Tilintar de jade, espírito
+Long|m|chinese|chinese|2|mythology,strong|Dragón|Dragon|Dragon|Drache|Drago|Dragão
+Mei|f|chinese|chinese|4|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Ming|u|chinese|chinese|3|light,virtue|Brillante, claro|Bright, clear|Brillant, clair|Hell, klar|Brillante, chiaro|Brilhante, claro
+Ning|f|chinese|chinese|2|virtue,sweet|Pacífica, serena|Peaceful, tranquil|Paisible, sereine|Friedlich, ruhig|Pacifica, tranquilla|Pacífica, tranquila
+Qiang|m|chinese|chinese|2|strong,warrior|Fuerte, poderoso|Strong, powerful|Fort, puissant|Stark, mächtig|Forte, potente|Forte, poderoso
+Qing|u|chinese|chinese|2|nature,virtue|Claro, puro|Clear, pure|Clair, pur|Klar, rein|Chiaro, puro|Claro, puro
+Rui|u|chinese|chinese|3|virtue,modern|Auspicioso, agudo|Auspicious, sharp|Faste, vif|Glückverheißend, scharfsinnig|Propizio, acuto|Auspicioso, perspicaz
+Shan|f|chinese|chinese|2|nature,sweet|Montaña, coral|Mountain, coral|Montagne, corail|Berg, Koralle|Montagna, corallo|Montanha, coral
+Shu|f|chinese|chinese|2|virtue,sweet|Amable, gentil|Gentle, virtuous|Douce, vertueuse|Sanft, tugendhaft|Gentile, virtuosa|Gentil, virtuosa
+Tao|m|chinese|chinese|2|sea,strong|Gran ola|Great wave|Grande vague|Große Welle|Grande onda|Grande onda
+Wei|m|chinese|chinese|4|strong,classic|Grande, poderoso|Great, mighty|Grand, puissant|Groß, mächtig|Grande, potente|Grande, poderoso
+Wen|u|chinese|chinese|3|virtue,classic|Cultura, refinamiento|Culture, refinement|Culture, raffinement|Kultur, Verfeinerung|Cultura, raffinatezza|Cultura, refinamento

@@ -1,0 +1,81 @@
+Gabriella|f|hebrew|english,italian|3|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Gabrielle|f|hebrew|english,french|3|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Gail|f|hebrew|english|1|vintage|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Gemma|f|latin|english,italian|3|gem,classic|Joya, gema|Gem, jewel|Gemme, joyau|Edelstein|Gemma, gioiello|Gema, joia
+Genevieve|f|celtic|english,french|2|saint,vintage|Mujer de la tribu|Woman of the people|Femme de la tribu|Frau des Stammes|Donna della stirpe|Mulher da tribo
+Georgia|f|greek|english|3|classic,place|Agricultora|Farmer|Agricultrice|Landwirtin|Agricoltrice|Agricultora
+Georgina|f|greek|english|2|classic,vintage|Agricultora|Farmer|Agricultrice|Landwirtin|Agricoltrice|Agricultora
+Geraldine|f|germanic|english|1|vintage|Gobernante con lanza|Rule of the spear|Souveraine de la lance|Herrschaft des Speeres|Dominio della lancia|Governante da lança
+Gertrude|f|germanic|english,german|1|vintage|Fuerza de la lanza|Spear of strength|Lance de force|Speerkraft|Lancia di forza|Força da lança
+Gillian|f|latin|english|1|classic|Joven, de Julio|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+Gina|f|other|english,italian|2|classic,sweet|Reina|Queen|Reine|Königin|Regina|Rainha
+Giselle|f|germanic|english,french|2|classic,royal|Promesa, prenda|Pledge, hostage|Gage, promesse|Pfand, Versprechen|Pegno, promessa|Penhor, promessa
+Gladys|f|celtic|english,welsh|1|vintage|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Gloria|f|latin|english,spanish,italian|3|classic,virtue|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Grace|f|latin|english|5|virtue,classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Gracie|f|latin|english|3|sweet,virtue|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Greta|f|greek|english,german,scandinavian|2|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Gwen|f|celtic|english,welsh|2|classic,sweet|Blanca, bendita|White, blessed|Blanche, bénie|Weiß, gesegnet|Bianca, benedetta|Branca, abençoada
+Gwendolyn|f|celtic|english,welsh|2|vintage,literary|Anillo blanco|White ring|Anneau blanc|Weißer Ring|Anello bianco|Anel branco
+Hadley|f|germanic|english|2|modern,place|Prado de brezo|Heather meadow|Prairie de bruyère|Heidewiese|Prato di erica|Prado de urze
+Hailey|f|germanic|english|3|modern|Prado de heno|Hay meadow|Prairie de foin|Heuwiese|Prato di fieno|Prado de feno
+Hannah|f|hebrew|english|4|biblical,classic|Gracia, favor|Grace, favor|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Harlow|f|germanic|english|3|modern,place|Colina del ejército|Army hill|Colline de l'armée|Heereshügel|Colle dell'esercito|Colina do exército
+Harper|f|germanic|english|5|music,modern|Arpista|Harp player|Joueuse de harpe|Harfenspielerin|Arpista|Harpista
+Harriet|f|germanic|english|3|vintage,strong|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrscherin des Heims|Signora della casa|Governante do lar
+Hattie|f|germanic|english|2|vintage,sweet|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrscherin des Heims|Signora della casa|Governante do lar
+Haven|f|germanic|english|2|modern,sea|Refugio|Safe harbor|Havre de paix|Hafen|Rifugio sicuro|Porto seguro
+Hazel|f|germanic|english|4|nature,vintage|Avellano|Hazel tree|Noisetier|Haselnussbaum|Nocciolo|Aveleira
+Heather|f|germanic|english|2|flower,nature|Brezo|Heather flower|Bruyère|Heidekraut|Erica|Urze
+Heidi|f|germanic|english,german|2|classic,literary|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Helen|f|greek|english|3|classic,mythology|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Helena|f|greek|english,german|3|classic,mythology|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Henrietta|f|germanic|english|2|vintage,royal|Gobernante del hogar|Ruler of the home|Souveraine du foyer|Herrscherin des Heims|Signora della casa|Governante do lar
+Hermione|f|greek|english|2|literary,mythology|Mensajera|Messenger|Messagère|Botin|Messaggera|Mensageira
+Hilary|f|latin|english|1|virtue,classic|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Hilda|f|germanic|english,german|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Holly|f|germanic|english|3|nature,vintage|Acebo|Holly tree|Houx|Stechpalme|Agrifoglio|Azevinho
+Honey|f|germanic|english|2|sweet,nature|Miel|Honey|Miel|Honig|Miele|Mel
+Hope|f|germanic|english|3|virtue,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Hortense|f|latin|english,french|1|vintage|Jardinera|Gardener|Jardinière|Gärtnerin|Giardiniera|Jardineira
+Ida|f|germanic|english,german|2|vintage,classic|Trabajadora|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Imogen|f|celtic|english|3|vintage,literary|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Imogene|f|celtic|english|1|vintage,literary|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Ines|f|greek|english,german|1|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Ingrid|f|norse|english,scandinavian|2|classic,strong|Hermosa de Ing|Ing is beautiful|Belle d'Ing|Ings Schöne|Bella di Ing|Bela de Ing
+Iris|f|greek|english,intl|3|flower,mythology|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Irene|f|greek|english|2|classic,virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Isabel|f|hebrew|english,spanish|3|classic,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Isabella|f|hebrew|english,italian|5|classic,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Isabelle|f|hebrew|english,french|3|classic,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Isla|f|celtic|english,scottish|5|place,modern|Isla|Island|Île|Insel|Isola|Ilha
+Isolde|f|celtic|english|1|literary,vintage|Hermosa a la vista|Fair to look at|Belle à voir|Schön anzusehen|Bella da vedere|Bela de se ver
+Ivy|f|germanic|english|5|nature,vintage|Hiedra|Ivy plant|Lierre|Efeu|Edera|Hera
+Jacqueline|f|hebrew|english,french|2|classic|Que Dios proteja|May God protect|Que Dieu protège|Möge Gott schützen|Che Dio protegga|Que Deus proteja
+Jade|f|other|english|3|gem,modern|Piedra de jade|Jade stone|Pierre de jade|Jadestein|Giada|Jade
+Jane|f|hebrew|english|3|classic,literary|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Janet|f|hebrew|english,scottish|1|vintage,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Janice|f|hebrew|english|1|vintage|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jasmine|f|persian|english|3|flower,modern|Flor de jazmín|Jasmine flower|Fleur de jasmin|Jasminblüte|Fiore di gelsomino|Flor de jasmim
+Jean|f|hebrew|english|1|vintage|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jemima|f|hebrew|english|1|biblical,vintage|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jennifer|f|celtic|english|2|classic|Blanca y suave|White wave, fair spirit|Blanche vague|Weiße Welle|Bianca onda|Onda branca
+Jenny|f|celtic|english|2|sweet,classic|Blanca y suave|White wave, fair spirit|Blanche vague|Weiße Welle|Bianca onda|Onda branca
+Jessica|f|hebrew|english|3|classic,literary|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Jessie|f|hebrew|english|2|vintage,sweet|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Jill|f|latin|english|1|vintage|Joven|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+Joan|f|hebrew|english|1|vintage,saint|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Joanna|f|hebrew|english|2|biblical,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jocelyn|f|germanic|english|2|modern,classic|De la tribu de los godos|Member of the Gauts|Membre des Goths|Angehörige der Goten|Membro dei Goti|Membro dos godos
+Josephine|f|hebrew|english,french|3|classic,vintage|Que Dios aumente|God will increase|Que Dieu ajoute|Gott möge mehren|Dio accresca|Que Deus acrescente
+Josie|f|hebrew|english|3|sweet,vintage|Que Dios aumente|God will increase|Que Dieu ajoute|Gott möge mehren|Dio accresca|Que Deus acrescente
+Joy|f|latin|english|3|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Joyce|f|celtic|english|1|vintage,virtue|Señor, alegre|Lord, joyful|Seigneur, joyeuse|Herr, fröhlich|Signore, gioiosa|Senhor, alegre
+Judith|f|hebrew|english|2|biblical,classic|Alabada|Praised|Louée|Die Gepriesene|Lodata|Louvada
+Judy|f|hebrew|english|1|vintage,sweet|Alabada|Praised|Louée|Die Gepriesene|Lodata|Louvada
+Julia|f|latin|english,german,intl|4|classic|Joven, de la familia Julia|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+Juliet|f|latin|english|3|literary,classic|Joven|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+Juliette|f|latin|english,french|3|literary,classic|Joven|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+June|f|latin|english|4|nature,vintage|Mes de junio|Month of June|Mois de juin|Monat Juni|Mese di giugno|Mês de junho
+Juniper|f|latin|english|3|nature,modern|Enebro|Juniper tree|Genévrier|Wacholder|Ginepro|Zimbro
+Justine|f|latin|english,french|2|classic,virtue|Justa|Just|Juste|Gerecht|Giusta|Justa

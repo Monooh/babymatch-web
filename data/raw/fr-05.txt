@@ -1,0 +1,69 @@
+Sabine|f|latin|french,german|2|classic,vintage|Sabina, del pueblo sabino|Sabine woman|Sabine, du peuple sabin|Sabinerin|Sabina, del popolo sabino|Sabina, do povo sabino
+Sacha|u|slavic|french,russian|3|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Salomé|f|hebrew|french|3|biblical,sweet|Paz|Peace|Paix|Frieden|Pace|Paz
+Salomon|m|hebrew|french|1|biblical,royal|Paz|Peace|Paix|Frieden|Pace|Paz
+Samuel|m|hebrew|french,english,spanish,german|3|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Sandrine|f|greek|french|2|classic,warrior|Defensora de los hombres|Defender of men|Défenseuse des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora dos homens
+Sarah|f|hebrew|french,english,german,intl|4|biblical,classic,royal|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sébastien|m|greek|french|3|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Ségolène|f|germanic|french|2|vintage,strong|Fuerza victoriosa|Victorious strength|Force victorieuse|Siegreiche Stärke|Forza vittoriosa|Força vitoriosa
+Séraphin|m|hebrew|french|1|biblical,vintage,celestial|Ardiente|Burning one|Ardent, brûlant|Der Brennende|Ardente|Ardente
+Séverin|m|latin|french|1|vintage,saint|Severo|Stern|Sévère|Streng|Severo|Severo
+Séverine|f|latin|french|2|vintage,classic|Severa|Stern|Sévère|Streng|Severa|Severa
+Sibylle|f|greek|french,german|2|mythology,vintage|Profetisa|Prophetess|Prophétesse|Prophetin|Profetessa|Profetisa
+Siméon|m|hebrew|french|1|biblical,vintage|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Simon|m|hebrew|french,english,german|3|biblical,saint,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Simone|f|hebrew|french|2|vintage,biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Sixtine|f|latin|french|2|vintage,modern|Sexta|Sixth|Sixième|Die Sechste|Sesta|Sexta
+Solange|f|latin|french|2|saint,vintage|Solemne|Solemn|Solennelle|Feierlich|Solenne|Solene
+Solène|f|latin|french|3|modern,sweet|Solemne|Solemn|Solennelle|Feierlich|Solenne|Solene
+Sophie|f|greek|french,english,german|4|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Stanislas|m|slavic|french,polish|1|vintage,royal|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Stella|f|latin|french,german,italian,english|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Stéphane|m|greek|french|2|classic,saint|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stéphanie|f|greek|french|2|classic,royal|Corona|Crown|Couronne|Krone|Corona|Coroa
+Suzanne|f|hebrew|french|2|flower,biblical,vintage|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Sylvain|m|latin|french|2|nature,classic|De la selva|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Sylvestre|m|latin|french|1|nature,vintage|Del bosque|Of the woods|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Sylvie|f|latin|french|2|nature,classic|Del bosque|Of the woods|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Théa|f|greek|french|3|modern,mythology|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Théo|m|greek|french|5|modern,classic|Dios|God|Dieu|Gott|Dio|Deus
+Théodore|m|greek|french|4|vintage,classic|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Théophile|m|greek|french|2|vintage,saint|Amigo de Dios|Friend of God|Ami de Dieu|Gottesfreund|Amico di Dio|Amigo de Deus
+Thibault|m|germanic|french|3|classic,warrior|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Thierry|m|germanic|french|2|classic,royal|Jefe del pueblo|Ruler of the people|Chef du peuple|Herrscher des Volkes|Capo del popolo|Chefe do povo
+Thomas|m|hebrew|french,english,german|4|biblical,saint,classic|Mellizo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Timothée|m|greek|french|3|biblical,saint|El que honra a Dios|Honouring God|Qui honore Dieu|Gottesehrer|Colui che onora Dio|Aquele que honra Deus
+Tiphaine|f|greek|french|2|vintage,biblical|Manifestación de Dios|Manifestation of God|Manifestation de Dieu|Erscheinung Gottes|Manifestazione di Dio|Manifestação de Deus
+Toussaint|m|latin|french|1|saint,vintage|Todos los santos|All Saints|Tous les saints|Allerheiligen|Tutti i santi|Todos os santos
+Ulrich|m|germanic|french,german|1|vintage,royal|Prosperidad heredada|Prosperity through heritage|Prospérité héréditaire|Erbwohlstand|Prosperità ereditata|Prosperidade herdada
+Urbain|m|latin|french|1|vintage,saint|De la ciudad|Of the city|De la ville|Der Städter|Della città|Da cidade
+Ursule|f|latin|french|1|vintage,animal|Pequeña osa|Little she-bear|Petite ourse|Kleine Bärin|Piccola orsa|Pequena ursa
+Uriel|m|hebrew|french|1|biblical,celestial,light|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é minha luz
+Valentin|m|latin|french,german|4|love,saint,strong|Fuerte, vigoroso|Strong, vigorous|Vigoureux, fort|Stark, kräftig|Forte, vigoroso|Forte, vigoroso
+Valentine|f|latin|french|4|love,saint,strong|Fuerte, vigorosa|Strong, vigorous|Vigoureuse, forte|Stark, kräftig|Forte, vigorosa|Forte, vigorosa
+Valère|m|latin|french|1|vintage,strong|Fuerte, sano|Strong, healthy|Vaillant, en bonne santé|Stark, gesund|Forte, sano|Forte, saudável
+Valérie|f|latin|french|2|classic,strong|Valiente, sana|Brave, healthy|Vaillante, en bonne santé|Tapfer, gesund|Valorosa, sana|Valente, saudável
+Véronique|f|greek|french|2|saint,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Victoire|f|latin|french|3|virtue,classic,royal|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Victor|m|latin|french,german,spanish,portuguese|4|virtue,classic,warrior|Vencedor|Victor, conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Victorine|f|latin|french|1|vintage,virtue|Vencedora|Victorious|Victorieuse|Siegreiche|Vittoriosa|Vitoriosa
+Vincent|m|latin|french,english,german|3|saint,classic,virtue|Vencedor|Conquering|Vainqueur|Siegend|Vincitore|Vencedor
+Violette|f|latin|french|3|flower,sweet|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Virginie|f|latin|french|2|classic,virtue|Virgen, pura|Maiden, pure|Vierge, pure|Jungfräulich, rein|Vergine, pura|Virgem, pura
+Viviane|f|latin|french|2|literary,vintage|Viva|Alive|Vivante|Lebendig|Vivace|Viva
+Vivien|m|latin|french|2|vintage,literary|Vivo|Alive|Vivant|Lebendig|Vivace|Vivo
+Xavier|m|basque|french,spanish,catalan,portuguese|3|saint,classic|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Xavière|f|basque|french|1|saint,vintage|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Yaël|f|hebrew|french,hebrew|3|biblical,animal|Cabra montés|Ibex|Bouquetin|Steinbock|Stambecco|Íbex
+Yann|m|hebrew|french|3|saint,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Yannick|m|hebrew|french|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Yanis|m|hebrew|french|4|modern,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Yves|m|germanic|french|2|saint,classic,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Yvette|f|germanic|french|1|vintage,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Yvonne|f|germanic|french|1|vintage,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Zacharie|m|hebrew|french|2|biblical,vintage|Dios recuerda|God remembers|Dieu s'est souvenu|Gott erinnert sich|Dio ricorda|Deus lembra
+Zélie|f|greek|french|2|vintage,saint,virtue|Celo, ardor|Zeal, ardour|Zèle, ardeur|Eifer, Glut|Zelo, ardore|Zelo, ardor
+Zénaïde|f|greek|french|1|vintage,mythology|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zéphyr|m|greek|french|1|nature,mythology|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento d'occidente|Vento oeste
+Zoé|f|greek|french|4|classic,sweet|Vida|Life|Vie|Leben|Vita|Vida

@@ -1,0 +1,114 @@
+Jacob|m|hebrew|english,french,german,hebrew,intl|4|biblical,classic|El que sigue de cerca|Holder of the heel|Celui qui tient le talon|Der an der Ferse hält|Colui che segue il tallone|Aquele que segura o calcanhar
+Jael|f|hebrew|english,hebrew|1|biblical,animal|Cabra montés|Mountain goat|Bouquetin|Steinbock|Stambecco|Cabra-montês
+Jared|m|hebrew|english,hebrew|2|biblical,modern|Descendiente|Descent|Descendance|Abstieg|Discendente|Descendente
+Jedidiah|m|hebrew|english|1|biblical,love|Amado de Dios|Beloved of God|Bien-aimé de Dieu|Geliebter Gottes|Amato da Dio|Amado de Deus
+Jemima|f|hebrew|english|2|biblical,vintage|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jeremiah|m|hebrew|english|3|biblical,classic|Dios eleva|God will uplift|Dieu élève|Gott erhöht|Dio solleva|Deus eleva
+Jesse|m|hebrew|english|3|biblical,classic|Regalo, Dios existe|Gift, God exists|Cadeau, Dieu existe|Geschenk, Gott ist|Dono, Dio esiste|Presente, Deus existe
+Jethro|m|hebrew|english|1|biblical,vintage|Abundancia, excelencia|Abundance, excellence|Abondance, excellence|Fülle, Vorzüglichkeit|Abbondanza, eccellenza|Abundância, excelência
+Joel|m|hebrew|english,spanish,french,german,hebrew|4|biblical,classic|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Jonah|m|hebrew|english,hebrew|3|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jonathan|m|hebrew|english,french,german,spanish|4|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Joseph|m|hebrew|english,french,intl|5|biblical,saint,classic|Dios añadirá|God will add|Dieu ajoutera|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Joshua|m|hebrew|english|4|biblical,classic|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Josiah|m|hebrew|english|3|biblical,trendy|Dios apoya|God supports|Dieu soutient|Gott stützt|Dio sostiene|Deus apoia
+Jordan|u|hebrew|english,intl|3|biblical,place,nature|El que desciende|Flowing down|Qui descend|Hinabfließend|Che scende|Que desce
+Judah|m|hebrew|english,hebrew|2|biblical,virtue|Alabanza|Praise|Louange|Lobpreis|Lode|Louvor
+Judith|f|hebrew|english,german,spanish,french|3|biblical,classic|Judía, alabada|Jewish woman, praised|Juive, louée|Jüdin, Gepriesene|Giudea, lodata|Judia, louvada
+Keren|f|hebrew|hebrew|2|light,modern|Rayo de luz, cuerno|Ray of light, horn|Rayon de lumière, corne|Lichtstrahl, Horn|Raggio di luce, corno|Raio de luz, chifre
+Keturah|f|hebrew|english|1|biblical,flower|Incienso|Incense|Encens|Weihrauch|Incenso|Incenso
+Kfir|m|hebrew|hebrew|2|animal,strong|Cachorro de león|Young lion|Lionceau|Junger Löwe|Giovane leone|Leãozinho
+Kinneret|f|hebrew|hebrew|1|place,music|Lago de Galilea, arpa|Sea of Galilee, harp|Lac de Tibériade, harpe|See Genezareth, Harfe|Lago di Tiberiade, arpa|Lago da Galileia, harpa
+Leah|f|hebrew|english,hebrew|4|biblical,classic|Cansada, vaca salvaje|Weary, wild cow|Lasse, vache sauvage|Müde, Wildkuh|Stanca, vacca selvatica|Cansada, vaca selvagem
+Levi|m|hebrew|english,hebrew|4|biblical,trendy|Unido, apegado|Joined, attached|Uni, attaché|Verbunden, anhänglich|Unito, attaccato|Unido, apegado
+Liat|f|hebrew|hebrew|3|modern,sweet|Tú eres para mí|You are mine|Tu es à moi|Du gehörst mir|Tu sei mia|Tu és minha
+Liel|u|hebrew|hebrew|3|modern,light|Para Dios, mío es Dios|I belong to God|Pour Dieu, Dieu est à moi|Zu Gott gehörend|Per Dio, Dio è mio|Para Deus, Deus é meu
+Lilach|f|hebrew|hebrew|2|flower,nature|Lila|Lilac|Lilas|Flieder|Lillà|Lilás
+Lior|u|hebrew|hebrew|3|light,modern|Tengo luz|I have light|J'ai de la lumière|Ich habe Licht|Ho luce|Tenho luz
+Liora|f|hebrew|hebrew|3|light,modern|Luz para mí|Light for me|Lumière pour moi|Licht für mich|Luce per me|Luz para mim
+Lital|f|hebrew|hebrew|2|nature,modern|Rocío de Dios|Dew of God|Rosée de Dieu|Tau Gottes|Rugiada di Dio|Orvalho de Deus
+Lia|f|hebrew|italian,portuguese,hebrew|3|biblical,sweet|Cansada, vaca salvaje|Weary, wild cow|Lasse, vache sauvage|Müde, Wildkuh|Stanca, vacca selvatica|Cansada, vaca selvagem
+Maayan|f|hebrew|hebrew|3|nature,modern|Manantial|Spring, fountain|Source|Quelle|Sorgente|Nascente
+Malachi|m|hebrew|english|2|biblical,vintage|Mi mensajero|My messenger|Mon messager|Mein Bote|Il mio messaggero|Meu mensageiro
+Malka|f|hebrew|hebrew|2|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Maor|m|hebrew|hebrew|2|light,celestial|Luz, luminaria|Light, luminary|Lumière, luminaire|Licht, Leuchte|Luce, luminare|Luz, luminar
+Matan|m|hebrew|hebrew|3|virtue,modern|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Matthew|m|hebrew|english|4|biblical,saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Meir|m|hebrew|hebrew|2|light,virtue|El que ilumina|One who illuminates|Celui qui éclaire|Der Erleuchtende|Colui che illumina|Aquele que ilumina
+Menachem|m|hebrew|hebrew|2|virtue,biblical|Consolador|Comforter|Consolateur|Tröster|Consolatore|Consolador
+Micah|m|hebrew|english,hebrew|2|biblical,vintage|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Michael|m|hebrew|english,german,intl|5|biblical,saint,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Michal|f|hebrew|hebrew,polish|2|biblical,virtue|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Miriam|f|hebrew|hebrew,english,german,spanish|3|biblical,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, ersehnte|Amata, desiderata|Amada, desejada
+Mordechai|m|hebrew|hebrew|1|biblical,warrior|Guerrero, hombre de Marte|Warrior, follower of Marduk|Guerrier|Krieger|Guerriero|Guerreiro
+Moriah|f|hebrew|hebrew,english|2|biblical,place|Dios es mi maestro|God is my teacher|Dieu est mon maître|Gott ist mein Lehrer|Dio è il mio maestro|Deus é meu mestre
+Moses|m|hebrew|english|2|biblical,classic|Sacado de las aguas|Drawn from the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Moshe|m|hebrew|hebrew|2|biblical,classic|Sacado de las aguas|Drawn from the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Naama|f|hebrew|hebrew|3|sweet,biblical|Agradable, dulce|Pleasant, sweet|Agréable, douce|Lieblich, süß|Piacevole, dolce|Agradável, doce
+Nadav|m|hebrew|hebrew|2|biblical,virtue|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Naftali|m|hebrew|hebrew|1|biblical,warrior|Mi lucha|My struggle|Ma lutte|Mein Ringen|La mia lotta|Minha luta
+Nahum|m|hebrew|english,hebrew|1|biblical,vintage|Consuelo|Comfort|Consolation|Trost|Conforto|Consolo
+Naomi|f|hebrew|english,hebrew,intl|4|biblical,sweet|Dulzura, placer|Pleasantness|Douceur, agrément|Lieblichkeit|Dolcezza, piacevolezza|Doçura, prazer
+Natan|m|hebrew|hebrew,french,portuguese|3|biblical,virtue|Él dio|He gave|Il a donné|Er gab|Egli diede|Ele deu
+Nathan|m|hebrew|english,french|4|biblical,classic|Él dio|He gave|Il a donné|Er gab|Egli diede|Ele deu
+Nathaniel|m|hebrew|english|2|biblical,vintage|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Nehemiah|m|hebrew|english|1|biblical,vintage|Dios consuela|God comforts|Dieu console|Gott tröstet|Dio consola|Deus consola
+Neta|u|hebrew|hebrew|2|nature,modern|Planta, brote|Plant, sapling|Plant, pousse|Pflanze, Setzling|Pianta, germoglio|Planta, broto
+Netanel|m|hebrew|hebrew|2|biblical,virtue|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Nitzan|u|hebrew|hebrew|2|flower,nature|Brote de flor|Flower bud|Bourgeon|Blütenknospe|Bocciolo|Botão de flor
+Noa|f|hebrew|hebrew,german,spanish|4|biblical,modern|Movimiento, temblor|Movement|Mouvement|Bewegung|Movimento|Movimento
+Noah|m|hebrew|english,german,french,intl|5|biblical,trendy|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Noam|m|hebrew|hebrew|3|sweet,virtue|Agradable, dulzura|Pleasantness|Agrément, douceur|Lieblichkeit|Piacevolezza, dolcezza|Agradabilidade, doçura
+Nofar|f|hebrew|hebrew|2|flower,nature|Nenúfar|Water lily|Nénuphar|Seerose|Ninfea|Nenúfar
+Nurit|f|hebrew|hebrew|2|flower,nature|Ranúnculo|Buttercup|Renoncule|Hahnenfuß|Ranuncolo|Botão-de-ouro
+Obadiah|m|hebrew|english|1|biblical,vintage|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Ofek|m|hebrew|hebrew|2|nature,celestial|Horizonte|Horizon|Horizon|Horizont|Orizzonte|Horizonte
+Ofer|m|hebrew|hebrew|2|animal,nature|Cervatillo|Fawn|Faon|Hirschkalb|Cerbiatto|Corça jovem
+Ofra|f|hebrew|hebrew|2|animal,biblical|Cervatilla|Young doe|Jeune biche|Junge Hirschkuh|Cerbiatta|Corça jovem
+Omer|m|hebrew|hebrew,arabic,turkish|3|nature,virtue|Gavilla de trigo|Sheaf of grain|Gerbe de blé|Getreidegarbe|Covone di grano|Feixe de trigo
+Or|u|hebrew|hebrew|3|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Oren|m|hebrew|hebrew,english|3|nature,strong|Pino|Pine tree|Pin|Kiefer|Pino|Pinheiro
+Ori|u|hebrew|hebrew|3|light,modern|Mi luz|My light|Ma lumière|Mein Licht|La mia luce|Minha luz
+Orit|f|hebrew|hebrew|2|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Orly|f|hebrew|hebrew|3|light,modern|Luz para mí|Light for me|Lumière pour moi|Licht für mich|Luce per me|Luz para mim
+Osnat|f|hebrew|hebrew|1|biblical,vintage|Perteneciente a Neit|Belonging to Neith|Appartenant à Neith|Der Neith gehörend|Appartenente a Neith|Pertencente a Neith
+Othniel|m|hebrew|english|1|biblical,warrior|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Peninah|f|hebrew|hebrew|1|biblical,gem|Perla, coral|Pearl, coral|Perle, corail|Perle, Koralle|Perla, corallo|Pérola, coral
+Rachel|f|hebrew|english,french,german,hebrew|4|biblical,classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Raphael|m|hebrew|english,french,german,intl|4|biblical,saint|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Raz|u|hebrew|hebrew|2|modern,virtue|Secreto|Secret|Secret|Geheimnis|Segreto|Segredo
+Rebecca|f|hebrew|english,german,intl|4|biblical,classic|Atar, cautivar|To tie, to bind|Lier, captiver|Binden, fesseln|Legare, avvincere|Atar, cativar
+Reuben|m|hebrew|english|1|biblical,vintage|¡Mirad, un hijo!|Behold, a son|Voici, un fils|Siehe, ein Sohn|Ecco, un figlio|Eis um filho
+Reut|f|hebrew|hebrew|2|virtue,modern|Amistad|Friendship|Amitié|Freundschaft|Amicizia|Amizade
+Rina|f|hebrew|hebrew|2|music,sweet|Alegría, canto|Joy, song|Joie, chant|Freude, Gesang|Gioia, canto|Alegria, canto
+Rivka|f|hebrew|hebrew|2|biblical,classic|Atar, cautivar|To tie, to bind|Lier, captiver|Binden, fesseln|Legare, avvincere|Atar, cativar
+Roi|m|hebrew|hebrew|2|virtue,modern|Mi pastor, mi visión|My shepherd, my vision|Mon berger, ma vision|Mein Hirte, meine Vision|Il mio pastore, la mia visione|Meu pastor, minha visão
+Ron|m|hebrew|hebrew,english|3|music,modern|Canto, alegría|Song, joy|Chant, joie|Gesang, Freude|Canto, gioia|Canto, alegria
+Rona|f|hebrew|hebrew|2|music,sweet|Canto, alegría|Song, joy|Chant, joie|Gesang, Freude|Canto, gioia|Canto, alegria
+Roni|u|hebrew|hebrew|3|music,modern|Mi canción|My song|Mon chant|Mein Lied|Il mio canto|Meu canto
+Ronit|f|hebrew|hebrew|2|music,sweet|Canto, alegría|Song, joy|Chant, joie|Gesang, Freude|Canto, gioia|Canto, alegria
+Rotem|u|hebrew|hebrew|3|nature,modern|Retama|Broom shrub|Genêt|Ginster|Ginestra|Giesta
+Ruth|f|hebrew|english,german,hebrew|3|biblical,classic|Amiga, compañera|Friend, companion|Amie, compagne|Freundin, Gefährtin|Amica, compagna|Amiga, companheira
+Samson|m|hebrew|english,french|2|biblical,strong|Sol pequeño|Little sun|Petit soleil|Kleine Sonne|Piccolo sole|Pequeno sol
+Samuel|m|hebrew|english,spanish,french,german,portuguese,intl|4|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sapir|u|hebrew|hebrew|3|gem,modern|Zafiro|Sapphire|Saphir|Saphir|Zaffiro|Safira
+Sarah|f|hebrew|english,french,german,hebrew,intl|4|biblical,royal,classic|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Sarai|f|hebrew|english|1|biblical,royal|Mi princesa|My princess|Ma princesse|Meine Prinzessin|Mia principessa|Minha princesa
+Saul|m|hebrew|english,spanish|2|biblical,royal|Pedido a Dios|Asked for|Demandé|Erbeten|Chiesto|Pedido
+Seth|m|hebrew|english|3|biblical,classic|Designado, puesto|Appointed, placed|Désigné, placé|Eingesetzt|Stabilito, posto|Designado, posto
+Shai|u|hebrew|hebrew|3|virtue,modern|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Shaked|u|hebrew|hebrew|1|nature,flower|Almendro|Almond tree|Amandier|Mandelbaum|Mandorlo|Amendoeira
+Shalom|u|hebrew|hebrew|2|virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Shani|f|hebrew|hebrew|3|modern,virtue|Escarlata|Scarlet|Écarlate|Scharlach|Scarlatto|Escarlate
+Sharon|u|hebrew|english,hebrew|3|biblical,place,flower|Llanura fértil|Fertile plain|Plaine fertile|Fruchtbare Ebene|Pianura fertile|Planície fértil
+Shaul|m|hebrew|hebrew|2|biblical,royal|Pedido a Dios|Asked for|Demandé|Erbeten|Chiesto|Pedido
+Shira|f|hebrew|hebrew,english|3|music,sweet|Canción|Song|Chanson|Lied|Canzone|Canção
+Shiri|f|hebrew|hebrew|3|music,sweet|Mi canción|My song|Mon chant|Mein Lied|La mia canzone|Minha canção
+Shlomo|m|hebrew|hebrew|2|biblical,virtue|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Shimon|m|hebrew|hebrew|2|biblical,classic|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Shoshana|f|hebrew|hebrew|2|biblical,flower|Rosa, lirio|Rose, lily|Rose, lys|Rose, Lilie|Rosa, giglio|Rosa, lírio
+Solomon|m|hebrew|english|2|biblical,royal|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Susanna|f|hebrew|english,italian,german,dutch|3|biblical,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Tal|u|hebrew|hebrew|4|nature,modern|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Talia|f|hebrew|hebrew,english,spanish|4|nature,sweet|Rocío del cielo|Dew from heaven|Rosée du ciel|Tau des Himmels|Rugiada del cielo|Orvalho do céu
+Talya|f|hebrew|hebrew|2|nature,sweet|Rocío de Dios|Dew of God|Rosée de Dieu|Tau Gottes|Rugiada di Dio|Orvalho de Deus

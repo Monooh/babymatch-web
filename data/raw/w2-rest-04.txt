@@ -1,0 +1,70 @@
+Jarmila|f|slavic|polish|1|vintage|Primavera amada|Spring-beloved|Printemps aimé|Geliebter Frühling|Primavera amata|Primavera amada
+Jindřich|m|germanic|polish|2|classic|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Jiří|m|greek|polish|3|classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Jitka|f|hebrew|polish|2|classic|Judía, alabada|Jewess, praised|Juive, louée|Jüdin, gepriesen|Giudea, lodata|Judia, louvada
+Lenka|f|greek|polish|2|classic|Antorcha, brillante|Torch, bright|Torche, brillante|Fackel, leuchtend|Torcia, luminosa|Tocha, brilhante
+Milada|f|slavic|polish|1|vintage|Amada, querida|Dear, beloved|Chérie, bien-aimée|Liebe, Geliebte|Cara, amata|Querida, amada
+Tereza|f|greek|polish|3|classic|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Jaromír|m|slavic|polish|2|vintage|Paz de primavera|Spring peace|Paix du printemps|Frühlingsfrieden|Pace di primavera|Paz da primavera
+Oldřich|m|germanic|polish|1|vintage|Gobernante noble|Noble ruler|Noble souverain|Edler Herrscher|Nobile sovrano|Nobre governante
+Vítězslav|m|slavic|polish|1|vintage|Gloria victoriosa|Glorious victory|Gloire victorieuse|Siegreicher Ruhm|Gloria vittoriosa|Glória vitoriosa
+Karel|m|germanic|polish|2|classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Viera|f|slavic|polish|2|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Drahomíra|f|slavic|polish|1|vintage|Paz querida|Dear peace|Paix chérie|Liebe Friede|Pace cara|Paz querida
+Svätopluk|m|slavic|polish|1|vintage|Pueblo sagrado|Holy host|Armée sainte|Heiliges Heer|Schiera sacra|Hoste sagrada
+Biljana|f|slavic|russian|2|nature|Hierba, planta|Herb, plant|Herbe, plante|Kraut, Pflanze|Erba, pianta|Erva, planta
+Bojana|f|slavic|russian|2|warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Darko|m|slavic|russian|2|classic|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Nada|f|slavic|russian|2|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Vedran|m|slavic|russian|2|light|Sereno, claro|Bright, serene|Serein, clair|Heiter, klar|Sereno, chiaro|Sereno, claro
+Vuk|m|slavic|russian|2|animal|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Višnja|f|slavic|russian|1|nature|Cereza ácida|Sour cherry|Griotte|Sauerkirsche|Amarena|Ginja
+Jasmina|f|persian|russian|3|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Tomislav|m|slavic|russian|2|royal|Gloria del tormento|Glory of strife|Gloire du tourment|Ruhm der Mühe|Gloria della fatica|Glória do tormento
+Zvonimir|m|slavic|russian|1|vintage|Paz sonora|Sounding peace|Paix sonore|Klingender Friede|Pace sonora|Paz sonora
+Ante|m|greek|russian|2|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Josip|m|hebrew|russian|3|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott fügt hinzu|Dio aggiungerà|Deus acrescentará
+Stjepan|m|greek|russian|2|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Rumen|m|slavic|russian|2|classic|Rubicundo, sonrosado|Ruddy|Rougeaud|Rötlich|Rubicondo|Rosado
+Kamen|m|slavic|russian|2|nature|Piedra|Stone|Pierre|Stein|Pietra|Pedra
+Tsvetelina|f|slavic|russian|2|flower|Florecida|Blossoming|Fleurie|Blühend|Fiorita|Florescente
+Boyan|m|slavic|russian|2|warrior|Guerrero|Warrior|Guerrier|Krieger|Guerriero|Guerreiro
+Dobrin|m|slavic|russian|1|virtue|Bueno|Good|Bon|Gut|Buono|Bom
+Zlatina|f|slavic|russian|2|gem|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Lyubomir|m|slavic|russian|2|love|Amor y paz|Love and peace|Amour et paix|Liebe und Frieden|Amore e pace|Amor e paz
+Kaloyan|m|greek|russian|1|royal|Buen Juan|Good John|Bon Jean|Guter Johannes|Buon Giovanni|Bom João
+Artemis|f|greek|greek|3|mythology|Diosa de la caza|Goddess of the hunt|Déesse de la chasse|Göttin der Jagd|Dea della caccia|Deusa da caça
+Antigoni|f|greek|greek|2|mythology|Contraria a la raza|Against her kind|Contre sa lignée|Gegen ihr Geschlecht|Contro la stirpe|Contra a sua raça
+Kassandra|f|greek|greek|3|mythology|Hermana de los hombres|She who entangles men|Celle qui captive les hommes|Die Männer Verstrickende|Colei che avvince gli uomini|Aquela que enreda os homens
+Persefoni|f|greek|greek|2|mythology|Portadora de muerte|Bringer of death|Porteuse de mort|Todbringerin|Portatrice di morte|Portadora de morte
+Rea|f|greek|greek|2|mythology|Madre de los dioses|Mother of the gods|Mère des dieux|Mutter der Götter|Madre degli dei|Mãe dos deuses
+Fedra|f|greek|greek|2|mythology|Brillante|Bright|Brillante|Strahlend|Radiosa|Brilhante
+Atalanti|f|greek|greek|1|mythology|De igual peso|Equal in weight|De poids égal|Gleichwertig|Di pari peso|De igual peso
+Dimitra|f|greek|greek|3|mythology|Madre tierra, de Deméter|Of Demeter, earth mother|De Déméter, terre mère|Von Demeter, Erdmutter|Di Demetra, madre terra|De Deméter, mãe terra
+Ioanna|f|hebrew|greek|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Vasiliki|f|greek|greek|3|royal|Real|Royal|Royale|Königlich|Reale|Real
+Zoi|f|greek|greek|3|classic|Vida|Life|Vie|Leben|Vita|Vida
+Orfeas|m|greek|greek|2|mythology,music|Músico legendario|Legendary musician|Musicien légendaire|Legendärer Musiker|Musicista leggendario|Músico lendário
+Odysseas|m|greek|greek|3|mythology|Irritado, colérico|Wrathful|Courroucé|Zürnend|Adirato|Irado
+Perseas|m|greek|greek|2|mythology|Destructor|Destroyer|Destructeur|Zerstörer|Distruttore|Destruidor
+Thiseas|m|greek|greek|2|mythology|El que establece|Founder|Fondateur|Gründer|Fondatore|Fundador
+Apollon|m|greek|greek|2|mythology,light|Dios de la luz y la música|God of light and music|Dieu de la lumière et de la musique|Gott des Lichts und der Musik|Dio della luce e della musica|Deus da luz e da música
+Ares|m|greek|greek|2|mythology,warrior|Dios de la guerra|God of war|Dieu de la guerre|Kriegsgott|Dio della guerra|Deus da guerra
+Orion|m|greek|greek|2|mythology,celestial|Cazador celeste|Celestial hunter|Chasseur céleste|Himmlischer Jäger|Cacciatore celeste|Caçador celeste
+Giannis|m|hebrew|greek|4|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Giorgos|m|greek|greek|4|classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Nikos|m|greek|greek|4|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Kostas|m|latin|greek|4|classic|Constante|Constant|Constant|Standhaft|Costante|Constante
+Dimitris|m|greek|greek|4|classic|De Deméter|Of Demeter|De Déméter|Von Demeter|Di Demetra|De Deméter
+Michalis|m|hebrew|greek|3|biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Pavlos|m|latin|greek|3|classic|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Spyros|m|greek|greek|3|classic|Cesta, cesto|Basket|Panier|Korb|Cesto|Cesto
+Vasilis|m|greek|greek|4|royal|Real|Royal|Royal|Königlich|Reale|Real
+Vangelis|m|greek|greek|3|classic|Portador de buenas noticias|Bearer of good news|Porteur de bonnes nouvelles|Überbringer guter Nachrichten|Portatore di buone notizie|Portador de boas notícias
+Tasos|m|greek|greek|3|classic|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Thanasis|m|greek|greek|3|classic|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Haris|m|greek|greek|2|classic|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Sokratis|m|greek|greek|2|classic|Poder seguro|Sound power|Pouvoir sûr|Sichere Macht|Potere saldo|Poder seguro
+Aristea|f|greek|greek|1|vintage|La mejor|The best|La meilleure|Die Beste|La migliore|A melhor
+Chrysoula|f|greek|greek|2|gem|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Aris|m|greek|greek|3|classic|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor

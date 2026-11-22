@@ -1,0 +1,53 @@
+Abir|f|arabic|arabic|3|sweet,flower|Fragancia|Fragrance|Parfum|Duft|Profumo|Fragrância
+Afaf|f|arabic|arabic|2|virtue,classic|Pureza, castidad|Purity, chastity|Pureté, chasteté|Reinheit, Keuschheit|Purezza, castità|Pureza, castidade
+Amna|f|arabic|arabic|3|virtue,classic|Seguridad, paz|Security, peace|Sécurité, paix|Sicherheit, Frieden|Sicurezza, pace|Segurança, paz
+Aseel|f|arabic|arabic|3|virtue,classic|Auténtica, de noble cuna|Authentic, of noble origin|Authentique, de noble origine|Echt, von edler Herkunft|Autentica, di nobile origine|Autêntica, de nobre origem
+Doha|f|arabic|arabic|3|light,place|Media mañana|Forenoon, late morning|Matinée avancée|Vormittag|Tarda mattinata|Meio da manhã
+Fadwa|f|arabic|arabic|3|virtue,classic|Sacrificio de uno mismo|Self-sacrifice|Sacrifice de soi|Selbstaufopferung|Sacrificio di sé|Sacrifício de si
+Fairuz|f|persian|arabic|3|gem,music|Turquesa|Turquoise|Turquoise|Türkis|Turchese|Turquesa
+Fatin|f|arabic|arabic|2|sweet,classic|Cautivadora, fascinante|Captivating, enchanting|Captivante, envoûtante|Bezaubernd|Affascinante, incantevole|Cativante, fascinante
+Fawzia|f|arabic|arabic|2|strong,virtue|Victoriosa|Victorious|Victorieuse|Siegreich|Vittoriosa|Vitoriosa
+Ghaida|f|arabic|arabic|2|sweet,classic|Joven delicada|Delicate young woman|Jeune femme délicate|Zarte junge Frau|Giovane delicata|Jovem delicada
+Hadeel|f|arabic|arabic|3|sweet,animal|Arrullo de la paloma|Cooing of the dove|Roucoulement de la colombe|Gurren der Taube|Tubare della colomba|Arrulho da pomba
+Haifa|f|arabic|arabic|3|sweet,classic|Esbelta, de bello cuerpo|Slender, shapely|Svelte, élancée|Schlank, anmutig|Snella, aggraziata|Esbelta, graciosa
+Hanin|f|arabic|arabic|3|love,sweet|Anhelo, nostalgia|Longing, yearning|Nostalgie, désir ardent|Sehnsucht|Nostalgia, struggimento|Saudade, anseio
+Hasna|f|arabic|arabic|2|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Ilham|f|arabic|arabic|3|sweet,virtue|Inspiración|Inspiration|Inspiration|Inspiration|Ispirazione|Inspiração
+Jannah|f|arabic|arabic|3|sweet,modern|Paraíso, jardín|Paradise, garden|Paradis, jardin|Paradies, Garten|Paradiso, giardino|Paraíso, jardim
+Jawaher|f|arabic|arabic|2|gem,sweet|Joyas|Jewels|Joyaux|Juwelen|Gioielli|Joias
+Jawhara|f|arabic|arabic|2|gem,sweet|Joya|Jewel|Joyau|Juwel|Gioiello|Joia
+Jinan|f|arabic|arabic|2|nature,sweet|Jardines|Gardens|Jardins|Gärten|Giardini|Jardins
+Jood|f|arabic|arabic|3|virtue,modern|Generosidad|Generosity|Générosité|Großzügigkeit|Generosità|Generosidade
+Joumana|f|arabic|arabic|3|gem,sea|Perla|Pearl|Perle|Perle|Perla|Pérola
+Kawthar|f|arabic|arabic|2|virtue,classic|Abundancia|Abundance|Abondance|Überfluss|Abbondanza|Abundância
+Kenza|f|arabic|arabic|4|gem,modern|Tesoro|Treasure|Trésor|Schatz|Tesoro|Tesouro
+Khawla|f|arabic|arabic|3|animal,classic|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Lamis|f|arabic|arabic|2|sweet,modern|Suave al tacto|Soft to the touch|Douce au toucher|Weich anzufühlen|Morbida al tatto|Suave ao toque
+Leen|f|arabic|arabic|3|sweet,modern|Ternura, suavidad|Tenderness, softness|Tendresse, douceur|Zärtlichkeit, Sanftheit|Tenerezza, dolcezza|Ternura, suavidade
+Lulwa|f|arabic|arabic|2|gem,sea|Perla|Pearl|Perle|Perle|Perla|Pérola
+Majida|f|arabic|arabic|2|virtue,royal|Gloriosa|Glorious|Glorieuse|Ruhmreiche|Gloriosa|Gloriosa
+Malak|f|arabic|arabic|4|sweet,modern|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Malika|f|arabic|arabic|3|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Manal|f|arabic|arabic|3|virtue,classic|Logro, consecución|Attainment, achievement|Accomplissement|Errungenschaft|Conseguimento|Conquista
+Maram|f|arabic|arabic|3|sweet,modern|Aspiración, anhelo|Aspiration, wish|Aspiration, souhait|Streben, Wunsch|Aspirazione, desiderio|Aspiração, desejo
+Naima|f|arabic|arabic|3|sweet,classic|Dichosa, serena|Content, serene|Heureuse, sereine|Zufrieden, heiter|Appagata, serena|Contente, serena
+Najat|f|arabic|arabic|3|virtue,classic|Salvación, rescate|Salvation, rescue|Salut, délivrance|Rettung, Heil|Salvezza|Salvação, resgate
+Nesma|f|arabic|arabic|2|nature,sweet|Brisa|Breeze|Brise|Brise|Brezza|Brisa
+Nesrine|f|arabic|arabic|3|flower,nature|Rosa silvestre|Wild rose|Églantine|Wildrose|Rosa selvatica|Rosa silvestre
+Noura|f|arabic|arabic|4|light,sweet|Luz, luminosa|Light, luminous|Lumière, lumineuse|Licht, leuchtend|Luce, luminosa|Luz, luminosa
+Rima|f|arabic|arabic|3|animal,sweet|Antílope blanco|White antelope|Antilope blanche|Weiße Antilope|Antilope bianca|Antílope branco
+Sabreen|f|arabic|arabic|2|virtue,sweet|Pacientes, perseverantes|Patient, enduring|Patientes, endurantes|Geduldige, Ausdauernde|Pazienti, perseveranti|Pacientes, perseverantes
+Salsabil|f|arabic|arabic|2|nature,sweet|Fuente del paraíso|Spring in Paradise|Source du paradis|Quelle im Paradies|Fonte del paradiso|Fonte do paraíso
+Salwa|f|arabic|arabic|3|sweet,virtue|Consuelo, solaz|Solace, consolation|Consolation, réconfort|Trost|Conforto, consolazione|Consolo, conforto
+Samah|f|arabic|arabic|2|virtue,classic|Generosidad, indulgencia|Generosity, forgiveness|Générosité, indulgence|Großzügigkeit, Nachsicht|Generosità, indulgenza|Generosidade, indulgência
+Samia|f|arabic|arabic|3|virtue,classic|Elevada, sublime|Exalted, sublime|Élevée, sublime|Erhaben, sublim|Elevata, sublime|Elevada, sublime
+Sawsan|f|arabic|arabic|3|flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Shahd|f|arabic|arabic|3|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Souad|f|arabic|arabic|3|sweet,classic|Felicidad, dicha|Happiness, bliss|Bonheur, félicité|Glück, Glückseligkeit|Felicità, beatitudine|Felicidade, bem-aventurança
+Suha|f|arabic|arabic|2|celestial,classic|Estrella tenue de la Osa Mayor|Faint star of the Great Bear|Étoile discrète de la Grande Ourse|Schwacher Stern im Großen Bären|Stella debole dell'Orsa Maggiore|Estrela fraca da Ursa Maior
+Sundus|f|arabic|arabic|2|nature,sweet|Brocado de seda fina|Fine silk brocade|Brocart de soie fine|Feiner Seidenbrokat|Broccato di seta fine|Brocado de seda fina
+Taghreed|f|arabic|arabic|2|music,sweet|Trino de los pájaros|Warbling of birds|Gazouillis d'oiseaux|Vogelgezwitscher|Cinguettio di uccelli|Gorjeio de pássaros
+Tasnim|f|arabic|arabic|3|nature,sweet|Fuente del paraíso|Spring in Paradise|Source du paradis|Quelle im Paradies|Fonte del paradiso|Fonte do paraíso
+Yara|f|arabic|arabic|4|animal,modern|Pequeña mariposa|Small butterfly|Petit papillon|Kleiner Schmetterling|Piccola farfalla|Pequena borboleta
+Zakia|f|arabic|arabic|2|virtue,classic|Pura, inteligente|Pure, intelligent|Pure, intelligente|Rein, klug|Pura, intelligente|Pura, inteligente
+Zeinab|f|arabic|arabic|3|virtue,classic|Árbol de buen aroma|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada

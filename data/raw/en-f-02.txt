@@ -1,0 +1,98 @@
+Caitlin|f|celtic|english|2|modern,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Callie|f|greek|english|2|sweet,modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Camilla|f|latin|english,italian|3|classic,royal|Joven asistente de ritos|Attendant at ceremonies|Servante des rites|Opferdienerin|Ministra dei riti|Auxiliar dos ritos
+Camille|f|latin|english,french|3|classic,sweet|Joven asistente de ritos|Attendant at ceremonies|Servante des rites|Opferdienerin|Ministra dei riti|Auxiliar dos ritos
+Candace|f|african|english|1|biblical,royal|Reina madre|Queen mother|Reine mère|Königinmutter|Regina madre|Rainha-mãe
+Cara|f|latin|english|2|love,sweet|Querida|Dear, beloved|Chère|Liebe|Cara|Querida
+Carol|f|germanic|english|2|vintage,classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carolina|f|germanic|english,spanish,italian|3|classic,place|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Caroline|f|germanic|english,french|4|classic,royal|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cassandra|f|greek|english|3|mythology,classic|Hermana de los hombres|Shining upon men|Qui brille sur les hommes|Die unter Männern Strahlende|Colei che brilla sugli uomini|Que brilha entre os homens
+Catherine|f|greek|english,french|4|classic,saint|Pura|Pure|Pure|Rein|Pura|Pura
+Cecilia|f|latin|english,spanish,italian|3|saint,music|Ciega, de Cecilio|Blind, of the Caecilius clan|Aveugle, de la famille Caecilius|Blind, aus dem Haus der Caecilier|Cieca, della famiglia Cecilia|Cega, da família Cecília
+Cecily|f|latin|english|2|vintage,saint|Ciega, de Cecilio|Blind, of the Caecilius clan|Aveugle, de la famille Caecilius|Blind, aus dem Haus der Caecilier|Cieca, della famiglia Cecilia|Cega, da família Cecília
+Celeste|f|latin|english,spanish,italian|3|celestial,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Celia|f|latin|english|2|vintage,celestial|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Charlotte|f|germanic|english,french|5|classic,royal|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Chelsea|f|other|english|2|place,modern|Puerto de piedra caliza|Chalk landing place|Port de craie|Kreidelandeplatz|Approdo di gesso|Porto de giz
+Cherie|f|latin|english,french|1|love,sweet|Querida|Dear one|Chérie|Liebling|Cara|Querida
+Cheryl|f|other|english|1|vintage,love|Querida|Dear one|Chérie|Liebling|Cara|Querida
+Chloe|f|greek|english,intl|4|classic,nature|Brote verde|Young green shoot|Jeune pousse verte|Junger grüner Spross|Giovane germoglio verde|Broto verde
+Christina|f|greek|english|2|classic,biblical|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Christine|f|greek|english,french|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Cindy|f|greek|english|1|classic,sweet|Luna|Moon|Lune|Mond|Luna|Lua
+Claire|f|latin|english,french|3|classic,light|Clara, brillante|Bright, clear|Claire, brillante|Hell, klar|Chiara, luminosa|Clara, brilhante
+Clara|f|latin|english,german,spanish|3|classic,light|Clara, brillante|Bright, clear|Claire, brillante|Hell, klar|Chiara, luminosa|Clara, brilhante
+Clarissa|f|latin|english|2|literary,classic|Muy clara|Most bright|Très claire|Sehr hell|Chiarissima|Muito clara
+Claudia|f|latin|english,german,italian|2|classic|De Claudio, cojeante|Of the Claudius clan|De la famille Claudius|Aus dem Haus der Claudier|Della famiglia Claudia|Da família Cláudia
+Clementine|f|latin|english,french|2|vintage,virtue|Clemente, misericordiosa|Merciful, mild|Clémente, douce|Milde, gnädig|Clemente, mite|Clemente, misericordiosa
+Cleo|f|greek|english|3|vintage,strong|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Cleopatra|f|greek|english|1|royal,strong|Gloria de su padre|Glory of the father|Gloire du père|Ruhm des Vaters|Gloria del padre|Glória do pai
+Colleen|f|celtic|english|1|vintage,classic|Muchacha|Girl|Jeune fille|Mädchen|Ragazza|Menina
+Connie|f|latin|english|1|vintage,virtue|Constante|Constant|Constante|Beständig|Costante|Constante
+Constance|f|latin|english,french|2|vintage,virtue|Constancia|Constancy|Constance|Beständigkeit|Costanza|Constância
+Cora|f|greek|english|2|vintage,classic|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Coral|f|greek|english|2|sea,gem|Coral|Coral|Corail|Koralle|Corallo|Coral
+Cordelia|f|celtic|english|2|literary,vintage|Joya del mar|Jewel of the sea|Joyau de la mer|Juwel des Meeres|Gioiello del mare|Joia do mar
+Corinne|f|greek|english,french|1|classic|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Courtney|f|other|english|1|modern|Del dominio de Court|From the court|De la cour|Vom Hof|Della corte|Da corte
+Crystal|f|greek|english|2|gem,modern|Cristal, hielo claro|Clear ice, crystal|Cristal, glace claire|Kristall|Cristallo|Cristal
+Cynthia|f|greek|english|2|classic,mythology|De Cinto, la luna|From Mount Cynthus|Du mont Cynthe|Vom Berg Kynthos|Del monte Cinto|Do monte Cinto
+Daisy|f|germanic|english|4|flower,vintage|Ojo del día|Day's eye|Œil du jour|Auge des Tages|Occhio del giorno|Olho do dia
+Dahlia|f|other|english|3|flower,modern|Flor de dalia|Dahlia flower|Fleur de dahlia|Dahlienblüte|Fiore di dalia|Flor de dália
+Daphne|f|greek|english,greek|2|mythology,nature|Laurel|Laurel tree|Laurier|Lorbeer|Alloro|Louro
+Darcy|f|other|english|1|modern,literary|De Arcy|From Arcy|D'Arcy|Aus Arcy|Da Arcy|De Arcy
+Dawn|f|germanic|english|2|light,vintage|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Deborah|f|hebrew|english|2|biblical,animal|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Delilah|f|hebrew|english|3|biblical,modern|Delicada, seductora|Delicate, languishing|Délicate, languissante|Zart, schmachtend|Delicata, languida|Delicada, languida
+Delia|f|greek|english|1|vintage,mythology|De Delos|From Delos|De Délos|Von Delos|Di Delo|De Delos
+Denise|f|greek|english,french|1|classic|Seguidora de Dioniso|Follower of Dionysus|Disciple de Dionysos|Anhängerin des Dionysos|Seguace di Dioniso|Seguidora de Dionísio
+Diana|f|latin|english,intl|3|mythology,celestial|Divina|Divine|Divine|Göttlich|Divina|Divina
+Diane|f|latin|english,french|2|mythology,classic|Divina|Divine|Divine|Göttlich|Divina|Divina
+Dolly|f|greek|english|1|vintage,sweet|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Dora|f|greek|english|2|vintage,classic|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Doris|f|greek|english|1|vintage,mythology|Regalo del mar|Gift of the sea|Don de la mer|Gabe des Meeres|Dono del mare|Dom do mar
+Dorothy|f|greek|english|2|vintage,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Eden|f|hebrew|english|3|biblical,place|Deleite|Delight|Délice|Wonne|Delizia|Deleite
+Edith|f|germanic|english,german|3|vintage,strong|Próspera en la guerra|Prosperous in war|Prospère à la guerre|Wohlhabend im Krieg|Prospera in guerra|Próspera na guerra
+Edna|f|hebrew|english|1|vintage|Placer, rejuvenecimiento|Pleasure, rejuvenation|Plaisir, rajeunissement|Vergnügen, Verjüngung|Piacere, ringiovanimento|Prazer, rejuvenescimento
+Eileen|f|greek|english,irish|1|vintage,light|Luz|Light|Lumière|Licht|Luce|Luz
+Elaine|f|greek|english|2|vintage,literary|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Eleanor|f|greek|english|4|vintage,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Eliza|f|hebrew|english|3|classic,vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elizabeth|f|hebrew|english|4|biblical,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Ella|f|germanic|english,intl|5|classic,sweet|Toda, completamente|All, completely|Toute, entièrement|Ganz, völlig|Tutta, completamente|Toda, inteiramente
+Ellen|f|greek|english|2|classic|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Ellie|f|greek|english|4|sweet,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Elodie|f|germanic|english,french|2|sweet,vintage|Riqueza ajena|Foreign riches|Richesse étrangère|Fremder Reichtum|Ricchezza straniera|Riqueza alheia
+Eloise|f|germanic|english,french|3|vintage,literary|Guerrera sana|Healthy, wide|Saine, vaste|Gesund, weit|Sana, ampia|Saudável, ampla
+Elsa|f|germanic|english,german,scandinavian|3|classic,vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Elsie|f|hebrew|english|3|vintage,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elspeth|f|hebrew|english,scottish|1|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Eve|f|hebrew|english|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Evelyn|f|germanic|english|4|vintage,classic|Deseada, avellana|Wished-for, hazelnut|Désirée, noisette|Ersehnt, Haselnuss|Desiderata, nocciola|Desejada, avelã
+Emilia|f|latin|english,italian|4|classic,vintage|Rival, laboriosa|Rival, industrious|Rivale, travailleuse|Rivalin, fleißig|Rivale, laboriosa|Rival, laboriosa
+Emily|f|latin|english|5|classic,literary|Rival, laboriosa|Rival, industrious|Rivale, travailleuse|Rivalin, fleißig|Rivale, laboriosa|Rival, laboriosa
+Emma|f|germanic|english,intl|5|classic,royal|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Erin|f|celtic|english,irish|2|place,classic|Irlanda|Ireland|Irlande|Irland|Irlanda|Irlanda
+Esme|f|latin|english|3|vintage,love|Amada, estimada|Esteemed, beloved|Estimée, aimée|Geschätzt, geliebt|Stimata, amata|Estimada, amada
+Estelle|f|latin|english,french|2|vintage,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Esther|f|hebrew|english|2|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ethel|f|germanic|english|1|vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Eugenia|f|greek|english|1|vintage,classic|Bien nacida|Well-born|Bien née|Wohlgeboren|Ben nata|Bem-nascida
+Eva|f|hebrew|english,german,spanish|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Evangeline|f|greek|english|2|literary,vintage|Portadora de buenas noticias|Bearer of good news|Porteuse de bonnes nouvelles|Überbringerin guter Nachrichten|Portatrice di buone notizie|Portadora de boas notícias
+Evie|f|hebrew|english|4|sweet,vintage|Vida|Life|Vie|Leben|Vita|Vida
+Faith|f|latin|english|3|virtue,classic|Fe|Faith|Foi|Glaube|Fede|Fé
+Fanny|f|latin|english|1|vintage|Libre|Free|Libre|Frei|Libera|Livre
+Fay|f|other|english|1|vintage,mythology|Hada|Fairy|Fée|Fee|Fata|Fada
+Felicity|f|latin|english|2|virtue,vintage|Felicidad|Happiness|Bonheur|Glück|Felicità|Felicidade
+Fern|f|germanic|english|2|nature,vintage|Helecho|Fern|Fougère|Farn|Felce|Feto
+Fiona|f|celtic|english,scottish|3|classic,sweet|Blanca, clara|Fair, white|Blanche, claire|Hell, weiß|Bianca, chiara|Clara, branca
+Flora|f|latin|english,italian|2|flower,mythology|Flor|Flower|Fleur|Blume|Fiore|Flor
+Florence|f|latin|english,french|2|vintage,place|Floreciente|Flourishing|Florissante|Blühend|Fiorente|Florescente
+Frances|f|germanic|english|2|vintage,saint|Mujer libre|Free one|Femme libre|Freie|Libera|Livre
+Francesca|f|germanic|english,italian|2|classic,saint|Mujer libre|Free one|Femme libre|Freie|Libera|Livre
+Freya|f|norse|english,scandinavian|4|mythology,love|Señora|Lady|Dame|Herrin|Signora|Senhora
+Freda|f|germanic|english|1|vintage|Pacífica gobernante|Peaceful ruler|Souveraine paisible|Friedvolle Herrscherin|Sovrana pacifica|Governante pacífica
+Frederica|f|germanic|english|1|vintage,royal|Gobernante pacífica|Peaceful ruler|Souveraine paisible|Friedvolle Herrscherin|Sovrana pacifica|Governante pacífica

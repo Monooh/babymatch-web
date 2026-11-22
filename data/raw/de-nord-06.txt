@@ -1,0 +1,86 @@
+Ari|m|norse|scandinavian|3|animal,strong|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Arna|f|norse|scandinavian|2|animal,modern|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Arnar|m|norse|scandinavian|3|animal,strong|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Asger|m|norse|scandinavian|2|vintage,warrior|Lanza de los dioses|Spear of the gods|Lance des dieux|Speer der Götter|Lancia degli dei|Lança dos deuses
+Ásta|f|norse|scandinavian|3|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Birta|f|norse|scandinavian|3|light,modern|Luz, claridad|Light, brightness|Lumière, clarté|Licht, Helligkeit|Luce, chiarezza|Luz, claridade
+Bjarki|m|norse|scandinavian|3|animal,strong|Osito|Little bear|Petit ours|Kleiner Bär|Orsetto|Ursinho
+Björk|f|norse|scandinavian|2|nature,music|Abedul|Birch|Bouleau|Birke|Betulla|Bétula
+Dagur|m|norse|scandinavian|3|light,classic|Día|Day|Jour|Tag|Giorno|Dia
+Eeva|f|hebrew|scandinavian|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Eik|f|norse|scandinavian|1|nature,strong|Roble|Oak|Chêne|Eiche|Quercia|Carvalho
+Eir|f|norse|scandinavian|2|mythology,virtue|Misericordia, ayuda|Mercy, help|Miséricorde, aide|Gnade, Hilfe|Misericordia, aiuto|Misericórdia, ajuda
+Eyja|f|norse|scandinavian|2|nature,sea|Isla|Island|Île|Insel|Isola|Ilha
+Hekla|f|norse|scandinavian|2|nature,place|Capa con capucha|Hooded cloak|Cape à capuche|Kapuzenmantel|Mantello con cappuccio|Manto com capuz
+Hrafn|m|norse|scandinavian|2|animal,mythology|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Iida|f|germanic|scandinavian|3|vintage,trendy|Trabajadora, laboriosa|Industrious, hard-working|Travailleuse, laborieuse|Die Fleißige|Operosa, laboriosa|Trabalhadora, laboriosa
+Joonas|m|hebrew|scandinavian|3|biblical,classic|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jökull|m|norse|scandinavian|2|nature|Glaciar|Glacier|Glacier|Gletscher|Ghiacciaio|Geleira
+Maja|f|hebrew|scandinavian|4|sweet,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Die Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Malin|f|hebrew|scandinavian|3|classic,biblical|De Magdala|From Magdala|De Magdala|Die aus Magdala|Di Magdala|De Magdala
+Marja|f|hebrew|scandinavian|3|classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Die Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Mats|m|hebrew|scandinavian|3|classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dádiva de Deus
+Matti|m|hebrew|scandinavian|3|classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dádiva de Deus
+Mette|f|greek|scandinavian|2|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Mikael|m|hebrew|scandinavian|3|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mikkel|m|hebrew|scandinavian|3|biblical,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mikko|m|hebrew|scandinavian|3|biblical,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Minna|f|germanic|scandinavian|2|love,vintage|Amor|Love|Amour|Liebe|Amore|Amor
+Morten|m|latin|scandinavian|3|classic,warrior|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Nils|m|greek|scandinavian,german|3|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Olaf|m|norse|scandinavian,german|2|royal,classic|Heredero de los antepasados|Ancestor's heir|Héritier des ancêtres|Erbe der Vorfahren|Erede degli antenati|Herdeiro dos antepassados
+Olav|m|norse|scandinavian|2|royal,classic|Heredero de los antepasados|Ancestor's heir|Héritier des ancêtres|Erbe der Vorfahren|Erede degli antenati|Herdeiro dos antepassados
+Ole|m|norse|scandinavian,german|3|classic,royal|Heredero de los antepasados|Ancestor's heir|Héritier des ancêtres|Erbe der Vorfahren|Erede degli antenati|Herdeiro dos antepassados
+Olli|m|norse|scandinavian|3|classic|Heredero de los antepasados|Ancestor's heir|Héritier des ancêtres|Erbe der Vorfahren|Erede degli antenati|Herdeiro dos antepassados
+Onni|m|other|scandinavian|4|virtue,modern,trendy|Suerte, felicidad|Luck, happiness|Chance, bonheur|Glück|Fortuna, felicità|Sorte, felicidade
+Otso|m|other|scandinavian|2|animal,nature,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Pekka|m|greek|scandinavian|2|classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Pelle|m|greek|scandinavian|2|classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Per|m|greek|scandinavian|2|classic|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Ragnar|m|norse|scandinavian|2|warrior,royal|Guerrero consejero|Counsel warrior|Guerrier conseiller|Ratgebender Krieger|Guerriero consigliere|Guerreiro conselheiro
+Ragnhild|f|norse|scandinavian|1|vintage,warrior|Batalla del consejo|Counsel in battle|Conseil du combat|Rat im Kampf|Consiglio in battaglia|Conselho na batalha
+Rasmus|m|greek|scandinavian|3|classic,saint|Amado, deseado|Beloved, desired|Aimé, désiré|Geliebt, begehrt|Amato, desiderato|Amado, desejado
+Rauha|f|other|scandinavian|2|virtue,vintage|Paz|Peace|Paix|Frieden|Pace|Paz
+Runa|f|norse|scandinavian|2|mythology,modern|Secreto, runa|Secret, rune|Secret, rune|Geheimnis, Rune|Segreto, runa|Segredo, runa
+Rune|m|norse|scandinavian|2|mythology,classic|Secreto, runa|Secret, rune|Secret, rune|Geheimnis, Rune|Segreto, runa|Segredo, runa
+Saga|f|norse|scandinavian|4|literary,mythology,trendy|Historia, relato|Story, tale|Histoire, récit|Geschichte, Erzählung|Storia, racconto|História, relato
+Sakari|m|hebrew|scandinavian|2|biblical,classic|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus lembra
+Sanna|f|hebrew|scandinavian|3|flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Selma|f|germanic|scandinavian,german|3|vintage,trendy|Protección divina|Divine protection|Protection divine|Göttlicher Schutz|Protezione divina|Proteção divina
+Siiri|f|norse|scandinavian|3|vintage,trendy|Hermosa victoria|Beautiful victory|Belle victoire|Schöner Sieg|Bella vittoria|Bela vitória
+Signe|f|norse|scandinavian|2|vintage|Nueva victoria|New victory|Nouvelle victoire|Neuer Sieg|Nuova vittoria|Nova vitória
+Sigurd|m|norse|scandinavian|2|mythology,warrior|Guardián de la victoria|Victory guardian|Gardien de la victoire|Siegeshüter|Custode della vittoria|Guardião da vitória
+Sini|f|other|scandinavian|3|nature,sweet|Azul|Blue|Bleu|Blau|Blu|Azul
+Siri|f|norse|scandinavian|3|classic,strong|Hermosa victoria|Beautiful victory|Belle victoire|Schöner Sieg|Bella vittoria|Bela vitória
+Sofia|f|greek|scandinavian,intl|5|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sofie|f|greek|scandinavian|4|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sten|m|norse|scandinavian|1|nature,vintage|Piedra|Stone|Pierre|Stein|Pietra|Pedra
+Stig|m|norse|scandinavian|1|vintage|Caminante|Wanderer|Voyageur|Wanderer|Viandante|Caminhante
+Suvi|f|other|scandinavian|3|nature,modern,sweet|Verano|Summer|Été|Sommer|Estate|Verão
+Svend|m|norse|scandinavian|2|classic|Joven, muchacho|Young man, boy|Jeune homme|Junger Mann, Bursche|Giovane, ragazzo|Jovem, rapaz
+Søren|m|latin|scandinavian|2|classic,virtue|Severo|Stern|Sévère|Streng|Severo|Severo
+Sunna|f|norse|scandinavian|3|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Taika|f|other|scandinavian|3|modern,sweet|Magia|Magic|Magie|Zauber|Magia|Magia
+Tapio|m|other|scandinavian|3|mythology,nature|Dios del bosque|Forest god|Dieu de la forêt|Waldgott|Dio della foresta|Deus da floresta
+Thor|m|norse|scandinavian,german|2|mythology,strong,warrior|Trueno|Thunder|Tonnerre|Donner|Tuono|Trovão
+Torbjörn|m|norse|scandinavian|1|vintage,animal,mythology|Oso de Thor|Thor's bear|Ours de Thor|Thors Bär|Orso di Thor|Urso de Thor
+Torsten|m|norse|scandinavian|2|vintage,mythology|Piedra de Thor|Thor's stone|Pierre de Thor|Thors Stein|Pietra di Thor|Pedra de Thor
+Tuomas|m|hebrew|scandinavian|3|biblical,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Tuuli|f|other|scandinavian|3|nature,modern|Viento|Wind|Vent|Wind|Vento|Vento
+Tyyne|f|other|scandinavian|2|vintage,virtue|Calma, serena|Calm, serene|Calme, sereine|Ruhig, gelassen|Calma, serena|Calma, serena
+Ugla|f|norse|scandinavian|1|animal,modern|Búho|Owl|Chouette|Eule|Gufo|Coruja
+Ulf|m|norse|scandinavian,german|2|animal,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Ulrik|m|germanic|scandinavian|2|vintage,royal|Gobernante próspero|Prosperous ruler|Souverain prospère|Wohlhabender Herrscher|Sovrano prospero|Governante próspero
+Úlfur|m|norse|scandinavian|2|animal,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Väinö|m|other|scandinavian|2|vintage,literary|Corriente ancha y tranquila|Wide calm stream|Large cours calme|Breite ruhige Strömung|Ampia corrente calma|Corrente ampla e calma
+Veera|f|latin|scandinavian|3|virtue,modern|Fe, verdad|Faith, truth|Foi, vérité|Glaube, Wahrheit|Fede, verità|Fé, verdade
+Viggo|m|norse|scandinavian|4|warrior,trendy,modern|Guerra, batalla|War, battle|Guerre, bataille|Krieg, Kampf|Guerra, battaglia|Guerra, batalha
+Viktor|m|latin|scandinavian,german,slavic|4|strong,classic|Vencedor|Victor, conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Vilho|m|germanic|scandinavian|2|vintage|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Vilhelm|m|germanic|scandinavian|3|royal,classic|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Ville|m|germanic|scandinavian|3|classic|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Vilma|f|germanic|scandinavian|4|vintage,trendy|Protectora decidida|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Viola|f|latin|scandinavian,german|3|flower,music,sweet|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Ylva|f|norse|scandinavian|3|animal,trendy,strong|Loba|She-wolf|Louve|Wölfin|Lupa|Loba
+Þór|m|norse|scandinavian|2|mythology,strong|Trueno|Thunder|Tonnerre|Donner|Tuono|Trovão
+Örjan|m|greek|scandinavian|1|vintage|Agricultor|Farmer|Agriculteur|Landmann, Bauer|Agricoltore|Agricultor

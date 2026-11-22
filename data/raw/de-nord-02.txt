@@ -1,0 +1,86 @@
+Gabriel|m|hebrew|german,intl|3|biblical,saint,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Gabriele|f|hebrew|german,italian|2|biblical,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Georg|m|greek|german,scandinavian|3|classic,saint|Agricultor|Farmer|Agriculteur|Landmann, Bauer|Agricoltore|Agricultor
+Gerd|m|germanic|german|1|vintage,warrior|Lanza valiente|Brave spear|Lance vaillante|Kühner Speer|Lancia coraggiosa|Lança valente
+Gerhard|m|germanic|german|2|vintage,warrior|Lanza valiente|Brave spear|Lance vaillante|Kühner Speer|Lancia coraggiosa|Lança valente
+Gerlinde|f|germanic|german|1|vintage,warrior|Lanza suave|Gentle spear|Lance douce|Sanfte Lanze|Lancia gentile|Lança suave
+Gertrud|f|germanic|german|1|vintage,strong|Fuerza de la lanza|Spear strength|Force de la lance|Speerkraft|Forza della lancia|Força da lança
+Gisela|f|germanic|german,spanish|2|vintage,classic|Promesa, rehén|Pledge, hostage|Gage, otage|Pfand, Geisel|Pegno, ostaggio|Penhor, refém
+Gitta|f|norse|german,scandinavian|1|vintage|Fuerte, exaltada|Strong, exalted|Forte, élevée|Die Starke, Erhabene|Forte, esaltata|Forte, exaltada
+Gottfried|m|germanic|german|1|vintage|Paz de Dios|God's peace|Paix de Dieu|Frieden Gottes|Pace di Dio|Paz de Deus
+Gregor|m|greek|german,slavic|2|saint,classic|Vigilante|Watchful|Vigilant|Der Wachsame|Vigilante|Vigilante
+Greta|f|greek|german,scandinavian|4|vintage,gem,trendy|Perla|Pearl|Perle|Perle|Perla|Pérola
+Gudrun|f|norse|german,scandinavian|2|vintage,mythology|Secreto divino|Divine secret|Secret divin|Göttliches Geheimnis|Segreto divino|Segredo divino
+Gunnar|m|norse|german,scandinavian|2|warrior,strong|Guerrero|Warrior|Guerrier|Krieger|Guerriero|Guerreiro
+Günther|m|germanic|german|2|vintage,warrior|Guerrero audaz|Bold warrior|Guerrier audacieux|Kühner Krieger|Guerriero audace|Guerreiro audaz
+Hanna|f|hebrew|german,scandinavian|4|biblical,classic|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Hannah|f|hebrew|german,english|5|biblical,classic|Gracia|Grace|Grâce|Gnade, Anmut|Grazia|Graça
+Hannes|m|hebrew|german,scandinavian|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Hans|m|hebrew|german,scandinavian,dutch|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Harald|m|norse|german,scandinavian|2|royal,warrior|Gobernante del ejército|Army ruler|Chef d'armée|Heerführer|Comandante dell'esercito|Comandante do exército
+Hartmut|m|germanic|german|1|vintage,strong|Ánimo fuerte|Strong spirit|Esprit fort|Starker Mut|Animo forte|Ânimo forte
+Hedwig|f|germanic|german,polish|1|vintage,warrior,saint|Lucha, combate|Battle, strife|Combat, lutte|Kampf, Streit|Battaglia, lotta|Batalha, luta
+Heidi|f|germanic|german|3|classic,literary|De noble linaje|Of noble kind|De noble lignée|Von edlem Wesen|Di nobile stirpe|De nobre linhagem
+Heike|f|germanic|german|2|classic|Señora de la casa|Ruler of the home|Maîtresse du foyer|Herrin des Hauses|Signora della casa|Senhora do lar
+Heiko|m|germanic|german|2|classic|Señor de la casa|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Heinrich|m|germanic|german|2|classic,royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Heinz|m|germanic|german|1|vintage,royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Helene|f|greek|german,scandinavian|3|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Helga|f|norse|german,scandinavian|1|vintage,virtue|Santa|Holy|Sainte|Die Heilige|Santa|Santa
+Helmut|m|germanic|german|1|vintage,warrior|Casco valiente|Brave helmet|Heaume vaillant|Mutiger Helm|Elmo coraggioso|Elmo valente
+Hendrik|m|germanic|german,dutch|3|classic,royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Henri|m|germanic|german,french|3|classic,royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Henry|m|germanic|german,english|5|classic,royal,trendy|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Herbert|m|germanic|german,english|1|vintage,warrior|Ejército brillante|Bright army|Armée brillante|Glänzendes Heer|Esercito splendente|Exército brilhante
+Hermann|m|germanic|german|2|classic,warrior|Hombre del ejército|Army man|Homme d'armée|Mann des Heeres|Uomo d'esercito|Homem do exército
+Hilde|f|germanic|german,scandinavian|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Hildegard|f|germanic|german|1|vintage,warrior,saint|Guardiana de la batalla|Battle guardian|Gardienne du combat|Hüterin im Kampf|Custode della battaglia|Guardiã da batalha
+Holger|m|norse|german,scandinavian|2|vintage,warrior|Lanza de la isla|Island spear|Lance de l'île|Inselspeer|Lancia dell'isola|Lança da ilha
+Horst|m|germanic|german|1|vintage,nature|Maleza, nido de rapaz|Thicket, eyrie|Fourré, aire de rapace|Gestrüpp, Raubvogelnest|Boscaglia, nido di rapace|Mata, ninho de rapina
+Hubert|m|germanic|german,french|2|classic,saint|Mente brillante|Bright mind|Esprit brillant|Glänzender Geist|Mente brillante|Mente brilhante
+Hugo|m|germanic|german,spanish,scandinavian|4|classic,trendy|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Ida|f|germanic|german,scandinavian,dutch|4|vintage,trendy,virtue|Trabajadora, laboriosa|Industrious, hard-working|Travailleuse, laborieuse|Die Fleißige|Operosa, laboriosa|Trabalhadora, laboriosa
+Ilse|f|hebrew|german,dutch|2|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Inge|f|norse|german,scandinavian,dutch|1|vintage|Protegida por Ing|Protected by Ing|Protégée par Ing|Von Ing beschützt|Protetta da Ing|Protegida por Ing
+Ingeborg|f|norse|german,scandinavian|1|vintage|Refugio de Ing|Ing's protection|Protection d'Ing|Schutz Ings|Rifugio di Ing|Proteção de Ing
+Ingo|m|norse|german|1|vintage,mythology|Dios Ing|The god Ing|Le dieu Ing|Der Gott Ing|Il dio Ing|O deus Ing
+Ingrid|f|norse|german,scandinavian|2|classic,mythology,love|Hermosa de Ing|Ing is beautiful|Belle d'Ing|Ing ist schön|Bella di Ing|Bela de Ing
+Irma|f|germanic|german,dutch|1|vintage|Entera, universal|Whole, universal|Entière, universelle|Die Umfassende|Intera, universale|Inteira, universal
+Irmgard|f|germanic|german|1|vintage|Protección universal|Universal protection|Protection universelle|Allumfassender Schutz|Protezione universale|Proteção universal
+Isolde|f|celtic|german,welsh|1|literary,mythology,vintage|La de la mirada hermosa|The fair-gazed one|La belle à regarder|Die Schönblickende|La bella da guardare|A de belo olhar
+Ivo|m|germanic|german,dutch,slavic|2|saint,vintage|Tejo|Yew|If|Eibe|Tasso|Teixo
+Jakob|m|hebrew|german,scandinavian,slavic|5|biblical,classic|El que suplanta|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che soppianta|Aquele que suplanta
+Jan|m|hebrew|german,dutch,scandinavian,slavic|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jana|f|hebrew|german,slavic|2|classic,sweet|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jannik|m|hebrew|german,scandinavian,dutch|4|modern,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jannis|m|hebrew|german,greek|3|modern,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jens|m|hebrew|german,scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jette|f|germanic|german,scandinavian|2|vintage,trendy|Diminutivo de Henriette|Short form of Henriette|Diminutif d'Henriette|Kurzform von Henriette|Diminutivo di Enrichetta|Diminutivo de Henriette
+Joachim|m|hebrew|german|2|biblical,saint,classic|Yahvé establece|Yahweh establishes|Yahvé établit|Jahwe richtet auf|Yahweh stabilisce|Javé estabelece
+Johanna|f|hebrew|german,scandinavian,dutch|4|biblical,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Johannes|m|hebrew|german,scandinavian,dutch|4|biblical,classic,saint|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jonas|m|hebrew|german,scandinavian,dutch|4|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jonathan|m|hebrew|german,intl|3|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Jörg|m|greek|german|2|classic,saint|Agricultor|Farmer|Agriculteur|Landmann, Bauer|Agricoltore|Agricultor
+Josef|m|hebrew|german,scandinavian,slavic|3|biblical,saint,classic|Que Dios aumente|May God add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiunga|Que Deus acrescente
+Josefine|f|hebrew|german,scandinavian|3|biblical,classic,vintage|Que Dios aumente|May God add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiunga|Que Deus acrescente
+Judith|f|hebrew|german,intl|2|biblical,classic|Judía, alabada|Jewish woman, praised|Juive, louée|Die Jüdin, die Gepriesene|Giudea, lodata|Judia, louvada
+Jule|f|latin|german|3|classic,trendy|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Julia|f|latin|german,intl|4|classic,royal|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Julian|m|latin|german,intl|4|classic,saint|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Julius|m|latin|german,scandinavian|3|classic,royal|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Jürgen|m|greek|german|2|classic|Agricultor|Farmer|Agriculteur|Landmann, Bauer|Agricoltore|Agricultor
+Justus|m|latin|german,dutch|2|virtue,classic|Justo|Just, fair|Juste|Der Gerechte|Giusto|Justo
+Karin|f|greek|german,scandinavian|2|classic,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Karl|m|germanic|german,scandinavian|4|vintage,royal,trendy|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Karla|f|germanic|german,scandinavian|3|vintage,classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Karolina|f|germanic|german,polish,scandinavian|2|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Katharina|f|greek|german,dutch|3|classic,saint,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Katja|f|greek|german,slavic|2|classic,virtue|Pura|Pure|Pure|Die Reine|Pura|Pura
+Kerstin|f|greek|german,scandinavian|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Klara|f|latin|german,scandinavian,slavic|3|classic,light|Clara, brillante|Bright, clear|Claire, brillante|Hell, strahlend|Chiara, luminosa|Clara, brilhante
+Klaus|m|greek|german,scandinavian|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Knut|m|norse|german,scandinavian|1|royal,vintage|Nudo|Knot|Nœud|Knoten|Nodo|Nó
+Konrad|m|germanic|german,scandinavian,polish|3|vintage,strong|Consejero audaz|Bold counsel|Conseiller audacieux|Kühner Ratgeber|Consigliere audace|Conselheiro audaz
+Konstantin|m|latin|german,slavic|3|classic,strong,royal|Constante, firme|Steadfast, constant|Constant, ferme|Der Standhafte|Costante, fermo|Constante, firme
+Kurt|m|germanic|german,english|1|vintage|Consejero audaz|Bold counsel|Conseiller audacieux|Kühner Ratgeber|Consigliere audace|Conselheiro audaz

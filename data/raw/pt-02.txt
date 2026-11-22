@@ -1,0 +1,105 @@
+Dália|f|other|portuguese|2|flower,sweet|Dalia, la flor|Dahlia flower|Fleur de dahlia|Dahlie|Dalia, il fiore|Dália, a flor
+Damião|m|greek|portuguese|1|saint,vintage|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Daniel|m|hebrew|portuguese,spanish,intl|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è mio giudice|Deus é meu juiz
+Daniela|f|hebrew|portuguese,spanish,italian|3|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è mio giudice|Deus é meu juiz
+Davi|m|hebrew|portuguese|5|biblical,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+David|m|hebrew|portuguese,spanish,intl|4|biblical,royal|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Débora|f|hebrew|portuguese|3|biblical,nature|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Denise|f|greek|portuguese,french|2|classic|Consagrada a Dioniso|Devoted to Dionysus|Consacrée à Dionysos|Dionysos geweiht|Consacrata a Dioniso|Consagrada a Dioniso
+Diana|f|latin|portuguese,spanish,italian|3|mythology,celestial,classic|Divina, celestial|Divine, heavenly|Divine, céleste|Göttlich, himmlisch|Divina, celeste|Divina, celestial
+Dinis|m|greek|portuguese|2|royal,vintage|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dioniso
+Diogo|m|greek|portuguese|4|classic|Instruido, enseñado|Taught, learned|Instruit, enseigné|Belehrt, unterrichtet|Istruito, ammaestrato|Instruído, ensinado
+Dionísio|m|greek|portuguese|1|mythology,vintage|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dioniso
+Domingas|f|latin|portuguese|1|vintage,saint|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Domingos|m|latin|portuguese|2|saint,vintage|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Donato|m|latin|portuguese,italian|1|vintage|Dado, regalado|Given|Donné|Gegeben|Donato|Dado
+Dora|f|greek|portuguese|2|vintage,sweet|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Dorotéia|f|greek|portuguese|1|vintage,saint|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Duarte|m|germanic|portuguese|3|royal,vintage|Guardián de la riqueza|Wealthy guardian|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Edgar|m|germanic|portuguese,english|2|classic|Lanza de la riqueza|Wealthy spear|Lance de la richesse|Speer des Reichtums|Lancia della ricchezza|Lança da riqueza
+Edite|f|germanic|portuguese|1|vintage|Próspera en la guerra|Prosperous in war|Prospère en guerre|Wohlhabend im Krieg|Prospera in guerra|Próspera na guerra
+Eduarda|f|germanic|portuguese|4|classic,royal|Guardiana de la riqueza|Wealthy guardian|Gardienne de la richesse|Hüterin des Reichtums|Guardiana della ricchezza|Guardiã da riqueza
+Eduardo|m|germanic|portuguese,spanish|3|classic,royal|Guardián de la riqueza|Wealthy guardian|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Eliana|f|hebrew|portuguese|2|biblical,classic|Dios ha respondido|God has answered|Dieu a répondu|Gott hat geantwortet|Dio ha risposto|Deus respondeu
+Elias|m|hebrew|portuguese|3|biblical,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Elisa|f|hebrew|portuguese,spanish,italian|4|classic,sweet|Consagrada a Dios|Consecrated to God|Consacrée à Dieu|Gott geweiht|Consacrata a Dio|Consagrada a Deus
+Elisabete|f|hebrew|portuguese|2|biblical,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Eloá|f|hebrew|portuguese|5|modern,trendy|Dios|God|Dieu|Gott|Dio|Deus
+Elói|m|latin|portuguese|1|saint,vintage|Elegido|Chosen|Élu|Auserwählt|Eletto|Eleito
+Ema|f|germanic|portuguese|4|classic,sweet|Total, universal|Whole, universal|Entière, universelle|Ganz, umfassend|Intera, universale|Inteira, universal
+Emília|f|latin|portuguese|3|classic,vintage|Rival, émula|Rival|Rivale|Rivalin|Rivale|Rival, émula
+Emílio|m|latin|portuguese|2|classic|Rival, émulo|Rival|Rival|Rivale|Rivale|Rival, êmulo
+Enzo|m|germanic|portuguese,italian|5|trendy,modern|Gobernante de la casa|Ruler of the home|Maître de la maison|Herrscher des Hauses|Signore della casa|Senhor da casa
+Ernesto|m|germanic|portuguese,spanish|2|classic|Seriedad, determinación|Earnest, determined|Sérieux, déterminé|Ernst, entschlossen|Serio, determinato|Sério, determinado
+Esmeralda|f|other|portuguese,spanish|2|gem,literary|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Estela|f|latin|portuguese,spanish|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ester|f|persian|portuguese|3|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Estêvão|m|greek|portuguese|2|saint,biblical|Corona|Crown|Couronne|Krone|Corona|Coroa
+Eugénia|f|greek|portuguese|2|classic,vintage|Bien nacida, noble|Well-born, noble|Bien née, noble|Wohlgeboren, edel|Ben nata, nobile|Bem-nascida, nobre
+Eugénio|m|greek|portuguese|2|classic,vintage|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Eulália|f|greek|portuguese|1|saint,vintage|Bien hablada|Well-spoken|Qui parle bien|Wohlredend|Dal bel parlare|Bem-falante
+Eunice|f|greek|portuguese|2|biblical,classic|Buena victoria|Good victory|Belle victoire|Guter Sieg|Buona vittoria|Boa vitória
+Eusébio|m|greek|portuguese|1|saint,vintage|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Eva|f|hebrew|portuguese,spanish,intl|4|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Evaristo|m|greek|portuguese|1|saint,vintage|Excelente, agradable|Excellent, pleasing|Excellent, agréable|Ausgezeichnet, angenehm|Eccellente, gradito|Excelente, agradável
+Ezequiel|m|hebrew|portuguese,spanish|2|biblical|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Fabiana|f|latin|portuguese|2|classic|De la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della famiglia Fabia|Da família Fábia
+Fábio|m|latin|portuguese|3|classic|De la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della famiglia Fabia|Da família Fábia
+Fabíola|f|latin|portuguese|2|classic|De la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della famiglia Fabia|Da família Fábia
+Fabrício|m|latin|portuguese|2|classic|Artesano|Craftsman|Artisan|Handwerker|Artigiano|Artesão
+Fausto|m|latin|portuguese|1|vintage,literary|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Fátima|f|arabic|portuguese|3|saint,classic|Cautivadora|Captivating|Captivante|Bezaubernd|Affascinante|Cativante
+Felícia|f|latin|portuguese|1|vintage,virtue|Afortunada, feliz|Fortunate, happy|Fortunée, heureuse|Glücklich, vom Glück begünstigt|Fortunata, felice|Afortunada, feliz
+Felipe|m|greek|portuguese,spanish|4|classic,royal|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante de cavalos
+Félix|m|latin|portuguese,spanish|2|classic,virtue|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich, vom Glück begünstigt|Felice, fortunato|Feliz, afortunado
+Fernanda|f|germanic|portuguese|3|classic|Audaz viajera|Bold traveller|Voyageuse audacieuse|Kühne Reisende|Audace viaggiatrice|Viajante audaz
+Fernando|m|germanic|portuguese,spanish|3|classic,royal|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Audace viaggiatore|Viajante audaz
+Fernão|m|germanic|portuguese|1|vintage,royal|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Audace viaggiatore|Viajante audaz
+Filipa|f|greek|portuguese|3|classic,royal|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante de cavalos
+Filipe|m|greek|portuguese|3|classic,royal|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante de cavalos
+Filomena|f|greek|portuguese,italian|1|saint,vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Firmino|m|latin|portuguese|1|vintage,strong|Firme, fuerte|Firm, strong|Ferme, fort|Fest, stark|Fermo, forte|Firme, forte
+Flávia|f|latin|portuguese|3|classic|Rubia, dorada|Blond, golden|Blonde, dorée|Blond, golden|Bionda, dorata|Loura, dourada
+Flávio|m|latin|portuguese|2|classic|Rubio, dorado|Blond, golden|Blond, doré|Blond, golden|Biondo, dorato|Louro, dourado
+Flora|f|latin|portuguese,english|2|flower,classic|Flor|Flower|Fleur|Blume|Fiore|Flor
+Florência|f|latin|portuguese|1|vintage,flower|Floreciente|Flourishing|Florissante|Blühend|Fiorente|Florescente
+Francisca|f|latin|portuguese|3|saint,classic|Libre, francesa|Free, Frenchwoman|Libre, Française|Freie, Französin|Libera, francese|Livre, francesa
+Francisco|m|latin|portuguese,spanish|4|saint,classic|Libre, francés|Free, Frenchman|Libre, Français|Freier, Franzose|Libero, francese|Livre, francês
+Frederico|m|germanic|portuguese|2|royal,classic|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Gabriel|m|hebrew|portuguese,spanish,french|5|biblical,saint,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gabriela|f|hebrew|portuguese,spanish|4|biblical,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gael|m|celtic|portuguese,french,spanish|4|modern,trendy|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Gaspar|m|persian|portuguese,spanish|2|biblical,vintage|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Geraldo|m|germanic|portuguese|2|classic|Gobernante con la lanza|Spear ruler|Chef à la lance|Herrscher mit dem Speer|Governante con la lancia|Governante com a lança
+Gertrudes|f|germanic|portuguese|1|vintage|Fuerza de la lanza|Spear strength|Force de la lance|Speerkraft|Forza della lancia|Força da lança
+Glauco|m|greek|portuguese|1|mythology,sea|Brillante, azul verdoso|Gleaming, bluish-green|Brillant, bleu-vert|Strahlend, blaugrün|Splendente, azzurro-verde|Brilhante, azul-esverdeado
+Glória|f|latin|portuguese|2|virtue,classic|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Gonçalo|m|germanic|portuguese|4|classic|Elfo de la batalla|Battle elf|Elfe de bataille|Kampfelf|Elfo della battaglia|Elfo da batalha
+Graça|f|latin|portuguese|2|virtue,vintage|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Gregório|m|greek|portuguese|1|saint,vintage|Vigilante|Watchful|Vigilant|Wachsam|Vigilante|Vigilante
+Guilherme|m|germanic|portuguese|4|classic,royal|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Guilhermina|f|germanic|portuguese|1|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Heitor|m|greek|portuguese|5|mythology,warrior,trendy|El que se mantiene firme|He who holds fast|Celui qui tient bon|Der Standhafte|Colui che tiene saldo|Aquele que se mantém firme
+Helena|f|greek|portuguese,spanish|5|mythology,light,classic|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Hélio|m|greek|portuguese|1|celestial,vintage|Sol|Sun|Soleil|Sonne|Sole|Sol
+Henrique|m|germanic|portuguese|4|royal,classic|Gobernante del hogar|Ruler of the home|Maître de la maison|Herrscher des Hauses|Signore della casa|Senhor da casa
+Henriqueta|f|germanic|portuguese|1|vintage|Gobernante del hogar|Ruler of the home|Maîtresse de la maison|Herrscherin des Hauses|Signora della casa|Senhora da casa
+Hortênsia|f|latin|portuguese|1|flower,vintage|Jardinera|Gardener|Jardinière|Gärtnerin|Giardiniera|Jardineira
+Hugo|m|germanic|portuguese,spanish,german|3|classic|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Iara|f|native|portuguese|3|mythology,sea,nature|Señora de las aguas|Lady of the waters|Dame des eaux|Herrin der Gewässer|Signora delle acque|Senhora das águas
+Ilda|f|germanic|portuguese|1|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Inês|f|latin|portuguese|4|saint,royal,classic|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Iracema|f|native|portuguese|2|literary,sweet|Labios de miel|Honey lips|Lèvres de miel|Honiglippen|Labbra di miele|Lábios de mel
+Irene|f|greek|portuguese,spanish,italian|3|virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Irineu|m|greek|portuguese|1|saint,vintage|Pacífico|Peaceful|Pacifique|Friedfertig|Pacifico|Pacífico
+Irma|f|germanic|portuguese|1|vintage|Universal|Whole, universal|Entière, universelle|Ganz, umfassend|Intera, universale|Inteira, universal
+Isaac|m|hebrew|portuguese,spanish,intl|3|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Isaías|m|hebrew|portuguese,spanish|2|biblical|Salvación de Yahvé|Yahweh is salvation|Yahvé sauve|Jahwe ist Heil|Salvezza di Yahweh|Salvação de Javé
+Isabel|f|hebrew|portuguese,spanish|4|royal,saint,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Isabela|f|hebrew|portuguese|4|royal,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Isadora|f|greek|portuguese|3|classic,mythology|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Ismael|m|hebrew|portuguese,spanish|2|biblical|Dios escucha|God hears|Dieu entend|Gott hört|Dio ascolta|Deus ouve
+Isidoro|m|greek|portuguese|1|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Ítalo|m|latin|portuguese|2|place|De Italia|From Italy|D'Italie|Aus Italien|D'Italia|Da Itália
+Íris|f|greek|portuguese|3|mythology,flower,nature|Arco iris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Ivo|m|germanic|portuguese|2|saint,vintage|Arco de tejo|Yew bow|Arc d'if|Eibenbogen|Arco di tasso|Arco de teixo

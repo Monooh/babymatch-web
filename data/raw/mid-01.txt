@@ -1,0 +1,108 @@
+Aaron|m|hebrew|english,hebrew,intl|3|biblical,classic|Montaña de fortaleza|Mountain of strength|Montagne de force|Berg der Stärke|Montagna di forza|Montanha de força
+Abel|m|hebrew|english,spanish,french,intl|3|biblical,classic|Aliento, soplo|Breath|Souffle|Hauch|Soffio|Sopro
+Abigail|f|hebrew|english,hebrew|4|biblical,classic|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Abraham|m|hebrew|english,spanish,french,hebrew,intl|3|biblical,classic|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Adam|m|hebrew|english,hebrew,arabic,intl|4|biblical,classic|Hombre de la tierra|Man of the earth|Homme de la terre|Mensch der Erde|Uomo della terra|Homem da terra
+Adi|u|hebrew|hebrew|3|modern,virtue|Adorno, joya|Ornament, jewel|Parure, bijou|Schmuck, Zierde|Ornamento, gioiello|Adorno, joia
+Adiel|m|hebrew|hebrew|2|biblical,virtue|Adorno de Dios|Ornament of God|Parure de Dieu|Schmuck Gottes|Ornamento di Dio|Adorno de Deus
+Adina|f|hebrew|hebrew,english|3|sweet,virtue|Delicada, gentil|Gentle, delicate|Douce, délicate|Sanft, zart|Gentile, delicata|Gentil, delicada
+Adir|m|hebrew|hebrew|2|strong,virtue|Poderoso, noble|Mighty, noble|Puissant, noble|Mächtig, edel|Potente, nobile|Poderoso, nobre
+Ahava|f|hebrew|hebrew|2|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Aliyah|f|hebrew|hebrew,english|3|modern,virtue|Ascenso|Ascent|Ascension|Aufstieg|Ascesa|Ascensão
+Aliza|f|hebrew|hebrew|3|sweet,virtue|Alegre, gozosa|Joyful|Joyeuse|Fröhlich|Gioiosa|Alegre
+Almog|u|hebrew|hebrew|2|nature,biblical|Coral|Coral|Corail|Koralle|Corallo|Coral
+Alon|m|hebrew|hebrew|3|nature,strong|Roble|Oak tree|Chêne|Eiche|Quercia|Carvalho
+Amiel|m|hebrew|hebrew|2|biblical,virtue|Mi pueblo es Dios|My people is God|Mon peuple est Dieu|Mein Volk ist Gott|Il mio popolo è Dio|Meu povo é Deus
+Amira|f|hebrew|hebrew,arabic|3|royal,modern|Copa de la cima, princesa|Treetop, princess|Cime, princesse|Wipfel, Prinzessin|Cima, principessa|Copa da árvore, princesa
+Amit|u|hebrew|hebrew|3|virtue,modern|Amigo, colega|Friend, colleague|Ami, compagnon|Freund, Gefährte|Amico, compagno|Amigo, companheiro
+Amos|m|hebrew|english,hebrew|2|biblical,vintage|Cargado por Dios|Carried by God|Porté par Dieu|Von Gott getragen|Portato da Dio|Carregado por Deus
+Anat|f|hebrew|hebrew|2|mythology,modern|Respuesta, canto|Answer, song|Réponse, chant|Antwort, Gesang|Risposta, canto|Resposta, canto
+Ari|m|hebrew|hebrew,english|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Ariel|u|hebrew|hebrew,english,intl|3|biblical,strong|León de Dios|Lion of God|Lion de Dieu|Löwe Gottes|Leone di Dio|Leão de Deus
+Arielle|f|hebrew|english,french,hebrew|2|biblical,strong|Leona de Dios|Lioness of God|Lionne de Dieu|Löwin Gottes|Leonessa di Dio|Leoa de Deus
+Arnon|m|hebrew|hebrew|1|nature,biblical|Arroyo caudaloso|Rushing stream|Torrent impétueux|Rauschender Bach|Torrente impetuoso|Ribeiro caudaloso
+Asa|m|hebrew|english,hebrew|2|biblical,vintage|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Asaf|m|hebrew|hebrew|2|biblical,music|El que reúne|He who gathers|Celui qui rassemble|Der Sammler|Colui che raccoglie|Aquele que reúne
+Asher|m|hebrew|english,hebrew|4|biblical,trendy|Feliz, bendecido|Happy, blessed|Heureux, béni|Glücklich, gesegnet|Felice, benedetto|Feliz, abençoado
+Atara|f|hebrew|hebrew|2|royal,sweet|Corona|Crown|Couronne|Krone|Corona|Coroa
+Aviel|m|hebrew|hebrew|2|biblical,virtue|Dios es mi padre|God is my father|Dieu est mon père|Gott ist mein Vater|Dio è mio padre|Deus é meu pai
+Avi|m|hebrew|hebrew|3|biblical,virtue|Mi padre|My father|Mon père|Mein Vater|Mio padre|Meu pai
+Avigail|f|hebrew|hebrew|3|biblical,virtue|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Avital|f|hebrew|hebrew|3|biblical,nature|Mi padre es rocío|My father is dew|Mon père est rosée|Mein Vater ist Tau|Mio padre è rugiada|Meu pai é orvalho
+Aviv|u|hebrew|hebrew|3|nature,modern|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Aviva|f|hebrew|hebrew|3|nature,sweet|Primavera, frescura|Spring, freshness|Printemps, fraîcheur|Frühling, Frische|Primavera, freschezza|Primavera, frescor
+Avner|m|hebrew|hebrew|2|biblical,warrior|Mi padre es luz|My father is light|Mon père est lumière|Mein Vater ist Licht|Mio padre è luce|Meu pai é luz
+Avraham|m|hebrew|hebrew|3|biblical,classic|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Aya|f|hebrew|hebrew,arabic,japanese|3|nature,modern|Ave, pájaro|Bird|Oiseau|Vogel|Uccello|Ave
+Ayala|f|hebrew|hebrew|3|animal,nature|Cierva, gacela|Doe, gazelle|Biche, gazelle|Hirschkuh, Gazelle|Cerva, gazzella|Corça, gazela
+Ayelet|f|hebrew|hebrew|3|animal,nature|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Azriel|m|hebrew|hebrew|2|biblical,virtue|Dios es mi ayuda|God is my help|Dieu est mon aide|Gott ist meine Hilfe|Dio è il mio aiuto|Deus é meu auxílio
+Barak|m|hebrew|hebrew|2|biblical,celestial|Relámpago|Lightning|Éclair|Blitz|Fulmine|Relâmpago
+Bar|u|hebrew|hebrew|3|modern,nature|Puro, campo|Pure, field|Pur, champ|Rein, Feld|Puro, campo|Puro, campo
+Bathsheba|f|hebrew|english,hebrew|1|biblical,royal|Hija del juramento|Daughter of the oath|Fille du serment|Tochter des Eides|Figlia del giuramento|Filha do juramento
+Batya|f|hebrew|hebrew|2|biblical,virtue|Hija de Dios|Daughter of God|Fille de Dieu|Tochter Gottes|Figlia di Dio|Filha de Deus
+Benjamin|m|hebrew|english,hebrew,german,french,intl|4|biblical,classic|Hijo de la mano derecha|Son of the right hand|Fils de la main droite|Sohn der rechten Hand|Figlio della mano destra|Filho da mão direita
+Bezalel|m|hebrew|hebrew|1|biblical,virtue|A la sombra de Dios|In the shadow of God|À l'ombre de Dieu|Im Schatten Gottes|All'ombra di Dio|À sombra de Deus
+Boaz|m|hebrew|hebrew,english|3|biblical,strong|En él hay fuerza|In him is strength|En lui est la force|In ihm ist Stärke|In lui è la forza|Nele há força
+Bracha|f|hebrew|hebrew|2|virtue,sweet|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Caleb|m|hebrew|english,hebrew|4|biblical,trendy|Fiel, devoto|Faithful, devoted|Fidèle, dévoué|Treu, ergeben|Fedele, devoto|Fiel, devoto
+Carmel|u|hebrew|hebrew,english|2|place,nature|Jardín, viñedo de Dios|Garden, vineyard of God|Jardin, vignoble de Dieu|Garten, Weinberg Gottes|Giardino, vigneto di Dio|Jardim, vinhedo de Deus
+Carmela|f|hebrew|italian,spanish,hebrew|2|place,saint|Jardín de Dios|Garden of God|Jardin de Dieu|Garten Gottes|Giardino di Dio|Jardim de Deus
+Chana|f|hebrew|hebrew|2|biblical,virtue|Gracia, favor|Grace, favor|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Chaya|f|hebrew|hebrew|3|biblical,virtue|Vida|Life|Vie|Leben|Vita|Vida
+Chaim|m|hebrew|hebrew|2|virtue,classic|Vida|Life|Vie|Leben|Vita|Vida
+Dalia|f|hebrew|hebrew,spanish,arabic|3|flower,nature|Rama, dalia|Branch, dahlia|Rameau, dahlia|Zweig, Dahlie|Ramo, dalia|Ramo, dália
+Dalit|f|hebrew|hebrew|2|nature,sweet|Rama de uva|Grape branch|Sarment de vigne|Rebzweig|Tralcio di vite|Ramo de videira
+Dan|m|hebrew|hebrew,english|3|biblical,classic|Juez|Judge|Juge|Richter|Giudice|Juiz
+Daniel|m|hebrew|english,spanish,french,german,portuguese,hebrew,intl|5|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Daniela|f|hebrew|spanish,italian,german,portuguese,hebrew|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Danielle|f|hebrew|english,french,hebrew|3|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Daphna|f|hebrew|hebrew|2|nature,mythology|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Dara|f|hebrew|hebrew,english|2|biblical,sweet|Perla de sabiduría|Pearl of wisdom|Perle de sagesse|Perle der Weisheit|Perla di saggezza|Pérola de sabedoria
+David|m|hebrew|english,spanish,french,german,portuguese,hebrew,intl|5|biblical,royal,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Davida|f|hebrew|hebrew,english|1|biblical,love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Deborah|f|hebrew|english,hebrew|3|biblical,nature|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Dina|f|hebrew|hebrew,arabic|3|biblical,virtue|Juzgada, justicia|Judged, vindicated|Jugée, justice|Gerichtet, Gerechtigkeit|Giudicata, giustizia|Julgada, justiça
+Dor|m|hebrew|hebrew|3|modern,virtue|Generación|Generation|Génération|Generation|Generazione|Geração
+Dorit|f|hebrew|hebrew|2|modern,sweet|De generación, de linaje|Of the generation|De la génération|Der Generation|Della generazione|Da geração
+Dov|m|hebrew|hebrew|2|animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Eden|u|hebrew|english,hebrew|4|biblical,nature,modern|Deleite, paraíso|Delight, paradise|Délice, paradis|Wonne, Paradies|Delizia, paradiso|Delícia, paraíso
+Efrat|f|hebrew|hebrew|2|biblical,place|Fructífera|Fruitful|Féconde|Fruchtbar|Fruttuosa|Frutífera
+Eitan|m|hebrew|hebrew|4|strong,biblical|Fuerte, duradero|Strong, enduring|Fort, durable|Stark, beständig|Forte, duraturo|Forte, duradouro
+Elad|m|hebrew|hebrew|2|biblical,virtue|Dios ha eternizado|God has made eternal|Dieu a rendu éternel|Gott hat verewigt|Dio ha reso eterno|Deus tornou eterno
+Elazar|m|hebrew|hebrew|2|biblical,virtue|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Eli|m|hebrew|english,hebrew|3|biblical,classic|Elevado, mi Dios|Ascended, my God|Élevé, mon Dieu|Erhöht, mein Gott|Elevato, mio Dio|Elevado, meu Deus
+Eliana|f|hebrew|spanish,portuguese,italian,hebrew|3|biblical,light|Dios me ha respondido|God has answered me|Dieu m'a répondu|Gott hat mir geantwortet|Dio mi ha risposto|Deus me respondeu
+Eliav|m|hebrew|hebrew|2|biblical,virtue|Dios es mi padre|God is my father|Dieu est mon père|Gott ist mein Vater|Dio è mio padre|Deus é meu pai
+Elijah|m|hebrew|english,hebrew|4|biblical,trendy|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Elior|m|hebrew|hebrew|2|light,modern|Mi Dios es mi luz|My God is my light|Mon Dieu est ma lumière|Mein Gott ist mein Licht|Il mio Dio è la mia luce|Meu Deus é minha luz
+Eliora|f|hebrew|hebrew|2|light,modern|Mi Dios es mi luz|My God is my light|Mon Dieu est ma lumière|Mein Gott ist mein Licht|Il mio Dio è la mia luce|Meu Deus é minha luz
+Elisha|u|hebrew|english,hebrew|2|biblical,vintage|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Elisheva|f|hebrew|hebrew|2|biblical,virtue|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Emmanuel|m|hebrew|english,french,spanish,intl|3|biblical,classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Ephraim|m|hebrew|english,hebrew|2|biblical,vintage|Doblemente fructífero|Doubly fruitful|Doublement fécond|Doppelt fruchtbar|Doppiamente fecondo|Duplamente fecundo
+Esther|f|hebrew|english,spanish,german,hebrew,intl|3|biblical,royal,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eve|f|hebrew|english,french,intl|4|biblical,classic|Vida, viviente|Life, living|Vie, vivante|Leben, lebendig|Vita, vivente|Vida, vivente
+Ezekiel|m|hebrew|english,hebrew|2|biblical,vintage|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Ezra|m|hebrew|english,hebrew|4|biblical,trendy|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Gabriel|m|hebrew|english,spanish,french,german,portuguese,hebrew,intl|5|biblical,saint,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gabrielle|f|hebrew|french,english|3|biblical,saint|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gad|m|hebrew|hebrew|1|biblical,virtue|Fortuna, buena suerte|Fortune, good luck|Fortune, chance|Glück|Fortuna|Fortuna, boa sorte
+Gal|u|hebrew|hebrew|3|sea,modern|Ola|Wave|Vague|Welle|Onda|Onda
+Gideon|m|hebrew|english,hebrew,german|2|biblical,warrior|Cortador, guerrero|Hewer, warrior|Bûcheron, guerrier|Fäller, Krieger|Tagliatore, guerriero|Cortador, guerreiro
+Gilad|m|hebrew|hebrew|2|biblical,place|Montaña del testimonio|Mound of witness|Colline du témoignage|Hügel des Zeugnisses|Colle della testimonianza|Monte do testemunho
+Hadar|u|hebrew|hebrew|3|nature,virtue|Esplendor, adorno|Splendor, glory|Splendeur, gloire|Pracht, Glanz|Splendore, gloria|Esplendor, glória
+Hadas|f|hebrew|hebrew|3|nature,biblical|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Hadassah|f|hebrew|hebrew,english|2|biblical,nature|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Hagar|f|hebrew|hebrew,english|1|biblical,vintage|Huida, extranjera|Flight, stranger|Fuite, étrangère|Flucht, Fremde|Fuga, straniera|Fuga, estrangeira
+Hannah|f|hebrew|english,german,hebrew,intl|4|biblical,classic|Gracia, favor|Grace, favor|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Hillel|m|hebrew|hebrew|1|biblical,virtue|Alabanza|Praise|Louange|Lobpreis|Lode|Louvor
+Hila|f|hebrew|hebrew|2|light,modern|Aureola, halo|Halo|Halo|Heiligenschein|Alone|Halo
+Ilan|m|hebrew|hebrew,french|3|nature,strong|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Ilana|f|hebrew|hebrew,english|3|nature,sweet|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Isaac|m|hebrew|english,spanish,french,portuguese,intl|4|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Isaiah|m|hebrew|english,hebrew|3|biblical,classic|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Ishmael|m|hebrew|english,hebrew|1|biblical,vintage|Dios escucha|God hears|Dieu entend|Gott hört|Dio ascolta|Deus ouve
+Israel|m|hebrew|hebrew,english,spanish|2|biblical,place|El que lucha con Dios|He who struggles with God|Celui qui lutte avec Dieu|Der mit Gott ringt|Colui che lotta con Dio|Aquele que luta com Deus
+Itai|m|hebrew|hebrew|3|biblical,virtue|Amigo, compañero|Friend, companion|Ami, compagnon|Freund, Gefährte|Amico, compagno|Amigo, companheiro
+Itamar|m|hebrew|hebrew|3|biblical,place|Isla de palmeras|Island of palms|Île de palmiers|Insel der Palmen|Isola di palme|Ilha de palmeiras

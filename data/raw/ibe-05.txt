@@ -1,0 +1,89 @@
+Ana|f|hebrew|galician,spanish|3|biblical,classic|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Andrea|f|greek|galician,spanish|3|strong|Valiente, viril|Brave, manly|Courageuse, virile|Tapfer, mutig|Coraggiosa, virile|Valente, viril
+Antía|f|greek|galician|2|flower|Florida|Flowering|Fleurie|Blühend|Fiorita|Florida
+Ánxela|f|greek|galician|2|saint|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Ánxeles|f|greek|galician|1|saint,vintage|Ángeles|Angels|Anges|Engel|Angeli|Anjos
+Aurea|f|latin|galician|1|vintage|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Branca|f|germanic|galician|2|virtue|Blanca, brillante|White, shining|Blanche, brillante|Weiß, glänzend|Bianca, splendente|Branca, brilhante
+Brixida|f|celtic|galician|1|saint,vintage|Poderosa, exaltada|Mighty, exalted|Puissante, exaltée|Mächtig, erhaben|Potente, esaltata|Poderosa, exaltada
+Elena|f|greek|galician,spanish|3|classic,light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Torcia, luce splendente|Tocha, luz brilhante
+Elisa|f|hebrew|galician,spanish|2|classic|Mi Dios es juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Estrela|f|latin|galician|2|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eva|f|hebrew|galician,spanish,intl|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Inés|f|greek|galician,spanish|2|saint,virtue|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Iria|f|other|galician|3|place|De Iria Flavia, antigua ciudad romana|From Iria Flavia, ancient Roman town|D'Iria Flavia, ancienne ville romaine|Aus Iria Flavia, antike römische Stadt|Di Iria Flavia, antica città romana|De Iria Flávia, antiga cidade romana
+Ledicia|f|latin|galician|1|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Lucía|f|latin|galician,spanish|4|saint,light|Luz|Light|Lumière|Licht|Luce|Luz
+Lúa|f|latin|galician|3|celestial|Luna|Moon|Lune|Mond|Luna|Lua
+Luz|f|latin|galician,spanish|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+María|f|hebrew|galician,spanish|5|biblical,saint,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Mariña|f|latin|galician|3|sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Maruxa|f|hebrew|galician|1|vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Natalia|f|latin|galician,spanish|3|classic|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Nieves|f|latin|galician,spanish|2|saint,nature|Nieves|Snows|Neiges|Schnee|Nevi|Neves
+Noa|f|hebrew|galician,spanish|4|biblical,modern|Movimiento|Movement|Mouvement|Bewegung|Movimento|Movimento
+Olaia|f|greek|galician|3|saint|Bien hablada|Well-spoken|Bien parlante|Wohlredend|Ben parlante|Bem-falante
+Olalla|f|greek|galician|2|saint|Bien hablada|Well-spoken|Bien parlante|Wohlredend|Ben parlante|Bem-falante
+Raquel|f|hebrew|galician,spanish|2|biblical|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Rexina|f|latin|galician|1|royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Rosalía|f|latin|galician,spanish|3|flower,literary|Fiesta de las rosas|Festival of roses|Fête des roses|Rosenfest|Festa delle rose|Festa das rosas
+Sabela|f|hebrew|galician|3|royal|Mi Dios es juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Sofía|f|greek|galician,spanish|3|classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Soidade|f|latin|galician|1|virtue|Soledad, nostalgia|Solitude, longing|Solitude, nostalgie|Einsamkeit, Sehnsucht|Solitudine, nostalgia|Solidão, saudade
+Uxía|f|greek|galician|3|virtue|Bien nacida|Well-born|Bien née|Wohlgeboren|Ben nata|Bem-nascida
+Xoana|f|hebrew|galician|2|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Xosefa|f|hebrew|galician|1|vintage|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Xulia|f|latin|galician|2|classic|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Zeltia|f|celtic|galician|1|modern|Celta|Celtic woman|Celte|Keltin|Celtica|Celta
+Afonso|m|germanic|galician|2|royal|Noble y dispuesto|Noble and ready|Noble et prêt|Edel und bereit|Nobile e pronto|Nobre e pronto
+Alberte|m|germanic|galician|1|royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alexandre|m|greek|galician|2|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Ánxel|m|greek|galician|1|saint,biblical|Ángel, mensajero|Angel, messenger|Ange, messager|Engel, Bote|Angelo, messaggero|Anjo, mensageiro
+Anxo|m|greek|galician|3|saint,biblical|Ángel, mensajero|Angel, messenger|Ange, messager|Engel, Bote|Angelo, messaggero|Anjo, mensageiro
+Antón|m|latin|galician|2|saint|Digno de elogio|Worthy of praise|Digne d'éloge|Lobenswert|Degno di lode|Digno de elogio
+Bieito|m|latin|galician|2|saint|Bendito|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Breogán|m|celtic|galician|2|mythology,royal|Mítico rey celta de Galicia|Mythical Celtic king of Galicia|Roi celte mythique de Galice|Mythischer keltischer König Galiciens|Mitico re celta della Galizia|Mítico rei celta da Galiza
+Carlos|m|germanic|galician,spanish|3|royal|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Cibrán|m|latin|galician|1|saint|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Cristovo|m|greek|galician|1|saint|Portador de Cristo|Christ-bearer|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Damián|m|greek|galician,spanish|2|saint|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Denís|m|greek|galician|1|saint|Seguidor de Dioniso|Follower of Dionysus|Disciple de Dionysos|Anhänger des Dionysos|Seguace di Dioniso|Seguidor de Dioniso
+Duarte|m|germanic|galician,portuguese|1|royal|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Wächter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Estevo|m|greek|galician|1|saint|Corona|Crown|Couronne|Krone|Corona|Coroa
+Félix|m|latin|galician,spanish|2|virtue|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich, vom Glück begünstigt|Felice, fortunato|Feliz, afortunado
+Fiz|m|latin|galician|1|saint|Feliz|Happy|Heureux|Glücklich|Felice|Feliz
+Henrique|m|germanic|galician,portuguese|2|royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Hugo|m|germanic|galician,spanish|4|royal|Mente, inteligencia|Mind, intellect|Esprit, intelligence|Geist, Verstand|Mente, intelligenza|Mente, inteligência
+Iago|m|hebrew|galician|4|saint,biblical|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Lois|m|germanic|galician|2|royal,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lourenzo|m|latin|galician|1|saint|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Coronato d'alloro|Coroado de louros
+Manoel|m|hebrew|galician|1|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Marcos|m|latin|galician,spanish|3|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Martiño|m|latin|galician|2|saint|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mateo|m|hebrew|galician,spanish|3|biblical|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Mauro|m|latin|galician,italian|2|saint|Moreno, mauritano|Dark-skinned, Moorish|Au teint foncé, maure|Dunkelhäutig, Maure|Scuro, moro|Moreno, mouro
+Miguel|m|hebrew|galician,spanish|3|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Nicolás|m|greek|galician,spanish|3|saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Pablo|m|latin|galician,spanish|3|saint|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Paulo|m|latin|galician,portuguese|1|saint|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pedro|m|greek|galician,spanish|3|saint|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Roi|m|germanic|galician|2|royal|Famoso y poderoso|Famous and powerful|Célèbre et puissant|Berühmt und mächtig|Famoso e potente|Famoso e poderoso
+Rodrigo|m|germanic|galician,spanish|3|royal|Famoso y poderoso|Famous and powerful|Célèbre et puissant|Berühmt und mächtig|Famoso e potente|Famoso e poderoso
+Rosendo|m|germanic|galician|1|saint|Camino de gloria|Path of glory|Chemin de gloire|Pfad des Ruhms|Via della gloria|Caminho de glória
+Santiago|m|hebrew|galician,spanish|3|saint,biblical|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Tomé|m|hebrew|galician|1|biblical|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Uxío|m|greek|galician|2|virtue|Bien nacido|Well-born|Bien né|Wohlgeboren|Ben nato|Bem-nascido
+Valerio|m|latin|galician|1|strong|Fuerte, sano|Strong, healthy|Fort, sain|Stark, gesund|Forte, sano|Forte, saudável
+Vítor|m|latin|galician|2|warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Xacobe|m|hebrew|galician|2|biblical|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Xaime|m|hebrew|galician|2|saint|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Xan|m|hebrew|galician|3|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Xaquín|m|hebrew|galician|1|biblical|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Xerardo|m|germanic|galician|1|warrior|Lanza fuerte|Strong spear|Lance forte|Starker Speer|Lancia forte|Lança forte
+Xermán|m|latin|galician|1|virtue|Hermano|Brother|Frère|Bruder|Fratello|Irmão
+Xesús|m|hebrew|galician|2|biblical,saint|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Xoán|m|hebrew|galician|3|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Xoel|m|hebrew|galician|3|biblical|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Xosé|m|hebrew|galician|3|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Xulián|m|latin|galician|2|saint|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Xurxo|m|greek|galician|2|saint|Labrador|Farmer|Laboureur|Landmann|Agricoltore|Lavrador

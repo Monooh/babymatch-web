@@ -1,0 +1,36 @@
+Alaitz|f|basque|basque,spanish|2|virtue,sweet|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Argiñe|f|basque|basque|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Garbi|u|basque|basque|2|virtue,nature|Puro, limpio|Pure, clean|Pur, propre|Rein, sauber|Puro, pulito|Puro, limpo
+Zuria|f|basque|basque|2|nature|Blanca|White|Blanche|Weiß|Bianca|Branca
+Oihan|m|basque|basque|2|nature|Bosque|Forest|Forêt|Wald|Foresta|Floresta
+Izei|m|basque|basque|1|nature|Abeto|Fir tree|Sapin|Tanne|Abete|Abeto
+Urki|m|basque|basque|1|nature|Abedul|Birch|Bouleau|Birke|Betulla|Bétula
+Kemen|m|basque|basque,spanish|2|strong|Fuerza, vigor|Strength, vigour|Force, vigueur|Kraft, Stärke|Forza, vigore|Força, vigor
+Edorta|m|germanic|basque|2|royal|Guardián de riquezas|Guardian of riches|Gardien des richesses|Hüter des Reichtums|Guardiano delle ricchezze|Guardião das riquezas
+Gotzone|f|basque|basque,spanish|3|saint|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Igone|f|basque|basque,spanish|2|saint|Ascensión|Ascension|Ascension|Himmelfahrt|Ascensione|Ascensão
+Ikerne|f|basque|basque|1|saint|Visitación|Visitation|Visitation|Heimsuchung|Visitazione|Visitação
+Maddalen|f|hebrew|basque|2|biblical,saint|Mujer de Magdala|Woman of Magdala|Femme de Magdala|Frau aus Magdala|Donna di Magdala|Mulher de Magdala
+Maider|f|hebrew|basque|2|saint|María|Mary|Marie|Maria|Maria|Maria
+Mirentxu|f|hebrew|basque|2|sweet,saint|Pequeña María|Little Mary|Petite Marie|Kleine Maria|Piccola Maria|Pequena Maria
+Peru|m|greek|basque|1|classic|Piedra, roca|Rock, stone|Pierre, roc|Fels, Stein|Pietra, roccia|Pedra, rocha
+Antxon|m|latin|basque|1|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Xalbador|m|latin|basque|1|saint|Salvador|Saviour|Sauveur|Erlöser|Salvatore|Salvador
+Koldobika|m|germanic|basque|1|warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Pantxika|f|latin|basque|1|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Maixabel|f|hebrew|basque|1|classic|María Isabel|Mary Isabel|Marie Isabelle|Maria Isabel|Maria Isabella|Maria Isabel
+Arantza|f|basque|basque,spanish|3|nature,saint|Espino|Thorn|Épine|Dorn|Spina|Espinho
+Arrosa|f|basque|basque|1|flower|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Eukeni|m|greek|basque|1|classic|De noble linaje|Well-born|Bien né|Wohlgeboren|Di nobile stirpe|Bem-nascido
+Cèlia|f|latin|catalan|2|celestial,classic|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Mireia|f|other|catalan|3|classic,literary|Admirar|To admire|Admirer|Bewundern|Ammirare|Admirar
+Txell|f|other|catalan|2|modern,sweet|Cereza|Cherry|Cerise|Kirsche|Ciliegia|Cereja
+Roc|m|germanic|catalan|2|vintage,strong|Roca|Rock|Roc|Fels|Roccia|Rocha
+Sergi|m|latin|catalan|3|classic|Servidor|Servant|Serviteur|Diener|Servitore|Servo
+Aran|u|other|catalan,irish|2|place,nature|Valle|Valley|Vallée|Tal|Valle|Vale
+Magí|m|greek|catalan|1|saint|Sabio, mago|Wise man, magus|Sage, mage|Weiser, Magier|Saggio, mago|Sábio, mago
+Èlia|f|latin|catalan|2|classic|Del sol|Of the sun|Du soleil|Der Sonne|Del sole|Do sol
+Nil|m|greek|catalan|3|modern,nature|Río Nilo|The Nile river|Fleuve Nil|Der Nil|Fiume Nilo|Rio Nilo
+Noelia|f|latin|galician,spanish|3|classic|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Suso|m|hebrew|galician|1|vintage|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Farruco|m|germanic|galician|1|vintage|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre

@@ -1,0 +1,79 @@
+Nádia|f|slavic|portuguese|2|virtue,classic|Esperanza|Hope|Espérance|Hoffnung|Speranza|Esperança
+Natália|f|latin|portuguese|3|classic|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Natanael|m|hebrew|portuguese|2|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Natividade|f|latin|portuguese|1|saint,vintage|Natividad|Nativity|Nativité|Geburt|Natività|Natividade
+Nazaré|f|hebrew|portuguese|2|saint,place,vintage|De Nazaret|From Nazareth|De Nazareth|Aus Nazaret|Di Nazaret|De Nazaré
+Nereida|f|greek|portuguese|1|mythology,sea|Ninfa del mar|Sea nymph|Nymphe de la mer|Meernymphe|Ninfa del mare|Ninfa do mar
+Nicolau|m|greek|portuguese|3|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Noé|m|hebrew|portuguese,french|3|biblical,classic|Descanso|Rest|Repos|Ruhe|Riposo|Descanso
+Noémia|f|hebrew|portuguese|1|biblical,vintage|Mi agrado|My delight|Ma joie|Meine Freude|Mia delizia|Meu deleite
+Norberto|m|germanic|portuguese|1|saint,vintage|Norte brillante|Bright north|Nord brillant|Glänzender Norden|Nord splendente|Norte brilhante
+Nívea|f|latin|portuguese|2|vintage,nature|Blanca como la nieve|Snow-white|Blanche comme neige|Schneeweiß|Bianca come la neve|Branca como a neve
+Nuno|m|latin|portuguese|4|classic|Monje, tutor|Monk, tutor|Moine, précepteur|Mönch, Erzieher|Monaco, tutore|Monge, tutor
+Odília|f|germanic|portuguese|1|saint,vintage|Rica en bienes|Wealthy|Riche en biens|Reich an Besitz|Ricca di beni|Rica em bens
+Ofélia|f|greek|portuguese,spanish|2|literary,vintage|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Olavo|m|norse|portuguese|1|vintage|Heredero de los antepasados|Ancestor's descendant|Héritier des ancêtres|Erbe der Vorfahren|Discendente degli antenati|Herdeiro dos antepassados
+Olga|f|norse|portuguese,russian|2|saint,vintage|Sagrada|Holy|Sainte|Heilig|Santa|Sagrada
+Olímpia|f|greek|portuguese|1|mythology,vintage|Del Olimpo|From Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Olímpio|m|greek|portuguese|1|mythology,vintage|Del Olimpo|From Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Olívia|f|latin|portuguese,english|4|nature,classic|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Ondina|f|latin|portuguese|1|sea,vintage|Pequeña ola|Little wave|Petite vague|Kleine Welle|Piccola onda|Pequena onda
+Orlando|m|germanic|portuguese,italian|2|classic|Famoso en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nel paese|Famoso na terra
+Orquídea|f|greek|portuguese|1|flower|Orquídea|Orchid|Orchidée|Orchidee|Orchidea|Orquídea
+Óscar|m|celtic|portuguese,spanish|2|classic|Amigo del ciervo|Deer lover|Ami du cerf|Hirschfreund|Amico del cervo|Amigo do cervo
+Osvaldo|m|germanic|portuguese|1|vintage|Poder divino|Divine power|Pouvoir divin|Göttliche Macht|Potere divino|Poder divino
+Otávio|m|latin|portuguese|3|classic|Octavo|Eighth|Huitième|Der Achte|Ottavo|Oitavo
+Octávio|m|latin|portuguese|1|vintage|Octavo|Eighth|Huitième|Der Achte|Ottavo|Oitavo
+Otília|f|germanic|portuguese|1|vintage|Próspera, rica|Prosperous, wealthy|Prospère, riche|Wohlhabend|Prospera, ricca|Próspera, rica
+Palmira|f|latin|portuguese|1|vintage,place|Ciudad de palmeras|City of palms|Ville des palmiers|Stadt der Palmen|Città delle palme|Cidade das palmeiras
+Panambi|f|native|portuguese|1|nature,animal|Mariposa|Butterfly|Papillon|Schmetterling|Farfalla|Borboleta
+Pascoal|m|hebrew|portuguese|1|saint,vintage|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Patrícia|f|latin|portuguese|3|classic|Noble|Noble|Noble|Edel|Nobile|Nobre
+Patrício|m|latin|portuguese|1|saint,vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Paula|f|latin|portuguese,spanish|3|saint,classic|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Paulina|f|latin|portuguese|2|classic|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Paulino|m|latin|portuguese|1|saint,vintage|Pequeño, humilde|Small, humble|Petit, humble|Klein, bescheiden|Piccolo, umile|Pequeno, humilde
+Paulo|m|latin|portuguese|4|biblical,saint,classic|Pequeño, humilde|Small, humble|Petit, humble|Klein, bescheiden|Piccolo, umile|Pequeno, humilde
+Pedro|m|greek|portuguese,spanish|5|biblical,saint,classic|Piedra|Rock|Pierre|Fels|Pietra|Pedra
+Pedro Henrique|m|greek|portuguese|4|trendy,classic|Piedra, gobernante del hogar|Rock, ruler of the home|Pierre, maître de la maison|Fels, Herrscher des Hauses|Pietra, signore della casa|Pedra, senhor da casa
+Pedro Miguel|m|greek|portuguese|3|trendy,classic|Piedra, ¿quién como Dios?|Rock, who is like God?|Pierre, qui est comme Dieu ?|Fels, wer ist wie Gott?|Pietra, chi è come Dio?|Pedra, quem é como Deus?
+Peri|m|native|portuguese|1|nature,literary|Junco|Reed|Jonc|Binse|Giunco|Junco
+Pérola|f|other|portuguese|2|gem,sweet|Perla|Pearl|Perle|Perle|Perla|Pérola
+Perpétua|f|latin|portuguese|1|saint,vintage|Perpetua, duradera|Everlasting|Éternelle|Beständig|Perpetua, duratura|Perpétua, duradoura
+Plácido|m|latin|portuguese|1|virtue,vintage|Tranquilo, sereno|Calm, serene|Calme, serein|Ruhig, gelassen|Tranquillo, sereno|Tranquilo, sereno
+Potira|f|native|portuguese|1|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Priscila|f|latin|portuguese|2|biblical,classic|Antigua, venerable|Ancient, venerable|Ancienne, vénérable|Altehrwürdig|Antica, venerabile|Antiga, venerável
+Prudência|f|latin|portuguese|1|virtue,vintage|Prudencia|Prudence|Prudence|Klugheit|Prudenza|Prudência
+Quintino|m|latin|portuguese|1|saint,vintage|Quinto|Fifth|Cinquième|Der Fünfte|Quinto|Quinto
+Rafael|m|hebrew|portuguese,spanish|4|biblical,saint,classic|Dios ha curado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Rafaela|f|hebrew|portuguese,spanish|3|biblical,classic|Dios ha curado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Raimunda|f|germanic|portuguese|1|vintage|Protectora sabia|Wise protector|Protectrice avisée|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Raimundo|m|germanic|portuguese|2|vintage,saint|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Ramiro|m|germanic|portuguese,spanish|1|royal,vintage|Consejero famoso|Famous counsellor|Conseiller célèbre|Berühmter Ratgeber|Consigliere famoso|Conselheiro famoso
+Raquel|f|hebrew|portuguese,spanish|3|biblical,classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Raul|m|germanic|portuguese|3|classic|Consejo del lobo|Wolf counsel|Conseil du loup|Rat des Wolfes|Consiglio del lupo|Conselho do lobo
+Rebeca|f|hebrew|portuguese,spanish|3|biblical,classic|Lazo, la que une|Tie, one who binds|Lien, celle qui lie|Band, die Bindende|Legame, colei che lega|Laço, a que une
+Reginaldo|m|germanic|portuguese|1|vintage|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Regina|f|latin|portuguese,german|3|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Reinaldo|m|germanic|portuguese|1|vintage|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Renata|f|latin|portuguese,italian|3|classic|Renacida|Reborn|Renée|Wiedergeboren|Rinata|Renascida
+Renato|m|latin|portuguese,italian|2|classic|Renacido|Reborn|Né de nouveau|Wiedergeboren|Rinato|Renascido
+Ricardo|m|germanic|portuguese,spanish|3|classic,royal|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Rita|f|latin|portuguese,italian|3|saint,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Roberta|f|germanic|portuguese,italian|2|classic|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Roberto|m|germanic|portuguese,spanish,italian|3|classic|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Rodolfo|m|germanic|portuguese,spanish|2|classic|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Rodrigo|m|germanic|portuguese,spanish|4|classic,royal|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Rogério|m|germanic|portuguese|2|classic|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Rolando|m|germanic|portuguese,spanish|1|vintage,warrior|Famoso en el país|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nel paese|Famoso na terra
+Romana|f|latin|portuguese,italian|1|vintage,place|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Romeu|m|latin|portuguese|2|literary,vintage|Peregrino a Roma|Pilgrim to Rome|Pèlerin de Rome|Pilger nach Rom|Pellegrino a Roma|Peregrino a Roma
+Rômulo|m|latin|portuguese|1|mythology,vintage|De Roma|From Rome|De Rome|Aus Rom|Di Roma|De Roma
+Ronaldo|m|norse|portuguese,english|3|classic|Gobernante aconsejado por los dioses|Ruler guided by the gods|Souverain conseillé par les dieux|Von den Göttern beratener Herrscher|Sovrano consigliato dagli dei|Governante aconselhado pelos deuses
+Rosa|f|latin|portuguese,spanish,italian|3|flower,classic|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Rosália|f|latin|portuguese|1|vintage,flower|Fiesta de las rosas|Festival of roses|Fête des roses|Rosenfest|Festa delle rose|Festa das rosas
+Rosário|f|latin|portuguese|2|saint,flower,vintage|Rosario, corona de rosas|Rosary, garland of roses|Rosaire, couronne de roses|Rosenkranz|Rosario, corona di rose|Rosário, coroa de rosas
+Rúben|m|hebrew|portuguese|3|biblical,classic|¡He aquí un hijo!|Behold, a son|Voici un fils|Siehe, ein Sohn|Ecco un figlio|Eis um filho
+Rúbia|f|latin|portuguese|1|vintage,gem|Pelirroja, rojiza|Reddish|Rousse|Rötlich|Rossastra|Ruiva
+Rui|m|germanic|portuguese|3|classic,royal|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Rute|f|hebrew|portuguese|2|biblical,classic|Compañera, amiga|Companion, friend|Compagne, amie|Gefährtin, Freundin|Compagna, amica|Companheira, amiga

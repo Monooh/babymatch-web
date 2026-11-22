@@ -1,0 +1,30 @@
+Amets|u|basque|basque,spanish|2|nature,sweet|Sueño|Dream|Rêve|Traum|Sogno|Sonho
+Argi|u|basque|basque|1|light|Luz|Light|Lumière|Licht|Luce|Luz
+Eguzki|u|basque|basque|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Euri|f|basque|basque|1|nature|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Iratze|f|basque|basque|1|nature|Helecho|Fern|Fougère|Farn|Felce|Feto
+Orbel|u|basque|basque|1|nature|Hoja|Leaf|Feuille|Blatt|Foglia|Folha
+Iturri|u|basque|basque|1|nature|Fuente|Spring, fountain|Source, fontaine|Quelle, Brunnen|Fonte, sorgente|Fonte, nascente
+Àngel|m|greek|catalan|2|saint,biblical|Ángel, mensajero|Angel, messenger|Ange, messager|Engel, Bote|Angelo, messaggero|Anjo, mensageiro
+Àngels|f|greek|catalan|2|saint|Ángeles|Angels|Anges|Engel|Angeli|Anjos
+Assumpta|f|latin|catalan|1|saint,vintage|Asunción, elevada|Assumption, taken up|Assomption, élevée|Aufnahme, Emporgehobene|Assunzione, innalzata|Assunção, elevada
+Concepció|f|latin|catalan|1|saint,vintage|Concepción|Conception|Conception|Empfängnis|Concezione|Conceição
+Immaculada|f|latin|catalan|1|saint,vintage|Inmaculada|Immaculate|Immaculée|Unbefleckte|Immacolata|Imaculada
+Pilar|f|latin|catalan,spanish|2|saint|Pilar, columna|Pillar, column|Pilier, colonne|Säule, Pfeiler|Pilastro, colonna|Pilar, coluna
+Valentina|f|latin|catalan,spanish,italian|2|saint|Valiente, sana|Brave, healthy|Vaillante, saine|Tapfer, gesund|Valorosa, sana|Valente, saudável
+Sever|m|latin|catalan|1|saint|Severo, serio|Stern, serious|Sévère, sérieux|Streng, ernst|Severo, serio|Severo, sério
+Adrián|m|latin|galician,spanish|3|classic|De la ciudad de Hadria|From the city of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Alejandro|m|greek|galician,spanish|3|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Diego|m|greek|galician,spanish|3|saint|Instruido, doctrina|Taught, instructed|Instruit, enseigné|Gelehrt, unterrichtet|Istruito, ammaestrato|Instruído, ensinado
+Fernando|m|germanic|galician,spanish|2|royal|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Audace viaggiatore|Viajante audaz
+Francisco|m|latin|galician,spanish|3|saint|Francés|Frenchman|Français|Franzose|Francese|Francês
+Jorge|m|greek|galician,spanish|3|saint,warrior|Labrador|Farmer|Laboureur|Landmann|Agricoltore|Lavrador
+Manuel|m|hebrew|galician,spanish|3|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Ramón|m|germanic|galician,spanish|2|saint|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Carmen|f|hebrew|galician,spanish|3|saint,nature|Jardín de Dios|Garden of God|Jardin de Dieu|Garten Gottes|Giardino di Dio|Jardim de Deus
+Dolores|f|latin|galician,spanish|2|saint,vintage|Dolores|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Rosario|f|latin|galician,spanish|2|saint,flower|Rosario|Rosary|Rosaire|Rosenkranz|Rosario|Rosário
+Mercedes|f|latin|galician,spanish|2|saint|Mercedes, favores|Mercies, favours|Mercis, faveurs|Gnaden, Gunst|Grazie, favori|Mercês, favores
+Daniela|f|hebrew|galician,spanish|3|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Julia|f|latin|galician,spanish|3|classic|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Victoria|f|latin|galician,spanish|3|warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória

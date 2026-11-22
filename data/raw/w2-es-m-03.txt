@@ -1,0 +1,49 @@
+Sofronio|m|greek|spanish|1|saint,vintage,virtue|Sensato, prudente|Sensible, prudent|Sensé, prudent|Besonnen, klug|Assennato, prudente|Sensato, prudente
+Sotero|m|greek|spanish|1|saint,vintage|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Tarsicio|m|greek|spanish|1|saint,vintage,place|De Tarso|From Tarsus|De Tarse|Aus Tarsos|Di Tarso|De Tarso
+Teógenes|m|greek|spanish|1|saint,vintage|Nacido de Dios|Born of God|Né de Dieu|Von Gott geboren|Nato da Dio|Nascido de Deus
+Trófimo|m|greek|spanish|1|saint,vintage|Criado, nutrido|Nurtured, fostered|Nourri, élevé|Gepflegt, ernährt|Nutrito, allevato|Nutrido, criado
+Vigilio|m|latin|spanish|1|saint,vintage|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante
+Vital|m|latin|spanish|1|saint,vintage|Vital, lleno de vida|Vital, full of life|Vital, plein de vie|Lebenskräftig|Vitale, pieno di vita|Vital, cheio de vida
+Aristarco|m|greek|spanish|1|classic,vintage|El mejor gobernante|The best ruler|Le meilleur dirigeant|Der beste Herrscher|Il miglior governante|O melhor governante
+Aristóbulo|m|greek|spanish|1|classic,vintage|El mejor consejero|The best counsellor|Le meilleur conseiller|Der beste Ratgeber|Il miglior consigliere|O melhor conselheiro
+Eutimio|m|greek|spanish|1|saint,vintage|De buen ánimo|Of good cheer|De bonne humeur|Wohlgemut|Di buon animo|De bom ânimo
+Gerásimo|m|greek|spanish|1|saint,vintage|Honorable, venerable|Honourable, venerable|Honorable, vénérable|Ehrwürdig|Onorabile, venerabile|Honrado, venerável
+Eligio|m|latin|spanish|1|saint,vintage|Elegido|Chosen|Élu|Auserwählt|Eletto|Eleito
+Fortún|m|latin|spanish|1|vintage,royal|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Amalarico|m|germanic|spanish|1|royal,warrior,vintage|Gobernante de los amalos|Ruler of the Amals|Chef des Amales|Herrscher der Amaler|Sovrano degli Amali|Governante dos amalos
+Teodorico|m|germanic|spanish|1|royal,vintage|Gobernante del pueblo|Ruler of the people|Chef du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Suintila|m|germanic|spanish|1|royal,vintage|Fuerte|Strong|Fort|Stark|Forte|Forte
+Bermudo|m|germanic|spanish|1|royal,vintage|Oso protector|Bear protector|Ours protecteur|Bärenbeschützer|Orso protettore|Urso protetor
+Leodegario|m|germanic|spanish|1|saint,vintage|Lanza del pueblo|Spear of the people|Lance du peuple|Speer des Volkes|Lancia del popolo|Lança do povo
+Odilón|m|germanic|spanish|1|saint,vintage|Poseedor de riquezas|Possessor of wealth|Possesseur de richesses|Besitzer von Reichtum|Possessore di ricchezze|Possuidor de riquezas
+Otón|m|germanic|spanish|1|royal,vintage|Riqueza, heredad|Wealth, fortune|Richesse, fortune|Reichtum, Besitz|Ricchezza, patrimonio|Riqueza, herança
+Arnulfo|m|germanic|spanish|2|vintage,animal|Águila-lobo|Eagle-wolf|Aigle-loup|Adler-Wolf|Aquila-lupo|Águia-lobo
+Arnoldo|m|germanic|spanish|2|vintage,animal|Águila gobernante|Eagle ruler|Aigle souverain|Herrschender Adler|Aquila sovrana|Águia governante
+Bertoldo|m|germanic|spanish|1|vintage|Gobernante brillante|Bright ruler|Souverain brillant|Glänzender Herrscher|Sovrano splendente|Governante brilhante
+Gualterio|m|germanic|spanish|1|vintage|Gobernante del ejército|Ruler of the army|Chef de l'armée|Heerführer|Comandante dell'esercito|Comandante do exército
+Hildebrando|m|germanic|spanish|1|vintage,warrior|Espada de combate|Battle sword|Épée de combat|Kampfschwert|Spada di battaglia|Espada de combate
+Lotario|m|germanic|spanish|1|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Osmundo|m|germanic|spanish|1|vintage|Protección divina|Divine protection|Protection divine|Göttlicher Schutz|Protezione divina|Proteção divina
+Edelmiro|m|germanic|spanish|1|vintage|Noble y famoso|Noble and famous|Noble et célèbre|Edel und berühmt|Nobile e famoso|Nobre e famoso
+Wilfrido|m|germanic|spanish|1|vintage|Deseoso de paz|Desiring peace|Désirant la paix|Friedenswillig|Desideroso di pace|Desejoso de paz
+Waldo|m|germanic|spanish|1|vintage|Gobernante|Ruler|Souverain|Herrscher|Sovrano|Governante
+Torcuato|m|latin|spanish|1|saint,vintage|Adornado con un collar|Adorned with a collar|Orné d'un collier|Mit einem Halsband geschmückt|Ornato di collare|Adornado com colar
+Magdaleno|m|hebrew|spanish|1|vintage,place|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Atlas|m|greek|spanish|1|mythology,strong|El que soporta|The enduring one|Celui qui supporte|Der Ausharrende|Colui che sopporta|Aquele que suporta
+Edipo|m|greek|spanish|1|mythology,literary|Pie hinchado|Swollen foot|Pied enflé|Schwellfuß|Piede gonfio|Pé inchado
+Geminiano|m|latin|spanish|1|saint,vintage|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Justiniano|m|latin|spanish|1|royal,vintage|Justo|Just|Juste|Gerecht|Giusto|Justo
+Laurencio|m|latin|spanish|1|saint,vintage|Laureado, de Laurento|Crowned with laurel|Couronné de lauriers|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louros
+Pascasio|m|latin|spanish|1|saint,vintage|Nacido en Pascua|Born at Easter|Né à Pâques|An Ostern geboren|Nato a Pasqua|Nascido na Páscoa
+Rústico|m|latin|spanish|1|saint,vintage|Del campo|Of the countryside|De la campagne|Vom Land|Di campagna|Do campo
+Severiano|m|latin|spanish|1|saint,vintage|Severo, serio|Stern, serious|Sévère, sérieux|Streng, ernst|Severo, serio|Severo, sério
+Tertuliano|m|latin|spanish|1|vintage,classic|El tercero|The third|Le troisième|Der Dritte|Il terzo|O terceiro
+Victorino|m|latin|spanish|2|saint,vintage|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Amaranto|m|greek|spanish|1|flower,vintage|Que no se marchita|Unfading|Qui ne se fane pas|Unverwelklich|Che non appassisce|Que não murcha
+Teódulo|m|greek|spanish|1|saint,vintage|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Filipo|m|greek|spanish|1|classic,royal|Amigo de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amico dei cavalli|Amigo dos cavalos
+Itzcóatl|m|native|spanish|1|warrior,royal|Serpiente de obsidiana|Obsidian serpent|Serpent d'obsidienne|Obsidianschlange|Serpente di ossidiana|Serpente de obsidiana
+Ehécatl|m|native|spanish|1|nature|Viento|Wind|Vent|Wind|Vento|Vento
+Arcángel|m|greek|spanish|1|saint,celestial|Jefe de los ángeles|Chief of the angels|Chef des anges|Oberster der Engel|Capo degli angeli|Chefe dos anjos
+Raniero|m|germanic|spanish|1|vintage|Consejero del ejército|Counsellor of the army|Conseiller de l'armée|Ratgeber des Heeres|Consigliere dell'esercito|Conselheiro do exército

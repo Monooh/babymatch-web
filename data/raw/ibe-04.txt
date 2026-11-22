@@ -1,0 +1,96 @@
+Abel|m|hebrew|catalan,spanish|2|biblical|Aliento, vapor|Breath, vapour|Souffle, vapeur|Hauch, Atem|Soffio, vapore|Sopro, vapor
+Adrià|m|latin|catalan|3|classic|De la ciudad de Hadria|From the city of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Agustí|m|latin|catalan|2|saint|Venerable, majestuoso|Venerable, majestic|Vénérable, majestueux|Erhaben, ehrwürdig|Venerabile, maestoso|Venerável, majestoso
+Albert|m|germanic|catalan,french,german|3|royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Aleix|m|greek|catalan|3|strong,warrior|Defensor|Defender|Défenseur|Verteidiger|Difensore|Defensor
+Andreu|m|greek|catalan|3|saint,strong|Viril, valiente|Manly, brave|Viril, vaillant|Männlich, tapfer|Virile, coraggioso|Viril, valente
+Anselm|m|germanic|catalan|1|saint|Protegido por Dios|Protected by God|Protégé par Dieu|Von Gott beschützt|Protetto da Dio|Protegido por Deus
+Antoni|m|latin|catalan|3|saint|Digno de elogio|Worthy of praise|Digne d'éloge|Lobenswert|Degno di lode|Digno de elogio
+Arnau|m|germanic|catalan|2|strong|Águila poderosa|Ruling eagle|Aigle souverain|Herrschender Adler|Aquila che governa|Águia que governa
+Bartomeu|m|hebrew|catalan|1|biblical,saint|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Bernat|m|germanic|catalan|3|strong|Oso valiente|Brave bear|Ours vaillant|Tapferer Bär|Orso coraggioso|Urso valente
+Biel|m|hebrew|catalan|3|biblical|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Bruno|m|germanic|catalan,spanish|2|strong|Moreno, coraza|Brown one, armour|Brun, cuirasse|Brauner, Brünne|Bruno, corazza|Moreno, couraça
+Carles|m|germanic|catalan|3|royal|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Cebrià|m|latin|catalan|1|saint|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Cèsar|m|latin|catalan|2|royal|Emperador|Emperor|Empereur|Kaiser|Imperatore|Imperador
+Climent|m|latin|catalan|1|saint,virtue|Clemente, misericordioso|Merciful, gentle|Clément, miséricordieux|Milde, barmherzig|Clemente, misericordioso|Clemente, misericordioso
+Cosme|m|greek|catalan|1|saint|Orden, adorno|Order, ornament|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, adorno
+Cristòfol|m|greek|catalan|1|saint|Portador de Cristo|Christ-bearer|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Damià|m|greek|catalan|2|saint|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Daniel|m|hebrew|catalan,spanish|3|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+David|m|hebrew|catalan,intl|3|biblical,royal|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Dídac|m|greek|catalan|2|saint|Instruido, doctrina|Taught, instructed|Instruit, enseigné|Gelehrt, unterrichtet|Istruito, ammaestrato|Instruído, ensinado
+Dionís|m|greek|catalan|1|mythology|Seguidor de Dioniso|Follower of Dionysus|Disciple de Dionysos|Anhänger des Dionysos|Seguace di Dioniso|Seguidor de Dioniso
+Domènec|m|latin|catalan|2|saint|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Eduard|m|germanic|catalan|3|royal|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Wächter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Eloi|m|latin|catalan|2|saint|Elegido|Chosen one|Élu|Auserwählter|Eletto|Eleito
+Enric|m|germanic|catalan|3|royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Èric|m|norse|catalan|3|royal,strong|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Soberano eterno
+Esteve|m|greek|catalan|2|saint|Corona|Crown|Couronne|Krone|Corona|Coroa
+Felip|m|greek|catalan|2|royal|Amigo de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amigo dos cavalos
+Feliu|m|latin|catalan|1|saint|Feliz|Happy|Heureux|Glücklich|Felice|Feliz
+Fèlix|m|latin|catalan|2|virtue|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich, vom Glück begünstigt|Felice, fortunato|Feliz, afortunado
+Ferran|m|germanic|catalan|2|royal|Audaz viajero|Bold traveller|Voyageur audacieux|Kühner Reisender|Audace viaggiatore|Viajante audaz
+Francesc|m|latin|catalan|3|saint|Francés|Frenchman|Français|Franzose|Francese|Francês
+Gabriel|m|hebrew|catalan,spanish|3|biblical|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gaietà|m|latin|catalan|1|saint|De Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Gerard|m|germanic|catalan|3|warrior|Lanza fuerte|Strong spear|Lance forte|Starker Speer|Lancia forte|Lança forte
+Guerau|m|germanic|catalan|1|warrior|Gobernante con lanza|Spear ruler|Souverain à la lance|Herrscher mit dem Speer|Sovrano con la lancia|Soberano da lança
+Guifré|m|germanic|catalan|1|royal|Paz deseada|Desired peace|Paix désirée|Ersehnter Friede|Pace desiderata|Paz desejada
+Guillem|m|germanic|catalan|3|warrior|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Hug|m|germanic|catalan|2|royal|Mente, inteligencia|Mind, intellect|Esprit, intelligence|Geist, Verstand|Mente, intelligenza|Mente, inteligência
+Ignasi|m|latin|catalan|2|saint|Ardiente|Fiery|Ardent|Feurig|Ardente|Ardente
+Isaac|m|hebrew|catalan,spanish|2|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Isidre|m|greek|catalan|1|saint|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Jan|m|hebrew|catalan|3|modern|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jaume|m|hebrew|catalan|3|saint|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Jeroni|m|greek|catalan|1|saint|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Joan|m|hebrew|catalan|4|biblical,saint|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Joaquim|m|hebrew|catalan|2|biblical,saint|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Joel|m|hebrew|catalan|3|biblical|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Jofre|m|germanic|catalan|1|royal|Paz de Dios|God's peace|Paix de Dieu|Gottes Frieden|Pace di Dio|Paz de Deus
+Jordi|m|greek|catalan|4|saint,warrior|Labrador|Farmer|Laboureur|Landmann|Agricoltore|Lavrador
+Josep|m|hebrew|catalan|3|biblical,saint|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Julià|m|latin|catalan|2|saint|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Lleó|m|latin|catalan|1|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Llorenç|m|latin|catalan|1|saint|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Coronato d'alloro|Coroado de louros
+Lluc|m|latin|catalan|3|biblical,saint|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Della Lucania|Da Lucânia
+Lluís|m|germanic|catalan|3|royal,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Macià|m|hebrew|catalan|1|saint|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Manel|m|hebrew|catalan|2|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Marc|m|latin|catalan,french,german|4|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Marçal|m|latin|catalan|1|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Martí|m|latin|catalan|3|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mateu|m|hebrew|catalan|3|biblical|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Maurici|m|latin|catalan|1|saint|Moreno, de Mauritania|Dark-skinned, Moorish|Au teint foncé, maure|Dunkelhäutig, Maure|Scuro, moro|Moreno, mouro
+Màxim|m|latin|catalan|2|strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Miquel|m|hebrew|catalan|3|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Nadal|m|latin|catalan|1|saint|Navidad, nacimiento|Christmas, birth|Noël, naissance|Weihnachten, Geburt|Natale, nascita|Natal, nascimento
+Narcís|m|greek|catalan|1|mythology,flower|Narciso|Narcissus|Narcisse|Narzisse|Narciso|Narciso
+Nicolau|m|greek|catalan|2|saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Oriol|m|latin|catalan|3|light|Dorado|Golden|Doré|Golden|Dorato|Dourado
+Pasqual|m|latin|catalan|1|saint|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Pau|m|latin|catalan|4|saint|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pere|m|greek|catalan|3|saint|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Pol|m|latin|catalan|4|modern|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Quim|m|hebrew|catalan|2|biblical|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Quirze|m|greek|catalan|1|saint|Señorial, del Señor|Lordly, of the Lord|Seigneurial, du Seigneur|Herrschaftlich, des Herrn|Signorile, del Signore|Senhorial, do Senhor
+Rafael|m|hebrew|catalan,spanish|2|biblical,saint|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Ramon|m|germanic|catalan|3|saint|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Raül|m|germanic|catalan|2|strong|Lobo consejero|Wise wolf|Loup avisé|Weiser Wolf|Lupo saggio|Lobo conselheiro
+Ricard|m|germanic|catalan|3|royal|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Soberano poderoso
+Robert|m|germanic|catalan,french,english|2|royal|Fama brillante|Bright fame|Gloire brillante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Roger|m|germanic|catalan|2|warrior|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Salvador|m|latin|catalan,spanish|2|saint|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Sebastià|m|greek|catalan|2|saint|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Serafí|m|hebrew|catalan|1|saint|Ardiente|Fiery one|Ardent|Feuriger|Ardente|Ardente
+Simó|m|hebrew|catalan|2|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Teodor|m|greek|catalan|1|saint|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Tomàs|m|hebrew|catalan|2|biblical|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gêmeo
+Urbà|m|latin|catalan|1|saint|Ciudadano|Citizen of the city|Citadin|Städter|Cittadino|Cidadão
+Valentí|m|latin|catalan|2|saint|Valiente, sano|Brave, healthy|Vaillant, sain|Tapfer, gesund|Valoroso, sano|Valente, saudável
+Vicenç|m|latin|catalan|2|saint|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Víctor|m|latin|catalan,spanish|3|warrior|Vencedor|Victor|Vainqueur|Sieger|Vincitore|Vencedor
+Vidal|m|latin|catalan|1|saint|Vital|Vital|Vital|Lebensvoll|Vitale|Vital
+Xavier|m|basque|catalan,french|3|saint|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova

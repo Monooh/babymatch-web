@@ -1,0 +1,77 @@
+Sage|u|latin|english|3|nature,modern,virtue|Sabio|Wise|Sage|Weise|Saggio|Sábio
+Salvador|m|latin|english,spanish,portuguese|2|classic|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Samuel|m|hebrew|english,spanish,german,french,intl|5|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Saul|m|hebrew|english,spanish|2|biblical|Pedido a Dios|Asked for, prayed for|Demandé à Dieu|Erbeten|Chiesto a Dio|Pedido a Deus
+Sawyer|m|germanic|english|3|modern,trendy|Aserrador|Woodcutter|Scieur|Säger|Boscaiolo|Serrador
+Scott|m|germanic|english,scottish|2|classic|Escocés|Scotsman|Écossais|Schotte|Scozzese|Escocês
+Sean|m|hebrew|english,irish|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sebastian|m|greek|english,german,spanish,scandinavian,intl|4|classic,saint|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Seth|m|hebrew|english|3|biblical|Designado, puesto|Appointed|Désigné|Eingesetzt|Stabilito|Designado
+Shane|m|hebrew|english|2|modern|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Shaun|m|hebrew|english|1|modern|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Sidney|u|latin|english|1|vintage|De Saint Denis|From Saint-Denis|De Saint-Denis|Aus Saint-Denis|Da Saint-Denis|De Saint-Denis
+Silas|m|latin|english|4|biblical,vintage|Del bosque|Of the forest|De la forêt|Vom Wald|Della foresta|Da floresta
+Simon|m|hebrew|english,german,french,intl|3|biblical,classic|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Sinclair|m|latin|english,scottish|1|vintage|De Saint Clair|From Saint-Clair|De Saint-Clair|Aus Saint-Clair|Da Saint-Clair|De Saint-Clair
+Skylar|u|germanic|english|3|modern,celestial|Erudito, refugio|Scholar, shelter|Érudit, abri|Gelehrter, Schutz|Studioso, rifugio|Erudito, abrigo
+Solomon|m|hebrew|english|3|biblical,royal|Paz|Peace|Paix|Frieden|Pace|Paz
+Spencer|m|latin|english|3|modern|Administrador de provisiones|Dispenser of provisions|Dépensier|Verwalter der Vorräte|Dispensiere|Despenseiro
+Stanley|m|germanic|english|2|vintage|Prado de piedra|Stony meadow|Prairie de pierre|Steinige Wiese|Prato di pietra|Prado de pedra
+Stefan|m|greek|english,german,scandinavian|2|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stephen|m|greek|english|3|biblical,saint,classic|Corona|Crown, garland|Couronne|Krone, Kranz|Corona|Coroa
+Sterling|m|germanic|english|2|modern|Moneda de plata|Silver penny|Pièce d'argent|Silberpfennig|Moneta d'argento|Moeda de prata
+Steven|m|greek|english|3|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stuart|m|germanic|english,scottish|1|classic,royal|Administrador|Steward|Intendant|Verwalter|Amministratore|Administrador
+Sullivan|m|celtic|english,irish|2|modern|Ojo oscuro|Dark-eyed|Aux yeux sombres|Dunkeläugig|Dagli occhi scuri|De olhos escuros
+Sylvester|m|latin|english|2|vintage,nature|Del bosque|Of the forest|De la forêt|Vom Wald|Della foresta|Da floresta
+Tate|m|germanic|english|2|modern|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Taylor|u|latin|english|3|modern|Sastre|Tailor|Tailleur|Schneider|Sarto|Alfaiate
+Ted|m|germanic|english|1|classic|Guardián de la riqueza|Wealthy guardian|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Teddy|m|germanic|english|4|sweet,vintage|Guardián de la riqueza|Wealthy guardian|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Terence|m|latin|english|1|vintage|Del clan Terencio|Of the Terentius clan|Du clan Terentius|Aus dem Geschlecht Terentius|Della gens Terenzia|Da família Terêncio
+Theodore|m|greek|english,french|5|classic,vintage,saint|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Theo|m|greek|english,german,dutch,intl|4|sweet,modern|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Thomas|m|hebrew|english,french,german,intl|4|biblical,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Timothy|m|greek|english|3|biblical,classic|Que honra a Dios|Honouring God|Qui honore Dieu|Gottesfürchtig|Che onora Dio|Que honra a Deus
+Tobias|m|hebrew|english,german,scandinavian|3|biblical|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Toby|m|hebrew|english|3|sweet|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Todd|m|germanic|english|1|animal|Zorro|Fox|Renard|Fuchs|Volpe|Raposa
+Tom|m|hebrew|english|3|classic,sweet|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Tommy|m|hebrew|english|3|sweet|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Trevor|m|celtic|english,welsh|2|classic|Gran asentamiento|Large settlement|Grand village|Große Siedlung|Grande insediamento|Grande povoado
+Tristan|m|celtic|english,french,german|3|literary,romantic|Tumulto, ruido|Tumult, noise|Tumulte, bruit|Tumult, Lärm|Tumulto, rumore|Tumulto, barulho
+Troy|m|celtic|english|2|place|De Troyes|From Troyes|De Troyes|Aus Troyes|Da Troyes|De Troyes
+Truman|m|germanic|english|2|vintage|Hombre leal|Faithful man|Homme fidèle|Treuer Mann|Uomo fedele|Homem leal
+Tucker|m|germanic|english|2|modern|Pisador de telas|Cloth fuller|Foulon|Walker|Follatore|Pisoeiro
+Tyler|m|germanic|english|3|modern|Fabricante de tejas|Tile maker|Fabricant de tuiles|Ziegelmacher|Fabbricante di tegole|Fabricante de telhas
+Tyrone|m|celtic|english,irish|1|place|Tierra de Owen|Land of Owen|Terre d'Owen|Land des Owen|Terra di Owen|Terra de Owen
+Ulysses|m|greek|english|1|mythology,literary|Enfadado|Wrathful|Courroucé|Zornig|Adirato|Irado
+Uriah|m|hebrew|english|1|biblical|Yahvé es mi luz|Yahweh is my light|Yahvé est ma lumière|Jahwe ist mein Licht|Yahweh è la mia luce|Javé é a minha luz
+Valentine|m|latin|english,french|1|saint,love|Fuerte, sano|Strong, healthy|Fort, en bonne santé|Stark, gesund|Forte, sano|Forte, saudável
+Vaughan|m|celtic|english,welsh|1|vintage|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Vernon|m|latin|english|1|vintage|Lugar de alisos|Alder grove|Aulnaie|Erlenhain|Ontaneto|Amial
+Victor|m|latin|english,french,german,intl|3|classic,strong|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Vincent|m|latin|english,french,german|3|classic,saint|Conquistador|Conquering|Conquérant|Siegend|Conquistatore|Conquistador
+Vivian|u|latin|english|1|vintage|Vivo, lleno de vida|Alive, full of life|Vivant, plein de vie|Lebendig|Vivo, pieno di vita|Vivo, cheio de vida
+Wade|m|germanic|english|2|modern|Vadear|To ford, to wade|Passer à gué|Furt, waten|Guadare|Vadear
+Walker|m|germanic|english|3|modern|Pisador de telas|Cloth fuller|Foulon|Walker|Follatore|Pisoeiro
+Wallace|m|celtic|english,scottish|1|vintage|Extranjero, galés|Foreigner, Welshman|Étranger, Gallois|Fremder, Waliser|Straniero, gallese|Estrangeiro, galês
+Walter|m|germanic|english,german|3|classic|Jefe del ejército|Ruler of the army|Chef d'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Warren|m|germanic|english|2|classic|Guardián, coto de caza|Warden, game park|Gardien, garenne|Wächter, Gehege|Guardiano, riserva di caccia|Guardião, coutada
+Wayne|m|germanic|english|2|classic|Carretero|Wagon maker|Charron|Wagner|Carraio|Carroceiro
+Wesley|m|germanic|english|2|classic|Prado del oeste|Western meadow|Prairie de l'ouest|Westliche Wiese|Prato occidentale|Prado do oeste
+Weston|m|germanic|english|3|modern|Pueblo del oeste|Western town|Ville de l'ouest|Westliche Stadt|Città occidentale|Povoado do oeste
+Wilbur|m|germanic|english|1|vintage|Resuelto y brillante|Resolute and bright|Résolu et brillant|Entschlossen und glänzend|Risoluto e splendente|Resoluto e brilhante
+Wilfred|m|germanic|english|1|vintage|Voluntad de paz|Desiring peace|Désir de paix|Wunsch nach Frieden|Desiderio di pace|Desejo de paz
+Will|m|germanic|english|3|classic|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+William|m|germanic|english,french|5|classic,royal|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Willis|m|germanic|english|1|vintage|Hijo de Will|Son of Will|Fils de Will|Sohn des Will|Figlio di Will|Filho de Will
+Winston|m|germanic|english|2|vintage|Pueblo de la alegría|Joy's town|Ville de la joie|Stadt der Freude|Città della gioia|Povoado da alegria
+Wyatt|m|germanic|english|4|modern,warrior|Valiente en la guerra|Brave in war|Courageux à la guerre|Kühn im Krieg|Valoroso in guerra|Valente na guerra
+Xavier|m|basque|english,spanish,french,intl|3|saint,modern|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Xander|m|greek|english,dutch|3|modern|Defensor de la humanidad|Defender of mankind|Défenseur des hommes|Verteidiger der Menschen|Difensore dell'umanità|Defensor da humanidade
+Yale|m|celtic|english|1|modern|Fértil, tierras altas|Fertile upland|Terres hautes fertiles|Fruchtbares Hochland|Altopiano fertile|Terras altas férteis
+Zachary|m|hebrew|english|3|biblical,classic|Dios ha recordado|God remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio ha ricordato|Deus lembrou
+Zane|m|hebrew|english|2|modern|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Zeke|m|hebrew|english|1|biblical,vintage|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Zion|m|hebrew|english,hebrew|3|biblical,modern|Colina de Sión|Fortified hill, Zion|Colline fortifiée, Sion|Befestigter Hügel, Zion|Collina fortificata, Sion|Colina fortificada, Sião

@@ -1,0 +1,213 @@
+import { LOCALES, type Locale } from './config'
+import { type Culture, type Tag, type Root, type Gender, type ListKey, parseListKey, slugify } from '@/lib/model'
+import type { Dict } from './dict/en'
+
+type Six = [string, string, string, string, string, string] // es, en, fr, de, it, pt
+const at = (six: Six, l: Locale) => six[LOCALES.indexOf(l)]
+
+// ── Cultures: [label for chips, plural adjective for titles] per language ──
+// English and German derive the adjective from the label ("Basque", "Baskisch" → "baskische").
+const CULTURE_LABEL: Record<Culture, Six> = {
+  spanish: ['Español', 'Spanish', 'Espagnol', 'Spanisch', 'Spagnolo', 'Espanhol'],
+  basque: ['Vasco', 'Basque', 'Basque', 'Baskisch', 'Basco', 'Basco'],
+  catalan: ['Catalán', 'Catalan', 'Catalan', 'Katalanisch', 'Catalano', 'Catalão'],
+  galician: ['Gallego', 'Galician', 'Galicien', 'Galicisch', 'Galiziano', 'Galego'],
+  portuguese: ['Portugués', 'Portuguese', 'Portugais', 'Portugiesisch', 'Portoghese', 'Português'],
+  french: ['Francés', 'French', 'Français', 'Französisch', 'Francese', 'Francês'],
+  italian: ['Italiano', 'Italian', 'Italien', 'Italienisch', 'Italiano', 'Italiano'],
+  german: ['Alemán', 'German', 'Allemand', 'Deutsch', 'Tedesco', 'Alemão'],
+  english: ['Inglés', 'English', 'Anglais', 'Englisch', 'Inglese', 'Inglês'],
+  irish: ['Irlandés', 'Irish', 'Irlandais', 'Irisch', 'Irlandese', 'Irlandês'],
+  scottish: ['Escocés', 'Scottish', 'Écossais', 'Schottisch', 'Scozzese', 'Escocês'],
+  welsh: ['Galés', 'Welsh', 'Gallois', 'Walisisch', 'Gallese', 'Galês'],
+  scandinavian: ['Escandinavo', 'Scandinavian', 'Scandinave', 'Skandinavisch', 'Scandinavo', 'Escandinavo'],
+  dutch: ['Holandés', 'Dutch', 'Néerlandais', 'Niederländisch', 'Olandese', 'Holandês'],
+  russian: ['Eslavo', 'Slavic', 'Slave', 'Slawisch', 'Slavo', 'Eslavo'],
+  polish: ['Polaco', 'Polish', 'Polonais', 'Polnisch', 'Polacco', 'Polonês'],
+  greek: ['Griego', 'Greek', 'Grec', 'Griechisch', 'Greco', 'Grego'],
+  hebrew: ['Hebreo', 'Hebrew', 'Hébreu', 'Hebräisch', 'Ebraico', 'Hebraico'],
+  arabic: ['Árabe', 'Arabic', 'Arabe', 'Arabisch', 'Arabo', 'Árabe'],
+  turkish: ['Turco', 'Turkish', 'Turc', 'Türkisch', 'Turco', 'Turco'],
+  persian: ['Persa', 'Persian', 'Persan', 'Persisch', 'Persiano', 'Persa'],
+  indian: ['Indio', 'Indian', 'Indien', 'Indisch', 'Indiano', 'Indiano'],
+  japanese: ['Japonés', 'Japanese', 'Japonais', 'Japanisch', 'Giapponese', 'Japonês'],
+  chinese: ['Chino', 'Chinese', 'Chinois', 'Chinesisch', 'Cinese', 'Chinês'],
+  korean: ['Coreano', 'Korean', 'Coréen', 'Koreanisch', 'Coreano', 'Coreano'],
+  african: ['Africano', 'African', 'Africain', 'Afrikanisch', 'Africano', 'Africano'],
+  hawaiian: ['Hawaiano', 'Hawaiian', 'Hawaïen', 'Hawaiianisch', 'Hawaiano', 'Havaiano'],
+  intl: ['Internacional', 'International', 'International', 'International', 'Internazionale', 'Internacional'],
+}
+// Plural adjectives where they cannot be derived: es, fr, it, pt.
+const CULTURE_PLURAL: Record<Culture, [string, string, string, string]> = {
+  spanish: ['españoles', 'espagnols', 'spagnoli', 'espanhóis'],
+  basque: ['vascos', 'basques', 'baschi', 'bascos'],
+  catalan: ['catalanes', 'catalans', 'catalani', 'catalães'],
+  galician: ['gallegos', 'galiciens', 'galiziani', 'galegos'],
+  portuguese: ['portugueses', 'portugais', 'portoghesi', 'portugueses'],
+  french: ['franceses', 'français', 'francesi', 'franceses'],
+  italian: ['italianos', 'italiens', 'italiani', 'italianos'],
+  german: ['alemanes', 'allemands', 'tedeschi', 'alemães'],
+  english: ['ingleses', 'anglais', 'inglesi', 'ingleses'],
+  irish: ['irlandeses', 'irlandais', 'irlandesi', 'irlandeses'],
+  scottish: ['escoceses', 'écossais', 'scozzesi', 'escoceses'],
+  welsh: ['galeses', 'gallois', 'gallesi', 'galeses'],
+  scandinavian: ['escandinavos', 'scandinaves', 'scandinavi', 'escandinavos'],
+  dutch: ['holandeses', 'néerlandais', 'olandesi', 'holandeses'],
+  russian: ['eslavos', 'slaves', 'slavi', 'eslavos'],
+  polish: ['polacos', 'polonais', 'polacchi', 'poloneses'],
+  greek: ['griegos', 'grecs', 'greci', 'gregos'],
+  hebrew: ['hebreos', 'hébraïques', 'ebraici', 'hebraicos'],
+  arabic: ['árabes', 'arabes', 'arabi', 'árabes'],
+  turkish: ['turcos', 'turcs', 'turchi', 'turcos'],
+  persian: ['persas', 'persans', 'persiani', 'persas'],
+  indian: ['indios', 'indiens', 'indiani', 'indianos'],
+  japanese: ['japoneses', 'japonais', 'giapponesi', 'japoneses'],
+  chinese: ['chinos', 'chinois', 'cinesi', 'chineses'],
+  korean: ['coreanos', 'coréens', 'coreani', 'coreanos'],
+  african: ['africanos', 'africains', 'africani', 'africanos'],
+  hawaiian: ['hawaianos', 'hawaïens', 'hawaiani', 'havaianos'],
+  intl: ['internacionales', 'internationaux', 'internazionali', 'internacionais'],
+}
+
+// ── Tags: chip label + how the tag enters a title. "a:" adjective, "p:" phrase after the noun. ──
+const TAG_LABEL: Record<Tag, Six> = {
+  biblical: ['Bíblicos', 'Biblical', 'Bibliques', 'Biblisch', 'Biblici', 'Bíblicos'],
+  saint: ['Santos', 'Saints', 'Saints', 'Heilige', 'Santi', 'Santos'],
+  mythology: ['Mitológicos', 'Mythological', 'Mythologiques', 'Mythologisch', 'Mitologici', 'Mitológicos'],
+  nature: ['Naturaleza', 'Nature', 'Nature', 'Natur', 'Natura', 'Natureza'],
+  flower: ['Flores', 'Flowers', 'Fleurs', 'Blumen', 'Fiori', 'Flores'],
+  celestial: ['Cielo y estrellas', 'Sky and stars', 'Ciel et étoiles', 'Himmel und Sterne', 'Cielo e stelle', 'Céu e estrelas'],
+  sea: ['Mar', 'Sea', 'Mer', 'Meer', 'Mare', 'Mar'],
+  royal: ['Realeza', 'Royal', 'Royaux', 'Königlich', 'Reali', 'Realeza'],
+  literary: ['Literarios', 'Literary', 'Littéraires', 'Literarisch', 'Letterari', 'Literários'],
+  classic: ['Clásicos', 'Classic', 'Classiques', 'Klassisch', 'Classici', 'Clássicos'],
+  vintage: ['Antiguos', 'Vintage', 'Anciens', 'Altmodisch', 'Antichi', 'Antigos'],
+  modern: ['Modernos', 'Modern', 'Modernes', 'Modern', 'Moderni', 'Modernos'],
+  trendy: ['De moda', 'Trendy', 'Tendance', 'Angesagt', 'Di tendenza', 'Da moda'],
+  strong: ['Fuertes', 'Strong', 'Forts', 'Stark', 'Forti', 'Fortes'],
+  sweet: ['Dulces', 'Sweet', 'Doux', 'Süß', 'Dolci', 'Doces'],
+  virtue: ['Virtudes', 'Virtues', 'Vertus', 'Tugenden', 'Virtù', 'Virtudes'],
+  gem: ['Piedras preciosas', 'Gemstones', 'Pierres précieuses', 'Edelsteine', 'Pietre preziose', 'Pedras preciosas'],
+  animal: ['Animales', 'Animals', 'Animaux', 'Tiere', 'Animali', 'Animais'],
+  place: ['Lugares', 'Places', 'Lieux', 'Orte', 'Luoghi', 'Lugares'],
+  warrior: ['Guerreros', 'Warriors', 'Guerriers', 'Krieger', 'Guerrieri', 'Guerreiros'],
+  light: ['Luz', 'Light', 'Lumière', 'Licht', 'Luce', 'Luz'],
+  love: ['Amor', 'Love', 'Amour', 'Liebe', 'Amore', 'Amor'],
+  music: ['Musicales', 'Musical', 'Musicaux', 'Musikalisch', 'Musicali', 'Musicais'],
+}
+const TAG_MOD: Record<Tag, Six> = {
+  biblical: ['a:bíblicos', 'a:Biblical', 'a:bibliques', 'a:Biblische', 'a:biblici', 'a:bíblicos'],
+  saint: ['p:de santos', 'p:of saints', 'p:de saints', 'p:von Heiligen', 'p:di santi', 'p:de santos'],
+  mythology: ['a:mitológicos', 'a:Mythological', 'a:mythologiques', 'a:Mythologische', 'a:mitologici', 'a:mitológicos'],
+  nature: ['p:inspirados en la naturaleza', 'a:Nature', 'p:inspirés de la nature', 'p:aus der Natur', 'p:ispirati alla natura', 'p:inspirados na natureza'],
+  flower: ['p:de flores', 'a:Flower', 'p:de fleurs', 'p:mit Blumenbedeutung', 'p:di fiori', 'p:de flores'],
+  celestial: ['p:del cielo y las estrellas', 'a:Celestial', 'p:du ciel et des étoiles', 'p:von Himmel und Sternen', 'p:del cielo e delle stelle', 'p:do céu e das estrelas'],
+  sea: ['p:del mar', 'a:Ocean', 'p:de la mer', 'p:vom Meer', 'p:del mare', 'p:do mar'],
+  royal: ['p:de reyes y reinas', 'a:Royal', 'a:royaux', 'a:Königliche', 'a:reali', 'p:da realeza'],
+  literary: ['a:literarios', 'a:Literary', 'a:littéraires', 'a:Literarische', 'a:letterari', 'a:literários'],
+  classic: ['a:clásicos', 'a:Classic', 'a:classiques', 'a:Klassische', 'a:classici', 'a:clássicos'],
+  vintage: ['a:antiguos', 'a:Vintage', 'a:anciens', 'a:Altmodische', 'a:antichi', 'a:antigos'],
+  modern: ['a:modernos', 'a:Modern', 'a:modernes', 'a:Moderne', 'a:moderni', 'a:modernos'],
+  trendy: ['p:de moda', 'a:Trendy', 'a:tendance', 'a:Angesagte', 'p:di tendenza', 'p:da moda'],
+  strong: ['a:fuertes', 'a:Strong', 'a:forts', 'a:Starke', 'a:forti', 'a:fortes'],
+  sweet: ['a:dulces', 'a:Sweet', 'a:doux', 'a:Süße', 'a:dolci', 'a:doces'],
+  virtue: ['p:de virtudes', 'a:Virtue', 'p:de vertus', 'p:nach Tugenden', 'p:di virtù', 'p:de virtudes'],
+  gem: ['p:de piedras preciosas', 'a:Gemstone', 'p:de pierres précieuses', 'p:nach Edelsteinen', 'p:di pietre preziose', 'p:de pedras preciosas'],
+  animal: ['p:de animales', 'a:Animal', "p:d'animaux", 'p:nach Tieren', 'p:di animali', 'p:de animais'],
+  place: ['p:de lugares', 'a:Place', 'p:de lieux', 'p:nach Orten', 'p:di luoghi', 'p:de lugares'],
+  warrior: ['p:de guerreros', 'a:Warrior', 'p:de guerriers', 'p:von Kriegern', 'p:di guerrieri', 'p:de guerreiros'],
+  light: ['p:que significan luz', 'p:that mean light', 'p:qui signifient lumière', 'p:mit der Bedeutung Licht', 'p:che significano luce', 'p:que significam luz'],
+  love: ['p:que significan amor', 'p:that mean love', 'p:qui signifient amour', 'p:mit der Bedeutung Liebe', 'p:che significano amore', 'p:que significam amor'],
+  music: ['a:musicales', 'a:Musical', 'a:musicaux', 'a:Musikalische', 'a:musicali', 'a:musicais'],
+}
+
+// ── Etymological roots, inflected to follow "origin" in each language ──
+const ROOT_ADJ: Record<Root, Six> = {
+  latin: ['latino', 'Latin', 'latine', 'lateinischer', 'latina', 'latina'],
+  greek: ['griego', 'Greek', 'grecque', 'griechischer', 'greca', 'grega'],
+  hebrew: ['hebreo', 'Hebrew', 'hébraïque', 'hebräischer', 'ebraica', 'hebraica'],
+  germanic: ['germánico', 'Germanic', 'germanique', 'germanischer', 'germanica', 'germânica'],
+  celtic: ['celta', 'Celtic', 'celtique', 'keltischer', 'celtica', 'celta'],
+  norse: ['nórdico', 'Norse', 'nordique', 'nordischer', 'norrena', 'nórdica'],
+  slavic: ['eslavo', 'Slavic', 'slave', 'slawischer', 'slava', 'eslava'],
+  arabic: ['árabe', 'Arabic', 'arabe', 'arabischer', 'araba', 'árabe'],
+  persian: ['persa', 'Persian', 'persane', 'persischer', 'persiana', 'persa'],
+  turkish: ['turco', 'Turkish', 'turque', 'türkischer', 'turca', 'turca'],
+  sanskrit: ['sánscrito', 'Sanskrit', 'sanskrite', 'indischer', 'sanscrita', 'sânscrita'],
+  japanese: ['japonés', 'Japanese', 'japonaise', 'japanischer', 'giapponese', 'japonesa'],
+  chinese: ['chino', 'Chinese', 'chinoise', 'chinesischer', 'cinese', 'chinesa'],
+  korean: ['coreano', 'Korean', 'coréenne', 'koreanischer', 'coreana', 'coreana'],
+  african: ['africano', 'African', 'africaine', 'afrikanischer', 'africana', 'africana'],
+  polynesian: ['polinesio', 'Polynesian', 'polynésienne', 'polynesischer', 'polinesiana', 'polinésia'],
+  basque: ['vasco', 'Basque', 'basque', 'baskischer', 'basca', 'basca'],
+  native: ['indígena americano', 'Native American', 'amérindienne', 'indigen-amerikanischer', 'nativa americana', 'indígena americana'],
+  other: ['incierto', 'uncertain', 'incertaine', 'ungeklärter', 'incerta', 'incerta'],
+}
+
+const GENDER_ADJ: Record<Gender, Six> = {
+  f: ['femenino', 'girl’s', 'féminin', 'weiblicher', 'femminile', 'feminino'],
+  m: ['masculino', 'boy’s', 'masculin', 'männlicher', 'maschile', 'masculino'],
+  u: ['unisex', 'unisex', 'mixte', 'geschlechtsneutraler', 'unisex', 'unissex'],
+}
+const AND: Six = ['y', 'and', 'et', 'und', 'e', 'e']
+
+export const cultureLabel = (c: Culture, l: Locale) => at(CULTURE_LABEL[c], l)
+export const tagLabel = (t: Tag, l: Locale) => at(TAG_LABEL[t], l)
+export const rootAdj = (r: Root, l: Locale) => at(ROOT_ADJ[r], l)
+export const genderAdj = (g: Gender, l: Locale) => at(GENDER_ADJ[g], l)
+
+function culturePlural(c: Culture, l: Locale): string {
+  if (l === 'en') return cultureLabel(c, l)
+  if (l === 'de') return cultureLabel(c, l).toLowerCase() + 'e'
+  return CULTURE_PLURAL[c][['es', 'fr', 'it', 'pt'].indexOf(l)]
+}
+
+/** "vascos y españoles" / "Basque and Spanish" / "baskischen und spanischen" (German dative plural). */
+export function cultureListPhrase(cs: Culture[], l: Locale): string {
+  const words = cs.filter(c => c !== 'intl').slice(0, 3).map(c => (l === 'de' ? culturePlural(c, l) + 'n' : culturePlural(c, l)))
+  if (words.length <= 1) return words[0] || ''
+  return `${words.slice(0, -1).join(', ')} ${at(AND, l)} ${words[words.length - 1]}`
+}
+
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1)
+
+/** The human title of a list in one language, e.g. "Nombres vascos de niña", "Basque girl names". */
+export function listTitle(key: ListKey, l: Locale, d: Dict): string {
+  const { kind, value, gender } = parseListKey(key)
+  const T = d.listTitle
+  const gWord = gender === 'f' ? T.girl : gender === 'm' ? T.boy : gender === 'u' ? T.unisex : ''
+
+  let mod = '' // "a:…" adjective or "p:…" phrase
+  if (kind === 'c') mod = 'a:' + culturePlural(value as Culture, l)
+  else if (kind === 't') mod = at(TAG_MOD[value as Tag], l)
+  else if (kind === 'l') mod = 'p:' + T.letter.replace('{letter}', value.toUpperCase())
+  else if (kind === 'len') mod = 'a:' + (value === 'short' ? T.short : T.long)
+  else if (kind === 'syl') mod = (l === 'en' || l === 'de' ? 'a:' : 'p:') + (value === '1' ? T.syl1 : T.syl2)
+  else if (kind === 'pop') mod = 'a:' + (value === 'top' ? T.top : T.rare)
+  const isAdj = mod.startsWith('a:')
+  const m = mod.slice(2)
+
+  if (l === 'en' || l === 'de') {
+    // Modifier + compound noun: "Basque girl names", "Baskische Mädchennamen"; phrases trail: "Girl names that mean light".
+    const noun = gWord || (l === 'en' ? cap(T.names) : T.names)
+    if (!m) return noun
+    return isAdj ? `${cap(m)} ${l === 'en' ? noun.toLowerCase() : noun}` : `${noun} ${m}`
+  }
+  // Romance order: "Nombres vascos de niña" / "Nombres de niña que empiezan por A".
+  const parts = [T.names]
+  if (m && isAdj) parts.push(m)
+  if (gWord) parts.push(gWord)
+  if (m && !isAdj) parts.push(m)
+  return parts.join(' ')
+}
+
+export function listSlug(key: ListKey, l: Locale, d: Dict): string {
+  return slugify(listTitle(key, l, d))
+}
+
+/** Labels the client app needs, as plain data. */
+export function clientLabels(l: Locale) {
+  const cultures = Object.fromEntries(Object.keys(CULTURE_LABEL).map(c => [c, cultureLabel(c as Culture, l)]))
+  const tags = Object.fromEntries(Object.keys(TAG_LABEL).map(t => [t, tagLabel(t as Tag, l)]))
+  return { cultures, tags } as { cultures: Record<Culture, string>; tags: Record<Tag, string> }
+}

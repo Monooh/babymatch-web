@@ -1,0 +1,40 @@
+Maude|f|germanic|french,english|2|vintage|Fuerza en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Myriam|f|hebrew|french|3|biblical|Amada, rebelde|Beloved, wished-for child|Enfant désirée|Ersehntes Kind|Bambina desiderata|Filha desejada
+Thérèse|f|greek|french|3|saint,vintage|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Marcellin|m|latin|french|2|vintage,saint|Pequeño guerrero|Little warrior|Petit guerrier|Kleiner Krieger|Piccolo guerriero|Pequeno guerreiro
+Mathurin|m|latin|french|1|vintage,saint|Maduro|Ripe, mature|Mûr|Reif|Maturo|Maduro
+Maurin|m|latin|french|1|vintage|Moreno|Dark-skinned|Au teint foncé|Dunkelhäutig|Scuro di carnagione|De pele escura
+Mayeul|m|germanic|french|1|vintage,saint|Poderoso|Mighty|Puissant|Mächtig|Potente|Poderoso
+Médard|m|germanic|french|1|vintage,saint|Fuerza poderosa|Mighty strength|Force puissante|Mächtige Stärke|Forza potente|Força poderosa
+Mickaël|m|hebrew|french|3|biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Modeste|m|latin|french|1|vintage,virtue|Modesto|Modest|Modeste|Bescheiden|Modesto|Modesto
+Nestor|m|greek|french|2|vintage,literary|El que regresa|He who returns|Celui qui revient|Der Heimkehrer|Colui che ritorna|Aquele que regressa
+Nicéphore|m|greek|french|1|vintage|Portador de victoria|Bearer of victory|Porteur de victoire|Siegbringer|Portatore di vittoria|Portador de vitória
+Odon|m|germanic|french|1|vintage,saint|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Onésime|m|greek|french|1|vintage,biblical|Útil|Useful|Utile|Nützlich|Utile|Útil
+Orlando|m|germanic|french|2|classic|Famoso en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nella terra|Famoso na terra
+Pancrace|m|greek|french|1|vintage,saint|Que lo domina todo|All-powerful|Qui domine tout|Allmächtig|Che tutto domina|Que tudo domina
+Parfait|m|latin|french,african|1|vintage,virtue|Perfecto|Perfect|Parfait|Vollkommen|Perfetto|Perfeito
+Pierrick|m|greek|french|2|vintage|Roca|Rock|Roc|Fels|Roccia|Rocha
+Quirin|m|latin|french|1|vintage,saint|Lancero|Spearman|Lancier|Lanzenträger|Lanciere|Lanceiro
+Rainier|m|germanic|french|1|vintage,royal|Consejo del ejército|Counsel of the army|Conseil de l'armée|Rat des Heeres|Consiglio dell'esercito|Conselho do exército
+Ramon|m|germanic|french|1|vintage|Protector sabio|Wise protector|Protecteur sage|Weiser Beschützer|Protettore saggio|Protetor sábio
+Rolland|m|germanic|french|1|vintage|Famoso en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famoso nella terra|Famoso na terra
+Sauveur|m|latin|french|1|vintage|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Savinien|m|latin|french|1|vintage,saint|Sabino|Of the Sabines|Des Sabins|Der Sabiner|Dei Sabini|Dos Sabinos
+Serge|m|latin|french|2|classic|Servidor|Servant|Serviteur|Diener|Servitore|Servidor
+Sidoine|m|greek|french|1|vintage,saint|De Sidón|From Sidon|De Sidon|Aus Sidon|Di Sidone|De Sídon
+Sigismond|m|germanic|french|1|vintage|Protección victoriosa|Victory protection|Protection victorieuse|Siegesschutz|Protezione vittoriosa|Proteção vitoriosa
+Sixte|m|latin|french|1|vintage,saint|Sexto|Sixth|Sixième|Der Sechste|Sesto|Sexto
+Sylvère|m|latin|french|1|vintage,saint|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Tanguy|m|celtic|french|2|vintage,warrior|Perro de fuego|Fire dog|Chien de feu|Feuerhund|Cane di fuoco|Cão de fogo
+Tancrède|m|germanic|french|1|vintage,warrior|Pensamiento y consejo|Thought and counsel|Pensée et conseil|Gedanke und Rat|Pensiero e consiglio|Pensamento e conselho
+Thaddée|m|hebrew|french|1|vintage,biblical|Valiente|Courageous|Courageux|Mutig|Coraggioso|Corajoso
+Tibère|m|latin|french|1|vintage|Del Tíber|Of the Tiber|Du Tibre|Vom Tiber|Del Tevere|Do Tibre
+Tiburce|m|latin|french|1|vintage,saint|De Tibur|From Tibur|De Tibur|Aus Tibur|Di Tibur|De Tibur
+Titouan|m|latin|french|2|modern|Pequeño Antonio|Little Anthony|Petit Antoine|Kleiner Anton|Piccolo Antonio|Pequeno António
+Valery|m|latin|french|1|vintage|Fuerte, sano|Strong, healthy|Fort, vigoureux|Stark, gesund|Forte, sano|Forte, saudável
+Venance|m|latin|french|1|vintage,saint|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Wilfried|m|germanic|french,german|2|strong|Deseo de paz|Desire for peace|Désir de paix|Wunsch nach Frieden|Desiderio di pace|Desejo de paz
+Yvon|m|germanic|french|2|vintage|Tejo|Yew|If|Eibe|Tasso|Teixo
+Zéphirin|m|greek|french|1|vintage,saint|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento d'occidente|Vento do oeste

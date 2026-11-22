@@ -1,0 +1,59 @@
+Ekaterina|f|greek|russian|4|saint,royal,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Elena|f|greek|russian,greek|4|classic,light|Antorcha, luz brillante|Torch, shining light|Torche, lumière brillante|Fackel, strahlendes Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Eliška|f|hebrew|polish|4|biblical,classic|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Elizaveta|f|hebrew|russian|3|biblical,royal,classic|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Emilia|f|latin|polish,russian|4|classic,sweet|Rival, emuladora|Rival, eager|Rivale, émule|Rivalin, Nacheifernde|Rivale, emula|Rival, emuladora
+Evgenia|f|greek|russian|3|royal,classic|Bien nacida, noble|Well-born, noble|Bien née, noble|Wohlgeboren, edel|Ben nata, nobile|Bem-nascida, nobre
+Evgeny|m|greek|russian|3|royal,classic|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Ewa|f|hebrew|polish|4|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Fedor|m|greek|russian|2|vintage,virtue|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Feliks|m|latin|polish|3|vintage,virtue|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich|Felice, fortunato|Feliz, afortunado
+Filip|m|greek|polish|5|saint,animal,classic|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante dos cavalos
+Franciszek|m|germanic|polish|4|saint,classic|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Fryderyk|m|germanic|polish|2|royal,classic|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Gabriela|f|hebrew|polish|4|biblical,saint,classic|Dios es mi fortaleza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gorazd|m|slavic|russian|1|vintage,strong|Hábil, diestro|Skilled, capable|Habile, compétent|Geschickt, fähig|Abile, capace|Hábil, capaz
+Goran|m|slavic|russian|3|nature,strong|Habitante de la montaña|Mountain dweller|Montagnard|Bergbewohner|Montanaro|Montanhês
+Gordana|f|slavic|russian|3|strong,classic|Orgullosa|Proud|Fière|Stolz|Orgogliosa|Orgulhosa
+Grzegorz|m|greek|polish|4|saint,classic|Vigilante|Watchful, alert|Vigilant|Wachsam|Vigile|Vigilante
+Halina|f|greek|polish|3|vintage,sweet|Serena, tranquila|Calm, serene|Calme, sereine|Ruhig, gelassen|Calma, serena|Calma, serena
+Hanna|f|hebrew|polish,german,scandinavian|5|biblical,classic,sweet|Gracia, favor|Grace, favour|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Helena|f|greek|polish,german,scandinavian|4|classic,light|Antorcha, luz brillante|Torch, shining light|Torche, lumière brillante|Fackel, strahlendes Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Hubert|m|germanic|polish|3|classic,strong|Mente brillante|Bright mind|Esprit brillant|Strahlender Geist|Mente brillante|Mente brilhante
+Igor|m|norse|russian,polish|4|warrior,strong|Guerrero de Ing|Ing's warrior|Guerrier d'Ing|Krieger des Ing|Guerriero di Ing|Guerreiro de Ing
+Ilya|m|hebrew|russian|4|biblical,saint,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Irina|f|greek|russian|4|saint,virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Iskra|f|slavic|russian|2|light,modern|Chispa|Spark|Étincelle|Funke|Scintilla|Faísca
+Ivan|m|hebrew|russian|5|biblical,saint,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ivana|f|hebrew|russian|4|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jadwiga|f|germanic|polish|2|royal,vintage|Batalla, contienda|Battle, strife|Bataille, lutte|Kampf, Streit|Battaglia, contesa|Batalha, contenda
+Jagoda|f|slavic|polish|3|nature,sweet,modern|Baya, fresa silvestre|Berry|Baie|Beere|Bacca|Baga
+Jakub|m|hebrew|polish|5|biblical,classic|El que sigue de cerca, suplantador|Supplanter, holder of the heel|Celui qui supplante|Der Fersenhalter|Colui che segue da vicino|Aquele que segue de perto
+Jan|m|hebrew|polish,german,dutch,scandinavian|5|biblical,saint,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Janusz|m|hebrew|polish|3|vintage,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jarosław|m|slavic|polish|2|vintage,warrior|Gloria vigorosa|Fierce glory|Gloire ardente|Feuriger Ruhm|Gloria ardente|Glória vigorosa
+Jaroslav|m|slavic|polish,russian|3|warrior,classic|Gloria vigorosa|Fierce glory|Gloire ardente|Feuriger Ruhm|Gloria ardente|Glória vigorosa
+Jasna|f|slavic|russian|3|light,sweet|Clara, luminosa|Clear, bright|Claire, lumineuse|Klar, hell|Chiara, luminosa|Clara, luminosa
+Julia|f|latin|polish,german,english,intl|5|classic,sweet|Joven, de la familia Julia|Youthful, of the Julii|Jeune, de la gens Julia|Jugendlich, aus der Familie Julia|Giovane, della gens Giulia|Jovem, da família Júlia
+Justyna|f|latin|polish|3|virtue,saint|Justa|Just, righteous|Juste|Gerecht|Giusta|Justa
+Kalina|f|slavic|polish,russian|3|flower,nature|Viburno, mundillo|Guelder rose|Viorne obier|Gemeiner Schneeball|Pallon di maggio|Viburno
+Karolina|f|germanic|polish|4|classic,sweet|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Klara|f|latin|polish,german|3|saint,light,classic|Clara, brillante|Clear, bright|Claire, brillante|Klar, strahlend|Chiara, luminosa|Clara, brilhante
+Krasimir|m|slavic|russian|2|royal,vintage|Paz hermosa|Beautiful peace|Belle paix|Schöner Friede|Bella pace|Bela paz
+Krasimira|f|slavic|russian|2|royal,vintage|Paz hermosa|Beautiful peace|Belle paix|Schöner Friede|Bella pace|Bela paz
+Kremena|f|slavic|russian|2|nature,gem|Pedernal|Flint|Silex|Feuerstein|Selce|Sílex
+Kristýna|f|greek|polish|4|saint,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Krzysztof|m|greek|polish|3|saint,classic|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Ksenia|f|greek|russian,polish|3|classic,virtue|Hospitalidad|Hospitality|Hospitalité|Gastfreundschaft|Ospitalità|Hospitalidade
+Ladislav|m|slavic|polish,russian|2|royal,vintage|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Sovrano glorioso|Governante glorioso
+Lazar|m|hebrew|russian|2|biblical,saint|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Lev|m|greek|russian|3|animal,strong,classic|León|Lion|Lion|Löwe|Leone|Leão
+Lilyana|f|slavic|russian|2|flower,nature|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Ljiljana|f|slavic|russian|3|flower,nature|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Ljubica|f|slavic|russian|3|love,sweet,flower|Amada, violeta|Beloved, violet|Bien-aimée, violette|Geliebte, Veilchen|Amata, violetta|Amada, violeta
+Ljubomir|m|slavic|russian|2|love,vintage|Amante de la paz|Lover of peace|Amant de la paix|Friedensliebender|Amante della pace|Amante da paz
+Luka|m|greek|russian|4|biblical,saint,modern|Hombre de Lucania|Man from Lucania|Homme de Lucanie|Mann aus Lukanien|Uomo della Lucania|Homem da Lucânia
+Łukasz|m|greek|polish|4|biblical,saint,classic|Hombre de Lucania|Man from Lucania|Homme de Lucanie|Mann aus Lukanien|Uomo della Lucania|Homem da Lucânia
+Lyubov|f|slavic|russian|2|love,virtue|Amor|Love|Amour|Liebe|Amore|Amor
+Lyudmila|f|slavic|russian|3|classic,love|Querida por el pueblo|Dear to the people|Chère au peuple|Dem Volk lieb|Cara al popolo|Querida do povo
+Lucyna|f|latin|polish|2|light,vintage|Luz|Light|Lumière|Licht|Luce|Luz

@@ -1,0 +1,80 @@
+Advika|f|sanskrit|indian|4|modern,sweet|Única, singular|Unique, one of a kind|Unique, singulière|Einzigartig|Unica, singolare|Única, singular
+Amruta|f|sanskrit|indian|3|sweet,virtue|Néctar de inmortalidad|Nectar of immortality|Nectar d'immortalité|Nektar der Unsterblichkeit|Nettare dell'immortalità|Néctar da imortalidade
+Archana|f|sanskrit|indian|3|virtue,classic|Adoración, culto|Worship, devotion|Culte, dévotion|Verehrung|Adorazione, culto|Adoração, culto
+Arpita|f|sanskrit|indian|2|virtue,classic|Ofrecida, dedicada|Offered, dedicated|Offerte, dédiée|Dargebracht, gewidmet|Offerta, dedicata|Oferecida, dedicada
+Asha|f|sanskrit|indian|4|virtue,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Bhavana|f|sanskrit|indian|2|virtue,sweet|Sentimiento, emoción|Feeling, emotion|Sentiment, émotion|Gefühl|Sentimento, emozione|Sentimento, emoção
+Chandni|f|sanskrit|indian|3|celestial,light|Luz de luna|Moonlight|Clair de lune|Mondlicht|Chiaro di luna|Luar
+Chhaya|f|sanskrit|indian|2|mythology,nature|Sombra|Shade, shadow|Ombre|Schatten|Ombra|Sombra
+Deepa|f|sanskrit|indian|3|light,classic|Lámpara|Lamp|Lampe|Lampe|Lampada|Lâmpada
+Devika|f|sanskrit|indian|4|mythology,sweet|Pequeña diosa|Little goddess|Petite déesse|Kleine Göttin|Piccola dea|Pequena deusa
+Dhara|f|sanskrit|indian|3|nature,classic|Tierra, corriente|Earth, stream|Terre, courant|Erde, Strom|Terra, corrente|Terra, corrente
+Disha|f|sanskrit|indian|3|modern,virtue|Dirección|Direction|Direction|Richtung|Direzione|Direção
+Durga|f|sanskrit|indian|3|mythology,strong|Invencible, inaccesible|Invincible, inaccessible|Invincible, inaccessible|Unbesiegbar, unzugänglich|Invincibile, inaccessibile|Invencível, inacessível
+Ekta|f|sanskrit|indian|3|virtue,classic|Unidad|Unity|Unité|Einheit|Unità|Unidade
+Garima|f|sanskrit|indian|2|virtue,classic|Dignidad, grandeza|Dignity, greatness|Dignité, grandeur|Würde, Größe|Dignità, grandezza|Dignidade, grandeza
+Gitanjali|f|sanskrit|indian|3|music,literary|Ofrenda de canciones|Offering of songs|Offrande de chants|Gabe der Lieder|Offerta di canti|Oferenda de canções
+Gunjan|f|sanskrit|indian|2|music,nature|Zumbido de abejas|Hum of bees|Bourdonnement d'abeilles|Bienensummen|Ronzio di api|Zumbido de abelhas
+Harini|f|sanskrit|indian|3|animal,sweet|Cierva|Doe, deer|Biche|Hirschkuh|Cerva|Corça
+Harshita|f|sanskrit|indian|3|sweet,virtue|Alegre, feliz|Joyful, happy|Joyeuse, heureuse|Fröhlich, glücklich|Gioiosa, felice|Alegre, feliz
+Heena|f|sanskrit|indian|3|flower,nature|Alheña|Henna|Henné|Henna|Henné|Hena
+Indira|f|sanskrit|indian|3|mythology,classic|Belleza, esplendor|Beauty, splendor|Beauté, splendeur|Schönheit, Glanz|Bellezza, splendore|Beleza, esplendor
+Jahnavi|f|sanskrit|indian|3|mythology,nature|El río Ganges|The river Ganges|Le fleuve Gange|Der Fluss Ganges|Il fiume Gange|O rio Ganges
+Janaki|f|sanskrit|indian|3|mythology,classic|Hija de Janaka|Daughter of Janaka|Fille de Janaka|Tochter des Janaka|Figlia di Janaka|Filha de Janaka
+Juhi|f|sanskrit|indian|3|flower,sweet|Jazmín|Jasmine flower|Fleur de jasmin|Jasminblüte|Fiore di gelsomino|Flor de jasmim
+Kajal|f|sanskrit|indian|3|sweet,modern|Kohl, delineador de ojos|Kohl, eyeliner|Khôl|Kajal, Augenschwarz|Kajal, matita per occhi|Kajal, lápis de olhos
+Kalpana|f|sanskrit|indian|3|virtue,classic|Imaginación|Imagination|Imagination|Fantasie|Immaginazione|Imaginação
+Kalyani|f|sanskrit|indian|3|virtue,classic|Auspiciosa, bella|Auspicious, beautiful|Propice, belle|Glückverheißend, schön|Auspiciosa, bella|Auspiciosa, bela
+Kanchan|f|sanskrit|indian|3|gem,classic|Oro|Gold|Or|Gold|Oro|Ouro
+Karishma|f|persian|indian|3|modern,sweet|Milagro|Miracle|Miracle|Wunder|Miracolo|Milagre
+Kavita|f|sanskrit|indian|3|literary,classic|Poema, poesía|Poem, poetry|Poème, poésie|Gedicht, Poesie|Poesia|Poema, poesia
+Kirti|f|sanskrit|indian|3|virtue,classic|Fama, gloria|Fame, glory|Renommée, gloire|Ruhm|Fama, gloria|Fama, glória
+Komal|f|sanskrit|indian|3|sweet,classic|Suave, tierna|Soft, tender|Douce, tendre|Zart, sanft|Tenera, morbida|Suave, terna
+Lavanya|f|sanskrit|indian|3|sweet,classic|Gracia, belleza|Grace, beauty|Grâce, beauté|Anmut, Schönheit|Grazia, bellezza|Graça, beleza
+Madhu|u|sanskrit|indian|3|sweet,nature|Miel|Honey|Miel|Honig|Miele|Mel
+Madhuri|f|sanskrit|indian|3|sweet,classic|Dulzura|Sweetness|Douceur|Süße|Dolcezza|Doçura
+Mala|f|sanskrit|indian|3|flower,classic|Guirnalda|Garland|Guirlande|Girlande|Ghirlanda|Guirlanda
+Malati|f|sanskrit|indian|2|flower,classic|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Manisha|f|sanskrit|indian|3|virtue,classic|Sabiduría, intelecto|Wisdom, intellect|Sagesse, intellect|Weisheit, Verstand|Saggezza, intelletto|Sabedoria, intelecto
+Megha|u|sanskrit|indian|3|nature,classic|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Meenakshi|f|sanskrit|indian|3|mythology,classic|La de ojos como peces|Fish-eyed one|Celle aux yeux de poisson|Die Fischäugige|Colei dagli occhi di pesce|Aquela de olhos de peixe
+Mitali|f|sanskrit|indian|3|virtue,sweet|Amistad|Friendship|Amitié|Freundschaft|Amicizia|Amizade
+Mridula|f|sanskrit|indian|2|sweet,classic|Suave, gentil|Soft, gentle|Douce, gentille|Sanft, zart|Morbida, gentile|Suave, gentil
+Nalini|f|sanskrit|indian|3|flower,classic|Loto|Lotus|Lotus|Lotos|Loto|Lótus
+Namrata|f|sanskrit|indian|2|virtue,classic|Humildad|Humility|Humilité|Demut|Umiltà|Humildade
+Nandita|f|sanskrit|indian|3|sweet,virtue|Encantada, feliz|Delighted, happy|Ravie, heureuse|Entzückt, glücklich|Deliziata, felice|Encantada, feliz
+Neelam|f|sanskrit|indian|3|gem,classic|Zafiro|Sapphire|Saphir|Saphir|Zaffiro|Safira
+Nirmala|f|sanskrit|indian|3|virtue,classic|Pura, sin mancha|Pure, spotless|Pure, sans tache|Rein, makellos|Pura, immacolata|Pura, imaculada
+Nupur|f|sanskrit|indian|2|sweet,music|Ajorca, tobillera|Anklet|Bracelet de cheville|Fußkettchen|Cavigliera|Tornozeleira
+Poonam|f|sanskrit|indian|3|celestial,classic|Luna llena|Full moon|Pleine lune|Vollmond|Luna piena|Lua cheia
+Prachi|f|sanskrit|indian|3|light,classic|Este, oriente|East|Est, orient|Osten|Est, oriente|Leste, oriente
+Pragya|f|sanskrit|indian|2|virtue,classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Preeti|f|sanskrit|indian|3|love,classic|Amor, cariño|Love, affection|Amour, affection|Liebe, Zuneigung|Amore, affetto|Amor, carinho
+Purnima|f|sanskrit|indian|3|celestial,classic|Noche de luna llena|Full moon night|Nuit de pleine lune|Vollmondnacht|Notte di luna piena|Noite de lua cheia
+Rajani|f|sanskrit|indian|3|celestial,classic|Noche|Night|Nuit|Nacht|Notte|Noite
+Rashmi|f|sanskrit|indian|3|light,classic|Rayo de luz|Ray of light|Rayon de lumière|Lichtstrahl|Raggio di luce|Raio de luz
+Reshma|f|persian|indian|3|sweet,classic|Seda|Silk|Soie|Seide|Seta|Seda
+Ritu|f|sanskrit|indian|3|nature,classic|Estación del año|Season|Saison|Jahreszeit|Stagione|Estação do ano
+Rupa|f|sanskrit|indian|2|sweet,classic|Belleza, forma|Beauty, form|Beauté, forme|Schönheit, Gestalt|Bellezza, forma|Beleza, forma
+Sadhana|f|sanskrit|indian|2|virtue,classic|Práctica devota, logro|Devoted practice, accomplishment|Pratique dévote, accomplissement|Hingebungsvolle Übung|Pratica devota, realizzazione|Prática devota, realização
+Sakshi|f|sanskrit|indian|3|virtue,modern|Testigo|Witness|Témoin|Zeugin|Testimone|Testemunha
+Sangeeta|f|sanskrit|indian|3|music,classic|Música|Music|Musique|Musik|Musica|Música
+Saraswati|f|sanskrit|indian|3|mythology,classic|Diosa del saber y la música|Goddess of knowledge and music|Déesse du savoir et de la musique|Göttin des Wissens und der Musik|Dea della conoscenza e della musica|Deusa do saber e da música
+Sarita|f|sanskrit|indian|3|nature,classic|Arroyo, río|Stream, river|Ruisseau, rivière|Bach, Fluss|Ruscello, fiume|Riacho, rio
+Shakti|f|sanskrit|indian|3|mythology,strong|Poder, energía|Power, energy|Pouvoir, énergie|Kraft, Energie|Potere, energia|Poder, energia
+Shobha|f|sanskrit|indian|2|light,classic|Esplendor, belleza|Splendor, beauty|Splendeur, beauté|Pracht, Schönheit|Splendore, bellezza|Esplendor, beleza
+Shruti|f|sanskrit|indian|3|music,classic|Lo escuchado, escritura sagrada|That which is heard, sacred text|Ce qui est entendu, texte sacré|Das Gehörte, heiliger Text|Ciò che è udito, testo sacro|O que é ouvido, texto sagrado
+Shweta|f|sanskrit|indian|3|classic,nature|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura
+Simran|u|sanskrit|indian|4|virtue,modern|Recuerdo devoto, meditación|Remembrance, meditation|Remémoration, méditation|Andenken, Meditation|Ricordo devoto, meditazione|Lembrança devota, meditação
+Smita|f|sanskrit|indian|3|sweet,classic|Sonriente|Smiling|Souriante|Lächelnd|Sorridente|Sorridente
+Sudha|f|sanskrit|indian|3|sweet,classic|Néctar|Nectar|Nectar|Nektar|Nettare|Néctar
+Sujata|f|sanskrit|indian|2|virtue,classic|Bien nacida, noble|Well-born, noble|Bien née, noble|Wohlgeboren, edel|Ben nata, nobile|Bem-nascida, nobre
+Sulochana|f|sanskrit|indian|2|sweet,classic|De bellos ojos|Beautiful-eyed|Aux beaux yeux|Schönäugig|Dagli occhi belli|De belos olhos
+Sumitra|f|sanskrit|indian|2|virtue,classic|Buena amiga|Good friend|Bonne amie|Gute Freundin|Buona amica|Boa amiga
+Supriya|f|sanskrit|indian|3|love,classic|Muy querida|Dearly beloved|Très chérie|Sehr geliebt|Molto amata|Muito querida
+Swara|f|sanskrit|indian|3|music,modern|Nota musical|Musical note|Note de musique|Ton, Note|Nota musicale|Nota musical
+Tulsi|f|sanskrit|indian|3|flower,nature|Albahaca sagrada|Holy basil|Basilic sacré|Heiliges Basilikum|Basilico sacro|Manjericão sagrado
+Vandana|f|sanskrit|indian|3|virtue,classic|Veneración, saludo reverente|Worship, reverent salutation|Vénération, salut révérencieux|Verehrung|Venerazione|Veneração
+Vasudha|f|sanskrit|indian|2|nature,classic|Tierra|Earth|Terre|Erde|Terra|Terra
+Vimala|f|sanskrit|indian|2|virtue,classic|Pura, limpia|Pure, clean|Pure, propre|Rein, sauber|Pura, pulita|Pura, limpa
+Yashoda|f|sanskrit|indian|3|mythology,classic|La que otorga gloria|Bestower of glory|Celle qui accorde la gloire|Ruhmverleiherin|Colei che dona gloria|Aquela que concede glória

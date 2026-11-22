@@ -1,0 +1,91 @@
+Lani|u|polynesian|hawaiian|2|celestial,sweet|Cielo|Heaven, sky|Ciel|Himmel|Cielo|Céu
+Leilani|f|polynesian|hawaiian|4|flower,celestial|Flor celestial|Heavenly flower|Fleur céleste|Himmlische Blume|Fiore celeste|Flor celestial
+Lehua|f|polynesian|hawaiian|2|flower,nature|Flor del ohia|Ohia blossom|Fleur d'ohia|Ohia-Blüte|Fiore di ohia|Flor de ohia
+Lokelani|f|polynesian|hawaiian|2|flower,sweet|Rosa celestial|Heavenly rose|Rose céleste|Himmlische Rose|Rosa celeste|Rosa celestial
+Mahina|f|polynesian|hawaiian|2|celestial,sweet|Luna|Moon|Lune|Mond|Luna|Lua
+Makana|u|polynesian|hawaiian|2|virtue,sweet|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Makoa|m|polynesian|hawaiian|1|warrior,strong|Intrépido, valiente|Fearless, brave|Intrépide, brave|Furchtlos, tapfer|Intrepido, coraggioso|Destemido, valente
+Maile|f|polynesian|hawaiian|2|nature,sweet|Enredadera fragante|Fragrant vine|Liane parfumée|Duftende Rebe|Rampicante profumato|Trepadeira perfumada
+Malia|f|polynesian|hawaiian|3|classic,sweet|Forma hawaiana de María|Hawaiian form of Mary|Forme hawaïenne de Marie|Hawaiische Form von Maria|Forma hawaiana di Maria|Forma havaiana de Maria
+Malie|f|polynesian|hawaiian|1|virtue,sweet|Calma, serena|Calm, serene|Calme, sereine|Ruhig, gelassen|Calma, serena|Calma, serena
+Mele|f|polynesian|hawaiian|2|music,sweet|Canción|Song|Chanson|Lied|Canzone|Canção
+Naia|f|polynesian|hawaiian|2|animal,sea|Delfín|Dolphin|Dauphin|Delfin|Delfino|Golfinho
+Nalani|f|polynesian|hawaiian|2|celestial,sweet|Los cielos en calma|The calm heavens|Les cieux paisibles|Die ruhigen Himmel|I cieli sereni|Os céus serenos
+Nalu|u|polynesian|hawaiian|2|sea,nature|Ola|Wave|Vague|Welle|Onda|Onda
+Nani|f|polynesian|hawaiian|2|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Noelani|f|polynesian|hawaiian|2|celestial,sweet|Bruma del cielo|Mist of heaven|Brume du ciel|Himmelsnebel|Foschia del cielo|Névoa do céu
+Pua|f|polynesian|hawaiian|2|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Puanani|f|polynesian|hawaiian|1|flower,sweet|Flor hermosa|Beautiful flower|Belle fleur|Schöne Blume|Bel fiore|Bela flor
+Anahera|f|polynesian|hawaiian|2|sweet,biblical|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Ariki|m|polynesian|hawaiian|1|royal,strong|Jefe supremo|Paramount chief|Chef suprême|Oberhäuptling|Capo supremo|Chefe supremo
+Aroha|f|polynesian|hawaiian|3|love,virtue|Amor, compasión|Love, compassion|Amour, compassion|Liebe, Mitgefühl|Amore, compassione|Amor, compaixão
+Ataahua|f|polynesian|hawaiian|1|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Awhina|f|polynesian|hawaiian|1|virtue,sweet|Ayuda, apoyo|Help, assistance|Aide, soutien|Hilfe, Unterstützung|Aiuto, sostegno|Ajuda, apoio
+Hemi|m|polynesian|hawaiian|2|classic,biblical|Forma maorí de Jaime|Maori form of James|Forme maorie de Jacques|Maorische Form von Jakob|Forma maori di Giacomo|Forma maori de Tiago
+Hine|f|polynesian|hawaiian|2|classic,sweet|Muchacha, doncella|Girl, maiden|Jeune fille, demoiselle|Mädchen, Jungfrau|Ragazza, fanciulla|Rapariga, donzela
+Kahurangi|f|polynesian|hawaiian|1|celestial,gem|Cielo azul, tesoro preciado|Blue sky, treasured one|Ciel bleu, trésor précieux|Blauer Himmel, Schatz|Cielo azzurro, tesoro prezioso|Céu azul, tesouro precioso
+Maia|f|polynesian|hawaiian|2|strong,modern|Valiente|Brave|Brave|Tapfer|Coraggiosa|Corajosa
+Manaia|m|polynesian|hawaiian|2|mythology,strong|Guardián, figura protectora|Guardian, protective figure|Gardien, figure protectrice|Wächter, Schutzfigur|Guardiano, figura protettiva|Guardião, figura protetora
+Manu|u|polynesian|hawaiian|2|animal,nature|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Marama|f|polynesian|hawaiian|2|celestial,light|Luna, luz|Moon, light|Lune, lumière|Mond, Licht|Luna, luce|Lua, luz
+Mere|f|polynesian|hawaiian|2|classic,biblical|Forma maorí de María|Maori form of Mary|Forme maorie de Marie|Maorische Form von Maria|Forma maori di Maria|Forma maori de Maria
+Moana|u|polynesian|hawaiian|4|sea,nature|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Ngaio|f|polynesian|hawaiian|1|nature,literary|Árbol ngaio|Ngaio tree|Arbre ngaio|Ngaio-Baum|Albero ngaio|Árvore ngaio
+Rangi|m|polynesian|hawaiian|2|celestial,mythology|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Rangimarie|f|polynesian|hawaiian|1|virtue,sweet|Paz|Peace|Paix|Frieden|Pace|Paz
+Rawiri|m|polynesian|hawaiian|2|biblical,classic|Forma maorí de David|Maori form of David|Forme maorie de David|Maorische Form von David|Forma maori di Davide|Forma maori de David
+Sione|m|polynesian|hawaiian|3|biblical,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Tama|m|polynesian|hawaiian|2|classic,strong|Hijo, niño|Son, child|Fils, enfant|Sohn, Kind|Figlio, bambino|Filho, criança
+Tamati|m|polynesian|hawaiian|2|biblical,classic|Gemelo, forma maorí de Tomás|Twin, Maori form of Thomas|Jumeau, forme maorie de Thomas|Zwilling, maorische Form von Thomas|Gemello, forma maori di Tommaso|Gémeo, forma maori de Tomé
+Tane|m|polynesian|hawaiian|2|mythology,nature|Hombre, dios del bosque|Man, god of forests|Homme, dieu des forêts|Mann, Gott der Wälder|Uomo, dio delle foreste|Homem, deus das florestas
+Tiare|f|polynesian|hawaiian|2|flower,sweet|Flor de gardenia|Gardenia flower|Fleur de gardénia|Gardenienblüte|Fiore di gardenia|Flor de gardénia
+Tui|u|polynesian|hawaiian|2|animal,music|Ave canora tui|Tui songbird|Oiseau chanteur tui|Tui-Singvogel|Uccello canoro tui|Pássaro cantor tui
+Vaiana|f|polynesian|hawaiian|2|sea,modern|Agua de cueva|Cave water|Eau de grotte|Höhlenwasser|Acqua di grotta|Água de gruta
+Wairua|u|polynesian|hawaiian|1|virtue,sweet|Espíritu|Spirit|Esprit|Geist|Spirito|Espírito
+Whetu|u|polynesian|hawaiian|2|celestial,sweet|Estrella|Star|Étoile|Stern|Stella|Estrela
+Wiremu|m|polynesian|hawaiian|3|classic,strong|Forma maorí de Guillermo|Maori form of William|Forme maorie de Guillaume|Maorische Form von Wilhelm|Forma maori di Guglielmo|Forma maori de Guilherme
+Ameyalli|f|native|spanish|2|nature,sweet|Manantial|Spring, source of water|Source, fontaine|Quelle|Sorgente|Nascente
+Cuauhtémoc|m|native|spanish|3|strong,warrior|Águila que desciende|Descending eagle|Aigle qui descend|Herabstürzender Adler|Aquila che scende|Águia que desce
+Citlali|f|native|spanish|3|celestial,sweet|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ixchel|f|native|spanish|2|mythology,celestial|Señora del arcoíris, diosa maya|Lady Rainbow, Maya goddess|Dame Arc-en-ciel, déesse maya|Dame Regenbogen, Maya-Göttin|Signora Arcobaleno, dea maya|Senhora Arco-íris, deusa maia
+Izel|u|native|spanish|2|modern,virtue|Único, singular|Unique, one of a kind|Unique, singulier|Einzigartig|Unico, singolare|Único, singular
+Meztli|f|native|spanish|2|celestial,sweet|Luna|Moon|Lune|Mond|Luna|Lua
+Nayeli|f|native|spanish|3|love,modern|Te quiero|I love you|Je t'aime|Ich liebe dich|Ti voglio bene|Eu te amo
+Nicté|f|native|spanish|2|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Ollin|u|native|spanish|2|strong,nature|Movimiento|Movement|Mouvement|Bewegung|Movimento|Movimento
+Tonatiuh|m|native|spanish|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Xóchitl|f|native|spanish|3|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Yaretzi|f|native|spanish|3|love,modern|Siempre serás amada|You will always be loved|Tu seras toujours aimée|Du wirst immer geliebt|Sarai sempre amata|Serás sempre amada
+Ailín|f|native|spanish|2|sweet,modern|Clara, transparente|Clear, transparent|Claire, transparente|Klar, durchsichtig|Chiara, trasparente|Clara, transparente
+Ayelén|f|native|spanish|3|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Lautaro|m|native|spanish|3|strong,warrior|Traro veloz, halcón audaz|Swift hawk|Faucon rapide|Flinker Falke|Falco veloce|Falcão veloz
+Millaray|f|native|spanish|2|flower,gem|Flor de oro|Golden flower|Fleur d'or|Goldene Blume|Fiore d'oro|Flor de ouro
+Nahuel|m|native|spanish|4|animal,strong|Jaguar, puma|Jaguar|Jaguar|Jaguar|Giaguaro|Jaguar
+Rayén|f|native|spanish|2|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Amaru|m|native|spanish|2|animal,mythology|Serpiente sagrada|Sacred serpent|Serpent sacré|Heilige Schlange|Serpente sacro|Serpente sagrada
+Chaska|f|native|spanish|2|celestial,sweet|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Illari|u|native|spanish|2|light,nature|Amanecer, primera luz|Dawn, first light|Aube, première lueur|Morgendämmerung, erstes Licht|Alba, prima luce|Aurora, primeira luz
+Inti|m|native|spanish|3|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Killa|f|native|spanish|2|celestial,sweet|Luna|Moon|Lune|Mond|Luna|Lua
+Kuntur|m|native|spanish|1|animal,strong|Cóndor|Condor|Condor|Kondor|Condor|Condor
+Kusi|u|native|spanish|2|virtue,sweet|Alegre, feliz|Joyful, happy|Joyeux, heureux|Fröhlich, glücklich|Gioioso, felice|Alegre, feliz
+Sisa|f|native|spanish|2|flower,sweet|Flor, brote|Flower, blossom|Fleur, éclosion|Blume, Blüte|Fiore, germoglio|Flor, botão
+Sumaq|f|native|spanish|2|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Tupac|m|native|spanish|2|royal,strong|Resplandeciente, real|Resplendent, royal|Resplendissant, royal|Strahlend, königlich|Splendente, regale|Resplandecente, real
+Wayra|u|native|spanish|2|nature,modern|Viento|Wind|Vent|Wind|Vento|Vento
+Arandú|m|native|spanish|1|virtue,classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Guyra|u|native|spanish|1|animal,nature|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Kuarahy|m|native|spanish|1|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Yasy|f|native|spanish|2|celestial,mythology|Luna|Moon|Lune|Mond|Luna|Lua
+Iara|f|native|portuguese|2|mythology,sea|Señora de las aguas|Lady of the waters|Dame des eaux|Herrin der Gewässer|Signora delle acque|Senhora das águas
+Jaci|f|native|portuguese|2|celestial,mythology|Luna|Moon|Lune|Mond|Luna|Lua
+Potira|f|native|portuguese|1|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Tainá|f|native|portuguese|2|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ubiratã|m|native|portuguese|1|strong,nature|Árbol fuerte, madera dura|Strong tree, hardwood|Arbre fort, bois dur|Starker Baum, Hartholz|Albero forte, legno duro|Árvore forte, madeira dura
+Aiyana|f|native|english|3|flower,modern|Flor eterna|Eternal blossom|Fleur éternelle|Ewige Blüte|Fiore eterno|Flor eterna
+Dakota|u|native|english|3|strong,modern|Amigo, aliado|Friend, ally|Ami, allié|Freund, Verbündeter|Amico, alleato|Amigo, aliado
+Koda|m|native|english|2|modern,sweet|Amigo|Friend|Ami|Freund|Amico|Amigo
+Kaya|f|native|english|2|sweet,modern|Hermana mayor|Elder sister|Grande sœur|Ältere Schwester|Sorella maggiore|Irmã mais velha
+Nita|f|native|english|1|animal,vintage|Oso|Bear|Ours|Bär|Orso|Urso
+Takoda|m|native|english|2|modern,strong|Amigo de todos|Friend to everyone|Ami de tous|Freund aller|Amico di tutti|Amigo de todos
+Winona|f|native|english|2|vintage,classic|Primogénita|First-born daughter|Première-née|Erstgeborene Tochter|Primogenita|Primogénita

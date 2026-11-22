@@ -1,0 +1,61 @@
+Olympia|f|greek|greek,english|2|mythology,celestial|Del Olimpo|Of Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Ophelia|f|greek|english,greek|2|literary,virtue|Ayuda, socorro|Help, assistance|Aide, secours|Hilfe, Beistand|Aiuto, soccorso|Ajuda, socorro
+Orestis|m|greek|greek|2|mythology,nature|Hombre de la montaña|Mountain man|Homme de la montagne|Bergbewohner|Uomo della montagna|Homem da montanha
+Ourania|f|greek|greek|2|mythology,celestial|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Panagiota|f|greek|greek|3|saint,virtue|Toda santa|All holy|Toute sainte|Allheilige|Tutta santa|Toda santa
+Panagiotis|m|greek|greek|4|saint,virtue|Todo santo|All holy|Tout saint|Allheilig|Tutto santo|Todo santo
+Pandora|f|greek|greek,english|2|mythology,literary|Dotada de todos los dones|All-gifted|Dotée de tous les dons|Allbeschenkt|Dotata di tutti i doni|Dotada de todos os dons
+Pantelis|m|greek|greek|2|saint,virtue|Todo compasivo|All-compassionate|Tout compatissant|Allbarmherzig|Tutto compassionevole|Todo compassivo
+Paraskevi|f|greek|greek|3|saint,classic|Viernes, preparación|Friday, preparation|Vendredi, préparation|Freitag, Vorbereitung|Venerdì, preparazione|Sexta-feira, preparação
+Parthenope|f|greek|greek|1|mythology,sea|Voz de doncella|Maiden voice|Voix de jeune fille|Mädchenstimme|Voce di fanciulla|Voz de donzela
+Paschalis|m|greek|greek|2|saint,classic|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Pelagia|f|greek|greek|2|saint,sea|Del mar|Of the sea|De la mer|Des Meeres|Del mare|Do mar
+Penelope|f|greek|greek,english|3|mythology,literary,classic|Tejedora|Weaver|Tisseuse|Weberin|Tessitrice|Tecelã
+Perikles|m|greek|greek|2|classic,royal|Rodeado de gloria|Surrounded by glory|Entouré de gloire|Von Ruhm umgeben|Circondato di gloria|Cercado de glória
+Petros|m|greek|greek|3|saint,biblical|Roca, piedra|Rock, stone|Roche, pierre|Fels, Stein|Roccia, pietra|Rocha, pedra
+Pigi|f|greek|greek|2|saint,nature|Fuente, manantial|Spring, fountain|Source, fontaine|Quelle, Brunnen|Fonte, sorgente|Fonte, nascente
+Platon|m|greek|greek|2|classic,literary|Ancho, de anchas espaldas|Broad|Large|Breit|Ampio|Largo
+Polykarpos|m|greek|greek|1|saint,classic|Muy fructífero|Much fruit|Très fécond|Sehr fruchtbar|Molto fruttuoso|Muito frutífero
+Polymnia|f|greek|greek|1|mythology,music|De muchos himnos|Of many hymns|Aux nombreux hymnes|Vieler Hymnen|Di molti inni|De muitos hinos
+Polyxeni|f|greek|greek|2|saint,mythology|Muy hospitalaria|Very hospitable|Très hospitalière|Sehr gastfreundlich|Molto ospitale|Muito hospitaleira
+Psyche|f|greek|greek,english|1|mythology,literary,love|Alma|Soul|Âme|Seele|Anima|Alma
+Pyrros|m|greek|greek|1|warrior,classic|Ardiente, pelirrojo|Fiery, flame-haired|Ardent, flamboyant|Feurig, flammenhaarig|Ardente, fiammeggiante|Ardente, de cabelo de fogo
+Rodanthi|f|greek|greek|2|flower,nature|Flor de rosa|Rose flower|Fleur de rose|Rosenblüte|Fiore di rosa|Flor de rosa
+Selini|f|greek|greek|3|celestial,nature|Luna|Moon|Lune|Mond|Luna|Lua
+Smaragda|f|greek|greek|2|gem,saint|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Sevasti|f|greek|greek|2|saint,virtue|Venerable, augusta|Venerable, revered|Vénérable|Ehrwürdig|Venerabile|Venerável
+Sofia|f|greek|greek,intl|5|virtue,classic,saint|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Sophokles|m|greek|greek|1|classic,literary|Glorioso por su sabiduría|Wise glory|Gloire sage|Weiser Ruhm|Gloria saggia|Glória sábia
+Sotiria|f|greek|greek|2|saint,virtue|Salvación|Salvation|Salut|Rettung, Heil|Salvezza|Salvação
+Sotiris|m|greek|greek|3|saint,virtue|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Stavroula|f|greek|greek|2|saint,classic|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Stavros|m|greek|greek|3|saint,classic|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Stefania|f|greek|greek,italian|3|saint,royal|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stefanos|m|greek|greek|3|saint,royal|Corona|Crown|Couronne|Krone|Corona|Coroa
+Stelios|m|greek|greek|2|saint,classic|Pilar, columna|Pillar, column|Pilier, colonne|Säule, Pfeiler|Pilastro, colonna|Pilar, coluna
+Thalia|f|greek|greek,english|3|mythology,flower,music|Floreciente|Blooming|Fleurissante|Blühend|Fiorente|Florescente
+Thales|m|greek|greek|1|classic,nature|Florecer|To blossom|Fleurir|Aufblühen|Fiorire|Florescer
+Thanos|m|greek|greek|2|saint,classic|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Thea|f|greek|greek,german,english|3|mythology,celestial,modern|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Theano|f|greek|greek|2|mythology,classic|Nombre divino|Divine name|Nom divin|Göttlicher Name|Nome divino|Nome divino
+Theodora|f|greek|greek,intl|3|saint,royal,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Theodoros|m|greek|greek|4|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Theodosia|f|greek|greek|2|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Theodoulos|m|greek|greek|1|saint,virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Theofanis|m|greek|greek|2|saint,light|Manifestación de Dios|Manifestation of God|Manifestation de Dieu|Erscheinung Gottes|Manifestazione di Dio|Manifestação de Deus
+Theofilos|m|greek|greek|2|saint,love|Amado por Dios|Beloved of God|Aimé de Dieu|Von Gott geliebt|Amato da Dio|Amado por Deus
+Thekla|f|greek|greek,german|2|saint,vintage|Gloria de Dios|Glory of God|Gloire de Dieu|Ruhm Gottes|Gloria di Dio|Glória de Deus
+Themistoklis|m|greek|greek|2|classic,royal|Gloria de la ley|Glory of the law|Gloire de la loi|Ruhm des Rechts|Gloria della legge|Glória da lei
+Theron|m|greek|english,greek|2|animal,strong,modern|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Timotheos|m|greek|greek|2|saint,biblical|El que honra a Dios|Honouring God|Qui honore Dieu|Gottesehrer|Colui che onora Dio|Aquele que honra a Deus
+Triantafyllia|f|greek|greek|2|flower,nature|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Triantafyllos|m|greek|greek|2|flower,nature|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Tryfon|m|greek|greek|1|saint,sweet|Delicado, refinado|Delicate, dainty|Délicat, raffiné|Zart, fein|Delicato, raffinato|Delicado, refinado
+Tyche|f|greek|greek,english|1|mythology,virtue|Fortuna, suerte|Fortune, luck|Fortune, chance|Glück, Schicksal|Fortuna, sorte|Fortuna, sorte
+Xanthe|f|greek|greek,english|1|mythology,light|Dorada, rubia|Golden, yellow|Dorée, blonde|Goldblond|Dorata, bionda|Dourada, loira
+Xenia|f|greek|greek,russian,german|2|classic,virtue|Hospitalidad|Hospitality|Hospitalité|Gastfreundschaft|Ospitalità|Hospitalidade
+Xenofon|m|greek|greek|1|classic,literary|Voz extranjera|Foreign voice|Voix étrangère|Fremde Stimme|Voce straniera|Voz estrangeira
+Zenon|m|greek|greek,polish|2|classic,mythology|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zenovia|f|greek|greek|1|classic,mythology|Vida de Zeus|Life of Zeus|Vie de Zeus|Leben des Zeus|Vita di Zeus|Vida de Zeus
+Zephyros|m|greek|greek|1|mythology,nature|Viento del oeste|West wind|Vent d'ouest|Westwind|Vento dell'ovest|Vento oeste
+Zoe|f|greek|greek,english,intl|4|saint,classic,sweet|Vida|Life|Vie|Leben|Vita|Vida

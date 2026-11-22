@@ -1,0 +1,63 @@
+Adva|f|hebrew|hebrew|2|nature,sea|Ola, rizo de agua|Ripple, small wave|Ondulation, petite vague|Welle, Kräuselung|Onda, increspatura|Onda, ondulação
+Ahuva|f|hebrew|hebrew|2|love,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Amichai|m|hebrew|hebrew|3|strong,virtue|Mi pueblo vive|My people lives|Mon peuple vit|Mein Volk lebt|Il mio popolo vive|Meu povo vive
+Amnon|m|hebrew|hebrew|2|biblical,virtue|Fiel, digno de confianza|Faithful, trustworthy|Fidèle, digne de confiance|Treu, zuverlässig|Fedele, affidabile|Fiel, confiável
+Aryeh|m|hebrew|hebrew|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Aviad|m|hebrew|hebrew|2|biblical,virtue|Mi padre es eterno|My father is eternal|Mon père est éternel|Mein Vater ist ewig|Mio padre è eterno|Meu pai é eterno
+Ben|m|hebrew|hebrew,english,intl|4|classic,strong|Hijo|Son|Fils|Sohn|Figlio|Filho
+Chava|f|hebrew|hebrew|3|biblical,classic|Vida, la que da vida|Life, living one|Vie, celle qui vit|Leben, die Lebendige|Vita, colei che vive|Vida, a que vive
+Dikla|f|hebrew|hebrew|3|nature,sweet|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Doron|m|hebrew|hebrew|3|sweet,virtue|Regalo, don|Gift|Cadeau, don|Geschenk|Dono, regalo|Presente, dom
+Dror|m|hebrew|hebrew|3|virtue,animal|Libertad, golondrina|Freedom, swallow|Liberté, hirondelle|Freiheit, Schwalbe|Libertà, rondine|Liberdade, andorinha
+Eldad|m|hebrew|hebrew|2|biblical,love|Dios ha amado|God has loved|Dieu a aimé|Gott hat geliebt|Dio ha amato|Deus amou
+Eliezer|m|hebrew|hebrew|2|biblical,classic|Mi Dios es ayuda|My God is help|Mon Dieu est secours|Mein Gott ist Hilfe|Il mio Dio è aiuto|Meu Deus é ajuda
+Eliyahu|m|hebrew|hebrew|3|biblical,classic|Mi Dios es el Señor|My God is the Lord|Mon Dieu est le Seigneur|Mein Gott ist der Herr|Il mio Dio è il Signore|Meu Deus é o Senhor
+Elkana|m|hebrew|hebrew|2|biblical,classic|Dios ha adquirido|God has acquired|Dieu a acquis|Gott hat erworben|Dio ha acquistato|Deus adquiriu
+Erez|m|hebrew|hebrew|3|nature,strong|Cedro|Cedar|Cèdre|Zeder|Cedro|Cedro
+Eyal|m|hebrew|hebrew|3|strong,modern|Fuerza|Strength|Force|Kraft|Forza|Força
+Gefen|u|hebrew|hebrew|3|nature,modern|Vid|Vine|Vigne|Weinrebe|Vite|Videira
+Gila|f|hebrew|hebrew|3|sweet,classic|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Guy|m|hebrew|hebrew|3|nature,place|Valle|Valley|Vallée|Tal|Valle|Vale
+Hallel|u|hebrew|hebrew|3|music,virtue|Alabanza|Praise|Louange|Lobpreis|Lode|Louvor
+Hodaya|f|hebrew|hebrew|3|virtue,sweet|Gracias a Dios|Thanks to God|Grâce à Dieu|Dank an Gott|Grazie a Dio|Graças a Deus
+Idan|m|hebrew|hebrew|3|modern,strong|Época, era|Era, epoch|Ère, époque|Ära, Epoche|Epoca, era|Era, época
+Inbar|f|hebrew|hebrew|3|gem,nature|Ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Kochava|f|hebrew|hebrew|2|celestial,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Lavi|m|hebrew|hebrew|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Lev|m|hebrew|hebrew,russian|3|strong,classic|Corazón|Heart|Cœur|Herz|Cuore|Coração
+Liron|u|hebrew|hebrew|3|music,modern|Mi canción|My song|Mon chant|Mein Lied|Il mio canto|Minha canção
+Margalit|f|hebrew|hebrew|2|gem,sea|Perla|Pearl|Perle|Perle|Perla|Pérola
+Michal|f|hebrew|hebrew|3|biblical,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Nechama|f|hebrew|hebrew|2|virtue,sweet|Consuelo|Comfort|Consolation|Trost|Conforto|Consolo
+Nir|m|hebrew|hebrew|3|nature,modern|Campo arado|Plowed field|Champ labouré|Gepflügtes Feld|Campo arato|Campo arado
+Noga|f|hebrew|hebrew|3|celestial,light|Resplandor, Venus|Brightness, Venus|Éclat, Vénus|Glanz, Venus|Splendore, Venere|Esplendor, Vênus
+Odelia|f|hebrew|hebrew|3|music,sweet|Alabaré a Dios|I will praise God|Je louerai Dieu|Ich will Gott preisen|Loderò Dio|Louvarei a Deus
+Ora|f|hebrew|hebrew|2|light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Pnina|f|hebrew|hebrew|2|gem,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Reuven|m|hebrew|hebrew|2|biblical,classic|He aquí un hijo|Behold, a son|Voici un fils|Siehe, ein Sohn|Ecco, un figlio|Eis um filho
+Rimon|u|hebrew|hebrew|2|nature,sweet|Granada|Pomegranate|Grenade|Granatapfel|Melograno|Romã
+Rinat|f|hebrew|hebrew|2|music,sweet|Canto de alegría|Joyful song|Chant de joie|Freudenlied|Canto di gioia|Canto de alegria
+Ronen|m|hebrew|hebrew|3|music,modern|Canto, alegría|Song, joy|Chant, joie|Gesang, Freude|Canto, gioia|Canto, alegria
+Saar|m|hebrew|hebrew|2|nature,strong|Tormenta|Storm|Tempête|Sturm|Tempesta|Tempestade
+Shachar|u|hebrew|hebrew|3|light,nature|Amanecer|Dawn|Aube|Morgenröte|Alba|Alvorada
+Shifra|f|hebrew|hebrew|2|biblical,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Shir|u|hebrew|hebrew|3|music,modern|Canción|Song|Chanson|Lied|Canto|Canção
+Shmuel|m|hebrew|hebrew|3|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Simcha|u|hebrew|hebrew|2|sweet,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Tali|f|hebrew|hebrew|3|nature,sweet|Mi rocío|My dew|Ma rosée|Mein Tau|La mia rugiada|Meu orvalho
+Tomer|m|hebrew|hebrew|3|nature,modern|Palmera|Palm tree|Palmier|Palme|Palma|Palmeira
+Tzur|m|hebrew|hebrew|2|strong,nature|Roca|Rock|Rocher|Fels|Roccia|Rocha
+Tzvia|f|hebrew|hebrew|2|animal,classic|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Uziel|m|hebrew|hebrew|2|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Yaffa|f|hebrew|hebrew|2|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Yaron|m|hebrew|hebrew|2|music,sweet|Él cantará|He will sing|Il chantera|Er wird singen|Canterà|Ele cantará
+Yedidya|m|hebrew|hebrew|2|biblical,love|Amado de Dios|Beloved of God|Bien-aimé de Dieu|Geliebter Gottes|Amato da Dio|Amado de Deus
+Yehoshua|m|hebrew|hebrew|3|biblical,classic|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Yehudit|f|hebrew|hebrew|2|biblical,classic|Alabada|Praised|Louée|Gepriesene|Lodata|Louvada
+Yocheved|f|hebrew|hebrew|2|biblical,classic|Dios es gloria|God is glory|Dieu est gloire|Gott ist Herrlichkeit|Dio è gloria|Deus é glória
+Yoram|m|hebrew|hebrew|2|biblical,classic|Dios es exaltado|God is exalted|Dieu est exalté|Gott ist erhaben|Dio è esaltato|Deus é exaltado
+Yotam|m|hebrew|hebrew|3|biblical,virtue|Dios es perfecto|God is perfect|Dieu est parfait|Gott ist vollkommen|Dio è perfetto|Deus é perfeito
+Zahava|f|hebrew|hebrew|3|gem,classic|Oro|Gold|Or|Gold|Oro|Ouro
+Zemira|f|hebrew|hebrew|2|music,classic|Canto, melodía|Song, melody|Chant, mélodie|Gesang, Melodie|Canto, melodia|Canto, melodia
+Ziv|u|hebrew|hebrew|3|light,modern|Resplandor|Radiance|Éclat|Glanz|Splendore|Esplendor
+Ziva|f|hebrew|hebrew|3|light,classic|Resplandor|Radiance|Éclat|Glanz|Splendore|Esplendor

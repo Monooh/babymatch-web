@@ -1,0 +1,64 @@
+Aingeru|m|greek|basque|2|saint,biblical|Ángel, mensajero|Angel, messenger|Ange, messager|Engel, Bote|Angelo, messaggero|Anjo, mensageiro
+Aitor|m|basque|basque,spanish|4|mythology,strong|Mítico patriarca vasco|Legendary Basque patriarch|Patriarche légendaire basque|Legendärer baskischer Urvater|Leggendario patriarca basco|Lendário patriarca basco
+Amaiur|u|basque|basque|1|place|Castillo de Maya|Maya castle|Château de Maya|Burg Maya|Castello di Maya|Castelo de Maya
+Ander|m|greek|basque,spanish|3|saint,strong|Varonil, viril|Manly, virile|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, varonil
+Andoni|m|latin|basque|2|saint|Digno de elogio|Worthy of praise|Digne d'éloge|Lobenswert|Degno di lode|Digno de elogio
+Antton|m|latin|basque|1|saint|Digno de elogio|Worthy of praise|Digne d'éloge|Lobenswert|Degno di lode|Digno de elogio
+Aritz|m|basque|basque,spanish|3|nature,strong|Roble|Oak|Chêne|Eiche|Quercia|Carvalho
+Beñat|m|germanic|basque|3|saint,strong|Oso valiente|Brave bear|Ours vaillant|Tapferer Bär|Orso coraggioso|Urso valente
+Bittor|m|latin|basque|2|saint,warrior|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Bixente|m|latin|basque|2|saint,warrior|Vencedor|Conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Danel|m|hebrew|basque|1|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Eder|u|basque|basque,spanish|2|virtue|Hermoso, bello|Beautiful, handsome|Beau, joli|Schön, hübsch|Bello, grazioso|Belo, bonito
+Ekaitz|m|basque|basque,spanish|3|nature|Tormenta|Storm|Tempête|Sturm|Tempesta|Tempestade
+Ekain|m|basque|basque|3|nature|Junio|June|Juin|Juni|Giugno|Junho
+Eneko|m|basque|basque,spanish|3|royal,strong|Mi pequeño|My little one|Mon petit|Mein Kleiner|Mio piccolo|Meu pequeno
+Erramun|m|germanic|basque|1|saint|Protector aconsejado|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Eztebe|m|greek|basque|1|saint|Corona, coronado|Crown, crowned|Couronne, couronné|Krone, gekrönt|Corona, coronato|Coroa, coroado
+Gorka|m|greek|basque,spanish|3|saint|Labrador|Farmer|Laboureur|Landmann|Agricoltore|Lavrador
+Gotzon|m|greek|basque|2|saint,biblical|Ángel, mensajero|Angel, messenger|Ange, messager|Engel, Bote|Angelo, messaggero|Anjo, mensageiro
+Gurutz|m|latin|basque|1|saint|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Harri|m|basque|basque|1|nature,strong|Piedra|Stone|Pierre|Stein|Pietra|Pedra
+Haritz|m|basque|basque|2|nature,strong|Roble|Oak|Chêne|Eiche|Quercia|Carvalho
+Hodei|m|basque|basque|2|nature|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Iban|m|hebrew|basque|3|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ibai|m|basque|basque,spanish|3|nature|Río|River|Rivière|Fluss|Fiume|Rio
+Ibar|m|basque|basque|1|nature|Vega, valle|Riverside meadow, valley|Vallée, plaine fluviale|Flussaue, Tal|Valle, piana fluviale|Vale, várzea
+Iker|m|basque|basque,spanish|5|saint|Visitación, visita|Visitation, visit|Visitation, visite|Heimsuchung, Besuch|Visitazione, visita|Visitação, visita
+Ilari|m|latin|basque|1|saint|Alegre, risueño|Cheerful, merry|Joyeux, gai|Fröhlich, heiter|Allegro, gioioso|Alegre, risonho
+Imanol|m|hebrew|basque,spanish|3|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Iñaki|m|latin|basque,spanish|4|saint|Ardiente|Fiery|Ardent|Feurig|Ardente|Ardente
+Ixaka|m|hebrew|basque|1|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Joanes|m|hebrew|basque|1|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jokin|m|hebrew|basque|2|biblical|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Jon|m|hebrew|basque,spanish|3|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Joseba|m|hebrew|basque,spanish|3|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Josu|m|hebrew|basque,spanish|3|biblical|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Joxe|m|hebrew|basque|2|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Julen|m|latin|basque,spanish|3|saint|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Jurgi|m|greek|basque|1|saint|Labrador|Farmer|Laboureur|Landmann|Agricoltore|Lavrador
+Kepa|m|hebrew|basque,spanish|3|biblical,saint|Piedra, roca|Stone, rock|Pierre, roc|Stein, Fels|Pietra, roccia|Pedra, rocha
+Koldo|m|germanic|basque,spanish|3|warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lander|m|greek|basque|2|strong|Hombre león|Lion-man|Homme-lion|Löwenmann|Uomo leone|Homem-leão
+Lorentz|m|latin|basque|1|saint|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Coronato d'alloro|Coroado de louros
+Markel|m|latin|basque|2|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mattin|m|latin|basque|1|saint,warrior|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mendi|u|basque|basque|1|nature|Montaña|Mountain|Montagne|Berg|Montagna|Montanha
+Mikel|m|hebrew|basque,spanish|4|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mixel|m|hebrew|basque|1|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Odei|m|basque|basque|1|nature|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Ortzi|m|basque|basque|2|celestial,mythology|Cielo, trueno|Sky, thunder|Ciel, tonnerre|Himmel, Donner|Cielo, tuono|Céu, trovão
+Patxi|m|latin|basque|2|saint|Francés|Frenchman|Français|Franzose|Francese|Francês
+Peio|m|greek|basque|2|saint|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Pello|m|greek|basque|1|saint|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Piarres|m|greek|basque|1|saint|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Ramuntxo|m|germanic|basque|1|saint|Protector aconsejado|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Santxo|m|latin|basque|1|royal,saint|Sagrado|Holy|Sacré|Heilig|Sacro|Sagrado
+Sendoa|m|basque|basque|1|strong|Fuerte, robusto|Strong, sturdy|Fort, robuste|Stark, kräftig|Forte, robusto|Forte, robusto
+Txomin|m|latin|basque|2|saint|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Unai|m|basque|basque,spanish|4|nature|Pastor de vacas|Cowherd|Bouvier|Rinderhirt|Mandriano|Vaqueiro
+Urtzi|m|basque|basque|1|celestial,mythology|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Xabier|m|basque|basque,spanish|4|saint|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Xanti|m|hebrew|basque|2|saint|El que sigue de cerca|He who follows closely|Celui qui suit de près|Der dicht Folgende|Colui che segue da vicino|Aquele que segue de perto
+Ximun|m|hebrew|basque|1|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Zuhaitz|m|basque|basque|1|nature|Árbol|Tree|Arbre|Baum|Albero|Árvore

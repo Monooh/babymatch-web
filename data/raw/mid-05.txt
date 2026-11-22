@@ -1,0 +1,89 @@
+Adel|m|arabic|arabic|3|virtue,classic|Justo|Just, fair|Juste, équitable|Gerecht|Giusto|Justo
+Ahlam|f|arabic|arabic|2|sweet,virtue|Sueños|Dreams|Rêves|Träume|Sogni|Sonhos
+Alaa|u|arabic|arabic|3|virtue,classic|Nobleza, excelencia|Nobility, excellence|Noblesse, excellence|Adel, Vortrefflichkeit|Nobiltà, eccellenza|Nobreza, excelência
+Amjad|m|arabic|arabic|2|royal,virtue|Más glorioso|Most glorious|Le plus glorieux|Der Ruhmreichste|Il più glorioso|O mais glorioso
+Areej|f|arabic|arabic|2|sweet,flower|Fragancia, aroma|Fragrance, sweet scent|Parfum, senteur|Duft, Wohlgeruch|Fragranza, profumo|Fragrância, aroma
+Duha|f|arabic|arabic|2|light,celestial|Luz de la mañana|Morning light|Lumière du matin|Morgenlicht|Luce del mattino|Luz da manhã
+Haitham|m|arabic|arabic|2|animal,strong|Joven águila|Young eagle|Jeune aigle|Junger Adler|Giovane aquila|Jovem águia
+Jawad|m|arabic|arabic|2|virtue,classic|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Kamal|m|arabic|arabic,indian|3|virtue,classic|Perfección|Perfection|Perfection|Vollkommenheit|Perfezione|Perfeição
+Kamila|f|arabic|arabic,polish,english|3|virtue,classic|Perfecta|Perfect|Parfaite|Vollkommen|Perfetta|Perfeita
+Latifa|f|arabic|arabic|2|sweet,virtue|Amable, gentil|Kind, gentle|Aimable, douce|Freundlich, sanft|Gentile, garbata|Gentil, amável
+Lamia|f|arabic|arabic|2|sweet,light|De labios brillantes|Radiant, shining|Radieuse, brillante|Strahlend, glänzend|Radiosa, splendente|Radiante, brilhante
+Qamar|u|arabic|arabic|2|celestial,light|Luna|Moon|Lune|Mond|Luna|Lua
+Rawda|f|arabic|arabic|2|nature,flower|Jardín|Garden|Jardin|Garten|Giardino|Jardim
+Rayhana|f|arabic|arabic|2|flower,sweet|Albahaca, planta fragante|Basil, sweet-scented plant|Basilic, plante parfumée|Basilikum, duftende Pflanze|Basilico, pianta profumata|Manjericão, planta perfumada
+Sakina|f|arabic|arabic|2|virtue,sweet|Tranquilidad, serenidad|Tranquility, serenity|Tranquillité, sérénité|Ruhe, Gelassenheit|Tranquillità, serenità|Tranquilidade, serenidade
+Shadia|f|arabic|arabic|2|music,sweet|Cantante, melodiosa|Singer, melodious|Chanteuse, mélodieuse|Sängerin, melodiös|Cantante, melodiosa|Cantora, melodiosa
+Suhail|m|arabic|arabic|2|celestial,virtue|Estrella Canopus, suave|Canopus star, gentle|Étoile Canopus, doux|Stern Canopus, sanft|Stella Canopo, dolce|Estrela Canopus, suave
+Thuraya|f|arabic|arabic|2|celestial,sweet|Las Pléyades|The Pleiades|Les Pléiades|Die Plejaden|Le Pleiadi|As Plêiades
+Wissam|m|arabic|arabic|2|virtue,royal|Insignia, medalla de honor|Badge of honor, medal|Insigne d'honneur, médaille|Ehrenzeichen, Medaille|Insegna d'onore, medaglia|Insígnia de honra, medalha
+Zuhair|m|arabic|arabic|2|flower,classic|Flor brillante|Bright flower|Fleur éclatante|Strahlende Blume|Fiore luminoso|Flor brilhante
+Anahita|f|persian|persian|2|mythology,nature|Inmaculada, diosa de las aguas|Immaculate, goddess of waters|Immaculée, déesse des eaux|Makellose, Göttin der Wasser|Immacolata, dea delle acque|Imaculada, deusa das águas
+Arezoo|f|persian|persian|2|love,sweet|Deseo, anhelo|Wish, desire|Souhait, désir|Wunsch, Sehnsucht|Desiderio, anelito|Desejo, anseio
+Azadeh|f|persian|persian|2|virtue,sweet|Libre, noble|Free, noble|Libre, noble|Frei, edel|Libera, nobile|Livre, nobre
+Bahar|f|persian|persian,turkish|3|nature,flower|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Delaram|f|persian|persian|2|love,sweet|Consuelo del corazón|Comfort of the heart|Réconfort du cœur|Trost des Herzens|Conforto del cuore|Consolo do coração
+Dilara|f|persian|persian,turkish|3|love,sweet|Adorno del corazón, amada|Heart's adornment, beloved|Parure du cœur, bien-aimée|Schmuck des Herzens, Geliebte|Ornamento del cuore, amata|Adorno do coração, amada
+Farzaneh|f|persian|persian|2|virtue,classic|Sabia, docta|Wise, learned|Sage, savante|Weise, gelehrt|Saggia, dotta|Sábia, erudita
+Fatemeh|f|persian|persian|3|classic,virtue|La que desteta, cautivadora|Captivating, one who weans|Captivante|Faszinierende|Affascinante|Cativante
+Ghazal|f|persian|persian|2|music,literary|Poema lírico, gacela|Lyric poem, gazelle|Poème lyrique, gazelle|Lyrisches Gedicht, Gazelle|Poesia lirica, gazzella|Poema lírico, gazela
+Golnaz|f|persian|persian|2|flower,sweet|Flor coqueta|Delicate flower|Fleur délicate|Zarte Blume|Fiore delicato|Flor delicada
+Kimia|f|persian|persian|2|modern,virtue|Alquimia|Alchemy|Alchimie|Alchemie|Alchimia|Alquimia
+Laleh|f|persian|persian|3|flower,nature|Tulipán|Tulip|Tulipe|Tulpe|Tulipano|Tulipa
+Mahsa|f|persian|persian|3|celestial,light|Como la luna|Like the moon|Comme la lune|Wie der Mond|Come la luna|Como a lua
+Mahnaz|f|persian|persian|2|celestial,sweet|Orgullo de la luna|Pride of the moon|Fierté de la lune|Stolz des Mondes|Orgoglio della luna|Orgulho da lua
+Mina|f|persian|persian,japanese,intl|3|sweet,gem|Esmalte azul, cielo|Blue enamel, azure sky|Émail bleu, ciel azuré|Blaue Emaille, Himmelsblau|Smalto azzurro, cielo|Esmalte azul, céu
+Mitra|f|persian|persian|2|mythology,light|Amistad, pacto, sol|Friendship, covenant, sun|Amitié, pacte, soleil|Freundschaft, Bund, Sonne|Amicizia, patto, sole|Amizade, pacto, sol
+Negar|f|persian|persian|2|love,sweet|Amada, pintura|Beloved, painting|Bien-aimée, peinture|Geliebte, Gemälde|Amata, dipinto|Amada, pintura
+Neda|f|persian|persian|3|sweet,music|Voz, llamada|Voice, call|Voix, appel|Stimme, Ruf|Voce, richiamo|Voz, chamado
+Niloufar|f|persian|persian|2|flower,nature|Loto azul, nenúfar|Blue lotus, water lily|Lotus bleu, nénuphar|Blauer Lotus, Seerose|Loto blu, ninfea|Lótus azul, nenúfar
+Nasrin|f|persian|persian|2|flower,sweet|Rosa silvestre|Wild rose|Rose sauvage|Wilde Rose|Rosa selvatica|Rosa silvestre
+Parisa|f|persian|persian|3|mythology,sweet|Como un hada|Fairy-like|Comme une fée|Feengleich|Simile a una fata|Como uma fada
+Parvin|f|persian|persian|2|celestial,classic|Las Pléyades|The Pleiades|Les Pléiades|Die Plejaden|Le Pleiadi|As Plêiades
+Pegah|f|persian|persian|2|celestial,light|Amanecer, alba|Dawn|Aube|Morgendämmerung|Alba|Alvorecer
+Roxana|f|persian|persian,spanish,english|3|celestial,royal|Estrella brillante, amanecer|Bright star, dawn|Étoile brillante, aube|Heller Stern, Morgenröte|Stella luminosa, alba|Estrela brilhante, aurora
+Roya|f|persian|persian|3|sweet,virtue|Sueño, visión|Dream, vision|Rêve, vision|Traum, Vision|Sogno, visione|Sonho, visão
+Setareh|f|persian|persian|3|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Shabnam|f|persian|persian|3|nature,sweet|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Shahrzad|f|persian|persian|3|literary,royal|De noble linaje, hija de la ciudad|Of noble lineage, city-born|De noble lignée, enfant de la ville|Von edler Abstammung, Stadtkind|Di nobile lignaggio, figlia della città|De nobre linhagem, filha da cidade
+Shirin|f|persian|persian,turkish|3|sweet,literary|Dulce|Sweet|Douce|Süß|Dolce|Doce
+Soraya|f|persian|persian,spanish,german|3|celestial,royal|Las Pléyades, princesa|The Pleiades, princess|Les Pléiades, princesse|Die Plejaden, Prinzessin|Le Pleiadi, principessa|As Plêiades, princesa
+Sepideh|f|persian|persian|2|celestial,light|Alba, amanecer|Dawn, daybreak|Aube|Morgendämmerung|Alba|Alvorecer
+Taraneh|f|persian|persian|2|music,sweet|Melodía, canción|Melody, song|Mélodie, chanson|Melodie, Lied|Melodia, canzone|Melodia, canção
+Yasaman|f|persian|persian|2|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Zohreh|f|persian|persian|2|celestial,light|Venus, brillante|Venus, radiant|Vénus, brillante|Venus, strahlend|Venere, splendente|Vénus, radiante
+Arash|m|persian|persian|3|mythology,warrior|Arquero legendario, brillante|Legendary archer, bright|Archer légendaire, brillant|Legendärer Bogenschütze, strahlend|Arciere leggendario, luminoso|Arqueiro lendário, brilhante
+Ardeshir|m|persian|persian|1|royal,classic|El que gobierna con justicia|One who rules justly|Celui qui règne avec justice|Der gerecht Herrschende|Colui che governa con giustizia|Aquele que governa com justiça
+Arman|m|persian|persian,turkish|2|virtue,modern|Ideal, aspiración|Ideal, aspiration|Idéal, aspiration|Ideal, Streben|Ideale, aspirazione|Ideal, aspiração
+Arya|u|persian|persian,indian|3|virtue,modern|Noble|Noble|Noble|Edel|Nobile|Nobre
+Babak|m|persian|persian|2|royal,classic|Pequeño padre|Little father|Petit père|Kleiner Vater|Piccolo padre|Pequeno pai
+Bahram|m|persian|persian|2|mythology,warrior|Victoria sobre la resistencia|Victory over resistance|Victoire sur la résistance|Sieg über den Widerstand|Vittoria sulla resistenza|Vitória sobre a resistência
+Behnam|m|persian|persian|2|virtue,classic|Buen nombre|Good name|Bon nom|Guter Name|Buon nome|Bom nome
+Behrouz|m|persian|persian|2|virtue,classic|Buen día, afortunado|Good day, fortunate|Bon jour, fortuné|Guter Tag, glücklich|Buon giorno, fortunato|Bom dia, afortunado
+Behzad|m|persian|persian|2|virtue,classic|De noble cuna|Well-born|Bien né|Wohlgeboren|Di nobile stirpe|De bom berço
+Cyrus|m|persian|english,persian|3|royal,classic|Como el sol, joven|Like the sun|Comme le soleil|Wie die Sonne|Come il sole|Como o sol
+Darius|m|persian|english,persian,intl|4|royal,classic|El que posee el bien|He who holds firm the good|Celui qui possède le bien|Der das Gute besitzt|Colui che possiede il bene|Aquele que possui o bem
+Farhad|m|persian|persian|2|literary,strong|Magnífico, majestuoso|Magnificent, majestic|Magnifique, majestueux|Prächtig, majestätisch|Magnifico, maestoso|Magnífico, majestoso
+Hooman|m|persian|persian|2|virtue,classic|De buena mente|Good-minded|Bon d'esprit|Guten Geistes|Di buona mente|De boa mente
+Kamran|m|persian|persian,indian|3|virtue,classic|Afortunado, victorioso|Fortunate, successful|Fortuné, victorieux|Glücklich, erfolgreich|Fortunato, vittorioso|Afortunado, vitorioso
+Keyvan|m|persian|persian|2|celestial,classic|Saturno|Saturn|Saturne|Saturn|Saturno|Saturno
+Kian|m|persian|persian,english|3|royal,modern|Rey, majestuoso|King, majestic|Roi, majestueux|König, majestätisch|Re, maestoso|Rei, majestoso
+Mahyar|m|persian|persian|2|celestial,virtue|Amigo de la luna|Friend of the moon|Ami de la lune|Freund des Mondes|Amico della luna|Amigo da lua
+Mehran|m|persian|persian|2|virtue,sweet|Bondadoso, afectuoso|Kind, affectionate|Bienveillant, affectueux|Gütig, liebevoll|Gentile, affettuoso|Bondoso, afetuoso
+Mehrdad|m|persian|persian|2|mythology,classic|Regalo de Mitra|Gift of Mithra|Don de Mithra|Gabe des Mithra|Dono di Mitra|Presente de Mitra
+Navid|m|persian|persian|3|virtue,sweet|Buenas noticias|Good news|Bonne nouvelle|Gute Nachricht|Buona notizia|Boa notícia
+Nima|m|persian|persian|2|virtue,classic|Justo, equitativo|Just, fair|Juste, équitable|Gerecht|Giusto, equo|Justo, equitativo
+Omid|m|persian|persian|3|virtue,sweet|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Parsa|m|persian|persian|2|virtue,classic|Persa, piadoso|Persian, pious|Persan, pieux|Perser, fromm|Persiano, pio|Persa, piedoso
+Payam|m|persian|persian|2|virtue,modern|Mensaje|Message|Message|Botschaft|Messaggio|Mensagem
+Ramin|m|persian|persian|2|literary,virtue|Contento, alegre|Pleased, joyful|Content, joyeux|Zufrieden, froh|Contento, gioioso|Contente, alegre
+Reza|m|persian|persian|3|virtue,classic|Satisfacción, complacencia|Contentment, satisfaction|Contentement, satisfaction|Zufriedenheit|Soddisfazione, compiacimento|Contentamento, satisfação
+Rostam|m|persian|persian|2|mythology,warrior|Héroe legendario, poderoso|Legendary hero, mighty|Héros légendaire, puissant|Legendärer Held, mächtig|Eroe leggendario, potente|Herói lendário, poderoso
+Shahin|m|persian|persian,turkish|2|animal,royal|Halcón real|Royal falcon|Faucon royal|Königsfalke|Falco reale|Falcão real
+Siavash|m|persian|persian|2|mythology,literary|Poseedor de caballos negros|Owner of black horses|Possesseur de chevaux noirs|Besitzer schwarzer Pferde|Possessore di cavalli neri|Dono de cavalos negros
+Sina|m|persian|persian,german|3|virtue,classic|Pecho, corazón|Chest, heart|Poitrine, cœur|Brust, Herz|Petto, cuore|Peito, coração
+Sohrab|m|persian|persian|2|mythology,literary|Brillante, radiante|Radiant, bright|Radieux, brillant|Strahlend, hell|Radioso, luminoso|Radiante, brilhante
+Soroush|m|persian|persian|2|virtue,mythology|Oído, mensajero angélico|Hearing, angelic messenger|Écoute, messager angélique|Gehör, Engelsbote|Ascolto, messaggero angelico|Escuta, mensageiro angélico
+Vahid|m|persian|persian|2|virtue,classic|Único|Unique, one|Unique|Einzigartig|Unico|Único
+Xerxes|m|persian|english,persian|1|royal,mythology|Gobernante de héroes|Ruler of heroes|Souverain des héros|Herrscher der Helden|Sovrano degli eroi|Governante de heróis

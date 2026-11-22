@@ -1,0 +1,108 @@
+Ibrahim|m|arabic|arabic,turkish,intl|5|biblical,classic|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Idris|m|arabic|arabic,turkish,english|3|classic,virtue|Estudioso, intérprete|Studious, interpreter|Studieux, interprète|Gelehrter, Ausleger|Studioso, interprete|Estudioso, intérprete
+Imad|m|arabic|arabic|2|strong,virtue|Pilar, soporte|Pillar, support|Pilier, soutien|Säule, Stütze|Pilastro, sostegno|Pilar, apoio
+Iman|f|arabic|arabic,intl|3|virtue,classic|Fe|Faith|Foi|Glaube|Fede|Fé
+Imran|m|arabic|arabic,english|3|classic,virtue|Prosperidad, larga vida|Prosperity, long life|Prospérité, longue vie|Wohlstand, langes Leben|Prosperità, lunga vita|Prosperidade, longa vida
+Isa|m|arabic|arabic,turkish|3|biblical,classic|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Ismail|m|arabic|arabic,turkish|4|biblical,classic|Dios escucha|God hears|Dieu entend|Gott hört|Dio ascolta|Deus ouve
+Jaafar|m|arabic|arabic|2|nature,classic|Arroyo, río pequeño|Stream, small river|Ruisseau, petite rivière|Bach, kleiner Fluss|Ruscello, piccolo fiume|Riacho, pequeno rio
+Jabir|m|arabic|arabic|2|virtue,classic|Consolador, restaurador|Comforter, restorer|Consolateur, restaurateur|Tröster, Wiederhersteller|Consolatore, restauratore|Consolador, restaurador
+Jalal|m|arabic|arabic,persian,turkish|2|royal,virtue|Majestad, grandeza|Majesty, grandeur|Majesté, grandeur|Majestät, Größe|Maestà, grandezza|Majestade, grandeza
+Jamal|m|arabic|arabic,english|3|virtue,classic|Belleza|Beauty|Beauté|Schönheit|Bellezza|Beleza
+Jamila|f|arabic|arabic,english|3|virtue,sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Jana|f|arabic|arabic,slavic|3|sweet,nature|Fruta cosechada|Harvest, picked fruit|Fruit cueilli|Geerntete Frucht|Frutto raccolto|Fruta colhida
+Jibril|m|arabic|arabic|2|biblical,saint|Arcángel Gabriel, fuerza de Dios|Archangel Gabriel, strength of God|Archange Gabriel, force de Dieu|Erzengel Gabriel, Stärke Gottes|Arcangelo Gabriele, forza di Dio|Arcanjo Gabriel, força de Deus
+Karim|m|arabic|arabic,french,intl|4|virtue,classic|Generoso, noble|Generous, noble|Généreux, noble|Großzügig, edel|Generoso, nobile|Generoso, nobre
+Khadija|f|arabic|arabic,turkish|3|classic,virtue|Nacida antes de tiempo|Born prematurely|Née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Khalid|m|arabic|arabic,intl|4|virtue,classic|Eterno, inmortal|Eternal, immortal|Éternel, immortel|Ewig, unsterblich|Eterno, immortale|Eterno, imortal
+Khalil|m|arabic|arabic,english|3|virtue,classic|Amigo íntimo|Close friend|Ami intime|Enger Freund|Amico intimo|Amigo íntimo
+Lama|f|arabic|arabic|2|sweet,virtue|Labios oscuros, encantadora|Dark-lipped, charming|Lèvres sombres, charmante|Dunkellippig, bezaubernd|Labbra scure, incantevole|Lábios escuros, encantadora
+Layla|f|arabic|arabic,english,turkish,persian,intl|5|literary,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Lina|f|arabic|arabic,german,spanish|4|sweet,virtue|Tierna, suave|Tender, gentle|Tendre, douce|Zart, sanft|Tenera, dolce|Terna, suave
+Lubna|f|arabic|arabic|2|nature,sweet|Árbol del estoraque|Storax tree|Styrax|Storaxbaum|Storace|Estoraque
+Lujain|f|arabic|arabic|2|gem,sweet|Plata|Silver|Argent|Silber|Argento|Prata
+Maha|f|arabic|arabic|2|animal,sweet|Vaca salvaje de bellos ojos|Wild cow with beautiful eyes|Vache sauvage aux beaux yeux|Wildkuh mit schönen Augen|Vacca selvatica dai begli occhi|Vaca selvagem de belos olhos
+Mahdi|m|arabic|arabic,persian|3|virtue,classic|Bien guiado|Rightly guided|Bien guidé|Rechtgeleitet|Ben guidato|Bem guiado
+Mahmoud|m|arabic|arabic,turkish|4|virtue,classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Lodevole|Digno de louvor
+Majid|m|arabic|arabic,persian|3|royal,virtue|Glorioso, noble|Glorious, noble|Glorieux, noble|Glorreich, edel|Glorioso, nobile|Glorioso, nobre
+Malik|m|arabic|arabic,english|3|royal,classic|Rey, soberano|King, sovereign|Roi, souverain|König, Herrscher|Re, sovrano|Rei, soberano
+Mansour|m|arabic|arabic|3|warrior,virtue|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Mariam|f|arabic|arabic,intl|4|biblical,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, ersehnte|Amata, desiderata|Amada, desejada
+Marwan|m|arabic|arabic|3|classic,strong|Piedra dura, sílex|Hard stone, flint|Pierre dure, silex|Harter Stein, Feuerstein|Pietra dura, selce|Pedra dura, sílex
+Maysa|f|arabic|arabic|2|sweet,virtue|La que camina con gracia|One who walks proudly|Celle qui marche avec grâce|Die stolz Schreitende|Colei che cammina con grazia|Aquela que anda com graça
+Mazen|m|arabic|arabic|2|nature,classic|Nube de lluvia|Rain cloud|Nuage de pluie|Regenwolke|Nube di pioggia|Nuvem de chuva
+Mohammed|m|arabic|arabic,intl|5|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Lodevole|Digno de louvor
+Mona|f|arabic|arabic,english|3|sweet,virtue|Deseo, anhelo|Wish, desire|Souhait, désir|Wunsch, Sehnsucht|Desiderio, anelito|Desejo, anseio
+Moussa|m|arabic|arabic,french,african|3|biblical,classic|Sacado de las aguas|Drawn from the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Mustafa|m|arabic|arabic,turkish,intl|4|virtue,classic|El elegido|The chosen one|L'élu|Der Auserwählte|L'eletto|O escolhido
+Mounir|m|arabic|arabic,french|2|light,virtue|Luminoso, resplandeciente|Luminous, radiant|Lumineux, radieux|Leuchtend, strahlend|Luminoso, radioso|Luminoso, radiante
+Muna|f|arabic|arabic|2|sweet,virtue|Deseos, esperanzas|Wishes, hopes|Souhaits, espoirs|Wünsche, Hoffnungen|Desideri, speranze|Desejos, esperanças
+Musa|m|arabic|arabic,turkish,african|4|biblical,classic|Sacado de las aguas|Drawn from the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Nabil|m|arabic|arabic,french|3|virtue,classic|Noble, generoso|Noble, generous|Noble, généreux|Edel, großzügig|Nobile, generoso|Nobre, generoso
+Nabila|f|arabic|arabic|2|virtue,classic|Noble|Noble|Noble|Edel|Nobile|Nobre
+Nada|f|arabic|arabic|3|nature,sweet|Rocío, generosidad|Dew, generosity|Rosée, générosité|Tau, Großzügigkeit|Rugiada, generosità|Orvalho, generosidade
+Nadia|f|arabic|arabic,russian,intl|4|sweet,virtue|Generosa, húmeda de rocío|Generous, dewy|Généreuse, rosée|Großzügig, taufrisch|Generosa, rugiadosa|Generosa, orvalhada
+Nadira|f|arabic|arabic|1|gem,virtue|Rara, preciosa|Rare, precious|Rare, précieuse|Selten, kostbar|Rara, preziosa|Rara, preciosa
+Najwa|f|arabic|arabic|2|sweet,virtue|Confidencia íntima|Intimate confidence|Confidence intime|Vertrauliche Zwiesprache|Confidenza intima|Confidência íntima
+Najla|f|arabic|arabic|2|sweet,virtue|De ojos grandes|Wide-eyed|Aux grands yeux|Großäugig|Dagli occhi grandi|De olhos grandes
+Nasser|m|arabic|arabic|3|warrior,virtue|Victorioso, defensor|Victorious, helper|Victorieux, défenseur|Siegreich, Helfer|Vittorioso, difensore|Vitorioso, defensor
+Nawal|f|arabic|arabic|2|virtue,sweet|Regalo, obsequio|Gift, present|Cadeau, présent|Geschenk, Gabe|Dono, regalo|Presente, dádiva
+Nizar|m|arabic|arabic|2|classic,virtue|Escaso, precioso|Little, precious|Rare, précieux|Selten, kostbar|Raro, prezioso|Raro, precioso
+Noor|u|arabic|arabic,english,persian|4|light,virtue|Luz|Light|Lumière|Licht|Luce|Luz
+Nour|u|arabic|arabic,french|4|light,virtue|Luz|Light|Lumière|Licht|Luce|Luz
+Nuh|m|arabic|arabic,turkish|2|biblical,classic|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Nuha|f|arabic|arabic|2|virtue,sweet|Inteligencia, razón|Intelligence, reason|Intelligence, raison|Verstand, Vernunft|Intelligenza, ragione|Inteligência, razão
+Omar|m|arabic|arabic,spanish,french,english,intl|5|classic,virtue|Longevo, floreciente|Long-lived, flourishing|De longue vie, florissant|Langlebig, blühend|Longevo, fiorente|Longevo, florescente
+Osama|m|arabic|arabic|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Qasim|m|arabic|arabic|2|virtue,classic|El que reparte|Divider, distributor|Celui qui répartit|Der Verteilende|Colui che distribuisce|Aquele que reparte
+Rabia|f|arabic|arabic|2|nature,classic|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Rafiq|m|arabic|arabic|2|virtue,classic|Amigo, compañero|Friend, companion|Ami, compagnon|Freund, Gefährte|Amico, compagno|Amigo, companheiro
+Rahma|f|arabic|arabic|2|virtue,sweet|Misericordia, compasión|Mercy, compassion|Miséricorde, compassion|Barmherzigkeit, Mitgefühl|Misericordia, compassione|Misericórdia, compaixão
+Rami|m|arabic|arabic|3|warrior,classic|Arquero|Archer|Archer|Bogenschütze|Arciere|Arqueiro
+Rana|f|arabic|arabic|3|virtue,sweet|Hermosa, agraciada|Beautiful, graceful|Belle, gracieuse|Schön, anmutig|Bella, aggraziata|Bela, graciosa
+Randa|f|arabic|arabic|2|nature,sweet|Árbol aromático|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore aromática
+Rania|f|arabic|arabic,intl|4|royal,virtue|Contemplativa, reina|Gazing, queenly|Contemplative, reine|Betrachtend, königlich|Contemplativa, regina|Contemplativa, rainha
+Rashid|m|arabic|arabic|3|virtue,classic|Bien guiado, sabio|Rightly guided, wise|Bien guidé, sage|Rechtgeleitet, weise|Ben guidato, saggio|Bem guiado, sábio
+Rasha|f|arabic|arabic|2|animal,sweet|Cervatillo joven|Young gazelle|Jeune gazelle|Junge Gazelle|Giovane gazzella|Jovem gazela
+Rayan|u|arabic|arabic,french,intl|4|virtue,modern|Puerta del paraíso, saciado|Gate of paradise, well-watered|Porte du paradis, rassasié|Tor zum Paradies, gesättigt|Porta del paradiso, saziato|Porta do paraíso, saciado
+Reem|f|arabic|arabic|3|animal,sweet|Gacela blanca|White gazelle|Gazelle blanche|Weiße Gazelle|Gazzella bianca|Gazela branca
+Ridwan|m|arabic|arabic|2|virtue,classic|Complacencia divina|Divine approval|Agrément divin|Göttliches Wohlgefallen|Compiacimento divino|Complacência divina
+Ruqayya|f|arabic|arabic|2|classic,virtue|Ascendente, gentil|Ascending, gentle|Ascendante, douce|Aufsteigend, sanft|Ascendente, gentile|Ascendente, gentil
+Saad|m|arabic|arabic|3|virtue,classic|Felicidad, buena fortuna|Happiness, good fortune|Bonheur, bonne fortune|Glück, gutes Geschick|Felicità, buona sorte|Felicidade, boa sorte
+Saeed|m|arabic|arabic,persian|3|virtue,classic|Feliz, afortunado|Happy, fortunate|Heureux, fortuné|Glücklich, gesegnet|Felice, fortunato|Feliz, afortunado
+Safiya|f|arabic|arabic,turkish|2|virtue,classic|Pura, amiga sincera|Pure, sincere friend|Pure, amie sincère|Rein, aufrichtige Freundin|Pura, amica sincera|Pura, amiga sincera
+Sahar|f|arabic|arabic,persian|3|celestial,light|Alba, amanecer|Dawn, daybreak|Aube, point du jour|Morgendämmerung|Alba, aurora|Alvorecer, aurora
+Saif|m|arabic|arabic|2|warrior,strong|Espada|Sword|Épée|Schwert|Spada|Espada
+Salah|m|arabic|arabic|3|virtue,classic|Rectitud, bondad|Righteousness, goodness|Droiture, bonté|Rechtschaffenheit, Güte|Rettitudine, bontà|Retidão, bondade
+Saleh|m|arabic|arabic|3|virtue,classic|Justo, virtuoso|Righteous, virtuous|Juste, vertueux|Gerecht, tugendhaft|Giusto, virtuoso|Justo, virtuoso
+Salim|m|arabic|arabic,african|3|virtue,classic|Seguro, sano|Safe, sound|Sain et sauf|Sicher, heil|Sano e salvo|São e salvo
+Salma|f|arabic|arabic,english,spanish|4|virtue,sweet|Pacífica, segura|Peaceful, safe|Paisible, sûre|Friedlich, sicher|Pacifica, sicura|Pacífica, segura
+Salman|m|arabic|arabic,persian|3|virtue,classic|Seguro, pacífico|Safe, peaceful|Sûr, paisible|Sicher, friedlich|Sicuro, pacifico|Seguro, pacífico
+Sami|m|arabic|arabic|3|virtue,classic|Elevado, sublime|Elevated, sublime|Élevé, sublime|Erhaben, hoch|Elevato, sublime|Elevado, sublime
+Samir|m|arabic|arabic,indian|3|classic,virtue|Compañero de tertulia nocturna|Evening companion|Compagnon de veillée|Gefährte der Abendrunde|Compagno di veglia|Companheiro de serão
+Samira|f|arabic|arabic|3|classic,sweet|Compañera de tertulia nocturna|Evening companion|Compagne de veillée|Gefährtin der Abendrunde|Compagna di veglia|Companheira de serão
+Sana|f|arabic|arabic|3|light,virtue|Resplandor, brillo|Radiance, brilliance|Éclat, splendeur|Glanz, Strahlen|Splendore, luminosità|Resplendor, brilho
+Shadi|m|arabic|arabic,persian|2|music,virtue|Cantor, alegre|Singer, joyful|Chanteur, joyeux|Sänger, fröhlich|Cantore, gioioso|Cantor, alegre
+Shams|f|arabic|arabic|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Sumaya|f|arabic|arabic|2|virtue,classic|Elevada, excelsa|Exalted, lofty|Élevée, sublime|Erhaben, hoch|Elevata, eccelsa|Elevada, excelsa
+Tahani|f|arabic|arabic|2|virtue,sweet|Felicitaciones, parabienes|Congratulations|Félicitations|Glückwünsche|Congratulazioni|Parabéns
+Tamim|m|arabic|arabic|2|strong,virtue|Fuerte, completo|Strong, complete|Fort, complet|Stark, vollständig|Forte, completo|Forte, completo
+Tariq|m|arabic|arabic,english|4|celestial,warrior|Estrella matutina, el que llama a la puerta|Morning star, he who knocks|Étoile du matin, celui qui frappe|Morgenstern, der Anklopfende|Stella del mattino, colui che bussa|Estrela da manhã, aquele que bate
+Tawfiq|m|arabic|arabic|2|virtue,classic|Éxito, guía divina|Success, divine guidance|Succès, guidance divine|Erfolg, göttliche Führung|Successo, guida divina|Sucesso, guia divina
+Wafa|f|arabic|arabic|2|virtue,classic|Lealtad, fidelidad|Loyalty, faithfulness|Loyauté, fidélité|Treue, Loyalität|Lealtà, fedeltà|Lealdade, fidelidade
+Walid|m|arabic|arabic|3|classic,virtue|Recién nacido|Newborn|Nouveau-né|Neugeborener|Neonato|Recém-nascido
+Wardah|f|arabic|arabic|2|flower,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Yahya|m|arabic|arabic,turkish|3|biblical,classic|Él vivirá|He will live|Il vivra|Er wird leben|Egli vivrà|Ele viverá
+Yasmin|f|arabic|arabic,english,german,intl|4|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yasser|m|arabic|arabic|2|virtue,classic|Fácil, acomodado|Easy, wealthy|Aisé, prospère|Mühelos, wohlhabend|Facile, agiato|Fácil, abastado
+Yusuf|m|arabic|arabic,turkish,english,intl|5|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Yumna|f|arabic|arabic|2|virtue,sweet|Bendición, buena fortuna|Blessing, good fortune|Bénédiction, bonne fortune|Segen, Glück|Benedizione, buona fortuna|Bênção, boa sorte
+Zahra|f|arabic|arabic,persian,turkish,intl|4|flower,light|Radiante, flor|Radiant, flower|Radieuse, fleur|Strahlend, Blume|Radiosa, fiore|Radiante, flor
+Zaid|m|arabic|arabic|3|virtue,classic|Crecimiento, abundancia|Growth, abundance|Croissance, abondance|Wachstum, Fülle|Crescita, abbondanza|Crescimento, abundância
+Zakaria|m|arabic|arabic,french|2|biblical,classic|Dios ha recordado|God has remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio si è ricordato|Deus lembrou
+Zayn|m|arabic|arabic,english|3|virtue,modern|Belleza, gracia|Beauty, grace|Beauté, grâce|Schönheit, Anmut|Bellezza, grazia|Beleza, graça
+Zaynab|f|arabic|arabic,turkish|3|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Zeina|f|arabic|arabic|2|virtue,sweet|Hermosa, adorno|Beautiful, adornment|Belle, parure|Schön, Schmuck|Bella, ornamento|Bela, adorno
+Ziad|m|arabic|arabic|2|virtue,classic|Abundancia, crecimiento|Abundance, growth|Abondance, croissance|Fülle, Wachstum|Abbondanza, crescita|Abundância, crescimento
+Zaki|m|arabic|arabic|2|virtue,classic|Puro, inteligente|Pure, intelligent|Pur, intelligent|Rein, klug|Puro, intelligente|Puro, inteligente
+Zubaida|f|arabic|arabic|1|classic,sweet|Crema, selecta|Cream, choicest|Crème, choisie|Rahm, Erlesene|Panna, eletta|Nata, seleta

@@ -1,0 +1,90 @@
+Adalbert|m|germanic|german|2|royal,vintage|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Albin|m|latin|german|2|vintage|Blanco|White|Blanc|Der Weiße|Bianco|Branco
+Alwin|m|germanic|german|2|vintage|Amigo noble|Noble friend|Noble ami|Edler Freund|Nobile amico|Nobre amigo
+Amadeus|m|latin|german|3|music,classic|Amado de Dios|Love of God|Aimé de Dieu|Gottlieb|Amato da Dio|Amado por Deus
+Ambros|m|greek|german|1|vintage,saint|Inmortal|Immortal|Immortel|Der Unsterbliche|Immortale|Imortal
+Arnulf|m|germanic|german|1|vintage,warrior|Lobo águila|Eagle wolf|Aigle-loup|Adlerwolf|Aquila lupo|Lobo águia
+Benno|m|germanic|german|2|vintage,animal|Oso|Bear|Ours|Bär|Orso|Urso
+Bertram|m|germanic|german|2|vintage,animal|Cuervo brillante|Bright raven|Corbeau brillant|Glänzender Rabe|Corvo splendente|Corvo brilhante
+Bodo|m|germanic|german|2|vintage|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Claus|m|greek|german,scandinavian|3|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Dennis|m|greek|german,dutch,english|3|classic,mythology|De Dionisio|Follower of Dionysus|Disciple de Dionysos|Der zu Dionysos Gehörige|Seguace di Dioniso|Seguidor de Dioniso
+Eberhard|m|germanic|german|2|vintage,strong,animal|Fuerte como un jabalí|Strong as a boar|Fort comme un sanglier|Stark wie ein Eber|Forte come un cinghiale|Forte como um javali
+Eckart|m|germanic|german|1|vintage,strong|Filo de espada fuerte|Strong sword edge|Fort tranchant d'épée|Starke Schwertschneide|Forte filo di spada|Forte fio de espada
+Elmar|m|germanic|german|2|vintage|Noble y famoso|Noble and famous|Noble et célèbre|Edel und berühmt|Nobile e famoso|Nobre e famoso
+Emanuel|m|hebrew|german,portuguese|3|biblical,classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Erhard|m|germanic|german|1|vintage,strong|Fuerte en honor|Strong in honor|Fort en honneur|Stark in Ehre|Forte nell'onore|Forte em honra
+Erwin|m|germanic|german|2|vintage|Amigo del ejército|Friend of the army|Ami de l'armée|Freund des Heeres|Amico dell'esercito|Amigo do exército
+Eugen|m|greek|german|2|vintage|De noble cuna|Well-born|Bien né|Der Wohlgeborene|Nobile di nascita|Bem-nascido
+Ewald|m|germanic|german|1|vintage|Gobernante de la ley|Ruler of the law|Souverain de la loi|Herrscher des Rechts|Sovrano della legge|Governante da lei
+Falko|m|germanic|german|2|animal,strong|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Fridolin|m|germanic|german|1|vintage,saint|Pequeña paz|Little peace|Petite paix|Kleiner Friede|Piccola pace|Pequena paz
+Friedhelm|m|germanic|german|1|vintage|Casco de paz|Helmet of peace|Casque de paix|Friedenshelm|Elmo di pace|Elmo da paz
+Fynn|m|celtic|german|4|modern|Rubio, justo|Fair, white|Blond, juste|Der Helle|Biondo, giusto|Louro, justo
+Gebhard|m|germanic|german|1|vintage|Regalo valiente|Gift and brave|Don vaillant|Gabe und stark|Dono e coraggio|Dádiva e coragem
+Gero|m|germanic|german|2|vintage,warrior|Lanza|Spear|Lance|Speer|Lancia|Lança
+Gerold|m|germanic|german|1|vintage,warrior|Gobernante de la lanza|Spear ruler|Souverain de la lance|Speerherrscher|Sovrano della lancia|Governante da lança
+Gotthard|m|germanic|german|1|vintage,strong|Fuerte en Dios|God strong|Fort en Dieu|Stark in Gott|Forte in Dio|Forte em Deus
+Gottlieb|m|germanic|german|1|vintage,love|Amor de Dios|God's love|Amour de Dieu|Liebe Gottes|Amore di Dio|Amor de Deus
+Gustav|m|germanic|german,scandinavian|3|royal,classic|Bastón de los godos|Staff of the Goths|Bâton des Goths|Stab der Goten|Bastone dei Goti|Bastão dos godos
+Hagen|m|germanic|german|2|strong,literary|Cercado, espino|Enclosure, thorn|Enclos, épine|Gehege, Dornbusch|Recinto, spino|Cercado, espinho
+Hartwig|m|germanic|german|1|vintage,warrior|Fuerte en la batalla|Strong in battle|Fort au combat|Stark im Kampf|Forte in battaglia|Forte na batalha
+Heino|m|germanic|german|2|vintage|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Herwig|m|germanic|german|1|vintage,warrior|Batalla del ejército|Army battle|Bataille de l'armée|Heereskampf|Battaglia dell'esercito|Batalha do exército
+Hieronymus|m|greek|german|1|vintage,saint|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Hilmar|m|germanic|german|1|vintage,warrior|Famoso en la batalla|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famoso in battaglia|Famoso na batalha
+Hildebrand|m|germanic|german|1|vintage,warrior|Espada de batalla|Battle sword|Épée de bataille|Kampfschwert|Spada di battaglia|Espada de batalha
+Hinrich|m|germanic|german|1|vintage|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Hinnerk|m|germanic|german|2|vintage|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Henning|m|germanic|german,scandinavian|2|vintage|Gobernante del hogar|Ruler of the home|Souverain du foyer|Herrscher des Hauses|Sovrano della casa|Governante do lar
+Jörn|m|greek|german|1|vintage|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador
+Johann|m|hebrew|german|4|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Joshua|m|hebrew|german,english|3|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Rettung|Dio è salvezza|Deus é salvação
+Keno|m|germanic|german|2|strong|Consejo audaz|Bold counsel|Conseil audacieux|Kühner Rat|Consiglio audace|Conselho audaz
+Korbinian|m|latin|german|1|vintage,saint,animal|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Lambert|m|germanic|german,dutch,french|2|vintage|Tierra brillante|Land bright|Terre brillante|Land und glänzend|Terra splendente|Terra brilhante
+Lenz|m|germanic|german|1|vintage,nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Leonhard|m|germanic|german|2|vintage,strong,animal|León valiente|Brave lion|Lion courageux|Löwenstark|Leone coraggioso|Leão corajoso
+Levi|m|hebrew|german,english,dutch|4|biblical,trendy|Unido|Joined, attached|Uni, attaché|Verbunden|Unito|Unido
+Liam|m|germanic|german,irish,english|4|trendy,strong|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Lorenz|m|latin|german|3|classic,saint|Laureado|Crowned with laurel|Couronné de laurier|Der Lorbeerbekränzte|Coronato d'alloro|Coroado de louros
+Lothar|m|germanic|german|2|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Ludger|m|germanic|german|1|vintage,warrior|Lanza del pueblo|People's spear|Lance du peuple|Speer des Volkes|Lancia del popolo|Lança do povo
+Lüder|m|germanic|german|1|vintage,warrior|Ejército del pueblo|People's army|Armée du peuple|Heer des Volkes|Esercito del popolo|Exército do povo
+Matthäus|m|hebrew|german|2|biblical|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Merten|m|latin|german|1|vintage,saint|De Marte|Of Mars|De Mars|Der dem Mars Geweihte|Di Marte|De Marte
+Nikolaus|m|greek|german|3|classic,saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Odo|m|germanic|german|1|vintage|Riqueza|Wealth|Richesse|Reichtum|Ricchezza|Riqueza
+Otmar|m|germanic|german|1|vintage|Riqueza famosa|Famous wealth|Richesse célèbre|Berühmter Besitz|Ricchezza famosa|Riqueza famosa
+Pascal|m|latin|german,french|3|classic|De la Pascua|Of Easter|De Pâques|Der zu Ostern Geborene|Di Pasqua|Da Páscoa
+Quirin|m|latin|german|1|vintage,saint,warrior|Lanza|Spear|Lance|Speer|Lancia|Lança
+Raimund|m|germanic|german|2|vintage|Protector sabio|Wise protector|Protecteur sage|Weiser Beschützer|Saggio protettore|Protetor sábio
+Reinhold|m|germanic|german|2|vintage|Gobernante sabio|Wise ruler|Souverain sage|Weiser Herrscher|Sovrano saggio|Governante sábio
+Rüdiger|m|germanic|german|2|vintage,warrior|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Siegmund|m|germanic|german|2|vintage,strong|Protector victorioso|Victorious protector|Protecteur victorieux|Siegreicher Schützer|Protettore vittorioso|Protetor vitorioso
+Silvio|m|latin|german,italian|2|nature|Del bosque|Of the forest|De la forêt|Der aus dem Wald|Del bosco|Da floresta
+Stephan|m|greek|german|3|classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Till|m|germanic|german|3|vintage|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Timo|m|greek|german,finnish|3|classic|Que honra a Dios|Honoring God|Qui honore Dieu|Gottesehrer|Che onora Dio|Que honra a Deus
+Tjark|m|germanic|german|2|vintage|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Torben|m|norse|german,scandinavian|2|vintage,animal|Oso de Thor|Thor's bear|Ours de Thor|Thors Bär|Orso di Thor|Urso de Thor
+Udo|m|germanic|german|2|vintage|Riqueza, prosperidad|Wealth, prosperity|Richesse, prospérité|Wohlstand|Ricchezza, prosperità|Riqueza, prosperidade
+Volker|m|germanic|german|2|vintage,warrior|Guardián del pueblo|Guardian of the people|Gardien du peuple|Wächter des Volkes|Guardiano del popolo|Guardião do povo
+Waldemar|m|germanic|german,scandinavian|2|royal,vintage|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Walther|m|germanic|german|2|vintage,warrior|Gobernante del ejército|Ruler of the army|Souverain de l'armée|Herrscher des Heeres|Sovrano dell'esercito|Governante do exército
+Wendelin|m|germanic|german|1|vintage,saint|Caminante|Wanderer|Voyageur|Wanderer|Viandante|Andarilho
+Werner|m|germanic|german,scandinavian|2|vintage,warrior|Ejército guardián|Guardian army|Armée gardienne|Hüter des Heeres|Esercito custode|Exército guardião
+Widukind|m|germanic|german|1|vintage,nature|Hijo del bosque|Child of the forest|Enfant de la forêt|Kind des Waldes|Figlio del bosco|Filho da floresta
+Willi|m|germanic|german|2|vintage|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Willibald|m|germanic|german|1|vintage|Resuelto y audaz|Resolute and bold|Résolu et audacieux|Entschlossen und kühn|Risoluto e audace|Resoluto e audaz
+Winfried|m|germanic|german|1|vintage,saint|Amigo de la paz|Friend of peace|Ami de la paix|Friedensfreund|Amico della pace|Amigo da paz
+Wolf|m|germanic|german|3|animal,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Wulf|m|germanic|german|2|animal,strong|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Xaver|m|basque|german|2|saint,vintage|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Zacharias|m|hebrew|german|2|biblical|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus se lembra
+Karl-Heinz|m|germanic|german|2|vintage|Hombre libre, gobernante del hogar|Free man, ruler of the home|Homme libre, souverain du foyer|Freier Mann, Herrscher des Hauses|Uomo libero, sovrano della casa|Homem livre, governante do lar
+Hans-Peter|m|hebrew|german|2|vintage|Dios es misericordioso, roca|God is gracious, rock|Dieu fait grâce, roc|Gott ist gnädig, Fels|Dio è misericordioso, roccia|Deus é misericordioso, rocha
+Hans-Jürgen|m|hebrew|german|2|vintage|Dios es misericordioso, agricultor|God is gracious, farmer|Dieu fait grâce, cultivateur|Gott ist gnädig, Landmann|Dio è misericordioso, agricoltore|Deus é misericordioso, lavrador
+Klaus-Dieter|m|greek|german|2|vintage|Victoria del pueblo, gobernante|Victory of the people, ruler of the people|Victoire du peuple, souverain du peuple|Sieg des Volkes, Herrscher des Volkes|Vittoria del popolo, sovrano del popolo|Vitória do povo, governante do povo
+Franz-Josef|m|germanic|german|2|vintage,royal|Hombre libre, Dios añadirá|Free man, God will add|Homme libre, Dieu ajoutera|Freier Mann, Gott möge hinzufügen|Uomo libero, Dio aggiungerà|Homem livre, Deus acrescentará
+Hans-Georg|m|hebrew|german|2|vintage|Dios es misericordioso, agricultor|God is gracious, farmer|Dieu fait grâce, cultivateur|Gott ist gnädig, Landmann|Dio è misericordioso, agricoltore|Deus é misericordioso, lavrador

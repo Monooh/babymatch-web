@@ -1,0 +1,71 @@
+Calixto|m|greek|spanish|1|saint,vintage|El más hermoso|The most beautiful|Le plus beau|Der Schönste|Il più bello|O mais belo
+Camilo|m|latin|spanish|3|classic,saint|Ayudante del culto|Ritual attendant|Serviteur du culte|Opferdiener|Ministro del culto|Ajudante do culto
+Cándido|m|latin|spanish|1|vintage,virtue|Blanco, puro|White, pure|Blanc, pur|Weiß, rein|Bianco, puro|Branco, puro
+Carlos|m|germanic|spanish|5|royal,classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Carmelo|m|hebrew|spanish,italian|2|biblical,saint,nature|Jardín de Dios|Garden of God|Jardin de Dieu|Garten Gottes|Giardino di Dio|Jardim de Deus
+Casimiro|m|slavic|spanish|1|vintage,saint|Que proclama la paz|Proclaimer of peace|Qui proclame la paix|Friedensverkünder|Proclamatore di pace|Proclamador da paz
+Cayetano|m|latin|spanish|2|saint,vintage,place|Natural de Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Celedonio|m|greek|spanish|1|saint,vintage,animal|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Celestino|m|latin|spanish,italian|2|saint,celestial,vintage|Celestial|Heavenly|Céleste|Himmlisch|Celestiale|Celestial
+Celso|m|latin|spanish|1|saint,vintage|Elevado|Lofty|Élevé|Erhaben|Elevato|Elevado
+César|m|latin|spanish,french,portuguese|4|royal,classic|Emperador|Emperor|Empereur|Kaiser|Imperatore|Imperador
+Cesáreo|m|latin|spanish|1|saint,vintage,royal|Perteneciente a César|Belonging to Caesar|Appartenant à César|Zu Cäsar gehörig|Appartenente a Cesare|Pertencente a César
+Cipriano|m|greek|spanish|1|saint,vintage|De Chipre|From Cyprus|De Chypre|Aus Zypern|Di Cipro|De Chipre
+Cirilo|m|greek|spanish|1|saint,vintage|Señorial|Lordly|Seigneurial|Herrschaftlich|Signorile|Senhorial
+Ciro|m|persian|spanish,italian|3|royal,celestial,classic|Sol|Sun|Soleil|Sonne|Sole|Sol
+Claudio|m|latin|spanish,italian|3|classic,royal|De la familia Claudia|Of the Claudian clan|De la gens Claudia|Aus dem Geschlecht der Claudier|Della gens Claudia|Da família Cláudia
+Clemente|m|latin|spanish,italian,portuguese|2|saint,virtue,classic|Clemente, misericordioso|Merciful, gentle|Clément, miséricordieux|Milde, barmherzig|Clemente, misericordioso|Clemente, misericordioso
+Constantino|m|latin|spanish,portuguese|2|royal,virtue|Constante|Steadfast|Constant|Standhaft|Costante|Constante
+Cosme|m|greek|spanish|1|saint,vintage|Orden, adorno|Order, ornament|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, adorno
+Crescencio|m|latin|spanish|1|saint,vintage|Creciente|Growing|Croissant|Wachsend|Crescente|Crescente
+Crisanto|m|greek|spanish|1|saint,flower,vintage|Flor dorada|Golden flower|Fleur dorée|Goldene Blume|Fiore dorato|Flor dourada
+Crispín|m|latin|spanish|1|saint,vintage|De cabello rizado|Curly-haired|Aux cheveux bouclés|Lockig|Dai capelli ricci|De cabelo encaracolado
+Crisóstomo|m|greek|spanish|1|saint,vintage|Boca de oro|Golden mouth|Bouche d'or|Goldmund|Bocca d'oro|Boca de ouro
+Cristian|m|greek|spanish,german,intl|4|modern,saint|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Cristóbal|m|greek|spanish|4|saint,classic|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Cuauhtémoc|m|native|spanish|2|warrior,animal,royal|Águila que desciende|Descending eagle|Aigle qui descend|Herabstürzender Adler|Aquila che scende|Águia que desce
+Dagoberto|m|germanic|spanish|1|royal,vintage,light|Brillante como el día|Bright as the day|Brillant comme le jour|Strahlend wie der Tag|Splendente come il giorno|Brilhante como o dia
+Dámaso|m|greek|spanish|1|saint,vintage|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Damián|m|greek|spanish|4|saint,classic|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Daniel|m|hebrew|spanish,intl|5|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+Dante|m|latin|spanish,italian|4|literary,modern,trendy|Perseverante|Enduring|Persévérant|Ausdauernd|Perseverante|Perseverante
+Darío|m|persian|spanish|3|royal,classic|El que posee el bien|Possessor of good|Qui possède le bien|Der das Gute besitzt|Colui che possiede il bene|Aquele que possui o bem
+David|m|hebrew|spanish,intl|5|biblical,royal,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Delfín|m|greek|spanish|1|animal,sea,vintage|Delfín|Dolphin|Dauphin|Delfin|Delfino|Golfinho
+Demetrio|m|greek|spanish|1|saint,mythology,vintage|Devoto de Deméter|Devoted to Demeter|Dévoué à Déméter|Demeter geweiht|Devoto di Demetra|Devoto de Deméter
+Deogracias|m|latin|spanish|1|saint,vintage|Gracias a Dios|Thanks to God|Grâce à Dieu|Dank sei Gott|Grazie a Dio|Graças a Deus
+Desiderio|m|latin|spanish,italian|1|saint,vintage,love|Deseado|Desired|Désiré|Ersehnt|Desiderato|Desejado
+Diego|m|greek|spanish,portuguese|5|classic,saint|Instruido|Taught|Instruit|Gelehrt|Istruito|Instruído
+Diodoro|m|greek|spanish|1|vintage,saint|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Dom de Deus
+Dionisio|m|greek|spanish|2|mythology,saint,vintage|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dioniso
+Domingo|m|latin|spanish,portuguese|3|saint,classic|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Donato|m|latin|spanish,italian|2|saint,vintage|Dado|Given|Donné|Geschenkt|Donato|Dado
+Doroteo|m|greek|spanish|1|saint,vintage|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Edgar|m|germanic|spanish,english,french|3|classic,literary,warrior|Lanza de la riqueza|Wealthy spear|Lance de la richesse|Speer des Reichtums|Lancia della ricchezza|Lança da riqueza
+Edmundo|m|germanic|spanish|2|royal,vintage|Protector rico|Rich protector|Protecteur riche|Reicher Beschützer|Ricco protettore|Protetor rico
+Eduardo|m|germanic|spanish,portuguese|4|royal,classic|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Efraín|m|hebrew|spanish|2|biblical|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Efrén|m|hebrew|spanish|2|saint,biblical|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Eladio|m|greek|spanish|1|saint,vintage|De Grecia|From Greece|De Grèce|Aus Griechenland|Dalla Grecia|Da Grécia
+Eleazar|m|hebrew|spanish|1|biblical,vintage|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Eleuterio|m|greek|spanish|1|saint,vintage,virtue|Libre|Free|Libre|Frei|Libero|Livre
+Elías|m|hebrew|spanish|4|biblical,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Eliseo|m|hebrew|spanish|2|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Eloy|m|latin|spanish|3|saint,vintage|Elegido|Chosen|Élu|Auserwählter|Eletto|Escolhido
+Emanuel|m|hebrew|spanish,portuguese|3|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Emiliano|m|latin|spanish|4|classic,trendy|Rival, competidor|Rival, competitor|Rival, concurrent|Rivale, Nacheiferer|Rivale, emulo|Rival, competidor
+Emilio|m|latin|spanish,italian|4|classic|Rival, competidor|Rival, competitor|Rival, concurrent|Rivale, Nacheiferer|Rivale, emulo|Rival, competidor
+Eneas|m|greek|spanish|1|mythology,literary,vintage|Digno de alabanza|Worthy of praise|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Enrique|m|germanic|spanish|4|royal,classic|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Enzo|m|germanic|spanish,italian|4|modern,trendy|Gobernante del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Epifanio|m|greek|spanish|1|saint,vintage,light|Manifestación, aparición|Manifestation|Manifestation|Erscheinung|Manifestazione|Manifestação
+Erasmo|m|greek|spanish|1|saint,vintage,love|Amable, digno de amor|Beloved, lovable|Aimable, digne d'amour|Liebenswert|Amabile, degno d'amore|Amável, digno de amor
+Ernesto|m|germanic|spanish,italian,portuguese|3|classic,strong|Firme, decidido|Earnest, resolute|Sérieux, résolu|Ernst, entschlossen|Serio, risoluto|Sério, resoluto
+Esteban|m|greek|spanish|4|biblical,saint,classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Eufemio|m|greek|spanish|1|saint,vintage|De buena fama|Of good repute|De bonne réputation|Von gutem Ruf|Di buona fama|De boa fama
+Eugenio|m|greek|spanish,italian|3|classic,saint|Bien nacido, noble|Well-born, noble|Bien né, noble|Wohlgeboren, edel|Ben nato, nobile|Bem-nascido, nobre
+Eulalio|m|greek|spanish|1|saint,vintage|Bien hablado|Well-spoken|Qui parle bien|Wohlredend|Che parla bene|Bem falante
+Eulogio|m|greek|spanish|1|saint,vintage|Buen discurso|Fine speech|Beau discours|Gute Rede|Buon discorso|Bom discurso
+Eusebio|m|greek|spanish|2|saint,vintage,virtue|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Evaristo|m|greek|spanish,portuguese|1|saint,vintage|Excelente|Excellent|Excellent|Vortrefflich|Eccellente|Excelente
+Ezequiel|m|hebrew|spanish|3|biblical,strong|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece

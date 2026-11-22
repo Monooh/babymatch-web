@@ -1,0 +1,95 @@
+Damiana|f|greek|italian|1|saint|Domadora|Tamer|Dompteuse|Bezwingerin|Domatrice|Domadora
+Daniel|m|hebrew|italian,english,german,intl|3|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Danilo|m|hebrew|italian|2|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Daria|f|persian|italian|3|royal|Que posee el bien|Possessing goodness|Qui possède le bien|Die das Gute besitzt|Che possiede il bene|Que possui o bem
+Delfino|m|latin|italian|1|animal,sea|Delfín|Dolphin|Dauphin|Delfin|Delfino|Golfinho
+Desdemona|f|greek|italian|1|literary|Desventurada|Ill-fated|Infortunée|Unglückselige|Sventurata|Desventurada
+Diomede|m|greek|italian|1|mythology|Consejo de Zeus|Counsel of Zeus|Conseil de Zeus|Rat des Zeus|Consiglio di Zeus|Conselho de Zeus
+Dionisia|f|greek|italian|1|saint,mythology|Consagrada a Dioniso|Devoted to Dionysus|Consacrée à Dionysos|Dionysos geweiht|Devota a Dioniso|Consagrada a Dioniso
+Dionisio|m|greek|italian|2|saint,mythology|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dionysos geweiht|Devoto a Dioniso|Consagrado a Dioniso
+Donatella|f|latin|italian|3|sweet|Pequeña regalada|Little given one|Petite donnée|Kleine Geschenkte|Piccola donata|Pequena dada
+Egidio|m|greek|italian|2|saint|Protector|Protector|Protecteur|Beschützer|Protettore|Protetor
+Egle|f|greek|italian|1|mythology,light|Resplandor|Radiance|Éclat|Glanz|Splendore|Esplendor
+Eleuteria|f|greek|italian|1|saint,virtue|Libre|Free|Libre|Frei|Libera|Livre
+Eleuterio|m|greek|italian,spanish|1|saint,virtue|Libre|Free|Libre|Frei|Libero|Livre
+Eliodoro|m|greek|italian|1|saint,celestial|Regalo del sol|Gift of the sun|Don du soleil|Geschenk der Sonne|Dono del sole|Presente do sol
+Enrichetta|f|germanic|italian|2|vintage|Señora del hogar|Ruler of the home|Maîtresse du foyer|Herrin des Hauses|Signora della casa|Senhora do lar
+Epifania|f|greek|italian|1|saint|Manifestación|Manifestation|Manifestation|Erscheinung|Manifestazione|Manifestação
+Epifanio|m|greek|italian|1|saint|Manifestación|Manifestation|Manifestation|Erscheinung|Manifestazione|Manifestação
+Eraldo|m|germanic|italian|1|vintage|Jefe del ejército|Army ruler|Chef de l'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Erasmo|m|greek|italian|1|saint,classic|Amado|Beloved|Aimé|Geliebter|Amato|Amado
+Ermengarda|f|germanic|italian|1|literary,vintage|Protección total|Universal protection|Protection universelle|Allumfassender Schutz|Protezione universale|Proteção universal
+Erminia|f|germanic|italian|2|vintage,literary|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Erminio|m|germanic|italian|1|vintage|Universal|Universal|Universel|Allumfassend|Universale|Universal
+Ernesta|f|germanic|italian|1|vintage|Seria y firme|Serious and determined|Sérieuse et déterminée|Ernst und entschlossen|Seria e determinata|Séria e determinada
+Esmeralda|f|greek|italian,spanish,portuguese|2|gem|Esmeralda|Emerald|Émeraude|Smaragd|Smeraldo|Esmeralda
+Eufemio|m|greek|italian|1|saint|De buenas palabras|Of fair speech|De belle parole|Wohlredend|Di buone parole|De boas palavras
+Eulalia|f|greek|italian,spanish|1|saint|Bien hablada|Well-spoken|Bien parlante|Wohlredend|Dal bel parlare|Bem-falante
+Eustachio|m|greek|italian|1|saint|Fructífero|Fruitful|Fécond|Fruchtbar|Fecondo|Frutífero
+Evaristo|m|greek|italian,spanish,portuguese|1|saint|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Fabia|f|latin|italian|2|classic|Cultivadora de habas|Bean grower|Cultivatrice de fèves|Bohnenbäuerin|Coltivatrice di fave|Cultivadora de favas
+Fabiano|m|latin|italian|2|saint,classic|Cultivador de habas|Bean grower|Cultivateur de fèves|Bohnenbauer|Coltivatore di fave|Cultivador de favas
+Faustino|m|latin|italian|2|saint|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Fede|f|latin|italian|1|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Fedora|f|greek|italian|1|literary|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Presente de Deus
+Fedro|m|greek|italian|1|classic|Brillante|Bright|Brillant|Strahlend|Splendente|Brilhante
+Ferdinando|m|germanic|italian|2|royal|Viajero audaz|Bold traveler|Voyageur audacieux|Kühner Reisender|Viaggiatore audace|Viajante audaz
+Fermo|m|latin|italian|1|saint,virtue|Firme|Firm|Ferme|Fest|Fermo|Firme
+Fernanda|f|germanic|italian,spanish,portuguese|2|royal|Viajera audaz|Bold traveler|Voyageuse audacieuse|Kühne Reisende|Viaggiatrice audace|Viajante audaz
+Ferruccio|m|latin|italian|2|vintage|De hierro|Of iron|De fer|Aus Eisen|Di ferro|De ferro
+Fiamma|f|latin|italian|2|light,nature|Llama|Flame|Flamme|Flamme|Fiamma|Chama
+Fidelia|f|latin|italian|1|virtue|Fiel|Faithful|Fidèle|Treu|Fedele|Fiel
+Fiordaliso|f|latin|italian|1|flower|Aciano|Cornflower|Bleuet|Kornblume|Fiordaliso|Centáurea
+Fiorello|m|latin|italian|1|flower,vintage|Florecita|Little flower|Petite fleur|Blümchen|Piccolo fiore|Florzinha
+Fiorenza|f|latin|italian|1|flower|Floreciente|Flourishing|Florissante|Blühend|Fiorente|Florescente
+Flaminia|f|latin|italian|2|classic|Sacerdotisa|Priestess|Prêtresse|Priesterin|Sacerdotessa|Sacerdotisa
+Floriano|m|latin|italian|2|saint,flower|Florido|Flowering|Fleuri|Blühend|Fiorito|Florido
+Fosca|f|latin|italian|1|literary|Oscura|Dark|Sombre|Dunkel|Scura|Escura
+Fosco|m|latin|italian|1|vintage|Oscuro|Dark|Sombre|Dunkel|Scuro|Escuro
+Fulgenzio|m|latin|italian|1|saint,light|Resplandeciente|Shining|Resplendissant|Strahlend|Splendente|Resplandecente
+Fulvia|f|latin|italian|1|classic|Dorada, leonada|Tawny, golden-yellow|Fauve, dorée|Goldgelb|Fulva, dorata|Dourada, fulva
+Germana|f|latin|italian|1|saint|Hermana|Sibling|Sœur|Schwester|Sorella|Irmã
+Gherardo|m|germanic|italian|1|vintage,warrior|Lanza valiente|Brave spear|Lance vaillante|Tapferer Speer|Lancia coraggiosa|Lança valente
+Giacobbe|m|hebrew|italian|2|biblical|El que sujeta el talón|He who holds the heel|Celui qui tient le talon|Der an der Ferse hält|Colui che tiene il calcagno|Aquele que segura o calcanhar
+Gian Battista|m|hebrew|italian|1|saint,classic|Dios es misericordioso, el que bautiza|God is gracious, the baptizer|Dieu fait grâce, le baptiseur|Gott ist gnädig, der Täufer|Dio è misericordioso, il battezzatore|Deus é misericordioso, o batizador
+Gian Franco|m|hebrew|italian|1|classic|Dios es misericordioso, libre|God is gracious, free|Dieu fait grâce, libre|Gott ist gnädig, frei|Dio è misericordioso, libero|Deus é misericordioso, livre
+Gian Lorenzo|m|hebrew|italian|1|classic|Dios es misericordioso, coronado de laurel|God is gracious, crowned with laurel|Dieu fait grâce, couronné de laurier|Gott ist gnädig, lorbeergekrönt|Dio è misericordioso, coronato d'alloro|Deus é misericordioso, coroado de louros
+Gian Luigi|m|hebrew|italian|1|classic|Dios es misericordioso, guerrero famoso|God is gracious, famous warrior|Dieu fait grâce, guerrier célèbre|Gott ist gnädig, berühmter Krieger|Dio è misericordioso, guerriero glorioso|Deus é misericordioso, guerreiro famoso
+Gian Marco|m|hebrew|italian|1|classic|Dios es misericordioso, consagrado a Marte|God is gracious, devoted to Mars|Dieu fait grâce, consacré à Mars|Gott ist gnädig, dem Mars geweiht|Dio è misericordioso, devoto a Marte|Deus é misericordioso, consagrado a Marte
+Gian Paolo|m|hebrew|italian|1|classic|Dios es misericordioso, pequeño|God is gracious, small|Dieu fait grâce, petit|Gott ist gnädig, klein|Dio è misericordioso, piccolo|Deus é misericordioso, pequeno
+Gian Piero|m|hebrew|italian|1|classic|Dios es misericordioso, roca|God is gracious, rock|Dieu fait grâce, roc|Gott ist gnädig, Fels|Dio è misericordioso, roccia|Deus é misericordioso, rocha
+Gian Pietro|m|hebrew|italian|1|classic|Dios es misericordioso, roca|God is gracious, rock|Dieu fait grâce, roc|Gott ist gnädig, Fels|Dio è misericordioso, roccia|Deus é misericordioso, rocha
+Giasone|m|greek|italian|1|mythology|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Gigliola|f|latin|italian|1|flower|Lirio pequeño|Little lily|Petit lys|Kleine Lilie|Piccolo giglio|Pequeno lírio
+Gilberto|m|germanic|italian,spanish,portuguese|2|vintage|Promesa brillante|Bright pledge|Gage éclatant|Glänzendes Pfand|Pegno splendente|Penhor brilhante
+Gionata|m|hebrew|italian|1|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Gioconda|f|latin|italian|1|literary|Alegre|Joyful|Joyeuse|Fröhlich|Gioiosa|Alegre
+Giocondo|m|latin|italian|1|vintage|Alegre|Joyful|Joyeux|Fröhlich|Gioioso|Alegre
+Gottardo|m|germanic|italian|1|saint|Fuerte en Dios|Strong in God|Fort en Dieu|Stark in Gott|Forte in Dio|Forte em Deus
+Griselda|f|germanic|italian|1|literary|Batalla gris|Grey battle|Combat gris|Graue Schlacht|Grigia battaglia|Batalha cinzenta
+Guarino|m|germanic|italian|1|vintage|Guardián|Guardian|Gardien|Wächter|Custode|Guardião
+Guendalina|f|celtic|italian|1|vintage|Círculo blanco|White ring|Cercle blanc|Weißer Kreis|Cerchio bianco|Círculo branco
+Guerrino|m|germanic|italian|1|vintage|Protector|Protector|Protecteur|Beschützer|Protettore|Protetor
+Igea|f|greek|italian|1|mythology|Salud|Health|Santé|Gesundheit|Salute|Saúde
+Igino|m|greek|italian|1|saint|Sano|Healthy|Sain|Gesund|Sano|Saudável
+Ildebrando|m|germanic|italian|1|saint,warrior|Espada de combate|Battle sword|Épée de combat|Schlachtschwert|Spada da battaglia|Espada de batalha
+Ildegarda|f|germanic|italian|1|saint,vintage|Protectora en el combate|Battle protector|Protectrice au combat|Schützerin im Kampf|Protettrice in battaglia|Protetora em batalha
+Ilarione|m|greek|italian|1|saint|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Illuminata|f|latin|italian|1|saint,light|Iluminada|Enlightened|Illuminée|Erleuchtete|Illuminata|Iluminada
+Ireneo|m|greek|italian|1|saint|Pacífico|Peaceful|Paisible|Friedlich|Pacifico|Pacífico
+Irma|f|germanic|italian,german|2|vintage|Entera, universal|Whole, universal|Entière, universelle|Ganz, allumfassend|Intera, universale|Inteira, universal
+Iole|f|greek|italian|2|mythology,flower|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Ivana|f|hebrew|italian|2|biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ivano|m|hebrew|italian|2|biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ladislao|m|slavic|italian|1|saint,royal|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Governante glorioso|Governante glorioso
+Leonilde|f|germanic|italian|1|vintage|León en combate|Lion in battle|Lion au combat|Löwe im Kampf|Leone in battaglia|Leão em batalha
+Leontina|f|latin|italian|1|vintage|Como un león|Lion-like|Semblable au lion|Löwengleich|Simile a un leone|Como um leão
+Leonzio|m|latin|italian|1|saint|Como un león|Lion-like|Semblable au lion|Löwengleich|Simile a un leone|Como um leão
+Libera|f|latin|italian|1|virtue|Libre|Free|Libre|Frei|Libera|Livre
+Liberata|f|latin|italian|1|saint|Liberada|Freed|Libérée|Befreite|Liberata|Libertada
+Liberato|m|latin|italian|1|saint|Liberado|Freed|Libéré|Befreiter|Liberato|Libertado
+Livia|f|latin|italian,german|3|classic|De color azulado|Bluish|Bleuâtre|Bläulich|Azzurrognola|Azulada
+Livio|m|latin|italian|2|classic|De color azulado|Bluish|Bleuâtre|Bläulich|Azzurrognolo|Azulado
+Lotario|m|germanic|italian|1|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero glorioso|Guerreiro famoso
+Lucina|f|latin|italian|1|saint,light|La que trae la luz|She who brings light|Celle qui apporte la lumière|Lichtbringerin|Colei che porta alla luce|Aquela que traz a luz
+Lucrezia|f|latin|italian|3|classic,vintage|Riqueza, ganancia|Wealth, gain|Richesse, gain|Reichtum, Gewinn|Ricchezza, guadagno|Riqueza, ganho

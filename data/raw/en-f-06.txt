@@ -1,0 +1,100 @@
+Tabitha|f|hebrew|english|2|biblical,animal|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Talia|f|hebrew|english|2|modern,nature|Rocío del cielo|Dew from heaven|Rosée du ciel|Tau des Himmels|Rugiada del cielo|Orvalho do céu
+Tamara|f|hebrew|english,russian|2|biblical,nature|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Tania|f|latin|english,russian|1|classic|Del clan de Tacio|Of the Tatius clan|De la famille Tatius|Aus dem Haus der Tatier|Della famiglia Tazia|Da família Tácia
+Tara|f|sanskrit|english,indian|2|celestial,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Teresa|f|greek|english|2|saint,classic|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Tessa|f|greek|english|3|sweet,vintage|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Thea|f|greek|english|2|mythology,classic|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Thelma|f|greek|english|1|vintage|Voluntad|Will, volition|Volonté|Wille|Volontà|Vontade
+Theodora|f|greek|english|2|vintage,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Thomasina|f|hebrew|english|1|vintage|Gemela|Twin|Jumelle|Zwilling|Gemella|Gêmea
+Tiffany|f|greek|english|1|classic,modern|Manifestación de Dios|Manifestation of God|Manifestation de Dieu|Erscheinung Gottes|Manifestazione di Dio|Manifestação de Deus
+Tilly|f|germanic|english|2|vintage,sweet|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Tracy|f|celtic|english|1|classic|Guerrera|Warrior|Guerrière|Kriegerin|Guerriera|Guerreira
+Trinity|f|latin|english|3|modern,virtue|Trinidad|Holy Trinity|Trinité|Dreifaltigkeit|Trinità|Trindade
+Trudy|f|germanic|english|1|vintage,sweet|Fuerza de la lanza|Spear of strength|Force de la lance|Speerkraft|Forza della lancia|Força da lança
+Tulip|f|persian|english|1|flower,nature|Tulipán|Tulip|Tulipe|Tulpe|Tulipano|Tulipa
+Una|f|latin|english|1|vintage,classic|Una, única|One, unity|Une, unité|Eins, Einheit|Una, unità|Uma, unidade
+Ursula|f|latin|english,german|2|vintage,animal|Pequeña osa|Little bear|Petite ourse|Kleine Bärin|Piccola orsa|Pequena ursa
+Valentina|f|latin|english,italian|3|classic,strong|Fuerte, sana|Strong, healthy|Forte, vaillante|Stark, gesund|Forte, sana|Forte, saudável
+Valerie|f|latin|english,french|2|classic,strong|Fuerte, sana|Strong, healthy|Forte, vaillante|Stark, gesund|Forte, sana|Forte, saudável
+Vanessa|f|other|english|2|literary,classic|Mariposa|Butterfly|Papillon|Schmetterling|Farfalla|Borboleta
+Vera|f|latin|english,russian|2|vintage,virtue|Verdad, fe|Truth, faith|Vérité, foi|Wahrheit, Glaube|Verità, fede|Verdade, fé
+Verity|f|latin|english|2|virtue,vintage|Verdad|Truth|Vérité|Wahrheit|Verità|Verdade
+Veronica|f|latin|english,italian|2|saint,classic|Imagen verdadera|True image|Vraie image|Wahres Bild|Vera immagine|Imagem verdadeira
+Victoria|f|latin|english,intl|4|royal,strong|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Violet|f|latin|english|4|flower,vintage|Violeta|Violet flower|Violette|Veilchen|Viola|Violeta
+Violetta|f|latin|english,italian|2|flower,music|Pequeña violeta|Little violet|Petite violette|Kleines Veilchen|Piccola viola|Pequena violeta
+Virginia|f|latin|english,italian|2|classic,virtue|Doncella pura|Pure maiden|Vierge pure|Reine Jungfrau|Fanciulla pura|Donzela pura
+Vivian|f|latin|english|2|vintage,light|Viva|Alive|Vivante|Lebendig|Viva|Viva
+Vivienne|f|latin|english,french|3|vintage,sweet|Viva|Alive|Vivante|Lebendig|Viva|Viva
+Wanda|f|germanic|english,polish|1|vintage|Errante|Wanderer|Voyageuse|Wanderin|Errante|Errante
+Wendy|f|celtic|english|2|literary,classic|Amiga|Friend|Amie|Freundin|Amica|Amiga
+Whitney|f|germanic|english|1|modern,place|Isla blanca|White island|Île blanche|Weiße Insel|Isola bianca|Ilha branca
+Wilhelmina|f|germanic|english|1|vintage,royal|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Willa|f|germanic|english|3|vintage,strong|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Willow|f|germanic|english|5|nature,modern|Sauce|Willow tree|Saule|Weide|Salice|Salgueiro
+Winifred|f|celtic|english,welsh|1|vintage,saint|Reconciliación bendita|Blessed reconciliation|Réconciliation bénie|Gesegnete Versöhnung|Riconciliazione benedetta|Reconciliação abençoada
+Winnie|f|celtic|english|1|vintage,sweet|Reconciliación bendita|Blessed reconciliation|Réconciliation bénie|Gesegnete Versöhnung|Riconciliazione benedetta|Reconciliação abençoada
+Winter|f|germanic|english|2|nature,modern|Invierno|Winter|Hiver|Winter|Inverno|Inverno
+Wren|f|germanic|english|3|animal,nature|Reyezuelo, pajarillo|Small songbird|Troglodyte, petit oiseau|Zaunkönig|Scricciolo|Carriça
+Xanthe|f|greek|english|1|mythology,light|Rubia, dorada|Golden, yellow|Blonde, dorée|Blond, golden|Bionda, dorata|Loira, dourada
+Xena|f|greek|english|1|modern,strong|Hospitalaria|Hospitable|Hospitalière|Gastfreundlich|Ospitale|Hospitaleira
+Yasmin|f|persian|english,arabic|2|flower,modern|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yvette|f|germanic|english,french|1|vintage|Tejo, arquera|Yew tree|If|Eibe|Tasso|Teixo
+Yvonne|f|germanic|english,french|1|vintage|Tejo, arquera|Yew tree|If|Eibe|Tasso|Teixo
+Zara|f|arabic|english|3|modern,royal|Flor, resplandor|Blossom, radiance|Fleur, éclat|Blüte, Glanz|Fiore, splendore|Flor, esplendor
+Zelda|f|germanic|english|1|literary,vintage|Batalla gris|Grey battle|Bataille grise|Graue Schlacht|Battaglia grigia|Batalha cinzenta
+Zoe|f|greek|english,intl|4|classic,light|Vida|Life|Vie|Leben|Vita|Vida
+Zoey|f|greek|english|4|modern,sweet|Vida|Life|Vie|Leben|Vita|Vida
+Zuri|f|african|english|3|modern,sweet|Bella|Beautiful|Belle|Schön|Bella|Bela
+Zinnia|f|other|english|1|flower,modern|Flor de zinnia|Zinnia flower|Fleur de zinnia|Zinnienblüte|Fiore di zinnia|Flor de zínia
+Wilhelmine|f|germanic|english,german|1|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Wynne|f|celtic|english|1|vintage|Blanca, justa|Fair, blessed|Blanche, bénie|Hell, gesegnet|Bianca, benedetta|Branca, abençoada
+Lorelei|f|germanic|english,german|2|mythology,music|Roca susurrante|Murmuring rock|Rocher murmurant|Murmelnder Fels|Roccia sussurrante|Rocha murmurante
+Lavender|f|latin|english|2|flower,nature|Lavanda|Lavender|Lavande|Lavendel|Lavanda|Lavanda
+Lacey|f|other|english|1|modern|De Lassy|From Lassy|De Lassy|Aus Lassy|Da Lassy|De Lassy
+Larissa|f|greek|english,russian|2|mythology,sea|Ciudadela, gaviota|Citadel, seagull|Citadelle, mouette|Zitadelle, Möwe|Cittadella, gabbiano|Cidadela, gaivota
+Lana|f|celtic|english|2|modern,light|Hermosa, pacífica|Fair, little rock|Belle, paisible|Schön, friedlich|Bella, pacifica|Bela, pacífica
+Lyra|f|greek|english|3|music,celestial|Lira|Lyre|Lyre|Leier|Lira|Lira
+Lucille|f|latin|english,french|2|vintage,light|Luz|Light|Lumière|Licht|Luce|Luz
+Lucinda|f|latin|english|1|vintage,light|Luz|Light|Lumière|Licht|Luce|Luz
+Lorraine|f|germanic|english,french|1|vintage,place|De Lorena|From Lorraine|De Lorraine|Aus Lothringen|Della Lorena|Da Lorena
+Leona|f|latin|english|2|animal,strong|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Lorena|f|germanic|english,spanish|2|place,classic|De Lorena|From Lorraine|De Lorraine|Aus Lothringen|Della Lorena|Da Lorena
+Marina|f|latin|english,spanish,italian|3|sea,classic|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Mariah|f|hebrew|english|1|biblical,modern|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Mckenna|f|celtic|english|1|modern|Hija de Cinaed|Daughter of Cinaed|Fille de Cinaed|Tochter des Cinaed|Figlia di Cinaed|Filha de Cinaed
+Mirabel|f|latin|english|2|literary,sweet|Maravillosa|Wonderful|Merveilleuse|Wunderbar|Meravigliosa|Maravilhosa
+Mirabelle|f|latin|english,french|1|sweet,vintage|Maravillosa|Wonderful|Merveilleuse|Wunderbar|Meravigliosa|Maravilhosa
+Nadine|f|slavic|english,french|1|classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Neva|f|latin|english|1|vintage,nature|Nieve|Snow|Neige|Schnee|Neve|Neve
+Nicola|f|greek|english|1|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Noelle|f|latin|english,french|2|vintage,sweet|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Nyla|f|african|english|1|modern|Campeona|Champion|Championne|Siegerin|Campionessa|Campeã
+Odessa|f|greek|english|1|vintage,place|Viaje largo|Long journey|Long voyage|Lange Reise|Lungo viaggio|Longa viagem
+Oriel|f|latin|english|1|vintage,light|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Paloma|f|latin|english,spanish|2|animal,sweet|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Raina|f|latin|english|1|royal,modern|Reina|Queen|Reine|Königin|Regina|Rainha
+Ramona|f|germanic|english|1|vintage,literary|Protectora sabia|Wise protector|Protectrice sage|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Raquel|f|hebrew|english,spanish|1|biblical,classic|Oveja|Ewe|Brebis|Mutterschaf|Pecora|Ovelha
+Reese|f|celtic|english|2|modern,strong|Ardiente, entusiasta|Ardent, fiery|Ardente, fougueuse|Feurig, begeistert|Ardente, entusiasta|Ardente, fogosa
+Riley|f|celtic|english|3|modern|Claro en el prado|Rye clearing|Clairière de seigle|Roggenlichtung|Radura di segale|Clareira de centeio
+Ronnie|f|norse|english|1|modern|Consejo de poder|Mighty counsel|Conseil puissant|Mächtiger Rat|Consiglio possente|Conselho poderoso
+Rylee|f|celtic|english|2|modern|Claro en el prado|Rye clearing|Clairière de seigle|Roggenlichtung|Radura di segale|Clareira de centeio
+Saffron|f|persian|english|1|flower,nature|Azafrán|Saffron spice|Safran|Safran|Zafferano|Açafrão
+Salome|f|hebrew|english|1|biblical,vintage|Paz|Peace|Paix|Frieden|Pace|Paz
+Sasha|f|greek|english,russian|2|modern,strong|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Shelby|f|germanic|english|2|modern,place|Granja de sauces|Willow farm|Ferme des saules|Weidenhof|Fattoria dei salici|Quinta dos salgueiros
+Sloane|f|celtic|english|2|modern|Guerrera|Warrior|Guerrière|Kriegerin|Guerriera|Guerreira
+Sydney|f|other|english|2|modern,place|Isla ancha|Wide island|Île large|Breite Insel|Isola ampia|Ilha ampla
+Sylvana|f|latin|english|1|nature,vintage|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Thalia|f|greek|english,greek|2|mythology,music|Florecer|To flourish|Fleurir|Blühen|Fiorire|Florescer
+Tallulah|f|native|english|2|vintage,place|Agua que salta|Leaping water|Eau qui jaillit|Springendes Wasser|Acqua che balza|Água que salta
+Tamsin|f|hebrew|english|2|vintage,sweet|Gemela|Twin|Jumelle|Zwilling|Gemella|Gêmea
+Tegan|f|celtic|english,welsh|1|modern,sweet|Hermosa|Pretty, fair|Jolie|Hübsch|Graziosa|Bela
+Tessie|f|greek|english|1|vintage,sweet|Cosechadora|Harvester|Moissonneuse|Erntende|Mietitrice|Ceifeira
+Tilda|f|germanic|english|2|vintage,sweet|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Verena|f|latin|english,german|1|saint,virtue|Respetuosa|Reverent|Respectueuse|Ehrfürchtig|Riverente|Reverente
+Vesper|f|latin|english|1|celestial,modern|Estrella de la tarde|Evening star|Étoile du soir|Abendstern|Stella della sera|Estrela da tarde

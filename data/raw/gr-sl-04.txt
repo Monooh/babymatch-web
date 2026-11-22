@@ -1,0 +1,59 @@
+Adam|m|hebrew|polish,german,english,intl|5|biblical,classic|Tierra, hombre de la tierra|Earth, man of the earth|Terre, homme de la terre|Erde, Mensch aus Erde|Terra, uomo della terra|Terra, homem da terra
+Adéla|f|germanic|polish,french|3|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Agata|f|greek|polish,italian|3|saint,virtue|Buena|Good|Bonne|Gute|Buona|Boa
+Agnieszka|f|greek|polish|3|saint,virtue|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Albina|f|latin|russian,polish|2|vintage,light|Blanca|White|Blanche|Weiß|Bianca|Branca
+Alexei|m|greek|russian|4|saint,classic|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Aleksander|m|greek|polish|5|royal,strong,classic|Defensor de los hombres|Defender of men|Protecteur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Aleksandra|f|greek|polish|4|royal,strong,classic|Defensora de la humanidad|Defender of mankind|Protectrice des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Alicja|f|germanic|polish|4|classic,royal|De noble condición|Of noble kind|De noble espèce|Von edler Art|Di nobile stirpe|De nobre condição
+Alyona|f|greek|russian|3|classic,light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Fiaccola, luce brillante|Tocha, luz brilhante
+Anatoly|m|greek|russian|2|classic,light|Amanecer, salida del sol|Sunrise, east|Lever du soleil|Sonnenaufgang|Alba, levante|Nascer do sol
+Andrei|m|greek|russian|4|saint,classic|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Anežka|f|greek|polish|3|saint,virtue|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Aniela|f|latin|polish|3|vintage,sweet|Ángel, mensajera|Angel, messenger|Ange, messagère|Engel, Botin|Angelo, messaggera|Anjo, mensageira
+Anna|f|hebrew|polish,russian,intl|5|biblical,classic,sweet|Gracia, favor|Grace, favour|Grâce, faveur|Gnade, Gunst|Grazia, favore|Graça, favor
+Antoni|m|latin|polish|5|classic,saint|Digno de elogio|Priceless, praiseworthy|Inestimable, digne d'éloges|Unschätzbar, lobenswert|Inestimabile, degno di lode|Inestimável, digno de elogio
+Antonina|f|latin|polish,russian|3|vintage,saint|Digna de elogio|Priceless, praiseworthy|Inestimable, digne d'éloges|Unschätzbar, lobenswert|Inestimabile, degna di lode|Inestimável, digna de elogio
+Arina|f|greek|russian|3|classic,virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Arkady|m|greek|russian|2|place,classic|De Arcadia|Of Arcadia|D'Arcadie|Aus Arkadien|Dell'Arcadia|Da Arcádia
+Barbora|f|greek|polish|4|saint,classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Bartosz|m|hebrew|polish|3|biblical,saint|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Bogdan|m|slavic|russian,polish|3|virtue,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Bogdana|f|slavic|russian,polish|2|virtue,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Bogumiła|f|slavic|polish|1|vintage,love|Querida por Dios|Dear to God|Chère à Dieu|Gott lieb|Cara a Dio|Querida por Deus
+Bogusław|m|slavic|polish|1|vintage,virtue|Gloria de Dios|Glory of God|Gloire de Dieu|Ruhm Gottes|Gloria di Dio|Glória de Deus
+Bohdan|m|slavic|russian|3|virtue,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Bohumil|m|slavic|polish|2|vintage,love|Querido por Dios|Dear to God|Cher à Dieu|Gott lieb|Caro a Dio|Querido por Deus
+Bojan|m|slavic|russian|2|warrior,strong|Guerrero, luchador|Warrior, fighter|Guerrier, combattant|Krieger, Kämpfer|Guerriero, combattente|Guerreiro, lutador
+Bolesław|m|slavic|polish|2|royal,warrior,vintage|Gran gloria|Great glory|Grande gloire|Große Ehre|Grande gloria|Grande glória
+Boris|m|slavic|russian|3|warrior,classic|Luchador|Fighter|Combattant|Kämpfer|Combattente|Lutador
+Borislav|m|slavic|russian|2|warrior,royal|Glorioso en la lucha|Glorious in battle|Glorieux au combat|Ruhmreich im Kampf|Glorioso in battaglia|Glorioso na luta
+Borislava|f|slavic|russian|2|warrior,royal|Gloriosa en la lucha|Glorious in battle|Glorieuse au combat|Ruhmreich im Kampf|Gloriosa in battaglia|Gloriosa na luta
+Borys|m|slavic|polish|3|warrior,classic|Luchador|Fighter|Combattant|Kämpfer|Combattente|Lutador
+Bożena|f|slavic|polish|3|vintage,virtue|Divina, bendecida|Divine, blessed|Divine, bénie|Göttlich, gesegnet|Divina, benedetta|Divina, abençoada
+Božidar|m|slavic|russian|2|virtue,vintage|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Branimir|m|slavic|russian|2|warrior,royal|Defensor de la paz|Defender of peace|Défenseur de la paix|Verteidiger des Friedens|Difensore della pace|Defensor da paz
+Branka|f|slavic|russian|2|strong,classic|Protectora, defensora|Protectress, defender|Protectrice, défenseuse|Beschützerin, Verteidigerin|Protettrice, difenditrice|Protetora, defensora
+Bronisław|m|slavic|polish|2|vintage,warrior|Gloria en la defensa|Glory in defence|Gloire dans la défense|Ruhm in der Verteidigung|Gloria nella difesa|Glória na defesa
+Bronisława|f|slavic|polish|1|vintage,warrior|Gloria en la defensa|Glory in defence|Gloire dans la défense|Ruhm in der Verteidigung|Gloria nella difesa|Glória na defesa
+Cvetana|f|slavic|russian|2|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Cvijeta|f|slavic|russian|2|flower,nature|Flor|Flower|Fleur|Blume|Fiore|Flor
+Czesław|m|slavic|polish|2|vintage,virtue|Honor y gloria|Honour and glory|Honneur et gloire|Ehre und Ruhm|Onore e gloria|Honra e glória
+Daniil|m|hebrew|russian|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Danica|f|slavic|russian|3|celestial,sweet|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Denitsa|f|slavic|russian|3|celestial,light|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Divna|f|slavic|russian|2|sweet,vintage|Maravillosa|Marvellous, wondrous|Merveilleuse|Wunderbar|Meravigliosa|Maravilhosa
+Dmitri|m|greek|russian|4|saint,classic|Devoto de Deméter|Devoted to Demeter|Dévoué à Déméter|Demeter geweiht|Devoto a Demetra|Devoto a Deméter
+Dobrawa|f|slavic|polish|1|vintage,virtue|Buena|Good|Bonne|Gute|Buona|Boa
+Dobrila|f|slavic|russian|1|vintage,virtue|Buena, amable|Good, kind|Bonne, aimable|Gute, freundliche|Buona, gentile|Boa, amável
+Dobromir|m|slavic|russian|2|virtue,vintage|Buena paz|Good peace|Bonne paix|Guter Friede|Buona pace|Boa paz
+Dobroslav|m|slavic|russian|1|virtue,vintage|Buena gloria|Good glory|Bonne gloire|Guter Ruhm|Buona gloria|Boa glória
+Draga|f|slavic|russian|2|love,classic|Querida|Dear, precious|Chère, précieuse|Liebe, Teure|Cara, preziosa|Querida, preciosa
+Dragan|m|slavic|russian|3|love,classic|Querido, precioso|Dear, precious|Cher, précieux|Lieb, teuer|Caro, prezioso|Querido, precioso
+Dragana|f|slavic|russian|3|love,classic|Querida, preciosa|Dear, precious|Chère, précieuse|Liebe, Teure|Cara, preziosa|Querida, preciosa
+Dragica|f|slavic|russian|2|love,sweet|Querida, preciosa|Dear, precious|Chère, précieuse|Liebe, Teure|Cara, preziosa|Querida, preciosa
+Dragomir|m|slavic|russian|2|love,royal|Paz preciosa|Precious peace|Paix précieuse|Kostbarer Friede|Pace preziosa|Paz preciosa
+Dubravka|f|slavic|russian|2|nature,vintage|Bosque de robles|Oak grove|Chênaie|Eichenhain|Querceto|Carvalhal
+Dušan|m|slavic|russian,polish|3|virtue,classic|Alma, espíritu|Soul, spirit|Âme, esprit|Seele, Geist|Anima, spirito|Alma, espírito
+Dušanka|f|slavic|russian|2|virtue,sweet|Alma, espíritu|Soul, spirit|Âme, esprit|Seele, Geist|Anima, spirito|Alma, espírito

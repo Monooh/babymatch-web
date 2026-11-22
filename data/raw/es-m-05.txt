@@ -1,0 +1,48 @@
+Macario|m|greek|spanish|1|saint,vintage,virtue|Bienaventurado|Blessed|Bienheureux|Glückselig|Beato|Bem-aventurado
+Manuel|m|hebrew|spanish|5|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Marc|m|latin|spanish,catalan,french|3|modern,classic|Dedicado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Marcelino|m|latin|spanish|2|saint,vintage|Pequeño guerrero de Marte|Little warrior of Mars|Petit guerrier de Mars|Kleiner Krieger des Mars|Piccolo guerriero di Marte|Pequeno guerreiro de Marte
+Marcelo|m|latin|spanish,portuguese|4|classic,saint|Pequeño guerrero de Marte|Little warrior of Mars|Petit guerrier de Mars|Kleiner Krieger des Mars|Piccolo guerriero di Marte|Pequeno guerreiro de Marte
+Marciano|m|latin|spanish|1|saint,vintage|Perteneciente a Marte|Belonging to Mars|Appartenant à Mars|Dem Mars zugehörig|Appartenente a Marte|Pertencente a Marte
+Marcial|m|latin|spanish|1|saint,vintage,warrior|Dedicado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Marco|m|latin|spanish,italian|3|classic|Dedicado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Marcos|m|latin|spanish|4|biblical,classic|Dedicado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mariano|m|latin|spanish,italian|3|classic,saint|Perteneciente a Mario|Of the Marian clan|De la gens Marius|Aus dem Geschlecht des Marius|Della gens Maria|Da família Mariana
+Marino|m|latin|spanish,italian|1|sea,vintage|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Mario|m|latin|spanish,italian|4|classic|Varonil, dedicado a Marte|Manly, devoted to Mars|Viril, consacré à Mars|Männlich, dem Mars geweiht|Virile, consacrato a Marte|Viril, consagrado a Marte
+Martín|m|latin|spanish|5|saint,classic,warrior|Dedicado a Marte|Devoted to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Mateo|m|hebrew|spanish|5|biblical,classic|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Dom de Deus
+Matías|m|hebrew|spanish|5|biblical,classic|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Dom de Deus
+Mauricio|m|latin|spanish|3|saint,classic|Moreno, moro|Dark-skinned, Moorish|Au teint foncé, maure|Dunkelhäutig, maurisch|Scuro di carnagione, moro|De pele escura, mouro
+Mauro|m|latin|spanish,italian|3|saint,classic|Moreno, moro|Dark-skinned, Moorish|Au teint foncé, maure|Dunkelhäutig, maurisch|Scuro di carnagione, moro|De pele escura, mouro
+Máximo|m|latin|spanish|4|classic,royal,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maximiliano|m|latin|spanish|4|classic,royal|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Melchor|m|hebrew|spanish|2|biblical,royal,light|Rey de luz|King of light|Roi de lumière|König des Lichts|Re di luce|Rei de luz
+Miguel|m|hebrew|spanish,portuguese|5|biblical,saint,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem como Deus?
+Modesto|m|latin|spanish|1|saint,vintage,virtue|Modesto|Modest|Modeste|Bescheiden|Modesto|Modesto
+Moisés|m|hebrew|spanish|3|biblical,classic|Salvado de las aguas|Saved from the water|Sauvé des eaux|Aus dem Wasser gerettet|Salvato dalle acque|Salvo das águas
+Nahuel|m|native|spanish|3|animal,strong,modern|Jaguar, tigre|Jaguar, tiger|Jaguar, tigre|Jaguar, Tiger|Giaguaro, tigre|Jaguar, tigre
+Natanael|m|hebrew|spanish|2|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Nazario|m|hebrew|spanish|1|saint,vintage,biblical|De Nazaret|From Nazareth|De Nazareth|Aus Nazareth|Di Nazaret|De Nazaré
+Nehuén|m|native|spanish|2|strong,modern|Fuerte, enérgico|Strong, energetic|Fort, énergique|Stark, energisch|Forte, energico|Forte, enérgico
+Nemesio|m|greek|spanish|1|saint,vintage|Justicia|Justice|Justice|Gerechtigkeit|Giustizia|Justiça
+Néstor|m|greek|spanish|3|mythology,classic|El que regresa|He who returns|Celui qui revient|Der Heimkehrende|Colui che ritorna|Aquele que regressa
+Nicanor|m|greek|spanish|1|saint,vintage,warrior|Vencedor|Victorious|Victorieux|Siegreich|Vittorioso|Vencedor
+Nicasio|m|greek|spanish|1|saint,vintage,warrior|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Nicodemo|m|greek|spanish|1|biblical,vintage|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicolás|m|greek|spanish|5|saint,classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Noé|m|hebrew|spanish,french|4|biblical,classic|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Noel|m|latin|spanish,english,irish|2|classic|Nacimiento, Navidad|Birth, Christmas|Naissance, Noël|Geburt, Weihnachten|Nascita, Natale|Nascimento, Natal
+Norberto|m|germanic|spanish,german|1|saint,vintage|Brillo del norte|Brightness of the north|Éclat du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Octavio|m|latin|spanish|3|classic,royal|Octavo|Eighth|Huitième|Achter|Ottavo|Oitavo
+Olegario|m|germanic|spanish|1|saint,vintage|Lanza poderosa|Mighty spear|Lance puissante|Mächtiger Speer|Lancia potente|Lança poderosa
+Omar|m|arabic|spanish,arabic|3|classic,strong|Vida larga, floreciente|Long-lived, flourishing|Longue vie, florissant|Langlebig, blühend|Longevo, fiorente|De vida longa, florescente
+Onésimo|m|greek|spanish|1|biblical,vintage|Útil, provechoso|Useful, profitable|Utile, profitable|Nützlich|Utile, profittevole|Útil, proveitoso
+Onofre|m|other|spanish|1|saint,vintage|Siempre bondadoso|Ever good|Toujours bon|Immer gütig|Sempre buono|Sempre bondoso
+Optato|m|latin|spanish|1|saint,vintage|Deseado|Desired|Désiré|Ersehnt|Desiderato|Desejado
+Orestes|m|greek|spanish|1|mythology,vintage|Montañés|Mountain-dweller|Montagnard|Bergbewohner|Montanaro|Montanhês
+Orlando|m|germanic|spanish,italian,portuguese|3|classic,literary,warrior|Tierra famosa|Famed land|Terre célèbre|Berühmtes Land|Terra famosa|Terra famosa
+Oscar|m|celtic|spanish|3|classic,warrior|Amigo del ciervo|Friend of the deer|Ami du cerf|Freund des Hirsches|Amico del cervo|Amigo do cervo
+Osvaldo|m|germanic|spanish,portuguese,italian|2|classic,saint|Poder divino|Divine power|Pouvoir divin|Göttliche Macht|Potere divino|Poder divino
+Otilio|m|germanic|spanish|1|saint,vintage|Rico, afortunado|Wealthy, fortunate|Riche, fortuné|Reich, glücklich|Ricco, fortunato|Rico, afortunado
+Ovidio|m|latin|spanish|1|literary,vintage,animal|Pastor de ovejas|Shepherd of sheep|Berger de moutons|Schafhirte|Pastore di pecore|Pastor de ovelhas

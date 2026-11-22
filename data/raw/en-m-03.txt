@@ -1,0 +1,96 @@
+Fabian|m|latin|english,german|2|classic|Perteneciente a la familia Fabia|Of the Fabius clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della famiglia Fabia|Da família Fábia
+Felix|m|latin|english,german,intl|3|classic,virtue|Feliz, afortunado|Happy, fortunate|Heureux, chanceux|Glücklich, erfolgreich|Felice, fortunato|Feliz, afortunado
+Ferdinand|m|germanic|english,german|1|vintage,royal|Viajero audaz|Bold traveller|Voyageur audacieux|Kühner Reisender|Viaggiatore audace|Viajante audaz
+Finley|u|celtic|english,scottish|3|modern|Guerrero rubio|Fair warrior|Guerrier blond|Blonder Krieger|Guerriero biondo|Guerreiro loiro
+Finn|m|celtic|english,irish,scandinavian|4|modern,trendy|Claro, justo|Fair, white|Clair, blond|Hell, blond|Chiaro, biondo|Claro, loiro
+Fletcher|m|latin|english|2|modern|Fabricante de flechas|Arrow maker|Fabricant de flèches|Pfeilmacher|Fabbricante di frecce|Fabricante de flechas
+Floyd|m|celtic|english|1|vintage|De cabello gris|Grey-haired|Aux cheveux gris|Grauhaarig|Dai capelli grigi|De cabelos grisalhos
+Forrest|m|germanic|english|2|nature,vintage|Bosque|Forest|Forêt|Wald|Foresta|Floresta
+Foster|m|latin|english|1|modern|Guardabosques|Forester|Forestier|Förster|Guardaboschi|Guarda-florestal
+Francis|m|latin|english|2|saint,classic|Libre, francés|Free man, Frenchman|Libre, Français|Freier, Franzose|Libero, francese|Livre, francês
+Frank|m|germanic|english,german|3|classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Frankie|u|germanic|english|3|sweet,modern|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Franklin|m|germanic|english|2|classic|Terrateniente libre|Free landowner|Propriétaire libre|Freier Landbesitzer|Proprietario libero|Proprietário livre
+Fred|m|germanic|english|2|classic|Gobernante pacífico|Peaceful ruler|Souverain paisible|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Freddie|m|germanic|english|4|sweet,modern|Gobernante pacífico|Peaceful ruler|Souverain paisible|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Frederick|m|germanic|english,german|3|royal,classic|Gobernante pacífico|Peaceful ruler|Souverain paisible|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Gabriel|m|hebrew|english,french,spanish,german,intl|5|biblical,classic|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Garrett|m|germanic|english|2|modern|Poderoso con la lanza|Mighty with a spear|Puissant avec la lance|Mächtig mit dem Speer|Potente con la lancia|Poderoso com a lança
+Gary|m|germanic|english|1|classic|Lanza|Spear|Lance|Speer|Lancia|Lança
+Gavin|m|celtic|english,scottish|3|modern|Halcón blanco|White hawk|Faucon blanc|Weißer Falke|Falco bianco|Falcão branco
+Gene|m|greek|english|1|vintage|Bien nacido|Well-born|Bien né|Wohlgeboren|Ben nato|Bem-nascido
+Geoffrey|m|germanic|english|2|classic|Paz de Dios|God's peace|Paix de Dieu|Gottes Friede|Pace di Dio|Paz de Deus
+George|m|greek|english,german|4|classic,royal,saint|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Gerald|m|germanic|english|2|classic|Gobernante con la lanza|Ruler with the spear|Souverain à la lance|Herrscher mit dem Speer|Sovrano con la lancia|Governante com a lança
+Gideon|m|hebrew|english|3|biblical,warrior|Guerrero poderoso|Mighty warrior|Puissant guerrier|Mächtiger Krieger|Potente guerriero|Guerreiro poderoso
+Gilbert|m|germanic|english,french|1|vintage|Prenda brillante|Bright pledge|Gage brillant|Glänzendes Pfand|Pegno splendente|Penhor brilhante
+Giles|m|greek|english|1|saint,vintage|Joven cabrito|Young goat|Jeune chevreau|Junges Böckchen|Giovane capretto|Jovem cabrito
+Glenn|m|celtic|english|2|nature,classic|Valle|Valley|Vallée|Tal|Valle|Vale
+Gordon|m|celtic|english,scottish|1|classic|Fuerte grande|Great hill|Grande colline|Große Anhöhe|Grande collina|Grande colina
+Graham|m|germanic|english,scottish|2|classic|Hogar de grava|Gravelly homestead|Domaine de gravier|Kiesiges Heim|Dimora ghiaiosa|Lar de cascalho
+Grant|m|latin|english|3|modern|Grande|Great, large|Grand|Groß|Grande|Grande
+Grayson|m|germanic|english|4|modern,trendy|Hijo del mayordomo|Son of the steward|Fils de l'intendant|Sohn des Verwalters|Figlio del fattore|Filho do mordomo
+Gregory|m|greek|english|3|saint,classic|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante
+Griffin|m|latin|english|3|mythology,modern|Grifo|Griffin|Griffon|Greif|Grifone|Grifo
+Guy|m|germanic|english,french|2|classic|Guía|Guide|Guide|Führer|Guida|Guia
+Harlan|m|germanic|english|1|vintage|Tierra de liebres|Hare land|Terre de lièvres|Hasenland|Terra di lepri|Terra de lebres
+Harley|u|germanic|english|2|modern|Prado de liebres|Hare meadow|Prairie de lièvres|Hasenwiese|Prato di lepri|Prado de lebres
+Harold|m|germanic|english|2|classic,royal|Gobernante del ejército|Army ruler|Chef d'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Harper|u|germanic|english|4|modern,music|Arpista|Harp player|Joueur de harpe|Harfenspieler|Arpista|Harpista
+Harrison|m|germanic|english|3|modern|Hijo de Harry|Son of Harry|Fils de Harry|Sohn des Harry|Figlio di Harry|Filho de Harry
+Harry|m|germanic|english|4|classic,royal|Gobernante del hogar|Home ruler|Maître du foyer|Herrscher des Heims|Signore della casa|Senhor do lar
+Harvey|m|celtic|english|3|vintage|Digno de batalla|Battle-worthy|Digne de bataille|Kampftüchtig|Degno di battaglia|Digno de batalha
+Hayden|u|germanic|english|3|modern|Valle de heno|Hay valley|Vallée de foin|Heutal|Valle di fieno|Vale de feno
+Heath|m|germanic|english|2|nature|Brezal|Heath|Lande|Heide|Brughiera|Charneca
+Hector|m|greek|english,spanish,french|2|mythology,warrior|Sostenedor|Holding fast|Qui tient ferme|Standhaft|Che tiene saldo|Que se mantém firme
+Henry|m|germanic|english,french|5|classic,royal|Gobernante del hogar|Ruler of the home|Maître du foyer|Herrscher des Hauses|Signore della casa|Senhor do lar
+Herbert|m|germanic|english,german|1|vintage|Ejército brillante|Bright army|Armée brillante|Glänzendes Heer|Esercito splendente|Exército brilhante
+Hercules|m|greek|english|1|mythology,strong|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Herman|m|germanic|english,german|1|vintage|Hombre del ejército|Army man|Homme d'armée|Mann des Heeres|Uomo d'esercito|Homem do exército
+Hilary|u|latin|english|1|vintage|Alegre, feliz|Cheerful, merry|Joyeux|Fröhlich|Allegro|Alegre
+Hogan|m|celtic|english|1|modern|Joven|Youth|Jeune|Jugendlicher|Giovane|Jovem
+Homer|m|greek|english|1|literary,vintage|Garantía, rehén|Pledge, hostage|Gage, otage|Pfand, Geisel|Pegno, ostaggio|Garantia, refém
+Horace|m|latin|english|1|vintage,literary|Del clan Horacio|Of the Horatius clan|Du clan Horatius|Aus dem Geschlecht Horatius|Della gens Orazia|Da família Horácio
+Howard|m|germanic|english|2|classic|Guardián valiente|Brave guardian|Gardien courageux|Mutiger Wächter|Guardiano coraggioso|Guardião valente
+Hudson|m|germanic|english|4|modern,trendy|Hijo de Hudde|Son of Hudde|Fils de Hudde|Sohn des Hudde|Figlio di Hudde|Filho de Hudde
+Hugh|m|germanic|english|2|classic|Mente, espíritu|Heart, mind|Cœur, esprit|Herz, Geist|Cuore, mente|Coração, mente
+Hugo|m|germanic|english,german,spanish,french,intl|4|classic|Mente, espíritu|Mind, spirit|Esprit, intelligence|Geist, Verstand|Mente, spirito|Mente, espírito
+Hunter|m|germanic|english|4|modern,warrior|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Ian|m|hebrew|english,scottish|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Idris|m|celtic|english|1|modern|Señor ardiente|Ardent lord|Seigneur ardent|Feuriger Herr|Signore ardente|Senhor ardente
+Ignatius|m|latin|english|1|saint,vintage|Ardiente|Fiery|Ardent|Feurig|Ardente|Ardente
+Immanuel|m|hebrew|english,german|1|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Ira|m|hebrew|english|1|biblical,vintage|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante
+Isaac|m|hebrew|english,spanish,french,intl|4|biblical,classic|Él ríe|He laughs|Il rit|Er lacht|Egli ride|Ele ri
+Isaiah|m|hebrew|english|3|biblical|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Heil|Yahweh è salvezza|Javé é salvação
+Ivan|m|hebrew|english,russian,intl|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ivor|m|norse|english|1|vintage|Arquero|Archer|Archer|Bogenschütze|Arciere|Arqueiro
+Jack|m|hebrew|english|5|classic,sweet|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jackson|m|germanic|english|4|modern,trendy|Hijo de Jack|Son of Jack|Fils de Jack|Sohn des Jack|Figlio di Jack|Filho de Jack
+Jacob|m|hebrew|english,german,intl|5|biblical,classic|El que sigue de cerca|Supplanter, holder of the heel|Celui qui supplante|Der Fersenhalter|Colui che segue|O que segue de perto
+Jaden|u|hebrew|english|2|modern|Agradecido|Thankful|Reconnaissant|Dankbar|Riconoscente|Agradecido
+Jake|m|hebrew|english|3|classic|El que sigue de cerca|Supplanter|Celui qui supplante|Der Fersenhalter|Colui che segue|O que segue de perto
+James|m|hebrew|english|5|biblical,classic,royal|El que sigue de cerca|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che segue|O que segue de perto
+Jameson|m|hebrew|english|2|modern|Hijo de James|Son of James|Fils de James|Sohn des James|Figlio di James|Filho de James
+Jarvis|m|germanic|english|1|vintage|Lanza afilada|Keen spear|Lance acérée|Scharfer Speer|Lancia affilata|Lança afiada
+Jasper|m|persian|english,dutch,german|4|gem,vintage|Portador del tesoro|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Jason|m|greek|english,german,intl|3|mythology,classic|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Jax|m|hebrew|english|3|modern,trendy|Hijo de Jack|Son of Jack|Fils de Jack|Sohn des Jack|Figlio di Jack|Filho de Jack
+Jay|u|latin|english|3|classic,animal|Arrendajo|Jay bird|Geai|Eichelhäher|Ghiandaia|Gaio
+Jayden|u|hebrew|english|3|modern,trendy|Agradecido|Thankful|Reconnaissant|Dankbar|Riconoscente|Agradecido
+Jeremiah|m|hebrew|english|3|biblical|Yahvé exalta|Yahweh exalts|Yahvé élève|Jahwe erhöht|Yahweh esalta|Javé exalta
+Jeremy|m|hebrew|english,french|3|classic|Yahvé exalta|Yahweh exalts|Yahvé élève|Jahwe erhöht|Yahweh esalta|Javé exalta
+Jerome|m|greek|english,french|1|saint,classic|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Jesse|m|hebrew|english|3|biblical|Regalo, don de Dios|Gift, God exists|Don, Dieu existe|Geschenk, Gott existiert|Dono, Dio esiste|Presente, Deus existe
+Joel|m|hebrew|english,german,intl|3|biblical|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+John|m|hebrew|english|4|biblical,classic,saint|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jonah|m|hebrew|english|2|biblical|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Jonathan|m|hebrew|english,german,french,intl|4|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Jordan|u|hebrew|english|3|biblical,modern|Que fluye hacia abajo|Flowing down|Qui coule vers le bas|Hinabfließend|Che scorre verso il basso|Que flui para baixo
+Joseph|m|hebrew|english,german,intl|5|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott fügt hinzu|Dio aggiungerà|Deus acrescentará
+Joshua|m|hebrew|english|4|biblical,classic|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Rettung|Yahweh è salvezza|Javé é salvação
+Josiah|m|hebrew|english|3|biblical|Yahvé sostiene|Yahweh supports|Yahvé soutient|Jahwe stützt|Yahweh sostiene|Javé sustenta
+Jude|m|hebrew|english|3|biblical,saint|Alabado|Praised|Loué|Gepriesen|Lodato|Louvado
+Julian|m|latin|english,german|4|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Julius|m|latin|english,german|2|classic|Joven, de la familia Julia|Youthful|Juvénile|Jugendlich|Giovanile|Juvenil
+Justin|m|latin|english,french|2|classic|Justo|Just, fair|Juste|Gerecht|Giusto|Justo

@@ -1,0 +1,68 @@
+Tales|m|greek|portuguese|2|classic|Florecer, brotar|To bloom, to flourish|Fleurir, s'épanouir|Blühen, gedeihen|Fiorire, sbocciare|Florescer, brotar
+Tália|f|greek|portuguese|2|mythology,flower|Floreciente|Blooming|Florissante|Blühend|Fiorente|Florescente
+Tânia|f|latin|portuguese|3|classic|Forma breve de Tatiana: del clan de Tacio|Short form of Tatiana, of the Tatius clan|Forme courte de Tatiana, du clan de Tatius|Kurzform von Tatiana, vom Geschlecht des Tatius|Forma breve di Tatiana, della gente di Tazio|Forma breve de Tatiana, da família de Tácio
+Tatiana|f|latin|portuguese,russian|3|classic|Del clan de Tacio|Of the Tatius clan|Du clan de Tatius|Vom Geschlecht des Tatius|Della gente di Tazio|Da família de Tácio
+Thalita|f|hebrew|portuguese|2|biblical,sweet|Niña pequeña|Little girl|Petite fille|Mädchen|Fanciulla|Menina
+Teófilo|m|greek|portuguese|2|saint,classic|Amigo de Dios|Friend of God|Ami de Dieu|Freund Gottes|Amico di Dio|Amigo de Deus
+Teodósio|m|greek|portuguese|2|saint,royal|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Teotónio|m|greek|portuguese|1|saint,vintage|Dado por Dios|Given by God|Donné par Dieu|Von Gott gegeben|Dato da Dio|Dado por Deus
+Tibério|m|latin|portuguese|1|classic,royal|Del río Tíber|Of the Tiber river|Du Tibre|Vom Tiber|Del Tevere|Do rio Tibre
+Timóteo|m|greek|portuguese|2|biblical,saint|El que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Colui che onora Dio|Aquele que honra a Deus
+Tristão|m|celtic|portuguese|2|literary,vintage|Tumulto, tristeza|Tumult, sorrow|Tumulte, tristesse|Tumult, Trauer|Tumulto, tristezza|Tumulto, tristeza
+Ubaldo|m|germanic|portuguese,italian|1|vintage|Espíritu audaz|Bold spirit|Esprit audacieux|Kühner Geist|Spirito audace|Espírito audaz
+Uirá|m|native|portuguese|2|animal,nature|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Valdomiro|m|germanic|portuguese|1|vintage|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Vânia|f|slavic|portuguese|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Vasco|m|germanic|portuguese|2|vintage,strong|Vasco, del País Vasco|Basque|Basque|Baske|Basco|Basco
+Venância|f|latin|portuguese|1|saint,vintage|Cazadora|Huntress|Chasseresse|Jägerin|Cacciatrice|Caçadora
+Venâncio|m|latin|portuguese|1|saint,vintage|Cazador|Hunter|Chasseur|Jäger|Cacciatore|Caçador
+Vicência|f|latin|portuguese|1|saint,vintage|Vencedora|Conquering|Conquérante|Siegreich|Vincitrice|Vencedora
+Vidal|m|latin|portuguese,catalan|2|saint,vintage|Vital, de vida|Of life, vital|Plein de vie|Lebendig|Vitale|Vital, de vida
+Vilma|f|germanic|portuguese|2|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Vitorina|f|latin|portuguese|2|vintage,saint|Victoriosa|Victorious|Victorieuse|Siegreich|Vittoriosa|Vitoriosa
+Vital|m|latin|portuguese|2|saint,vintage|Vital, de vida|Of life, vital|Plein de vie|Lebendig|Vitale|Vital
+Vivian|f|latin|portuguese,english|2|vintage|Viva, llena de vida|Alive, lively|Vivante, pleine de vie|Lebendig|Viva, piena di vita|Viva, cheia de vida
+Viviane|f|latin|portuguese,french|3|classic|Viva, llena de vida|Alive, lively|Vivante, pleine de vie|Lebendig|Viva, piena di vita|Viva, cheia de vida
+Wilma|f|germanic|portuguese,german|1|vintage|Protectora resuelta|Resolute protector|Protectrice résolue|Entschlossene Beschützerin|Protettrice risoluta|Protetora resoluta
+Zaqueu|m|hebrew|portuguese|2|biblical|Puro, inocente|Pure, innocent|Pur, innocent|Rein, unschuldig|Puro, innocente|Puro, inocente
+Zenaide|f|greek|portuguese|2|vintage|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zenão|m|greek|portuguese|1|classic|Regalo de Zeus|Gift of Zeus|Don de Zeus|Geschenk des Zeus|Dono di Zeus|Dádiva de Zeus
+Zenóbia|f|greek|portuguese|1|classic,royal|Vida de Zeus|Life of Zeus|Vie de Zeus|Leben des Zeus|Vita di Zeus|Vida de Zeus
+Ametista|f|greek|portuguese|2|gem,modern|Amatista, no ebria|Amethyst, not intoxicated|Améthyste, non ivre|Amethyst, nicht berauscht|Ametista, non ebbra|Ametista, não ébria
+Amarílis|f|greek|portuguese|2|flower|Resplandecer|To sparkle|Briller|Funkeln|Risplendere|Resplandecer
+Açucena|f|arabic|portuguese|2|flower,sweet|Lirio blanco|White lily|Lys blanc|Weiße Lilie|Giglio bianco|Lírio branco
+Gardênia|f|other|portuguese|2|flower|Flor de gardenia|Gardenia flower|Fleur de gardénia|Gardenienblüte|Fiore di gardenia|Flor de gardénia
+Paraguaçu|f|native|portuguese|1|nature,place|Gran río|Great river|Grand fleuve|Großer Fluss|Grande fiume|Grande rio
+Paz|f|latin|portuguese,spanish|2|virtue,vintage|Paz|Peace|Paix|Frieden|Pace|Paz
+Justa|f|latin|portuguese|1|saint,virtue|Justa|Just|Juste|Gerecht|Giusta|Justa
+Maria Antónia|f|hebrew|portuguese|2|classic|Amada, inestimable|Beloved, priceless|Bien-aimée, inestimable|Geliebt, unschätzbar|Amata, inestimabile|Amada, inestimável
+Maria Beatriz|f|hebrew|portuguese|4|classic|Amada, la que trae alegría|Beloved, she who brings joy|Bien-aimée, porteuse de joie|Geliebt, Freudebringerin|Amata, colei che porta gioia|Amada, a que traz alegria
+Maria Isabel|f|hebrew|portuguese|3|classic|Amada, consagrada a Dios|Beloved, consecrated to God|Bien-aimée, consacrée à Dieu|Geliebt, Gott geweiht|Amata, consacrata a Dio|Amada, consagrada a Deus
+Maria José|f|hebrew|portuguese|3|classic|Amada, Dios añadirá|Beloved, God will add|Bien-aimée, Dieu ajoutera|Geliebt, Gott fügt hinzu|Amata, Dio aggiungerà|Amada, Deus acrescentará
+Maria Laura|f|hebrew|portuguese|4|modern,classic|Amada, laurel|Beloved, laurel|Bien-aimée, laurier|Geliebt, Lorbeer|Amata, alloro|Amada, louro
+Maria Luiza|f|hebrew|portuguese|5|modern,classic|Amada, guerrera famosa|Beloved, famous warrior|Bien-aimée, guerrière célèbre|Geliebt, berühmte Kämpferin|Amata, guerriera famosa|Amada, guerreira famosa
+Maria Madalena|f|hebrew|portuguese|2|biblical,saint|Amada, de Magdala|Beloved, of Magdala|Bien-aimée, de Magdala|Geliebt, aus Magdala|Amata, di Magdala|Amada, de Magdala
+Maria Rita|f|hebrew|portuguese|2|classic|Amada, perla|Beloved, pearl|Bien-aimée, perle|Geliebt, Perle|Amata, perla|Amada, pérola
+Maria Vitória|f|hebrew|portuguese|4|modern|Amada, victoria|Beloved, victory|Bien-aimée, victoire|Geliebt, Sieg|Amata, vittoria|Amada, vitória
+Maria do Carmo|f|hebrew|portuguese|2|saint,vintage|Amada, jardín del Carmelo|Beloved, garden of Carmel|Bien-aimée, jardin du Carmel|Geliebt, Garten Karmel|Amata, giardino del Carmelo|Amada, jardim do Carmelo
+Ana Laura|f|hebrew|portuguese|4|modern|Gracia, laurel|Grace, laurel|Grâce, laurier|Anmut, Lorbeer|Grazia, alloro|Graça, louro
+Ana Liz|f|hebrew|portuguese|3|modern|Gracia, lirio|Grace, lily|Grâce, lys|Anmut, Lilie|Grazia, giglio|Graça, lírio
+Ana Paula|f|hebrew|portuguese|3|classic|Gracia, pequeña|Grace, small|Grâce, petite|Anmut, klein|Grazia, piccola|Graça, pequena
+Ana Carolina|f|hebrew|portuguese|3|classic|Gracia, mujer libre|Grace, free woman|Grâce, femme libre|Anmut, freie Frau|Grazia, donna libera|Graça, mulher livre
+Ana Sofia|f|hebrew|portuguese|3|modern,classic|Gracia, sabiduría|Grace, wisdom|Grâce, sagesse|Anmut, Weisheit|Grazia, saggezza|Graça, sabedoria
+Ana Lívia|f|hebrew|portuguese|3|modern|Gracia, azulada|Grace, bluish|Grâce, bleutée|Anmut, bläulich|Grazia, bluastra|Graça, azulada
+Ana Luísa|f|hebrew|portuguese|3|classic|Gracia, guerrera famosa|Grace, famous warrior|Grâce, guerrière célèbre|Anmut, berühmte Kämpferin|Grazia, guerriera famosa|Graça, guerreira famosa
+João Vítor|m|hebrew|portuguese|4|modern|Dios es misericordioso, vencedor|God is gracious, victor|Dieu est miséricordieux, vainqueur|Gott ist gnädig, Sieger|Dio è misericordioso, vincitore|Deus é misericordioso, vencedor
+João Guilherme|m|hebrew|portuguese|4|modern|Dios es misericordioso, protector resuelto|God is gracious, resolute protector|Dieu est miséricordieux, protecteur résolu|Gott ist gnädig, entschlossener Beschützer|Dio è misericordioso, protettore risoluto|Deus é misericordioso, protetor resoluto
+João Paulo|m|hebrew|portuguese|3|classic|Dios es misericordioso, pequeño|God is gracious, small|Dieu est miséricordieux, petit|Gott ist gnädig, klein|Dio è misericordioso, piccolo|Deus é misericordioso, pequeno
+João Batista|m|hebrew|portuguese|2|biblical,saint|Dios es misericordioso, el que bautiza|God is gracious, the baptizer|Dieu est miséricordieux, le baptiseur|Gott ist gnädig, der Täufer|Dio è misericordioso, il battezzatore|Deus é misericordioso, o que batiza
+Pedro Lucas|m|greek|portuguese|3|modern|Piedra, portador de luz|Rock, bringer of light|Pierre, porteur de lumière|Fels, Lichtbringer|Roccia, portatore di luce|Pedra, portador de luz
+Pedro Paulo|m|greek|portuguese|2|classic|Piedra, pequeño|Rock, small|Pierre, petit|Fels, klein|Roccia, piccolo|Pedra, pequeno
+Luiz Henrique|m|germanic|portuguese|4|modern|Guerrero famoso, gobernante del hogar|Famous warrior, ruler of the home|Guerrier célèbre, souverain du foyer|Berühmter Krieger, Herrscher des Hauses|Guerriero famoso, sovrano della casa|Guerreiro famoso, governante do lar
+Luiz Felipe|m|germanic|portuguese|3|modern|Guerrero famoso, amigo de los caballos|Famous warrior, lover of horses|Guerrier célèbre, ami des chevaux|Berühmter Krieger, Pferdefreund|Guerriero famoso, amante dei cavalli|Guerreiro famoso, amigo dos cavalos
+Luís Miguel|m|germanic|portuguese|3|classic|Guerrero famoso, ¿quién como Dios?|Famous warrior, who is like God?|Guerrier célèbre, qui est comme Dieu ?|Berühmter Krieger, wer ist wie Gott?|Guerriero famoso, chi è come Dio?|Guerreiro famoso, quem é como Deus?
+José Carlos|m|hebrew|portuguese|3|classic|Dios añadirá, hombre libre|God will add, free man|Dieu ajoutera, homme libre|Gott fügt hinzu, freier Mann|Dio aggiungerà, uomo libero|Deus acrescentará, homem livre
+José Maria|m|hebrew|portuguese|2|classic|Dios añadirá, amada|God will add, beloved|Dieu ajoutera, bien-aimée|Gott fügt hinzu, Geliebte|Dio aggiungerà, amata|Deus acrescentará, amada
+Carlos Eduardo|m|germanic|portuguese|3|classic|Hombre libre, guardián de la riqueza|Free man, guardian of wealth|Homme libre, gardien de la richesse|Freier Mann, Hüter des Reichtums|Uomo libero, guardiano della ricchezza|Homem livre, guardião da riqueza
+Davi Lucas|m|hebrew|portuguese|4|modern|Amado, portador de luz|Beloved, bringer of light|Bien-aimé, porteur de lumière|Geliebter, Lichtbringer|Amato, portatore di luce|Amado, portador de luz
+Miguel Ângelo|m|hebrew|portuguese|2|classic|¿Quién como Dios?, mensajero|Who is like God?, messenger|Qui est comme Dieu ?, messager|Wer ist wie Gott?, Bote|Chi è come Dio?, messaggero|Quem é como Deus?, mensageiro

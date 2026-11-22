@@ -1,0 +1,95 @@
+Gabriella|f|hebrew|italian|3|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gaia|f|greek|italian|4|mythology,nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Gaetana|f|latin|italian|1|vintage,place|De Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Gemma|f|latin|italian,english,spanish|3|gem,classic|Gema|Gem|Gemme|Edelstein|Gemma, gioiello|Gema
+Giada|f|other|italian|4|gem,modern|Jade|Jade|Jade|Jade|Giada|Jade
+Gioia|f|latin|italian|3|virtue,sweet,love|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Giorgia|f|greek|italian|4|classic,nature|Agricultora|Farmer|Agricultrice|Bäuerin|Agricoltrice|Agricultora
+Giovanna|f|hebrew|italian|3|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Gisella|f|germanic|italian|1|vintage|Prenda, promesa|Pledge|Gage|Pfand|Pegno|Penhor
+Giuditta|f|hebrew|italian|2|biblical,vintage|La alabada|The praised one|La louée|Die Gepriesene|La lodata|A louvada
+Giulia|f|latin|italian|5|classic,royal|De la familia Julia|Of the Julian clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gente Giulia|Da família Júlia
+Giuliana|f|latin|italian|3|classic,saint|De la familia Julia|Of the Julian clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gente Giulia|Da família Júlia
+Giulietta|f|latin|italian|2|literary,love|Pequeña Julia|Little Julia|Petite Julia|Kleine Julia|Piccola Giulia|Pequena Júlia
+Giuseppina|f|hebrew|italian|1|vintage,biblical|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio accrescerà|Deus acrescentará
+Gianna|f|hebrew|italian|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ginevra|f|celtic|italian|5|literary,vintage,trendy|Hada blanca|White enchantress|Blanche enchanteresse|Weiße Zauberin|Bianca incantatrice|Feiticeira branca
+Giacinta|f|greek|italian|1|flower,vintage|Jacinto, flor|Hyacinth flower|Fleur de jacinthe|Hyazinthenblume|Fiore di giacinto|Flor de jacinto
+Giustina|f|latin|italian|1|saint,virtue,vintage|Justa|Just|Juste|Gerecht|Giusta|Justa
+Greta|f|greek|italian,german,scandinavian|3|modern,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Grazia|f|latin|italian|3|virtue,classic,saint|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Graziella|f|latin|italian|2|sweet,vintage|Gracia pequeña|Little grace|Petite grâce|Kleine Anmut|Piccola grazia|Pequena graça
+Gloria|f|latin|italian,spanish,english|3|virtue,classic|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Gabriele|m|hebrew|italian|5|biblical,saint,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gaetano|m|latin|italian|2|saint,place,vintage|De Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Gaspare|m|persian|italian|1|biblical,royal,vintage|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Gennaro|m|latin|italian|2|saint,vintage|De Jano, enero|Of Janus, January|De Janus, janvier|Des Janus, Januar|Di Giano, gennaio|De Jano, janeiro
+Geremia|m|hebrew|italian|1|biblical,vintage|Dios exaltará|God will exalt|Dieu élèvera|Gott erhöht|Dio innalzerà|Deus exaltará
+Gerardo|m|germanic|italian,spanish|1|vintage,warrior|Lanza fuerte|Strong spear|Lance vaillante|Starker Speer|Lancia forte|Lança forte
+Germano|m|latin|italian,portuguese|1|vintage|Hermano, auténtico|Brother, genuine|Frère, authentique|Bruder, echt|Fratello, autentico|Irmão, genuíno
+Giacomo|m|hebrew|italian|4|biblical,saint,classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Gianni|m|hebrew|italian|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Giancarlo|m|hebrew|italian|2|vintage|Gracia de Dios, hombre libre|God's grace, free man|Grâce de Dieu, homme libre|Gottes Gnade, freier Mann|Grazia di Dio, uomo libero|Graça de Deus, homem livre
+Gianluca|m|hebrew|italian|3|classic|Gracia de Dios, luminoso|God's grace, bringer of light|Grâce de Dieu, lumineux|Gottes Gnade, lichtvoll|Grazia di Dio, luminoso|Graça de Deus, luminoso
+Gianmarco|m|hebrew|italian|3|modern,warrior|Gracia de Dios, consagrado a Marte|God's grace, dedicated to Mars|Grâce de Dieu, consacré à Mars|Gottes Gnade, dem Mars geweiht|Grazia di Dio, devoto a Marte|Graça de Deus, consagrado a Marte
+Gioacchino|m|hebrew|italian|1|biblical,saint,vintage|Yahvé establece|Yahweh establishes|Yahvé établit|Jahwe richtet auf|Dio stabilisce|Javé estabelece
+Giona|m|hebrew|italian|2|biblical,nature|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Giordano|m|hebrew|italian|2|biblical,place|El que desciende|The one who flows down|Celui qui descend|Der Herabfließende|Colui che scende|Aquele que desce
+Giorgio|m|greek|italian|3|classic,saint|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Giosuè|m|hebrew|italian|2|biblical,strong|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Giovanni|m|hebrew|italian|4|biblical,saint,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Girolamo|m|greek|italian|1|saint,vintage|Nombre sagrado|Sacred name|Nom sacré|Heiliger Name|Nome sacro|Nome sagrado
+Giulio|m|latin|italian|3|classic,royal|De la familia Julia|Of the Julian clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gente Giulia|Da família Júlia
+Giuliano|m|latin|italian|3|classic,saint|De la familia Julia|Of the Julian clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gente Giulia|Da família Júlia
+Giuseppe|m|hebrew|italian|4|biblical,saint,classic|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio accrescerà|Deus acrescentará
+Giusto|m|latin|italian|1|virtue,vintage|Justo|Just|Juste|Gerecht|Giusto|Justo
+Goffredo|m|germanic|italian|1|vintage,royal|Paz de Dios|God's peace|Paix de Dieu|Gottes Frieden|Pace di Dio|Paz de Deus
+Graziano|m|latin|italian|2|saint,vintage|Agraciado|Gracious|Gracieux|Anmutig|Grazioso|Agraciado
+Gregorio|m|greek|italian,spanish|3|saint,classic|Vigilante|Watchful|Vigilant|Wachsam|Vigile|Vigilante
+Guglielmo|m|germanic|italian|2|classic,royal|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Gualtiero|m|germanic|italian|1|vintage,warrior|Gobernante del ejército|Army ruler|Chef d'armée|Heerführer|Governante dell'esercito|Governante do exército
+Giacinto|m|greek|italian|1|flower,mythology,vintage|Jacinto, flor|Hyacinth flower|Fleur de jacinthe|Hyazinthenblume|Fiore di giacinto|Flor de jacinto
+Ilaria|f|latin|italian|3|saint,sweet|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Ines|f|greek|italian,spanish,portuguese|3|saint,virtue|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Irene|f|greek|italian,spanish|3|virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Iris|f|greek|italian,english|3|flower,mythology|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Isabella|f|hebrew|italian,english|4|classic,royal|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Ida|f|germanic|italian|2|vintage|Trabajadora|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Immacolata|f|latin|italian|1|saint,vintage,virtue|Inmaculada|Immaculate|Immaculée|Makellos|Immacolata|Imaculada
+Iolanda|f|greek|italian|1|vintage,flower|Flor violeta|Violet flower|Fleur violette|Veilchenblüte|Fiore viola|Flor violeta
+Isidora|f|greek|italian|1|vintage,mythology|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Ilario|m|latin|italian|2|saint,vintage|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Innocenzo|m|latin|italian|1|virtue,vintage|Inocente|Innocent|Innocent|Unschuldig|Innocente|Inocente
+Ippolito|m|greek|italian|1|mythology,vintage|El que suelta los caballos|Releaser of horses|Celui qui délie les chevaux|Der die Pferde Losbindende|Colui che scioglie i cavalli|Aquele que solta os cavalos
+Isacco|m|hebrew|italian|1|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Italo|m|latin|italian|1|vintage,place|De Italia|Of Italy|D'Italie|Aus Italien|D'Italia|Da Itália
+Ivo|m|germanic|italian|1|vintage,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Isidoro|m|greek|italian,spanish|1|saint,vintage|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Laura|f|latin|italian,spanish,german|4|nature,classic,literary|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Lavinia|f|latin|italian|2|mythology,literary,vintage|De Lavinio|From Lavinium|De Lavinium|Aus Lavinium|Di Lavinio|De Lavínio
+Letizia|f|latin|italian|3|virtue,classic|Alegría|Joy|Joie|Freude|Letizia, gioia|Alegria
+Lidia|f|greek|italian,spanish|3|biblical,classic|De Lidia|From Lydia|De Lydie|Aus Lydien|Della Lidia|Da Lídia
+Liliana|f|latin|italian,spanish|3|flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lorena|f|other|italian,spanish|2|place|De Lorena|From Lorraine|De Lorraine|Aus Lothringen|Della Lorena|Da Lorena
+Lorenza|f|latin|italian|2|classic,saint|Coronada de laurel|Crowned with laurel|Couronnée de laurier|Mit Lorbeer gekrönt|Incoronata d'alloro|Coroada de louro
+Lucia|f|latin|italian|4|saint,light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Luciana|f|latin|italian|2|light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Lucilla|f|latin|italian|1|light,vintage|Pequeña luz|Little light|Petite lumière|Kleines Licht|Piccola luce|Pequena luz
+Ludovica|f|germanic|italian|3|warrior,vintage,royal|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Luisa|f|germanic|italian,spanish,german|3|classic,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Luna|f|latin|italian,spanish|4|celestial,modern,trendy|Luna|Moon|Lune|Mond|Luna|Lua
+Luce|f|latin|italian|1|light,vintage|Luz|Light|Lumière|Licht|Luce|Luz
+Leandro|m|greek|italian,spanish|1|mythology,vintage|Hombre león|Lion-man|Homme-lion|Löwenmann|Uomo leone|Homem-leão
+Leonardo|m|germanic|italian|5|classic,strong,animal|León fuerte|Brave lion|Lion courageux|Starker Löwe|Leone forte|Leão forte
+Leone|m|latin|italian|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Leonida|m|greek|italian|1|warrior,mythology|Hijo del león|Son of the lion|Fils du lion|Sohn des Löwen|Figlio del leone|Filho do leão
+Leopoldo|m|germanic|italian,spanish|1|royal,vintage|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Libero|m|latin|italian|1|vintage,virtue|Libre|Free|Libre|Frei|Libero|Livre
+Lorenzo|m|latin|italian|5|classic,saint|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Luca|m|latin|italian|5|biblical,saint,classic|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Della Lucania|Da Lucânia
+Luciano|m|latin|italian|3|light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Lucio|m|latin|italian|2|light,vintage|Luz|Light|Lumière|Licht|Luce|Luz
+Ludovico|m|germanic|italian|2|royal,warrior,vintage|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Luigi|m|germanic|italian|3|classic,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lamberto|m|germanic|italian|1|vintage|País brillante|Bright land|Pays brillant|Strahlendes Land|Terra splendente|Terra brilhante
+Lazzaro|m|hebrew|italian|1|biblical,vintage|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou

@@ -1,0 +1,52 @@
+Abraão|m|hebrew|portuguese|2|biblical|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Acácio|m|greek|portuguese|1|vintage,virtue|Inocente, sin maldad|Innocent, guileless|Innocent, sans malice|Unschuldig, arglos|Innocente, senza malizia|Inocente, sem malícia
+Adão|m|hebrew|portuguese|1|biblical|Hombre de la tierra|Man of the earth|Homme de la terre|Mann der Erde|Uomo della terra|Homem da terra
+Adolfo|m|germanic|portuguese,spanish|1|vintage|Lobo noble|Noble wolf|Loup noble|Edler Wolf|Nobile lupo|Lobo nobre
+Albertina|f|germanic|portuguese|1|vintage|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Ambrósio|m|greek|portuguese|1|saint,vintage|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Ana Beatriz|f|hebrew|portuguese|4|trendy,classic|Gracia y felicidad|Grace and happiness|Grâce et bonheur|Gnade und Glück|Grazia e felicità|Graça e felicidade
+Ana Clara|f|hebrew|portuguese|5|trendy,classic|Gracia y claridad|Grace and brightness|Grâce et clarté|Gnade und Klarheit|Grazia e chiarezza|Graça e claridade
+Ana Júlia|f|hebrew|portuguese|4|trendy,classic|Gracia de la familia Julia|Grace of the Julius clan|Grâce de la famille Julia|Gnade aus dem Geschlecht der Julier|Grazia della famiglia Giulia|Graça da família Júlia
+Ana Luiza|f|hebrew|portuguese|5|trendy,classic|Gracia y guerrera famosa|Grace and famous warrior|Grâce et guerrière célèbre|Gnade und berühmte Kriegerin|Grazia e guerriera famosa|Graça e guerreira famosa
+Anastácio|m|greek|portuguese|1|saint,vintage|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Antônia|f|latin|portuguese|4|saint,classic|Digna de elogio|Praiseworthy|Digne d'éloges|Lobenswert|Degna di lode|Digna de louvor
+Antônio|m|latin|portuguese|4|saint,classic|Digno de elogio|Praiseworthy|Digne d'éloges|Lobenswert|Degno di lode|Digno de louvor
+Aristides|m|greek|portuguese|1|vintage|El mejor|The best|Le meilleur|Der Beste|Il migliore|O melhor
+Arthur|m|celtic|portuguese|5|royal,literary,trendy|Oso|Bear|Ours|Bär|Orso|Urso
+Artur|m|celtic|portuguese|4|royal,literary|Oso|Bear|Ours|Bär|Orso|Urso
+Bonifácio|m|latin|portuguese|1|saint,vintage|Buen destino|Good fate|Bon destin|Gutes Schicksal|Buon destino|Bom destino
+Casimiro|m|slavic|portuguese|1|vintage,royal|Pacificador famoso|Famous peacemaker|Pacificateur célèbre|Berühmter Friedensstifter|Famoso pacificatore|Famoso pacificador
+Clementina|f|latin|portuguese|1|vintage,virtue|Clemente, misericordiosa|Merciful, gentle|Clémente, miséricordieuse|Milde, gnädig|Clemente, misericordiosa|Clemente, misericordiosa
+Crispim|m|latin|portuguese|1|saint,vintage|De cabello rizado|Curly-haired|Aux cheveux bouclés|Lockig|Dai capelli ricci|De cabelo encaracolado
+Cunhataí|f|native|portuguese|1|nature|Muchacha, doncella|Girl, maiden|Jeune fille|Mädchen|Fanciulla|Menina, donzela
+Custódia|f|latin|portuguese|1|vintage,saint|Guardiana|Guardian|Gardienne|Hüterin|Custode|Guardiã
+Dulce|f|latin|portuguese,spanish|2|sweet,vintage|Dulce|Sweet|Douce|Süß|Dolce|Doce
+Eliseu|m|hebrew|portuguese|2|biblical|Mi Dios es salvación|My God is salvation|Mon Dieu est salut|Mein Gott ist Rettung|Il mio Dio è salvezza|Meu Deus é salvação
+Emanuel|m|hebrew|portuguese|3|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Floriano|m|latin|portuguese|1|saint,flower,vintage|Florido|Flowering|Fleuri|Blühend|Fiorito|Florido
+Fortunato|m|latin|portuguese|1|vintage,virtue|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Giovanna|f|hebrew|portuguese,italian|5|biblical,classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Guaraci|u|native|portuguese|1|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Hilário|m|latin|portuguese|1|saint,vintage|Alegre, risueño|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Honório|m|latin|portuguese|1|vintage,virtue|Honorable|Honourable|Honorable|Ehrenvoll|Onorevole|Honrado
+Igor|m|norse|portuguese,russian|3|warrior|Guerrero de Ing|Warrior of Ing|Guerrier d'Ing|Krieger des Ing|Guerriero di Ing|Guerreiro de Ing
+Isaura|f|greek|portuguese|1|vintage|De Isauria|From Isauria|D'Isaurie|Aus Isaurien|Dell'Isauria|Da Isáuria
+Ísis|f|other|portuguese|3|mythology,modern|Trono|Throne|Trône|Thron|Trono|Trono
+Ivone|f|germanic|portuguese|2|vintage|Arco de tejo|Yew bow|Arc d'if|Eibenbogen|Arco di tasso|Arco de teixo
+Ladislau|m|slavic|portuguese|1|vintage,royal|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Sovrano glorioso|Governante glorioso
+Lázaro|m|hebrew|portuguese,spanish|2|biblical,saint|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Liz|f|hebrew|portuguese|4|modern,trendy|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Maria Cecília|f|hebrew|portuguese|4|trendy,classic|Amada y ciega|Beloved and blind|Bien-aimée et aveugle|Geliebt und blind|Amata e cieca|Amada e cega
+Maria Fernanda|f|hebrew|portuguese|4|trendy,classic|Amada y audaz viajera|Beloved and bold traveller|Bien-aimée et voyageuse audacieuse|Geliebt und kühne Reisende|Amata e audace viaggiatrice|Amada e viajante audaz
+Máximo|m|latin|portuguese,spanish|2|strong,classic|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Moacir|m|native|portuguese|2|literary|Hijo del dolor|Son of pain|Fils de la douleur|Sohn des Schmerzes|Figlio del dolore|Filho da dor
+Modesto|m|latin|portuguese|1|vintage,virtue|Modesto, moderado|Modest, moderate|Modeste, modéré|Bescheiden, maßvoll|Modesto, moderato|Modesto, moderado
+Pietra|f|latin|portuguese,italian|4|modern,trendy|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Ravi|m|sanskrit|portuguese,indian|4|celestial,modern|Sol|Sun|Soleil|Sonne|Sole|Sol
+Rufino|m|latin|portuguese|1|saint,vintage|Pelirrojo|Red-haired|Roux|Rothaarig|Dai capelli rossi|Ruivo
+Salomão|m|hebrew|portuguese|1|biblical,royal|Paz|Peace|Paix|Frieden|Pace|Paz
+Sarah|f|hebrew|portuguese,english|4|biblical,royal|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Serafina|f|hebrew|portuguese,italian|1|biblical,vintage|Ardiente, serafín|Fiery, seraph|Ardente, séraphin|Feurig, Seraph|Ardente, serafino|Ardente, serafim
+Silvestre|m|latin|portuguese|1|saint,nature,vintage|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Stella|f|latin|portuguese,italian|4|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Venceslau|m|slavic|portuguese|1|saint,royal,vintage|Mayor gloria|Greater glory|Plus grande gloire|Größerer Ruhm|Maggior gloria|Maior glória

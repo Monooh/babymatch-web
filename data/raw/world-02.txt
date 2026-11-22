@@ -1,0 +1,93 @@
+Padma|f|sanskrit|indian|2|flower,classic|Flor de loto|Lotus|Lotus|Lotosblume|Fiore di loto|Flor de lótus
+Pallavi|f|sanskrit|indian|2|nature,classic|Brote nuevo, retoño|New sprout, shoot|Jeune pousse, bourgeon|Neuer Trieb, Knospe|Nuovo germoglio|Broto novo, rebento
+Parth|m|sanskrit|indian|2|mythology,warrior|Hijo de Pritha, Arjuna|Son of Pritha, Arjuna|Fils de Pritha, Arjuna|Sohn der Pritha, Arjuna|Figlio di Pritha, Arjuna|Filho de Pritha, Arjuna
+Parvati|f|sanskrit|indian|2|mythology,classic|Hija de la montaña|Daughter of the mountain|Fille de la montagne|Tochter des Berges|Figlia della montagna|Filha da montanha
+Pooja|f|sanskrit|indian|3|classic,virtue|Adoración, ritual|Worship, ritual|Culte, rituel|Verehrung, Ritual|Adorazione, rito|Adoração, ritual
+Pranav|m|sanskrit|indian|3|modern,mythology|La sílaba sagrada Om|The sacred syllable Om|La syllabe sacrée Om|Die heilige Silbe Om|La sillaba sacra Om|A sílaba sagrada Om
+Pratik|m|sanskrit|indian|2|classic,strong|Símbolo, emblema|Symbol, emblem|Symbole, emblème|Symbol, Zeichen|Simbolo, emblema|Símbolo, emblema
+Prem|m|sanskrit|indian|2|love,classic|Amor|Love|Amour|Liebe|Amore|Amor
+Prisha|f|sanskrit|indian|3|modern,love|Amada, regalo de Dios|Beloved, gift of God|Bien-aimée, don de Dieu|Geliebte, Gottesgeschenk|Amata, dono di Dio|Amada, presente de Deus
+Priya|f|sanskrit|indian|4|love,classic|Amada, querida|Beloved, dear|Chérie, bien-aimée|Geliebte, liebe|Amata, cara|Amada, querida
+Radha|f|sanskrit|indian|3|mythology,classic|Éxito, prosperidad|Success, prosperity|Succès, prospérité|Erfolg, Wohlstand|Successo, prosperità|Sucesso, prosperidade
+Rahul|m|sanskrit|indian|3|classic,strong|Capaz, eficiente|Capable, efficient|Capable, efficace|Fähig, tüchtig|Capace, efficiente|Capaz, eficiente
+Raj|m|sanskrit|indian|3|royal,classic|Rey, gobernante|King, ruler|Roi, souverain|König, Herrscher|Re, sovrano|Rei, governante
+Rajiv|m|sanskrit|indian|2|flower,classic|Flor de loto|Lotus|Lotus|Lotosblume|Fiore di loto|Flor de lótus
+Ram|m|sanskrit|indian|3|mythology,classic|Placentero, dios Rama|Pleasing, god Rama|Plaisant, dieu Rama|Angenehm, Gott Rama|Piacevole, dio Rama|Agradável, deus Rama
+Rani|f|sanskrit|indian|2|royal,classic|Reina|Queen|Reine|Königin|Regina|Rainha
+Ravi|m|sanskrit|indian|3|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Rekha|f|sanskrit|indian|2|classic,virtue|Línea, trazo|Line, streak|Ligne, trait|Linie, Strich|Linea, tratto|Linha, traço
+Reyansh|m|sanskrit|indian|3|modern,light|Rayo de luz|Ray of light|Rayon de lumière|Lichtstrahl|Raggio di luce|Raio de luz
+Rohan|m|sanskrit|indian|3|modern,strong|Ascendente|Ascending|Ascendant|Aufsteigend|Ascendente|Ascendente
+Rohit|m|sanskrit|indian|2|classic,strong|Rojo, ascenso|Red, ascending|Rouge, ascendant|Rot, aufsteigend|Rosso, ascendente|Vermelho, ascendente
+Roshni|f|sanskrit|indian|2|light,sweet|Luz, resplandor|Light, brightness|Lumière, éclat|Licht, Glanz|Luce, splendore|Luz, brilho
+Rudra|m|sanskrit|indian|3|mythology,strong|El rugiente, Shiva|The roarer, Shiva|Le rugissant, Shiva|Der Brüllende, Shiva|Il ruggente, Shiva|O rugidor, Shiva
+Saanvi|f|sanskrit|indian|4|modern,mythology|Diosa Lakshmi, conocimiento|Goddess Lakshmi, knowledge|Déesse Lakshmi, savoir|Göttin Lakshmi, Wissen|Dea Lakshmi, conoscenza|Deusa Lakshmi, conhecimento
+Samar|m|sanskrit|indian|2|warrior,strong|Batalla|Battle|Bataille|Schlacht|Battaglia|Batalha
+Sameer|m|sanskrit|indian|2|nature,classic|Brisa|Breeze|Brise|Brise|Brezza|Brisa
+Sandeep|m|sanskrit|indian|2|light,classic|Lámpara encendida|Lighted lamp|Lampe allumée|Brennende Lampe|Lampada accesa|Lâmpada acesa
+Sanjay|m|sanskrit|indian|2|classic,warrior|Victorioso|Triumphant|Triomphant|Siegreich|Trionfante|Triunfante
+Sarika|f|sanskrit|indian|1|animal,nature|Mainá, pájaro cantor|Myna bird|Mainate|Beo, Singvogel|Maina, uccello canoro|Mainá, pássaro cantor
+Savitri|f|sanskrit|indian|2|mythology,celestial|Hija del Sol, leal esposa|Daughter of the sun|Fille du soleil|Tochter der Sonne|Figlia del sole|Filha do sol
+Seema|f|sanskrit|indian|2|classic,virtue|Límite, frontera|Boundary, limit|Frontière, limite|Grenze, Rand|Confine, limite|Fronteira, limite
+Shanti|f|sanskrit|indian|2|virtue,classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Shaurya|m|sanskrit|indian|2|modern,warrior|Valentía, heroísmo|Bravery, valour|Bravoure, vaillance|Tapferkeit, Heldenmut|Coraggio, eroismo|Bravura, heroísmo
+Shiv|m|sanskrit|indian|2|mythology,classic|Auspicioso, Shiva|Auspicious, Shiva|Auspicieux, Shiva|Glückverheißend, Shiva|Auspicioso, Shiva|Auspicioso, Shiva
+Shreya|f|sanskrit|indian|3|classic,virtue|Auspiciosa, excelente|Auspicious, excellent|Faste, excellente|Glückbringend, vorzüglich|Propizia, eccellente|Auspiciosa, excelente
+Siddharth|m|sanskrit|indian|3|classic,virtue|El que logró su meta|One who achieved his goal|Celui qui a atteint son but|Der sein Ziel erreicht hat|Colui che ha raggiunto la meta|Aquele que atingiu a meta
+Sita|f|sanskrit|indian|2|mythology,classic|Surco|Furrow|Sillon|Ackerfurche|Solco|Sulco
+Sneha|f|sanskrit|indian|3|love,sweet|Afecto, cariño|Affection, tenderness|Affection, tendresse|Zuneigung, Zärtlichkeit|Affetto, tenerezza|Afeto, carinho
+Suhana|f|sanskrit|indian|2|modern,sweet|Agradable, encantadora|Pleasant, lovely|Agréable, charmante|Angenehm, lieblich|Piacevole, deliziosa|Agradável, encantadora
+Sunil|m|sanskrit|indian|2|classic,nature|Azul oscuro|Dark blue|Bleu foncé|Dunkelblau|Blu scuro|Azul-escuro
+Surya|m|sanskrit|indian|3|celestial,mythology|Sol, dios del sol|Sun, sun god|Soleil, dieu du soleil|Sonne, Sonnengott|Sole, dio del sole|Sol, deus do sol
+Swati|f|sanskrit|indian|2|celestial,classic|Estrella, espada|Star, sword|Étoile, épée|Stern, Schwert|Stella, spada|Estrela, espada
+Tanvi|f|sanskrit|indian|3|modern,sweet|Delicada, grácil|Delicate, slender|Délicate, gracile|Zart, zierlich|Delicata, aggraziata|Delicada, esbelta
+Tara|f|sanskrit|indian,english|3|celestial,classic|Estrella|Star|Étoile|Stern|Stella|Estrela
+Tejas|m|sanskrit|indian|2|light,strong|Brillo, esplendor|Brilliance, radiance|Éclat, splendeur|Glanz, Strahlkraft|Splendore, fulgore|Brilho, esplendor
+Udai|m|sanskrit|indian|1|light,classic|Ascenso del sol|Rising, sunrise|Lever, aurore|Aufgang, Sonnenaufgang|Sorgere, alba|Nascer, aurora
+Uma|f|sanskrit|indian|2|mythology,classic|Serenidad, diosa Parvati|Tranquillity, goddess Parvati|Tranquillité, déesse Parvati|Ruhe, Göttin Parvati|Tranquillità, dea Parvati|Tranquilidade, deusa Parvati
+Urvi|f|sanskrit|indian|2|nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Usha|f|sanskrit|indian|2|celestial,light|Amanecer|Dawn|Aurore|Morgenröte|Alba|Aurora
+Vaani|f|sanskrit|indian|2|music,modern|Voz, habla|Voice, speech|Voix, parole|Stimme, Sprache|Voce, parola|Voz, fala
+Varun|m|sanskrit|indian|2|mythology,sea|Dios del agua|God of water|Dieu de l'eau|Gott des Wassers|Dio dell'acqua|Deus da água
+Veda|u|sanskrit|indian|2|classic,virtue|Conocimiento sagrado|Sacred knowledge|Savoir sacré|Heiliges Wissen|Conoscenza sacra|Conhecimento sagrado
+Vedant|m|sanskrit|indian|2|modern,virtue|Conocimiento final|Final knowledge|Savoir ultime|Höchstes Wissen|Conoscenza suprema|Conhecimento supremo
+Vedika|f|sanskrit|indian|2|modern,classic|Altar sagrado|Sacred altar|Autel sacré|Heiliger Altar|Altare sacro|Altar sagrado
+Veer|m|sanskrit|indian|2|warrior,strong|Valiente, héroe|Brave, hero|Brave, héros|Tapfer, Held|Coraggioso, eroe|Valente, herói
+Vidya|f|sanskrit|indian|2|virtue,classic|Conocimiento, sabiduría|Knowledge, wisdom|Savoir, sagesse|Wissen, Weisheit|Conoscenza, saggezza|Conhecimento, sabedoria
+Vihaan|m|sanskrit|indian|4|modern,light|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Vijay|m|sanskrit|indian|3|classic,warrior|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Vikram|m|sanskrit|indian|2|warrior,strong|Valor, poder|Valour, strength|Vaillance, puissance|Tapferkeit, Stärke|Valore, potenza|Valor, poder
+Vinay|m|sanskrit|indian|2|virtue,classic|Modestia, cortesía|Modesty, courtesy|Modestie, courtoisie|Bescheidenheit, Höflichkeit|Modestia, cortesia|Modéstia, cortesia
+Vishnu|m|sanskrit|indian|3|mythology,classic|El que todo lo penetra|All-pervading|Celui qui pénètre tout|Der Allumfassende|Colui che tutto pervade|Aquele que tudo permeia
+Vivaan|m|sanskrit|indian|4|modern,sweet|Lleno de vida|Full of life|Plein de vie|Voller Leben|Pieno di vita|Cheio de vida
+Yamini|f|sanskrit|indian|1|nature,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Yash|m|sanskrit|indian|3|classic,virtue|Fama, gloria|Fame, glory|Renommée, gloire|Ruhm, Ehre|Fama, gloria|Fama, glória
+Yashvi|f|sanskrit|indian|2|modern,virtue|Famosa, victoriosa|Famous, successful|Célèbre, victorieuse|Berühmt, erfolgreich|Famosa, vittoriosa|Famosa, vitoriosa
+Yuvraj|m|sanskrit|indian|2|royal,strong|Príncipe heredero|Crown prince|Prince héritier|Kronprinz|Principe ereditario|Príncipe herdeiro
+Akane|f|japanese|japanese|3|nature,modern|Rojo intenso|Deep red|Rouge profond|Tiefrot|Rosso intenso|Vermelho intenso
+Akari|f|japanese|japanese|4|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Akira|u|japanese|japanese|3|light,strong|Brillante, claro|Bright, clear|Brillant, clair|Hell, klar|Brillante, chiaro|Brilhante, claro
+Aoi|u|japanese|japanese|4|flower,modern|Malva, azul|Hollyhock, blue|Mauve, bleu|Stockrose, blau|Malva, blu|Malva, azul
+Asuka|f|japanese|japanese|2|nature,classic|Ave voladora, aroma de mañana|Flying bird, fragrance of tomorrow|Oiseau en vol, parfum de demain|Fliegender Vogel, Duft von morgen|Uccello in volo, profumo di domani|Ave voadora, perfume de amanhã
+Ayaka|f|japanese|japanese|3|flower,modern|Flor de colores|Colourful flower|Fleur colorée|Bunte Blume|Fiore colorato|Flor colorida
+Ayame|f|japanese|japanese|2|flower,classic|Lirio, iris|Iris|Iris|Schwertlilie|Iris|Íris
+Chiyo|f|japanese|japanese|2|vintage,classic|Mil generaciones|Thousand generations|Mille générations|Tausend Generationen|Mille generazioni|Mil gerações
+Daichi|m|japanese|japanese|3|nature,strong|Gran tierra|Great earth|Grande terre|Große Erde|Grande terra|Grande terra
+Daiki|m|japanese|japanese|3|strong,light|Gran resplandor|Great radiance|Grand éclat|Große Strahlkraft|Grande splendore|Grande esplendor
+Daisuke|m|japanese|japanese|3|classic,strong|Gran ayuda|Great help|Grande aide|Große Hilfe|Grande aiuto|Grande ajuda
+Eiji|m|japanese|japanese|2|classic,virtue|Segundo hijo, eterno|Second son, eternal|Deuxième fils, éternel|Zweiter Sohn, ewig|Secondo figlio, eterno|Segundo filho, eterno
+Emi|f|japanese|japanese|3|sweet,virtue|Bendición hermosa|Beautiful blessing|Belle bénédiction|Schöner Segen|Bella benedizione|Linda bênção
+Haruka|f|japanese|japanese|4|nature,classic|Lejano, distante|Distant, far-off|Lointaine|Fern, entfernt|Lontana, distante|Distante, longínqua
+Haruki|m|japanese|japanese|3|nature,modern|Primavera brillante|Shining spring|Printemps brillant|Strahlender Frühling|Primavera splendente|Primavera brilhante
+Haruna|f|japanese|japanese|3|nature,modern|Primavera, vegetales|Spring greens|Verdure de printemps|Frühlingsgrün|Verde di primavera|Verde da primavera
+Haruto|m|japanese|japanese|5|celestial,modern|Sol que vuela|Soaring sun|Soleil qui s'envole|Aufsteigende Sonne|Sole che si innalza|Sol que se eleva
+Hana|f|japanese|japanese|4|flower,sweet|Flor|Flower|Fleur|Blume|Fiore|Flor
+Hayato|m|japanese|japanese|3|animal,strong|Halcón, persona rápida|Falcon, swift person|Faucon, personne rapide|Falke, schneller Mensch|Falco, persona rapida|Falcão, pessoa veloz
+Hideo|m|japanese|japanese|1|classic,strong|Hombre excelente|Excellent man|Homme excellent|Vortrefflicher Mann|Uomo eccellente|Homem excelente
+Hikari|u|japanese|japanese|3|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Hikaru|m|japanese|japanese|3|light,modern|Brillar, luz|Shine, light|Briller, lumière|Leuchten, Licht|Brillare, luce|Brilhar, luz
+Hinata|u|japanese|japanese|5|light,nature|Lugar soleado|Sunny place|Endroit ensoleillé|Sonniger Ort|Luogo soleggiato|Lugar ensolarado
+Hiroshi|m|japanese|japanese|3|classic,virtue|Generoso, próspero|Generous, prosperous|Généreux, prospère|Großzügig, wohlhabend|Generoso, prospero|Generoso, próspero
+Hiroto|m|japanese|japanese|3|modern,virtue|Gran vuelo|Great flight|Grand envol|Großer Flug|Grande volo|Grande voo
+Hitomi|f|japanese|japanese|2|classic,sweet|Pupila, ojo|Pupil, eye|Pupille, œil|Pupille, Auge|Pupilla, occhio|Pupila, olho
+Honoka|f|japanese|japanese|3|sweet,virtue|Armonía, suavidad|Harmony, gentle|Harmonie, douceur|Harmonie, Sanftheit|Armonia, dolcezza|Harmonia, suavidade

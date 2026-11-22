@@ -1,0 +1,57 @@
+Hamish|m|hebrew|scottish|3|classic,biblical|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Hedd|m|celtic|welsh|1|virtue,sweet|Paz|Peace|Paix|Frieden|Pace|Paz
+Heulwen|f|celtic|welsh|2|light,sweet|Luz del sol|Sunshine|Rayon de soleil|Sonnenschein|Luce del sole|Luz do sol
+Huw|m|germanic|welsh|2|classic|Corazón, mente, espíritu|Heart, mind, spirit|Cœur, esprit|Herz, Verstand, Geist|Cuore, mente, spirito|Coração, mente, espírito
+Hywel|m|celtic|welsh|2|royal,classic|Eminente|Eminent|Éminent|Hervorragend|Eminente|Eminente
+Iain|m|hebrew|scottish|3|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Idris|m|celtic|welsh|2|mythology,strong|Señor ardiente|Ardent lord|Seigneur ardent|Feuriger Herr|Signore ardente|Senhor ardente
+Iestyn|m|latin|welsh|1|virtue|Justo|Just|Juste|Gerecht|Giusto|Justo
+Ieuan|m|hebrew|welsh|2|biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Innes|u|celtic|scottish|2|place,nature|Isla|Island|Île|Insel|Isola|Ilha
+Iona|f|celtic|scottish,english|3|place,sea|Isla de Iona|Island of Iona|Île d'Iona|Insel Iona|Isola di Iona|Ilha de Iona
+Isla|f|celtic|scottish,english,intl|5|place,sea|Isla (de Islay)|Island (of Islay)|Île (d'Islay)|Insel (von Islay)|Isola (di Islay)|Ilha (de Islay)
+Kenneth|m|celtic|scottish,english|3|classic,light|Nacido del fuego|Born of fire|Né du feu|Aus dem Feuer geboren|Nato dal fuoco|Nascido do fogo
+Keelan|m|celtic|irish|2|modern|Delgado, esbelto|Slender|Mince, svelte|Schlank|Esile, snello|Esbelto
+Caolán|m|celtic|irish|2|saint|Delgado, esbelto|Slender|Mince, svelte|Schlank|Esile, snello|Esbelto
+Keira|f|celtic|irish,english|4|modern|De cabello oscuro|Dark-haired|Aux cheveux sombres|Dunkelhaarig|Dai capelli scuri|De cabelos escuros
+Kerensa|f|celtic|english|2|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Kevin|m|celtic|irish,english,intl|4|saint,classic|De noble nacimiento, gentil|Kind, gentle birth|De noble naissance, doux|Von edler Geburt, sanft|Di nobile nascita, gentile|De nobre nascimento, gentil
+Kieran|m|celtic|irish,english|4|saint,classic|Pequeño oscuro|Little dark one|Petit sombre|Kleiner Dunkler|Piccolo scuro|Pequeno escuro
+Kirsty|f|greek|scottish|2|virtue|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Kyle|m|celtic|scottish,english|3|nature,modern|Estrecho, canal|Narrow strait|Détroit étroit|Schmale Meerenge|Stretto canale|Estreito canal
+Lachlan|m|celtic|scottish,english|3|warrior,modern|Tierra de lagos|Land of lakes|Pays des lacs|Land der Seen|Terra dei laghi|Terra de lagos
+Lennox|m|celtic|scottish,english|3|nature,modern|Bosque de olmos|Grove of elms|Bosquet d'ormes|Ulmenhain|Boschetto di olmi|Bosque de olmos
+Liam|m|germanic|irish,english,intl|5|trendy,strong|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Llew|m|celtic|welsh|1|animal,mythology|León|Lion|Lion|Löwe|Leone|Leão
+Llŷr|m|celtic|welsh|1|sea,mythology|Mar|Sea|Mer|Meer|Mare|Mar
+Lochlann|m|celtic|irish|2|nature,warrior|Tierra de lagos|Land of lakes|Pays des lacs|Land der Seen|Terra dei laghi|Terra de lagos
+Logan|m|celtic|scottish,english|4|modern,nature|Hondonada pequeña|Little hollow|Petit creux|Kleine Mulde|Piccola conca|Pequena depressão
+Lorcán|m|celtic|irish|2|warrior,strong|Pequeño feroz|Little fierce one|Petit féroce|Kleiner Wilder|Piccolo feroce|Pequeno feroz
+Lowenna|f|celtic|english|1|sweet,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Lowri|f|latin|welsh|2|nature,classic|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Mabon|m|celtic|welsh|1|mythology|Hijo, joven|Son, youth|Fils, jeune homme|Sohn, Jüngling|Figlio, giovane|Filho, jovem
+Madoc|m|celtic|welsh|1|classic|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Maeve|f|celtic|irish,english|4|mythology,royal|La que embriaga|She who intoxicates|Celle qui enivre|Die Berauschende|Colei che inebria|Aquela que inebria
+Maël|m|celtic|french|3|royal,saint|Príncipe|Prince|Prince|Fürst|Principe|Príncipe
+Maëlle|f|celtic|french|4|royal,modern|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Maëlys|f|celtic|french|3|royal,modern|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Mairéad|f|greek|irish|3|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Máire|f|hebrew|irish|3|biblical,classic|Amada, amarga|Beloved, bitter|Aimée, amère|Geliebte, bitter|Amata, amara|Amada, amarga
+Mair|f|hebrew|welsh|2|biblical,classic|Amada, amarga|Beloved, bitter|Aimée, amère|Geliebte, bitter|Amata, amara|Amada, amarga
+Mairi|f|hebrew|scottish|2|biblical,classic|Amada, amarga|Beloved, bitter|Aimée, amère|Geliebte, bitter|Amata, amara|Amada, amarga
+Malcolm|m|celtic|scottish,english|3|saint,classic|Discípulo de san Columba|Disciple of Saint Columba|Disciple de saint Colomba|Jünger des heiligen Columba|Discepolo di san Colombano|Discípulo de são Columba
+Mared|f|greek|welsh|2|gem,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Megan|f|greek|welsh,english|4|gem,modern|Perla|Pearl|Perle|Perle|Perla|Pérola
+Mererid|f|celtic|welsh|1|gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Meredith|u|celtic|welsh,english|3|royal,classic|Gran señor|Great lord|Grand seigneur|Großer Herr|Grande signore|Grande senhor
+Morgan|u|celtic|welsh,english|3|sea,mythology|Nacido del mar|Sea-born|Né de la mer|Meergeboren|Nato dal mare|Nascido do mar
+Morgane|f|celtic|french|3|mythology,sea|Nacida del mar|Sea-born|Née de la mer|Meergeboren|Nata dal mare|Nascida do mar
+Morwenna|f|celtic|english|2|sea,mythology|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Muireann|f|celtic|irish|2|sea,mythology|Mar blanco|Sea-white|Mer blanche|Weißes Meer|Mare bianco|Mar branco
+Murdo|m|celtic|scottish|1|sea,classic|Señor del mar|Sea lord|Seigneur de la mer|Herr des Meeres|Signore del mare|Senhor do mar
+Murray|m|celtic|scottish,english|2|place,sea|Asentamiento junto al mar|Settlement by the sea|Colonie près de la mer|Siedlung am Meer|Insediamento sul mare|Povoado junto ao mar
+Myfanwy|f|celtic|welsh|2|love,sweet|Mi hermosa|My fine one|Ma belle|Meine Schöne|Mia bella|Minha bela
+Jago|m|hebrew|english|2|classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolger|Colui che soppianta|Aquele que suplanta
+Jory|m|greek|english|1|classic|Agricultor|Farmer|Agriculteur|Landmann|Agricoltore|Agricultor
+Bleddyn|m|celtic|welsh|1|animal,warrior|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Gwenn|f|celtic|french|2|sweet,light|Blanca, bendita|White, blessed|Blanche, bénie|Weiß, gesegnet|Bianca, benedetta|Branca, abençoada

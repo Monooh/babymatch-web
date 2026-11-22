@@ -1,0 +1,68 @@
+Icíar|f|basque|spanish,basque|2|saint,place|Virgen de Icíar|Our Lady of Icíar|Notre-Dame d'Icíar|Muttergottes von Icíar|Madonna di Icíar|Nossa Senhora de Icíar
+Idoia|f|basque|spanish,basque|2|nature,place|Laguna, charca|Pond, pool|Étang, mare|Teich, Weiher|Stagno, laghetto|Lagoa, poça
+Ignacia|f|latin|spanish|1|vintage,saint|Ardiente, fogosa|Fiery, ardent|Ardente, fougueuse|Feurig, glühend|Ardente, focosa|Ardente, fogosa
+Imelda|f|germanic|spanish,italian|1|vintage,saint,warrior|Batalla universal|Universal battle|Combat universel|Allumfassender Kampf|Battaglia universale|Batalha universal
+Inmaculada|f|latin|spanish|2|saint,virtue|Sin mancha|Immaculate|Immaculée|Unbefleckt|Immacolata|Imaculada
+Inocencia|f|latin|spanish|1|virtue,vintage|Inocencia|Innocence|Innocence|Unschuld|Innocenza|Inocência
+Inés|f|greek|spanish|4|saint,classic,virtue|Casta, pura|Chaste, pure|Chaste, pure|Keusch, rein|Casta, pura|Casta, pura
+Iratxe|f|basque|spanish,basque|2|place,saint|Helechal (Virgen de Irache)|Fern field (Our Lady of Irache)|Fougeraie (Vierge d'Irache)|Farnfeld (Muttergottes von Irache)|Felceto (Madonna di Irache)|Feitoral (Nossa Senhora de Irache)
+Irene|f|greek|spanish,italian,german|4|classic,virtue|Paz|Peace|Paix|Frieden|Pace|Paz
+Iris|f|greek|spanish,german,english|3|flower,mythology|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Irma|f|germanic|spanish,german|2|vintage|Universal, entera|Whole, universal|Entière, universelle|Ganz, allumfassend|Intera, universale|Inteira, universal
+Isabel|f|hebrew|spanish,portuguese|5|royal,classic,biblical|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Isabela|f|hebrew|spanish|3|royal,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Isidora|f|greek|spanish|5|vintage,mythology|Regalo de Isis|Gift of Isis|Don d'Isis|Geschenk der Isis|Dono di Iside|Presente de Ísis
+Isolda|f|celtic|spanish|1|literary,love|La de mirada hermosa|The fair-faced one|La belle à voir|Die Schönblickende|La bella da vedere|A de bela aparência
+Itziar|f|basque|spanish,basque|2|saint,place|Virgen de Itziar|Our Lady of Itziar|Notre-Dame d'Itziar|Muttergottes von Itziar|Madonna di Itziar|Nossa Senhora de Itziar
+Ivana|f|hebrew|spanish,slavic|1|modern,biblical|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ivonne|f|germanic|spanish,french|2|vintage|Tejo, arquera|Yew tree, archer|If, archère|Eibe, Bogenschützin|Tasso, arciera|Teixo, arqueira
+Jacinta|f|greek|spanish,portuguese|2|flower,vintage|Flor del jacinto|Hyacinth flower|Fleur de jacinthe|Hyazinthenblüte|Fiore di giacinto|Flor de jacinto
+Jade|f|other|spanish,english,french|3|gem,modern|Piedra de jade|Jade stone|Pierre de jade|Jadestein|Pietra di giada|Pedra de jade
+Jara|f|arabic|spanish|3|nature,flower|Jara, arbusto de monte|Rockrose shrub|Ciste, arbuste de maquis|Zistrose|Cisto, arbusto di macchia|Esteva, arbusto de monte
+Jazmín|f|persian|spanish|4|flower,sweet|Flor del jazmín|Jasmine flower|Fleur de jasmin|Jasminblüte|Fiore di gelsomino|Flor de jasmim
+Jimena|f|hebrew|spanish|4|classic,vintage|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Joaquina|f|hebrew|spanish|1|vintage,saint|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Johana|f|hebrew|spanish|3|biblical|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jordana|f|hebrew|spanish|1|place,biblical|La que desciende|The one who flows down|Celle qui descend|Die Herabfließende|Colei che scende|A que desce
+Josefa|f|hebrew|spanish|5|vintage,classic|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Josefina|f|hebrew|spanish,italian|3|classic,vintage|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Juana|f|hebrew|spanish|3|classic,biblical|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Judit|f|hebrew|spanish,catalan,german|3|biblical,strong|Mujer de Judea, la alabada|Woman of Judea, the praised|Femme de Judée, la louée|Frau aus Judäa, die Gepriesene|Donna di Giudea, la lodata|Mulher da Judeia, a louvada
+Julia|f|latin|spanish,intl|5|classic,saint|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Hause Julius|Della gente Giulia|Da família Júlia
+Juliana|f|latin|spanish,portuguese|3|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Hause Julius|Della gente Giulia|Da família Júlia
+Julieta|f|latin|spanish|4|literary,love|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Hause Julius|Della gente Giulia|Da família Júlia
+Justa|f|latin|spanish|1|virtue,vintage|Justa|Just|Juste|Gerechte|Giusta|Justa
+Justina|f|latin|spanish,italian|2|virtue,vintage|Justa|Just|Juste|Gerechte|Giusta|Justa
+Karen|f|greek|spanish,scandinavian,english|3|modern|Pura|Pure|Pure|Rein|Pura|Pura
+Lara|f|latin|spanish,italian,russian|4|mythology,classic|Ninfa del silencio|Nymph of silence|Nymphe du silence|Nymphe des Schweigens|Ninfa del silenzio|Ninfa do silêncio
+Laura|f|latin|spanish,italian,german|5|classic,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Laurencia|f|latin|spanish|1|vintage,saint|Coronada de laurel|Crowned with laurel|Couronnée de laurier|Mit Lorbeer gekrönt|Incoronata d'alloro|Coroada de louro
+Lavinia|f|latin|spanish,italian|1|vintage,mythology|De Lavinio|From Lavinium|De Lavinium|Aus Lavinium|Di Lavinio|De Lavínio
+Leandra|f|greek|spanish|1|vintage,mythology|Mujer leona|Lioness woman|Femme lionne|Löwenfrau|Donna leonessa|Mulher leoa
+Leocadia|f|greek|spanish|1|vintage,saint|Blanca, brillante|White, shining|Blanche, brillante|Weiß, leuchtend|Bianca, splendente|Branca, brilhante
+Leonor|f|other|spanish,portuguese|4|royal,classic|Luz, antorcha|Light, torch|Lumière, flambeau|Licht, Fackel|Luce, fiaccola|Luz, tocha
+Leticia|f|latin|spanish|3|virtue,sweet|Alegría, felicidad|Joy, happiness|Joie, bonheur|Freude, Glück|Letizia, gioia|Alegria, felicidade
+Libertad|f|latin|spanish|2|virtue,strong|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Lidia|f|greek|spanish,italian|3|classic,place|De Lidia|From Lydia|De Lydie|Aus Lydien|Della Lidia|Da Lídia
+Lía|f|hebrew|spanish|3|biblical,sweet|Cansada, vaca salvaje|Weary, wild cow|Fatiguée, vache sauvage|Müde, wilde Kuh|Stanca, vacca selvatica|Cansada, vaca selvagem
+Liliana|f|latin|spanish,italian|3|flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lilia|f|latin|spanish|1|flower,vintage|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lina|f|arabic|spanish,arabic|2|sweet|Tierna, palmera joven|Tender, young palm|Tendre, jeune palmier|Zart, junge Palme|Tenera, giovane palma|Tenra, jovem palmeira
+Linda|f|germanic|spanish|2|sweet,vintage|Hermosa, suave|Pretty, gentle|Jolie, douce|Hübsch, sanft|Bella, dolce|Bonita, suave
+Lizbeth|f|hebrew|spanish|2|modern|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Lluvia|f|latin|spanish|2|nature,modern|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Lola|f|latin|spanish|3|vintage,saint|Dolores|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Loreto|f|latin|spanish|1|saint,place|Lugar de laureles|Place of laurels|Lieu de lauriers|Ort der Lorbeeren|Luogo di allori|Lugar de loureiros
+Lorena|f|germanic|spanish|3|place,classic|De Lorena|From Lorraine|De Lorraine|Aus Lothringen|Della Lorena|Da Lorena
+Lorenza|f|latin|spanish,italian|1|vintage,saint|Coronada de laurel|Crowned with laurel|Couronnée de laurier|Mit Lorbeer gekrönt|Incoronata d'alloro|Coroada de louro
+Lourdes|f|other|spanish|3|saint,place|Virgen de Lourdes|Our Lady of Lourdes|Notre-Dame de Lourdes|Muttergottes von Lourdes|Madonna di Lourdes|Nossa Senhora de Lourdes
+Lucero|f|latin|spanish|3|celestial,light|Lucero del alba, estrella|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Lucía|f|latin|spanish|5|saint,light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Luciana|f|latin|spanish,italian,portuguese|4|light,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Lucila|f|latin|spanish|1|vintage,light|Pequeña luz|Little light|Petite lumière|Kleines Licht|Piccola luce|Pequena luz
+Lucinda|f|latin|spanish|1|vintage,light|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce brillante|Luz brilhante
+Lucrecia|f|latin|spanish|2|vintage,classic|Ganancia, riqueza|Gain, wealth|Gain, richesse|Gewinn, Reichtum|Guadagno, ricchezza|Ganho, riqueza
+Luisa|f|germanic|spanish,italian,portuguese|3|classic,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Luna|f|latin|spanish,italian,intl|5|celestial,nature,light|Luna|Moon|Lune|Mond|Luna|Lua
+Luz|f|latin|spanish|3|light,saint|Luz|Light|Lumière|Licht|Luce|Luz
+Leyre|f|basque|spanish,basque|2|place,saint|Monasterio de Leyre|Leyre monastery|Monastère de Leyre|Kloster Leyre|Monastero di Leyre|Mosteiro de Leyre

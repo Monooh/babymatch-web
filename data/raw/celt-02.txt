@@ -1,0 +1,60 @@
+Dafydd|m|hebrew|welsh|3|biblical,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Daithí|m|celtic|irish|1|strong|Ágil, veloz|Nimble, swift|Agile, rapide|Flink, schnell|Agile, veloce|Ágil, veloz
+Darragh|m|celtic|irish|3|nature,strong|Roble|Oak|Chêne|Eiche|Quercia|Carvalho
+Dearbhla|f|celtic|irish|1|love,sweet|Verdadero deseo|True desire|Vrai désir|Wahres Verlangen|Vero desiderio|Verdadeiro desejo
+Delyth|f|celtic|welsh|2|sweet,vintage|Bonita, agradable|Pretty, neat|Jolie, charmante|Hübsch, nett|Graziosa, piacevole|Bonita, agradável
+Dervla|f|celtic|irish|2|love,sweet|Verdadero deseo|True desire|Vrai désir|Wahres Verlangen|Vero desiderio|Verdadeiro desejo
+Dewi|m|hebrew|welsh|2|saint,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Diarmuid|m|celtic|irish|2|mythology,warrior|Sin enemigo|Without enemy|Sans ennemi|Ohne Feind|Senza nemico|Sem inimigo
+Dilys|f|celtic|welsh|2|vintage,virtue|Genuina, auténtica|Genuine, steadfast|Authentique, sincère|Echt, beständig|Genuina, sincera|Genuína, autêntica
+Dónal|m|celtic|irish|3|royal,classic|Gobernante del mundo|World ruler|Maître du monde|Weltherrscher|Sovrano del mondo|Governante do mundo
+Donald|m|celtic|scottish,english|3|royal,classic|Gobernante del mundo|World ruler|Maître du monde|Weltherrscher|Sovrano del mondo|Governante do mundo
+Donnacha|m|celtic|irish|1|warrior|Guerrero moreno|Brown warrior|Guerrier brun|Brauner Krieger|Guerriero bruno|Guerreiro moreno
+Dougal|m|celtic|scottish|2|classic|Extranjero oscuro|Dark stranger|Étranger sombre|Dunkler Fremder|Straniero scuro|Estrangeiro escuro
+Douglas|m|celtic|scottish,english|3|classic,nature|Agua oscura|Dark water|Eau sombre|Dunkles Wasser|Acqua scura|Água escura
+Duncan|m|celtic|scottish,english|3|classic,warrior|Guerrero oscuro|Dark warrior|Guerrier sombre|Dunkler Krieger|Guerriero scuro|Guerreiro escuro
+Dylan|m|celtic|welsh,english,intl|4|sea,mythology|Gran marea, hijo del mar|Great tide, son of the sea|Grande marée, fils de la mer|Große Flut, Sohn des Meeres|Grande marea, figlio del mare|Grande maré, filho do mar
+Éabha|f|hebrew|irish|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Éamon|m|germanic|irish|2|classic|Guardián de la riqueza|Guardian of riches|Gardien des richesses|Hüter des Reichtums|Custode della ricchezza|Guardião da riqueza
+Éanna|m|celtic|irish|2|saint,animal|Parecido a un pájaro|Bird-like|Semblable à un oiseau|Vogelgleich|Simile a un uccello|Semelhante a um pássaro
+Eilidh|f|celtic|scottish|3|classic,light|Luz, antorcha|Light, torch|Lumière, flambeau|Licht, Fackel|Luce, fiaccola|Luz, tocha
+Eira|f|celtic|welsh|2|nature,sweet|Nieve|Snow|Neige|Schnee|Neve|Neve
+Eirian|f|celtic|welsh|1|light,sweet|Brillante, hermosa|Bright, beautiful|Brillante, belle|Strahlend, schön|Luminosa, bella|Brilhante, bela
+Eirlys|f|celtic|welsh|2|flower,nature|Campanilla de invierno|Snowdrop|Perce-neige|Schneeglöckchen|Bucaneve|Campainha-de-inverno
+Eithne|f|celtic|irish|2|mythology,vintage|Grano, semilla|Kernel, grain|Noyau, grain|Kern, Korn|Chicco, seme|Grão, semente
+Elen|f|greek|welsh|2|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Elin|f|greek|welsh|3|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Elowen|f|celtic|english|2|nature,modern|Olmo|Elm|Orme|Ulme|Olmo|Olmo
+Elspeth|f|hebrew|scottish|2|vintage,biblical|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist ein Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Elwyn|m|celtic|welsh|1|nature|Frente clara|Fair brow|Front claire|Helle Stirn|Fronte chiara|Fronte clara
+Emrys|m|greek|welsh|2|mythology,strong|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Enda|m|celtic|irish|2|saint,animal|Parecido a un pájaro|Bird-like|Semblable à un oiseau|Vogelgleich|Simile a un uccello|Semelhante a um pássaro
+Eoghan|m|celtic|irish|3|classic,nature|Nacido del tejo|Born of the yew|Né de l'if|Aus der Eibe geboren|Nato dal tasso|Nascido do teixo
+Eoin|m|hebrew|irish|3|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Erwan|m|celtic|french|3|nature,saint|Tejo|Yew|If|Eibe|Tasso|Teixo
+Eurwen|f|celtic|welsh|1|gem,sweet|Dorada y hermosa|Golden and fair|Dorée et belle|Golden und schön|Dorata e bella|Dourada e bela
+Euan|m|celtic|scottish|3|nature,classic|Nacido del tejo|Born of the yew|Né de l'if|Aus der Eibe geboren|Nato dal tasso|Nascido do teixo
+Evan|m|hebrew|welsh,english|4|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ewan|m|celtic|scottish|4|nature,modern|Nacido del tejo|Born of the yew|Né de l'if|Aus der Eibe geboren|Nato dal tasso|Nascido do teixo
+Faolán|m|celtic|irish|1|animal,saint|Pequeño lobo|Little wolf|Petit loup|Kleiner Wolf|Piccolo lupo|Pequeno lobo
+Fearghal|m|celtic|irish|1|warrior,strong|Hombre de valor|Man of valour|Homme vaillant|Mann von Mut|Uomo valoroso|Homem de valor
+Fergus|m|celtic|scottish,irish|3|warrior,strong|Hombre de vigor|Man of vigour|Homme de vigueur|Mann von Kraft|Uomo vigoroso|Homem de vigor
+Ffion|f|celtic|welsh|3|flower,modern|Dedalera|Foxglove|Digitale|Fingerhut|Digitale|Dedaleira
+Fiadh|f|celtic|irish|3|nature,animal|Salvaje, ciervo|Wild, deer|Sauvage, cerf|Wild, Hirsch|Selvatico, cervo|Selvagem, cervo
+Finn|m|celtic|irish,english,intl|4|mythology,modern|Blanco, justo|Fair, white|Blond, blanc|Hell, weiß|Biondo, bianco|Claro, branco
+Finlay|m|celtic|scottish|3|warrior,classic|Guerrero blanco|Fair warrior|Guerrier blond|Heller Krieger|Guerriero biondo|Guerreiro claro
+Finnian|m|celtic|irish|2|saint,light|Claro, blanco|Fair, white|Blond, blanc|Hell, weiß|Biondo, bianco|Claro, branco
+Fiona|f|celtic|scottish,english|4|classic,nature|Blanca, justa|Fair, white|Blanche, claire|Hell, weiß|Bianca, chiara|Branca, clara
+Fionn|m|celtic|irish|3|mythology,light|Blanco, justo|Fair, white|Blond, blanc|Hell, weiß|Biondo, bianco|Claro, branco
+Fionnuala|f|celtic|irish|2|mythology,vintage|Hombros blancos|White shoulders|Épaules blanches|Weiße Schultern|Spalle bianche|Ombros brancos
+Gaël|m|celtic|french|4|royal,modern|Príncipe generoso|Generous prince|Prince généreux|Großzügiger Fürst|Principe generoso|Príncipe generoso
+Gaëlle|f|celtic|french|3|modern,royal|Princesa generosa|Generous princess|Princesse généreuse|Großzügige Fürstin|Principessa generosa|Princesa generosa
+Gethin|m|celtic|welsh|2|strong|Moreno, oscuro|Dusky, swarthy|Sombre, basané|Dunkel, dunkelhäutig|Scuro, bruno|Escuro, moreno
+Glenys|f|celtic|welsh|1|vintage,virtue|Santa, pura|Holy, pure|Sainte, pure|Heilig, rein|Santa, pura|Santa, pura
+Glyn|m|celtic|welsh|2|nature|Valle|Valley|Vallée|Tal|Valle|Vale
+Gruffudd|m|celtic|welsh|2|royal,strong|Señor fuerte|Strong lord|Seigneur fort|Starker Herr|Signore forte|Senhor forte
+Gwen|f|celtic|welsh|3|classic,sweet|Blanca, bendita|White, blessed|Blanche, bénie|Weiß, gesegnet|Bianca, benedetta|Branca, abençoada
+Gwendolyn|f|celtic|welsh,english|3|classic,literary|Anillo blanco|White ring|Anneau blanc|Weißer Ring|Anello bianco|Anel branco
+Gwenno|f|celtic|welsh|2|sweet|Blanca, bendita|White, blessed|Blanche, bénie|Weiß, gesegnet|Bianca, benedetta|Branca, abençoada
+Gwyn|m|celtic|welsh|2|mythology,light|Blanco, bendito|White, blessed|Blanc, béni|Weiß, gesegnet|Bianco, benedetto|Branco, abençoado
+Gwyneth|f|celtic|welsh,english|3|classic,virtue|Bendita, felicidad|Blessed, happiness|Bénie, bonheur|Gesegnet, Glück|Benedetta, felicità|Abençoada, felicidade

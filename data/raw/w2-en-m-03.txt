@@ -1,0 +1,65 @@
+Kirby|m|norse|english|2|place|Pueblo de la iglesia|Church village|Village de l'église|Kirchdorf|Villaggio della chiesa|Aldeia da igreja
+Kirk|m|norse|english,scottish|2|place,classic|Iglesia|Church|Église|Kirche|Chiesa|Igreja
+Lambert|m|germanic|english|1|vintage,saint|Tierra brillante|Land-bright|Terre brillante|Land-glänzend|Terra splendente|Terra brilhante
+Langley|u|germanic|english|1|place,nature|Claro largo|Long clearing|Longue clairière|Lange Lichtung|Lunga radura|Clareira longa
+Larry|m|latin|english|2|classic|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Laurel|u|latin|english|2|nature,vintage|Laurel|Laurel tree|Laurier|Lorbeer|Alloro|Loureiro
+Laurence|m|latin|english|2|classic,saint|De Laurento, ciudad del laurel|From Laurentum, city of laurels|De Laurente, ville des lauriers|Aus Laurentum, Stadt der Lorbeeren|Di Laurento, città degli allori|De Laurento, cidade dos loureiros
+Lark|u|germanic|english|1|animal|Alondra|Lark|Alouette|Lerche|Allodola|Cotovia
+Leander|m|greek|english|2|mythology|Hombre león|Lion man|Homme lion|Löwenmann|Uomo leone|Homem leão
+Leighton|m|germanic|english|2|place,modern|Granja en el claro|Farm in a clearing|Ferme dans une clairière|Hof auf einer Lichtung|Fattoria in una radura|Quinta numa clareira
+Leland|m|germanic|english|2|place|Tierra de prados|Meadow land|Terre de prairies|Wiesenland|Terra di prati|Terra de prados
+Lemuel|m|hebrew|english|1|biblical|Dedicado a Dios|Devoted to God|Dévoué à Dieu|Gott geweiht|Devoto a Dio|Devotado a Deus
+Leofric|m|germanic|english|1|royal,vintage|Gobernante amado|Dear ruler|Souverain bien-aimé|Geliebter Herrscher|Sovrano amato|Governante amado
+Louie|m|germanic|english|3|sweet,classic|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lux|u|latin|english|2|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Lysander|m|greek|english|2|classic,literary|Libertador|Liberator|Libérateur|Befreier|Liberatore|Libertador
+Lyric|u|greek|english|2|music,modern|Lírica|Lyric|Lyrique|Lyrik|Lirica|Lírica
+Maple|u|latin|english|1|nature,modern|Arce|Maple tree|Érable|Ahorn|Acero|Bordo
+Marcellus|m|latin|english|2|classic|Pequeño Marte|Little Mars|Petit Mars|Kleiner Mars|Piccolo Marte|Pequeno Marte
+Mark|m|latin|english|4|classic,biblical|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Maverick|m|other|english|3|modern,strong|Independiente|Independent|Indépendant|Unabhängig|Indipendente|Independente
+Maximus|m|latin|english|2|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Mickey|m|hebrew|english|2|sweet|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mike|m|hebrew|english|3|classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Moss|u|germanic|english|1|nature|Musgo|Moss|Mousse|Moos|Muschio|Musgo
+Myron|m|greek|english|1|vintage|Mirra|Myrrh|Myrrhe|Myrrhe|Mirra|Mirra
+Ned|m|germanic|english|2|vintage|Guardián próspero|Wealthy guardian|Gardien prospère|Wohlhabender Beschützer|Guardiano prospero|Guardião próspero
+Nat|m|hebrew|english|2|classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Nate|m|hebrew|english|3|classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Nathanael|m|hebrew|english|2|biblical|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Newton|m|germanic|english|1|place|Ciudad nueva|New town|Ville nouvelle|Neue Stadt|Città nuova|Cidade nova
+Nico|m|greek|english,intl|3|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicodemus|m|greek|english|1|biblical|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+North|u|germanic|english|1|nature,modern|Norte|North|Nord|Norden|Nord|Norte
+Norton|m|germanic|english|1|place|Ciudad del norte|North town|Ville du nord|Nördliche Stadt|Città del nord|Cidade do norte
+Oak|u|germanic|english|1|nature|Roble|Oak tree|Chêne|Eiche|Quercia|Carvalho
+Obed|m|hebrew|english|1|biblical|Siervo|Servant|Serviteur|Diener|Servitore|Servo
+Ollie|m|latin|english|4|sweet,classic|Olivo|Olive tree|Olivier|Olivenbaum|Ulivo|Oliveira
+Onyx|u|greek|english|1|gem,modern|Ónice|Onyx|Onyx|Onyx|Onice|Ónix
+Orson|m|latin|english|1|animal,vintage|Osezno|Bear cub|Ourson|Bärenjunges|Orsacchiotto|Ursinho
+Osbert|m|germanic|english|1|vintage|Brillante por Dios|Divinely bright|Brillant par Dieu|Von Gott glänzend|Splendente per Dio|Brilhante por Deus
+Osborn|m|germanic|english|1|vintage|Oso divino|Divine bear|Ours divin|Göttlicher Bär|Orso divino|Urso divino
+Osric|m|germanic|english|1|royal,vintage|Gobernante divino|Divine ruler|Souverain divin|Göttlicher Herrscher|Sovrano divino|Governante divino
+Oswin|m|germanic|english|1|saint,vintage|Amigo divino|Friend of God|Ami divin|Göttlicher Freund|Amico divino|Amigo divino
+Pax|u|latin|english|2|virtue,modern|Paz|Peace|Paix|Frieden|Pace|Paz
+Pete|m|greek|english|3|classic|Roca|Rock|Roc|Fels|Roccia|Rocha
+Phil|m|greek|english|3|classic|Amante de los caballos|Lover of horses|Amoureux des chevaux|Pferdefreund|Amante dei cavalli|Amante de cavalos
+Philemon|m|greek|english|1|biblical|Afectuoso|Affectionate|Affectueux|Liebevoll|Affettuoso|Afetuoso
+Piers|m|greek|english|2|vintage|Roca|Rock|Roc|Fels|Roccia|Rocha
+Piper|u|germanic|english|3|music,modern|Flautista|Pipe player|Joueur de pipeau|Pfeifer|Suonatore di piffero|Flautista
+Prosper|m|latin|english|1|virtue,vintage|Próspero|Fortunate|Heureux|Glücklich|Fortunato|Afortunado
+Quinton|m|germanic|english|2|place|Ciudad de la reina|Queen's town|Ville de la reine|Stadt der Königin|Città della regina|Cidade da rainha
+Radley|m|germanic|english|1|place|Claro rojo|Red clearing|Clairière rouge|Rote Lichtung|Radura rossa|Clareira vermelha
+Rafe|m|germanic|english|2|vintage|Consejo del lobo|Wolf counsel|Conseil du loup|Wolfsrat|Consiglio del lupo|Conselho do lobo
+Randolph|m|germanic|english|1|vintage|Escudo del lobo|Shield wolf|Bouclier du loup|Wolfsschild|Scudo del lupo|Escudo do lobo
+Raven|u|germanic|english|3|animal,modern|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Reeve|m|germanic|english|1|vintage|Administrador|Steward|Intendant|Verwalter|Amministratore|Administrador
+Reggie|m|germanic|english|2|classic|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Rick|m|germanic|english|2|classic|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Ridge|m|germanic|english|1|nature,modern|Cresta|Ridge|Crête|Grat|Cresta|Crista
+Rob|m|germanic|english|2|classic|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Robbie|m|germanic|english|3|sweet|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Roscoe|m|norse|english|2|vintage|Bosque de corzos|Roe deer wood|Bois de chevreuils|Rehwald|Bosco di caprioli|Bosque de corços
+Royal|m|latin|english|1|royal|Real|Royal|Royal|Königlich|Reale|Real
+Rudy|m|germanic|english|2|classic|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso

@@ -1,0 +1,86 @@
+Adele|f|germanic|italian,german,english|2|vintage,royal|Noble|Noble|Noble|Edel|Nobile|Nobre
+Adriana|f|latin|italian,spanish,portuguese|3|classic,place|De la ciudad de Hadria|From the town of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Agata|f|greek|italian|3|saint,virtue,classic|Buena, virtuosa|Good, virtuous|Bonne, vertueuse|Gut, tugendhaft|Buona, virtuosa|Boa, virtuosa
+Agnese|f|greek|italian|3|saint,virtue,classic|Pura, casta|Pure, chaste|Pure, chaste|Rein, keusch|Pura, casta|Pura, casta
+Alba|f|latin|italian,spanish,catalan|4|light,nature,modern|Amanecer|Dawn|Aube|Morgendämmerung|Alba|Amanhecer
+Alberta|f|germanic|italian|1|vintage,royal|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alessandra|f|greek|italian|4|classic,strong|Defensora de la humanidad|Defender of mankind|Défenseuse des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Alessia|f|greek|italian|4|modern,strong|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Alice|f|germanic|italian,english,french,portuguese|5|classic,royal|De noble linaje|Of noble kind|De noble race|Von edlem Stand|Di nobile stirpe|De nobre estirpe
+Allegra|f|latin|italian|2|sweet,modern,music|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra, gioiosa|Alegre
+Amalia|f|germanic|italian,spanish,german,greek|3|vintage,classic|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Ambra|f|arabic|italian|3|gem,modern|Ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Amelia|f|germanic|italian,english,spanish,portuguese|3|classic,vintage|Trabajadora|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Anastasia|f|greek|italian,russian,greek|3|saint,classic|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Angela|f|greek|italian,english,german|3|classic,saint|Mensajera|Messenger|Messagère|Botin|Messaggera|Mensageira
+Angelica|f|greek|italian,english|3|classic,sweet|Angelical|Angelic|Angélique|Engelsgleich|Simile a un angelo|Angelical
+Anna|f|hebrew|italian,intl|5|biblical,classic,saint|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Annunziata|f|latin|italian|1|saint,vintage|Anunciada|Announced|Annoncée|Verkündete|Annunciata|Anunciada
+Arianna|f|greek|italian|4|mythology,saint|Muy santa|Most holy|Très sainte|Sehr heilig|Santissima|Santíssima
+Aurora|f|latin|italian,spanish,portuguese,english|5|light,mythology,celestial|Amanecer|Dawn|Aurore|Morgenröte|Alba|Aurora
+Azzurra|f|persian|italian|2|celestial,modern|Azul celeste|Sky blue|Bleu azur|Himmelblau|Azzurro cielo|Azul-celeste
+Assunta|f|latin|italian|1|saint,vintage|Elevada al cielo|Taken up to heaven|Élevée au ciel|In den Himmel aufgenommen|Innalzata al cielo|Elevada ao céu
+Achille|m|greek|italian|2|mythology,warrior,vintage|Dolor del pueblo|Pain of the people|Douleur du peuple|Schmerz des Volkes|Dolore del popolo|Dor do povo
+Adamo|m|hebrew|italian|2|biblical,classic|Tierra, hombre|Earth, man|Terre, homme|Erde, Mensch|Terra, uomo|Terra, homem
+Adriano|m|latin|italian,spanish,portuguese|3|classic,royal,place|De la ciudad de Hadria|From the town of Hadria|De la ville d'Hadria|Aus der Stadt Hadria|Della città di Adria|Da cidade de Hadria
+Alberto|m|germanic|italian,spanish,portuguese|3|classic,royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Aldo|m|germanic|italian|2|vintage|Viejo, sabio|Old, wise|Vieux, sage|Alt, weise|Vecchio, saggio|Velho, sábio
+Alessandro|m|greek|italian|5|classic,strong,royal|Defensor de la humanidad|Defender of mankind|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor da humanidade
+Alessio|m|greek|italian|4|modern,strong,saint|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Alfonso|m|germanic|italian,spanish|2|royal,classic|Noble y dispuesto|Noble and ready|Noble et prêt|Edel und bereit|Nobile e pronto|Nobre e pronto
+Alfredo|m|germanic|italian,spanish,portuguese|2|classic,royal|Consejero de los elfos|Elf counsel|Conseil des elfes|Rat der Elfen|Consigliere degli elfi|Conselheiro dos elfos
+Alvise|m|germanic|italian|1|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Amedeo|m|latin|italian|2|classic,royal,love|Ama a Dios|Lover of God|Qui aime Dieu|Gottliebender|Colui che ama Dio|Aquele que ama a Deus
+Andrea|m|greek|italian|5|classic,saint,strong|Viril, valiente|Manly, brave|Viril, courageux|Mannhaft, tapfer|Virile, coraggioso|Viril, corajoso
+Angelo|m|greek|italian|3|classic,saint|Mensajero|Messenger|Messager|Bote|Messaggero|Mensageiro
+Augusto|m|latin|italian,spanish,portuguese|2|royal,classic|Venerable, majestuoso|Venerable, majestic|Vénérable, majestueux|Erhaben, ehrwürdig|Venerabile, maestoso|Venerável, majestoso
+Aurelio|m|latin|italian,spanish|2|vintage,classic|Dorado|Golden|Doré|Der Goldene|D'oro|Dourado
+Ambrogio|m|greek|italian|2|saint,vintage|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Amerigo|m|germanic|italian|1|vintage,royal|Gobernante de la casa|Ruler of the home|Maître de la maison|Herrscher des Hauses|Signore della casa|Senhor da casa
+Anselmo|m|germanic|italian,spanish|1|saint,vintage|Protegido por Dios|Protected by God|Protégé de Dieu|Von Gott beschützt|Protetto da Dio|Protegido por Deus
+Armando|m|germanic|italian,spanish,portuguese|2|classic,warrior|Hombre del ejército|Army man|Homme d'armée|Mann des Heeres|Uomo dell'esercito|Homem do exército
+Arnaldo|m|germanic|italian,spanish,portuguese|1|vintage,strong|Águila poderosa|Ruling eagle|Aigle puissant|Herrschender Adler|Aquila che governa|Águia que governa
+Barbara|f|greek|italian,german,english|3|saint,classic|Extranjera|Foreign woman|Étrangère|Die Fremde|Straniera|Estrangeira
+Beatrice|f|latin|italian,english|4|literary,classic,sweet|La que trae felicidad|She who brings happiness|Celle qui apporte le bonheur|Die Glückbringende|Colei che rende felice|Aquela que traz felicidade
+Benedetta|f|latin|italian|4|saint,sweet,virtue|Bendita|Blessed|Bénie|Gesegnete|Benedetta|Abençoada
+Berenice|f|greek|italian|1|vintage,royal|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora da vitória
+Bianca|f|germanic|italian,german,english|4|classic,sweet,light|Blanca|White|Blanche|Weiß|Bianca, candida|Branca
+Brigida|f|celtic|italian|1|saint,vintage|La exaltada|The exalted one|L'élevée|Die Erhabene|L'eccelsa|A exaltada
+Bruna|f|germanic|italian,portuguese|1|vintage|Morena|Brown-haired|Brune|Braunhaarige|Bruna|Morena
+Baldassarre|m|other|italian|1|biblical,royal,vintage|Que Bel proteja al rey|May Bel protect the king|Que Bel protège le roi|Möge Bel den König schützen|Bel protegga il re|Que Bel proteja o rei
+Bartolomeo|m|hebrew|italian|2|biblical,saint,classic|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Basilio|m|greek|italian,spanish|1|royal,saint,vintage|Real|Royal|Royal|Königlich|Regale|Real
+Benedetto|m|latin|italian|2|saint,virtue,classic|Bendito|Blessed|Béni|Gesegneter|Benedetto|Abençoado
+Bernardo|m|germanic|italian,spanish,portuguese|2|classic,strong,saint|Oso valiente|Brave bear|Ours courageux|Starker Bär|Orso forte|Urso valente
+Bruno|m|germanic|italian,german,portuguese,spanish|3|classic,strong|Moreno, pardo|Brown|Brun|Braun|Bruno, bruno di pelo|Moreno
+Bonifacio|m|latin|italian|1|saint,vintage|Que hace el bien|Doer of good|Qui fait le bien|Wohltäter|Colui che fa il bene|Aquele que faz o bem
+Camilla|f|latin|italian,english|4|classic,sweet|Asistente en los ritos|Attendant at the rites|Servante des rites|Opferdienerin|Assistente ai riti sacri|Assistente nos ritos
+Carlotta|f|germanic|italian|3|classic,royal|Libre|Free|Libre|Frei|Libera|Livre
+Carolina|f|germanic|italian,spanish,portuguese|3|classic,royal|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Caterina|f|greek|italian|3|saint,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Cecilia|f|latin|italian,spanish|3|saint,music,classic|De la familia Cecilia|Of the Caecilian clan|De la famille Caecilia|Aus dem Geschlecht der Caecilier|Della gente Cecilia|Da família Cecília
+Chiara|f|latin|italian|5|saint,light,classic|Clara, luminosa|Clear, bright|Claire, lumineuse|Klar, leuchtend|Chiara, luminosa|Clara, luminosa
+Clara|f|latin|italian,spanish,german,portuguese|2|classic,light|Clara, brillante|Clear, bright|Claire, brillante|Klar, hell|Chiara, brillante|Clara, brilhante
+Claudia|f|latin|italian,spanish,german|3|classic|De la familia Claudia|Of the Claudian clan|De la famille Claudia|Aus dem Geschlecht der Claudier|Della gente Claudia|Da família Cláudia
+Clotilde|f|germanic|italian,french|1|vintage,warrior|Gloriosa en la batalla|Famous in battle|Célèbre au combat|Berühmt im Kampf|Gloriosa in battaglia|Gloriosa em batalha
+Concetta|f|latin|italian|1|saint,vintage|Concebida|Conceived|Conçue|Empfangen|Concepita|Concebida
+Cristina|f|greek|italian,spanish,portuguese|3|classic,saint|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Costanza|f|latin|italian|3|virtue,vintage,classic|Constante|Constant|Constante|Beständig|Costante|Constante
+Celeste|f|latin|italian,spanish|3|celestial,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Carmela|f|hebrew|italian|2|saint,vintage,nature|Jardín|Garden|Jardin|Garten|Giardino|Jardim
+Carla|f|germanic|italian,german,english|3|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Cinzia|f|greek|italian|2|mythology,celestial|Del monte Cinto|From Mount Cynthus|Du mont Cynthe|Vom Berg Kynthos|Del monte Cinto|Do monte Cinto
+Carlo|m|germanic|italian|3|classic,royal|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Claudio|m|latin|italian,spanish,portuguese|3|classic|De la familia Claudia|Of the Claudian clan|De la famille Claudia|Aus dem Geschlecht der Claudier|Della gente Claudia|Da família Cláudia
+Clemente|m|latin|italian,spanish,portuguese|2|virtue,saint|Clemente, benigno|Merciful, mild|Clément, doux|Milde, gnädig|Clemente, mite|Clemente, brando
+Corrado|m|germanic|italian|2|classic,strong|Consejero audaz|Bold counsel|Conseil audacieux|Kühner Ratgeber|Consigliere audace|Conselheiro audaz
+Cosimo|m|greek|italian|2|saint,vintage,classic|Orden, adorno|Order, ornament|Ordre, ornement|Ordnung, Schmuck|Ordine, ornamento|Ordem, ornamento
+Cristiano|m|greek|italian,portuguese|3|classic,saint|Cristiano|Christian|Chrétien|Christ|Cristiano|Cristão
+Costantino|m|latin|italian|2|royal,virtue,classic|Constante|Constant|Constant|Beständig|Costante|Constante
+Calogero|m|greek|italian|1|saint,vintage|Buen anciano|Good elder|Bon ancien|Guter Greis|Bel vecchio|Bom ancião
+Camillo|m|latin|italian|1|vintage,saint|Asistente en los ritos|Attendant at the rites|Servant des rites|Opferdiener|Assistente ai riti sacri|Assistente nos ritos
+Carmine|m|hebrew|italian|2|saint,vintage|Jardín|Garden|Jardin|Garten|Giardino|Jardim
+Cataldo|m|celtic|italian|1|saint,warrior|Gobernante en la batalla|Battle ruler|Chef de bataille|Schlachtenherrscher|Signore della battaglia|Governante da batalha
+Celestino|m|latin|italian,spanish|1|vintage,celestial|Celestial|Heavenly|Céleste|Himmlisch|Celestiale|Celestial
+Cirillo|m|greek|italian|1|saint,vintage|Señorial|Lordly|Seigneurial|Herrisch|Signorile|Senhorial
+Cristian|m|greek|italian,spanish|3|modern,saint|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo

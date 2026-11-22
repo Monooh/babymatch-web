@@ -1,0 +1,88 @@
+Agafya|f|greek|russian|1|vintage|Buena, virtuosa|Good, virtuous|Bonne, vertueuse|Gut, tugendhaft|Buona, virtuosa|Boa, virtuosa
+Alina|f|germanic|russian,polish|3|classic|Noble|Noble|Noble|Edel|Nobile|Nobre
+Alisa|f|germanic|russian|3|classic|De noble linaje|Of noble kind|De noble lignée|Von edlem Stand|Di nobile stirpe|De nobre linhagem
+Angelina|f|greek|russian|3|classic|Mensajera|Messenger|Messagère|Botin|Messaggera|Mensageira
+Daria|f|persian|russian,polish|3|classic|Poseedora del bien|Possessing good|Qui possède le bien|Die das Gute besitzt|Che possiede il bene|Que possui o bem
+Dina|f|hebrew|russian|2|biblical|Juzgada|Judged|Jugée|Gerichtet|Giudicata|Julgada
+Galina|f|greek|russian|3|classic|Calma|Calm|Calme|Ruhe|Calma|Calma
+Glafira|f|greek|russian|1|vintage|Elegante|Graceful|Élégante|Anmutig|Elegante|Elegante
+Inna|f|latin|russian|2|vintage|Torrente|Torrent|Torrent|Sturzbach|Torrente|Torrente
+Karina|f|latin|russian|3|modern|Querida|Dear|Chérie|Liebe|Cara|Querida
+Larisa|f|greek|russian|2|classic|Ciudadela|Citadel|Citadelle|Zitadelle|Cittadella|Cidadela
+Lidiya|f|greek|russian|2|biblical|De Lidia|From Lydia|De Lydie|Aus Lydien|Della Lidia|Da Lídia
+Marfa|f|hebrew|russian|1|vintage,biblical|Señora|Lady|Dame|Herrin|Signora|Senhora
+Nika|f|greek|russian|3|modern|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Oksana|f|greek|russian|3|classic|Hospitalaria|Hospitable|Hospitalière|Gastfreundlich|Ospitale|Hospitaleira
+Olesya|f|greek|russian|2|classic|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschheit|Difenditrice dell'umanità|Defensora da humanidade
+Polina|f|latin|russian|4|classic|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Raisa|f|greek|russian|2|vintage|Ligera, dócil|Easygoing|Docile|Nachgiebig|Docile|Dócil
+Regina|f|latin|russian,polish|2|royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Serafima|f|hebrew|russian|2|vintage|Ardiente|Fiery one|Ardente|Feurige|Ardente|Ardente
+Taisiya|f|greek|russian|1|vintage|Consagrada a Isis|Devoted to Isis|Consacrée à Isis|Isis geweiht|Consacrata a Iside|Consagrada a Ísis
+Ulyana|f|latin|russian|2|classic|Joven, de Julio|Youthful|Juvénile|Jugendlich|Giovanile|Jovem
+Varvara|f|greek|russian|2|vintage,saint|Extranjera|Foreign woman|Étrangère|Fremde|Straniera|Estrangeira
+Viktoriya|f|latin|russian|3|classic|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Yana|f|hebrew|russian|3|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Zhanna|f|hebrew|russian|2|classic|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Zinaida|f|greek|russian|1|vintage|De Zeus|Of Zeus|De Zeus|Des Zeus|Di Zeus|De Zeus
+Zoya|f|greek|russian|3|classic|Vida|Life|Vie|Leben|Vita|Vida
+Halyna|f|greek|russian|2|classic|Calma|Calm|Calme|Ruhe|Calma|Calma
+Iryna|f|greek|russian|3|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Kateryna|f|greek|russian|3|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Khrystyna|f|greek|russian|2|classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Lesya|f|greek|russian|2|literary|Defensora de la humanidad|Defender of mankind|Défenseuse de l'humanité|Beschützerin der Menschheit|Difenditrice dell'umanità|Defensora da humanidade
+Solomiya|f|hebrew|russian|2|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Svitlana|f|slavic|russian|3|light|Luminosa|Bright|Lumineuse|Leuchtend|Luminosa|Luminosa
+Vira|f|slavic|russian|2|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Yaryna|f|greek|russian|2|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Arseny|m|greek|russian|2|classic|Viril, masculino|Virile, masculine|Viril|Männlich|Virile|Viril
+Artyom|m|greek|russian|3|modern|Sano, intacto|Safe and sound|Sain et sauf|Unversehrt|Sano e salvo|São e salvo
+Gavriil|m|hebrew|russian|2|biblical|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Gennady|m|greek|russian|1|vintage|Noble|Noble|Noble|Edel|Nobile|Nobre
+Georgy|m|greek|russian|3|classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Gleb|m|norse|russian|2|saint|Heredero de los dioses|Heir of the gods|Héritier des dieux|Erbe der Götter|Erede degli dei|Herdeiro dos deuses
+Innokenty|m|latin|russian|1|vintage|Inocente|Innocent|Innocent|Unschuldig|Innocente|Inocente
+Kirill|m|greek|russian|3|classic|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Konstantin|m|latin|russian|3|classic|Constante|Constant|Constant|Standhaft|Costante|Constante
+Leonid|m|greek|russian|2|classic|Hijo del león|Son of the lion|Fils du lion|Sohn des Löwen|Figlio del leone|Filho do leão
+Makar|m|greek|russian|2|vintage|Bienaventurado|Blessed|Bienheureux|Selig|Beato|Bem-aventurado
+Matvey|m|hebrew|russian|3|biblical|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Miron|m|greek|russian|2|vintage|Mirra perfumada|Fragrant myrrh|Myrrhe parfumée|Duftende Myrrhe|Mirra profumata|Mirra perfumada
+Nikolai|m|greek|russian|4|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Pyotr|m|greek|russian|3|classic|Piedra, roca|Rock, stone|Pierre, roc|Fels, Stein|Pietra, roccia|Pedra, rocha
+Rodion|m|greek|russian|2|vintage|Héroe, de Rodas|Hero, of Rhodes|Héros, de Rhodes|Held, aus Rhodos|Eroe, di Rodi|Herói, de Rodes
+Ruslan|m|turkish|russian|3|classic|León|Lion|Lion|Löwe|Leone|Leão
+Savva|m|hebrew|russian|1|vintage|Anciano, de Saba|Elder|Ancien|Ältester|Anziano|Ancião
+Semyon|m|hebrew|russian|2|classic|Dios ha oído|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Sergei|m|latin|russian|3|classic|Servidor|Servant|Serviteur|Diener|Servitore|Servo
+Timofey|m|greek|russian|2|classic|Que honra a Dios|Honouring God|Qui honore Dieu|Gottesfürchtig|Che onora Dio|Que honra a Deus
+Trofim|m|greek|russian|1|vintage|Nutritivo|Nourishing|Nourricier|Nährend|Nutriente|Nutritivo
+Vadim|m|slavic|russian|3|classic|Disputa, controversia|Dispute|Dispute|Streit|Disputa|Disputa
+Valery|m|latin|russian|2|classic|Fuerte, sano|Strong, healthy|Fort, sain|Stark, gesund|Forte, sano|Forte, saudável
+Vitaly|m|latin|russian|2|classic|Vital|Vital|Vital|Lebenskräftig|Vitale|Vital
+Yakov|m|hebrew|russian|2|biblical|El que sigue|He who follows|Celui qui suit|Der Nachfolgende|Colui che segue|Aquele que segue
+Yaroslav|m|slavic|russian|3|classic|Gloria de la primavera|Glory of spring|Gloire du printemps|Ruhm des Frühlings|Gloria della primavera|Glória da primavera
+Zakhar|m|hebrew|russian|2|biblical|Dios ha recordado|God remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio ha ricordato|Deus lembrou
+Taras|m|greek|russian|2|classic|Rebelde|Rebel|Rebelle|Rebell|Ribelle|Rebelde
+Beata|f|latin|polish|3|classic|Bienaventurada|Blessed|Bienheureuse|Selig|Beata|Bem-aventurada
+Dominika|f|latin|polish|3|classic|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Elżbieta|f|hebrew|polish|3|classic|Mi Dios es juramento|My God is an oath|Mon Dieu est serment|Mein Gott ist Eid|Il mio Dio è giuramento|Meu Deus é juramento
+Grażyna|f|slavic|polish|2|literary,vintage|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Iwona|f|germanic|polish|2|classic|Arco de tejo|Yew bow|Arc d'if|Eibenbogen|Arco di tasso|Arco de teixo
+Kacper|m|persian|polish|3|classic|Guardián del tesoro|Treasurer|Gardien du trésor|Schatzmeister|Custode del tesoro|Guardião do tesouro
+Kamil|m|latin|polish|3|classic|Ayudante en rituales|Ceremonial attendant|Assistant de culte|Opferdiener|Assistente rituale|Assistente ritual
+Karol|m|germanic|polish|3|classic|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Kazimierz|m|slavic|polish|2|royal|Que destruye la paz|Destroyer of peace|Destructeur de paix|Friedenszerstörer|Distruttore di pace|Destruidor da paz
+Maciej|m|hebrew|polish|3|biblical|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Mariusz|m|latin|polish|2|classic|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Norbert|m|germanic|polish|2|classic|Brillo del norte|Brightness of the north|Éclat du nord|Glanz des Nordens|Splendore del nord|Brilho do norte
+Patryk|m|latin|polish|3|classic|Noble|Nobleman|Noble|Edelmann|Nobile|Nobre
+Przemysław|m|slavic|polish|2|classic|El que reflexiona|Thinker|Penseur|Denker|Pensatore|Pensador
+Rafał|m|hebrew|polish|3|biblical|Dios sana|God heals|Dieu guérit|Gott heilt|Dio guarisce|Deus cura
+Tadeusz|m|hebrew|polish|2|classic|Valiente|Courageous|Courageux|Mutig|Coraggioso|Corajoso
+Witold|m|slavic|polish|1|vintage|Regente del bosque|Ruler of the forest|Maître de la forêt|Waldherrscher|Signore della foresta|Senhor da floresta
+Zdzisław|m|slavic|polish|1|vintage|Gloria a sus compañeros|Glory in his deeds|Gloire par ses actes|Ruhm durch Taten|Gloria nei fatti|Glória nos feitos
+Jerzy|m|greek|polish|2|classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Józef|m|hebrew|polish|2|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott fügt hinzu|Dio aggiungerà|Deus acrescentará
+Małgorzata|f|greek|polish|2|classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Róża|f|latin|polish|2|flower|Rosa|Rose|Rose|Rose|Rosa|Rosa

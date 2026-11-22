@@ -1,0 +1,28 @@
+Adeline|f|germanic|french|2|vintage,royal,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Albéric|m|germanic|french|1|vintage,royal|Gobernante de los elfos|Elf ruler|Chef des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Alexandra|f|greek|french,english,german|3|classic,royal|Defensora de los hombres|Defender of men|Défenseuse des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora dos homens
+Aurélia|f|latin|french|2|classic,light|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Berthe|f|germanic|french|1|vintage,light|Brillante|Bright|Brillante|Strahlend|Splendente|Brilhante
+Carole|f|germanic|french|1|vintage,classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Charlène|f|germanic|french|1|vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Claudette|f|latin|french|1|vintage|Cojita|Lame|Boiteuse|Hinkend|Zoppa|Coxa
+Cyrielle|f|greek|french|2|modern,classic|Señora|Lady|Dame, maîtresse|Herrin|Signora|Senhora
+Élisa|f|hebrew|french|3|classic,sweet|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Elsa|f|hebrew|french,scandinavian,german|4|literary,sweet|Dios es juramento|God is my oath|Dieu est serment|Gott ist Schwur|Dio è giuramento|Deus é juramento
+Georgette|f|greek|french|1|vintage|Agricultora|Farmer|Agricultrice|Bäuerin|Agricoltrice|Agricultora
+Luce|f|latin|french|3|light,vintage,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Lucette|f|latin|french|1|vintage,light|Luz|Light|Lumière|Licht|Luce|Luz
+Manuel|m|hebrew|french,spanish,portuguese,german|2|biblical,classic|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Morgan|u|celtic|french,welsh|3|sea,modern|Nacido del mar|Born of the sea|Né de la mer|Meergeboren|Nato dal mare|Nascido do mar
+Nicolette|f|greek|french|1|vintage,sweet|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Pascaline|f|hebrew|french|1|vintage,saint|De la Pascua|Of Easter|De Pâques|Zu Ostern gehörig|Di Pasqua|Da Páscoa
+Paulette|f|latin|french|1|vintage,sweet|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Philippine|f|greek|french|2|vintage,saint|Amiga de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amica dei cavalli|Amiga dos cavalos
+Pierrette|f|greek|french|1|vintage|Piedra|Rock|Pierre|Stein|Pietra|Pedra
+Raymonde|f|germanic|french|1|vintage|Protectora sabia|Wise protector|Protectrice avisée|Weise Beschützerin|Protettrice saggia|Protetora sábia
+Rodrigue|m|germanic|french|1|vintage,warrior|Gloria poderosa|Famous ruler|Gloire puissante|Mächtiger Ruhm|Gloria potente|Glória poderosa
+Romaine|f|latin|french|1|vintage,place|Romana|Roman woman|Romaine|Römerin|Romana|Romana
+Samson|m|hebrew|french,english|2|biblical,strong,celestial|Sol pequeño|Little sun|Petit soleil|Kleine Sonne|Piccolo sole|Pequeno sol
+Séraphine|f|hebrew|french|2|vintage,celestial|Ardiente|Burning one|Ardente|Die Brennende|Ardente|Ardente
+Théodora|f|greek|french|2|vintage,royal|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Véra|f|slavic|french,russian|2|virtue,vintage|Fe|Faith|Foi|Glaube|Fede|Fé

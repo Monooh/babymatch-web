@@ -1,0 +1,91 @@
+Meilin|f|chinese|chinese|2|sweet,nature|Jade hermoso, bosque hermoso|Beautiful jade, beautiful grove|Beau jade, beau bosquet|Schöne Jade, schöner Hain|Bella giada, bel boschetto|Bela jade, belo bosque
+Xia|f|chinese|chinese|2|nature,light|Nube rosada, verano|Rosy cloud, summer|Nuage rosé, été|Rosige Wolke, Sommer|Nuvola rosata, estate|Nuvem rosada, verão
+Xiang|m|chinese|chinese|2|strong,nature|Volar, elevarse|Soar, fly|S'envoler, planer|Fliegen, emporsteigen|Volare, librarsi|Voar, elevar-se
+Xin|u|chinese|chinese|2|virtue,modern|Alegre, nuevo|Joyful, new|Joyeux, nouveau|Froh, neu|Gioioso, nuovo|Alegre, novo
+Xiu|f|chinese|chinese|1|sweet,virtue|Elegante, graciosa|Elegant, graceful|Élégante, gracieuse|Elegant, anmutig|Elegante, graziosa|Elegante, graciosa
+Xue|f|chinese|chinese|2|nature,sweet|Nieve|Snow|Neige|Schnee|Neve|Neve
+Yi|f|chinese|chinese|2|virtue,sweet|Alegre, complaciente|Joyful, pleasant|Joyeuse, agréable|Froh, angenehm|Gioiosa, piacevole|Alegre, agradável
+Ying|f|chinese|chinese|2|virtue,flower|Flor, héroe|Blossom, hero|Fleur, héros|Blüte, Held|Fiore, eroe|Flor, herói
+Yong|m|chinese|chinese|2|strong,warrior|Valiente|Brave|Brave|Mutig|Coraggioso|Corajoso
+Yu|u|chinese|chinese|3|gem,classic|Jade, universo|Jade, universe|Jade, univers|Jade, Universum|Giada, universo|Jade, universo
+Yue|f|chinese|chinese|3|celestial,sweet|Luna|Moon|Lune|Mond|Luna|Lua
+Yun|f|chinese|chinese|2|nature,sweet|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Zhen|f|chinese|chinese|2|gem,virtue|Preciosa, valiosa|Precious, treasured|Précieuse, chérie|Kostbar, wertvoll|Preziosa, cara|Preciosa, valiosa
+Zhi|m|chinese|chinese|2|virtue,strong|Ambición, voluntad|Ambition, will|Ambition, volonté|Ehrgeiz, Wille|Ambizione, volontà|Ambição, vontade
+Zhong|m|chinese|chinese|1|virtue,classic|Leal, fiel|Loyal, faithful|Loyal, fidèle|Loyal, treu|Leale, fedele|Leal, fiel
+Areum|f|korean|korean|2|sweet,modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Bit-na|f|korean|korean|1|light,modern|Brillar, resplandecer|To shine, radiance|Briller, rayonner|Strahlen, Glanz|Brillare, splendore|Brilhar, resplendor
+Bom|f|korean|korean|2|nature,modern|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Bora|f|korean|korean|2|flower,modern|Púrpura|Purple|Violet|Violett|Viola|Roxo
+Byeol|f|korean|korean|2|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eun-ji|f|korean|korean|3|virtue,classic|Gracia y sabiduría|Grace and wisdom|Grâce et sagesse|Gnade und Weisheit|Grazia e saggezza|Graça e sabedoria
+Eun-woo|m|korean|korean|3|modern,virtue|Gracia, protección|Grace, protection|Grâce, protection|Gnade, Schutz|Grazia, protezione|Graça, proteção
+Gaeul|f|korean|korean|2|nature,modern|Otoño|Autumn|Automne|Herbst|Autunno|Outono
+Gaon|u|korean|korean|2|modern,virtue|Centro del mundo|Centre of the world|Centre du monde|Mittelpunkt der Welt|Centro del mondo|Centro do mundo
+Garam|u|korean|korean|2|nature,modern|Río|River|Rivière|Fluss|Fiume|Rio
+Ha-eun|f|korean|korean|4|modern,sweet|Gracia del verano|Summer grace|Grâce d'été|Sommergnade|Grazia d'estate|Graça de verão
+Hanbit|u|korean|korean|1|light,modern|Gran luz|Great light|Grande lumière|Großes Licht|Grande luce|Grande luz
+Haneul|u|korean|korean|2|nature,celestial|Cielo|Sky|Ciel|Himmel|Cielo|Céu
+Iseul|f|korean|korean|2|nature,sweet|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Ji-an|f|korean|korean|3|modern,virtue|Sabiduría y paz|Wisdom and peace|Sagesse et paix|Weisheit und Frieden|Saggezza e pace|Sabedoria e paz
+Ji-hoon|m|korean|korean|3|virtue,classic|Sabiduría y mérito|Wisdom and merit|Sagesse et mérite|Weisheit und Verdienst|Saggezza e merito|Sabedoria e mérito
+Ji-min|u|korean|korean|4|virtue,modern|Sabio y ágil|Wise and quick|Sage et vif|Weise und flink|Saggio e agile|Sábio e ágil
+Ji-woo|u|korean|korean|4|virtue,modern|Sabiduría y universo|Wisdom and universe|Sagesse et univers|Weisheit und Universum|Saggezza e universo|Sabedoria e universo
+Maru|u|korean|korean|1|nature,modern|Cumbre, cima|Summit, ridge|Sommet, crête|Gipfel, Kamm|Vetta, cresta|Cume, topo
+Min-ji|f|korean|korean|3|virtue,classic|Ágil y sabia|Quick and wise|Vive et sage|Flink und weise|Agile e saggia|Ágil e sábia
+Min-jun|m|korean|korean|4|modern,virtue|Talentoso y ágil|Talented and quick|Talentueux et vif|Begabt und flink|Talentuoso e agile|Talentoso e ágil
+Min-seo|f|korean|korean|4|modern,virtue|Ágil y auspiciosa|Quick and auspicious|Vive et propice|Flink und glückverheißend|Agile e propizia|Ágil e auspiciosa
+Mirae|u|korean|korean|2|modern,virtue|Futuro|Future|Avenir|Zukunft|Futuro|Futuro
+Mir|u|korean|korean|1|mythology,modern|Dragón|Dragon|Dragon|Drache|Drago|Dragão
+Nabi|f|korean|korean|2|animal,sweet|Mariposa, mariposa nocturna|Butterfly|Papillon|Schmetterling|Farfalla|Borboleta
+Narae|f|korean|korean|2|animal,modern|Alas|Wings|Ailes|Flügel|Ali|Asas
+Nari|f|korean|korean|2|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Nuri|u|korean|korean|2|modern,virtue|Mundo|World|Monde|Welt|Mondo|Mundo
+Raon|u|korean|korean|2|modern,virtue|Alegre, feliz|Joyful, happy|Joyeux, heureux|Fröhlich, glücklich|Gioioso, felice|Alegre, feliz
+Sarang|f|korean|korean|2|love,sweet|Amor|Love|Amour|Liebe|Amore|Amor
+Seo-jun|m|korean|korean|4|modern,virtue|Auspicioso y talentoso|Auspicious and talented|Propice et talentueux|Glückverheißend und begabt|Propizio e talentuoso|Auspicioso e talentoso
+Seo-yeon|f|korean|korean|4|modern,sweet|Auspiciosa y elegante|Auspicious and graceful|Propice et gracieuse|Glückverheißend und anmutig|Propizia e aggraziata|Auspiciosa e graciosa
+Seulgi|f|korean|korean|2|virtue,modern|Sabiduría, ingenio|Wisdom, wit|Sagesse, esprit|Weisheit, Witz|Saggezza, arguzia|Sabedoria, engenho
+Seung-min|m|korean|korean|2|virtue,strong|Victoria y rapidez|Victory and quickness|Victoire et vivacité|Sieg und Schnelligkeit|Vittoria e prontezza|Vitória e rapidez
+Si-woo|m|korean|korean|4|modern,nature|Lluvia oportuna|Timely rain|Pluie opportune|Rechtzeitiger Regen|Pioggia opportuna|Chuva oportuna
+Sol|u|korean|korean|2|nature,modern|Pino|Pine tree|Pin|Kiefer|Pino|Pinheiro
+Soo-ah|f|korean|korean|3|virtue,sweet|Excelente y elegante|Excellent and elegant|Excellente et élégante|Vortrefflich und elegant|Eccellente ed elegante|Excelente e elegante
+Su-bin|f|korean|korean|3|virtue,modern|Excelente y brillante|Excellent and radiant|Excellente et radieuse|Vortrefflich und strahlend|Eccellente e radiosa|Excelente e radiante
+Tae-yang|m|korean|korean|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Abayomi|m|african|african|2|virtue,classic|Nacido para la alegría|Born to bring joy|Né pour apporter la joie|Geboren, um Freude zu bringen|Nato per portare gioia|Nascido para trazer alegria
+Abebe|m|african|african|2|nature,classic|Ha florecido|He has flowered|Il a fleuri|Er ist erblüht|È fiorito|Ele floresceu
+Abena|f|african|african|3|classic,virtue|Nacida en martes|Born on Tuesday|Née un mardi|Am Dienstag geboren|Nata di martedì|Nascida na terça-feira
+Ada|f|african|african|3|classic,royal|Primera hija|First daughter|Fille aînée|Erste Tochter|Prima figlia|Primeira filha
+Adaeze|f|african|african|2|royal,classic|Hija del rey, princesa|Daughter of the king, princess|Fille du roi, princesse|Tochter des Königs, Prinzessin|Figlia del re, principessa|Filha do rei, princesa
+Adanna|f|african|african|2|love,classic|Hija de su padre|Her father's daughter|La fille de son père|Tochter ihres Vaters|Figlia di suo padre|Filha de seu pai
+Ade|u|african|african|2|royal,classic|Corona|Crown|Couronne|Krone|Corona|Coroa
+Adebayo|m|african|african|2|royal,virtue|La corona encuentra alegría|The crown meets joy|La couronne rencontre la joie|Die Krone trifft auf Freude|La corona incontra la gioia|A coroa encontra a alegria
+Adwoa|f|african|african|2|classic,virtue|Nacida en lunes|Born on Monday|Née un lundi|Am Montag geboren|Nata di lunedì|Nascida na segunda-feira
+Afia|f|african|african|2|classic,virtue|Nacida en viernes|Born on Friday|Née un vendredi|Am Freitag geboren|Nata di venerdì|Nascida na sexta-feira
+Akin|m|african|african|2|strong,warrior|Valiente, héroe|Brave, hero|Brave, héros|Tapfer, Held|Coraggioso, eroe|Valente, herói
+Akosua|f|african|african|2|classic,virtue|Nacida en domingo|Born on Sunday|Née un dimanche|Am Sonntag geboren|Nata di domenica|Nascida no domingo
+Akua|f|african|african|2|classic,virtue|Nacida en miércoles|Born on Wednesday|Née un mercredi|Am Mittwoch geboren|Nata di mercoledì|Nascida na quarta-feira
+Ama|f|african|african|3|classic,virtue|Nacida en sábado|Born on Saturday|Née un samedi|Am Samstag geboren|Nata di sabato|Nascida no sábado
+Amani|u|african|african|3|virtue,modern|Paz|Peace|Paix|Frieden|Pace|Paz
+Amara|f|african|african,english|4|sweet,virtue|Gracia, bendición|Grace, blessing|Grâce, bénédiction|Gnade, Segen|Grazia, benedizione|Graça, bênção
+Aster|f|african|african|2|celestial,flower|Estrella|Star|Étoile|Stern|Stella|Estrela
+Ayo|u|african|african|2|virtue,sweet|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Ayodele|m|african|african|2|virtue,classic|La alegría ha vuelto a casa|Joy has come home|La joie est rentrée à la maison|Die Freude ist heimgekehrt|La gioia è tornata a casa|A alegria voltou para casa
+Babatunde|m|african|african|2|classic,virtue|El padre ha vuelto|Father has returned|Le père est revenu|Der Vater ist zurückgekehrt|Il padre è tornato|O pai voltou
+Baraka|u|african|african|2|virtue,classic|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Bekele|m|african|african|1|classic,virtue|Ha crecido|He has grown|Il a grandi|Er ist gewachsen|È cresciuto|Ele cresceu
+Chidi|m|african|african|2|virtue,classic|Dios existe|God exists|Dieu existe|Gott existiert|Dio esiste|Deus existe
+Chidinma|f|african|african|2|virtue,sweet|Dios es bueno|God is good|Dieu est bon|Gott ist gut|Dio è buono|Deus é bom
+Chiamaka|f|african|african|2|virtue,sweet|Dios es hermoso|God is beautiful|Dieu est beau|Gott ist schön|Dio è bellissimo|Deus é belo
+Chike|m|african|african|2|strong,virtue|El poder de Dios|God's power|La puissance de Dieu|Gottes Kraft|La potenza di Dio|O poder de Deus
+Chinedu|m|african|african|2|virtue,classic|Dios guía|God leads|Dieu guide|Gott führt|Dio guida|Deus guia
+Chioma|f|african|african|2|virtue,sweet|Dios bueno|Good God|Bon Dieu|Guter Gott|Buon Dio|Bom Deus
+Chukwuemeka|m|african|african|1|virtue,classic|Dios ha hecho grandes cosas|God has done great things|Dieu a fait de grandes choses|Gott hat Großes getan|Dio ha fatto grandi cose|Deus fez grandes coisas
+Dayo|u|african|african|2|virtue,sweet|La alegría llega|Joy arrives|La joie arrive|Die Freude kommt|La gioia arriva|A alegria chega
+Ebele|f|african|african|1|virtue,sweet|Misericordia|Mercy|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Emeka|m|african|african|2|strong,virtue|Gran hazaña|Great deed|Grand exploit|Große Tat|Grande impresa|Grande feito
+Femi|u|african|african|2|love,sweet|Ámame|Love me|Aime-moi|Liebe mich|Amami|Ama-me
+Folake|f|african|african|2|virtue,classic|Mimar con riqueza|To pamper with wealth|Choyer avec richesse|Mit Reichtum verwöhnen|Coccolare con ricchezza|Mimar com riqueza
+Folasade|f|african|african|1|royal,classic|El honor confiere la corona|Honour confers the crown|L'honneur confère la couronne|Ehre verleiht die Krone|L'onore conferisce la corona|A honra confere a coroa
+Furaha|f|african|african|2|virtue,sweet|Alegría, felicidad|Joy, happiness|Joie, bonheur|Freude, Glück|Gioia, felicità|Alegria, felicidade
+Haile|m|african|african|2|strong,classic|Poder|Power|Pouvoir|Macht|Potere|Poder

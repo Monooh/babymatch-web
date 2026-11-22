@@ -1,0 +1,40 @@
+Adel|m|arabic|french,arabic|3|virtue|Justo|Just, fair|Juste, équitable|Gerecht|Giusto|Justo
+Aymen|m|arabic|french,arabic|3|modern,virtue|Bendecido, afortunado|Blessed, fortunate|Béni, chanceux|Gesegnet, glücklich|Benedetto, fortunato|Abençoado, afortunado
+Ayoub|m|hebrew|french,arabic|3|biblical|Perseguido, paciente|Persecuted, patient|Persécuté, patient|Verfolgt, geduldig|Perseguitato, paziente|Perseguido, paciente
+Bilal|m|arabic|french,arabic|3|classic|Frescor, agua|Moisture, refreshment|Fraîcheur, eau|Frische, Wasser|Freschezza, acqua|Frescor, água
+Elyas|m|hebrew|french,arabic|3|biblical,modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Evan|m|celtic|french,welsh|3|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Ewen|m|celtic|french|2|modern|Nacido del tejo|Born of the yew|Né de l'if|Eibengeboren|Nato dal tasso|Nascido do teixo
+Hamza|m|arabic|french,arabic|3|strong,animal|León|Lion|Lion|Löwe|Leone|Leão
+Ibrahim|m|hebrew|french,arabic|3|biblical|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Idriss|m|arabic|french,arabic|3|modern|Estudioso|Studious|Studieux|Lernbegierig|Studioso|Estudioso
+Ilyes|m|hebrew|french,arabic|3|modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Issa|m|arabic|french,arabic,african|3|classic|Dios es salvación|God is salvation|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Jehan|m|hebrew|french|1|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Kylian|m|celtic|french|3|modern,saint|Iglesia pequeña|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Liam|m|germanic|french,irish,english|4|trendy|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Lorenzo|m|latin|french,italian,spanish|3|classic|Laureado|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Incoronato d'alloro|Coroado de louros
+Louka|m|latin|french|3|modern|Luminoso|Bringer of light|Porteur de lumière|Lichtbringer|Portatore di luce|Portador de luz
+Lukas|m|latin|french,german|3|classic|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Della Lucania|Da Lucânia
+Marceau|m|latin|french|2|vintage|Pequeño guerrero|Little warrior|Petit guerrier|Kleiner Krieger|Piccolo guerriero|Pequeno guerreiro
+Mehdi|m|arabic|french,arabic|3|classic|Bien guiado|Rightly guided|Bien guidé|Rechtgeleitet|Ben guidato|Bem guiado
+Nils|m|greek|french,scandinavian|2|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nolan|m|celtic|french,irish|3|modern|Campeón|Champion|Champion|Champion|Campione|Campeão
+Oumar|m|arabic|french,african|3|african|Próspero, longevo|Flourishing, long-lived|Prospère, qui vit longtemps|Blühend, langlebig|Fiorente, longevo|Próspero, longevo
+Ousmane|m|arabic|french,african|3|african|Serpiente joven|Young serpent|Jeune serpent|Junge Schlange|Giovane serpente|Jovem serpente
+Sami|m|arabic|french,arabic|3|modern|Elevado, sublime|Elevated, sublime|Élevé, sublime|Erhaben|Elevato, sublime|Elevado, sublime
+Samy|m|arabic|french,arabic|3|modern|Elevado, sublime|Elevated, sublime|Élevé, sublime|Erhaben|Elevato, sublime|Elevado, sublime
+Seydou|m|arabic|french,african|2|african|Señor|Master, lord|Seigneur, maître|Herr, Meister|Signore, maestro|Senhor, mestre
+Souleymane|m|hebrew|french,african|3|african,biblical|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Timéo|m|greek|french|3|modern|Que honra a Dios|Honouring God|Qui honore Dieu|Gottesehrer|Che onora Dio|Que honra a Deus
+Youssef|m|hebrew|french,arabic|4|biblical|Dios aumentará|God will add|Dieu ajoutera|Gott fügt hinzu|Dio aggiungerà|Deus acrescentará
+Yanick|m|hebrew|french|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Mamadou|m|arabic|french,african|3|african|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Mohamed|m|arabic|french,arabic|5|classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Ermengarde|f|germanic|french|1|vintage,royal|Protección universal|Universal protection|Protection universelle|Allumfassender Schutz|Protezione universale|Proteção universal
+Hildegarde|f|germanic|french,german|1|vintage,warrior|Protectora en la batalla|Battle protector|Protectrice au combat|Beschützerin im Kampf|Protettrice in battaglia|Protetora na batalha
+Bertrade|f|germanic|french|1|vintage,royal|Consejera brillante|Bright counsel|Conseil brillant|Glänzender Rat|Consiglio splendente|Conselho brilhante
+Jeannine|f|hebrew|french|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Margaud|f|greek|french|1|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Océanne|f|greek|french|1|sea|Océano|Ocean|Océan|Ozean|Oceano|Oceano
+Roselyne|f|germanic|french|2|vintage,flower|Rosa pequeña|Little rose|Petite rose|Kleine Rose|Piccola rosa|Pequena rosa

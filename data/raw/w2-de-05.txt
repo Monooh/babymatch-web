@@ -1,0 +1,74 @@
+Agda|f|greek|scandinavian|2|vintage,virtue|Buena|Good|Bonne|Die Gute|Buona|Boa
+Amanda|f|latin|scandinavian,english,spanish|4|love,classic|Digna de ser amada|Worthy of love|Digne d'être aimée|Die Liebenswerte|Degna di essere amata|Digna de ser amada
+Embla|f|norse|scandinavian|3|mythology,nature|Olmo|Elm|Orme|Ulme|Olmo|Olmo
+Gunvor|f|norse|scandinavian|2|vintage,warrior|Guardiana de la batalla|Battle guardian|Gardienne du combat|Kampfhüterin|Custode della battaglia|Guardiã da batalha
+Inga|f|norse|scandinavian,german|3|vintage|De Ing|Of Ing, the god|D'Ing, le dieu|Die zu Ing Gehörige|Di Ing, il dio|De Ing, o deus
+Ingegerd|f|norse|scandinavian|1|vintage|Protección de Ing|Protection of Ing|Protection d'Ing|Schutz des Ing|Protezione di Ing|Proteção de Ing
+Ingvild|f|norse|scandinavian|2|warrior|Batalla de Ing|Battle of Ing|Combat d'Ing|Kampf des Ing|Battaglia di Ing|Batalha de Ing
+Josefin|f|hebrew|scandinavian|3|classic|Dios añadirá|God will add|Que Dieu ajoute|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Kajsa|f|greek|scandinavian|3|classic|Pura|Pure|Pure|Die Reine|Pura|Pura
+Carin|f|greek|scandinavian|2|vintage|Pura|Pure|Pure|Die Reine|Pura|Pura
+Lykke|f|norse|scandinavian|3|modern,virtue|Suerte, felicidad|Luck, happiness|Chance, bonheur|Glück|Fortuna, felicità|Sorte, felicidade
+Lærke|f|norse|scandinavian|3|nature,animal,music|Alondra|Lark|Alouette|Lerche|Allodola|Cotovia
+Matilda|f|germanic|scandinavian,english|4|classic,warrior|Poderosa en la batalla|Mighty in battle|Puissante au combat|Mächtig in der Schlacht|Potente in battaglia|Poderosa na batalha
+Merete|f|greek|scandinavian|2|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Rikke|f|germanic|scandinavian|3|vintage,royal|Gobernante poderosa|Powerful ruler|Souveraine puissante|Mächtige Herrscherin|Potente sovrana|Governante poderosa
+Sif|f|norse|scandinavian|2|mythology|Parentesco, esposa|Kinship, bride|Parenté, épouse|Verwandtschaft, Braut|Parentela, sposa|Parentesco, esposa
+Sol|f|norse|scandinavian,spanish|3|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Solveig|f|norse|scandinavian|3|vintage,celestial,strong|Fuerza del sol|Sun strength|Force du soleil|Sonnenkraft|Forza del sole|Força do sol
+Sunniva|f|norse|scandinavian|2|saint,celestial|Regalo del sol|Sun gift|Don du soleil|Sonnengabe|Dono del sole|Dádiva do sol
+Synnøve|f|norse|scandinavian|2|celestial,vintage|Regalo del sol|Gift of the sun|Don du soleil|Sonnengeschenk|Dono del sole|Presente do sol
+Torunn|f|norse|scandinavian|2|mythology,love|Amor de Thor|Thor's love|Amour de Thor|Liebe des Thor|Amore di Thor|Amor de Thor
+Tora|f|norse|scandinavian|2|mythology,strong|De Thor|Thor's|De Thor|Die zu Thor Gehörige|Di Thor|De Thor
+Trine|f|greek|scandinavian|3|vintage|Pura|Pure|Pure|Die Reine|Pura|Pura
+Vilde|f|germanic|scandinavian|3|modern,nature|Salvaje|Wild|Sauvage|Wild|Selvaggia|Selvagem
+Vår|f|norse|scandinavian|1|nature|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Yrsa|f|norse|scandinavian|2|animal,mythology|Osa|She-bear|Ourse|Bärin|Orsa|Ursa
+Åse|f|norse|scandinavian|2|mythology,vintage|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Cecilie|f|latin|scandinavian|3|classic,music|Ciega|Blind|Aveugle|Die Blinde|Cieca|Cega
+Emelie|f|germanic|scandinavian|4|classic|Laboriosa|Industrious|Travailleuse|Die Tüchtige|Laboriosa|Laboriosa
+Ester|f|persian|scandinavian|3|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Margareta|f|greek|scandinavian|2|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Alf|m|norse|scandinavian|2|vintage,mythology|Elfo|Elf|Elfe|Elf|Elfo|Elfo
+Alrik|m|germanic|scandinavian|1|vintage,royal|Gobernante de todos|Ruler of all|Souverain de tous|Herrscher über alle|Sovrano di tutti|Governante de todos
+Ask|m|norse|scandinavian|2|mythology,nature|Fresno|Ash tree|Frêne|Esche|Frassino|Freixo
+Bengt|m|latin|scandinavian|2|vintage,saint|Bendecido|Blessed|Béni|Der Gesegnete|Benedetto|Abençoado
+Bjarke|m|norse|scandinavian|2|animal,strong|Osito|Little bear|Petit ours|Kleiner Bär|Orsetto|Ursinho
+Bjørnar|m|norse|scandinavian|2|animal,warrior|Guerrero oso|Bear warrior|Guerrier ours|Bärenkrieger|Guerriero orso|Guerreiro urso
+Bo|m|norse|scandinavian|2|vintage|Habitar, vivir|To dwell|Habiter|Wohnen, leben|Abitare|Habitar
+Bror|m|norse|scandinavian|1|vintage|Hermano|Brother|Frère|Bruder|Fratello|Irmão
+Christoffer|m|greek|scandinavian|3|classic,saint|Portador de Cristo|Bearing Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Eirik|m|norse|scandinavian|3|royal,strong|Gobernante eterno|Ever ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Erling|m|norse|scandinavian|2|vintage,warrior|Descendiente del jarl|Descendant of the jarl|Descendant du jarl|Nachkomme des Jarls|Discendente dello jarl|Descendente do jarl
+Frederik|m|germanic|scandinavian,dutch|3|royal,classic|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Gudmund|m|norse|scandinavian|1|vintage|Protección de Dios|Protection of the gods|Protection de Dieu|Schutz der Götter|Protezione degli dei|Proteção dos deuses
+Gustaf|m|germanic|scandinavian|3|royal,classic|Bastón de los godos|Staff of the Goths|Bâton des Goths|Stab der Goten|Bastone dei Goti|Bastão dos godos
+Göran|m|greek|scandinavian|2|vintage|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador
+Halfdan|m|norse|scandinavian|1|vintage,royal|Medio danés|Half Dane|Demi-Danois|Halber Däne|Mezzo danese|Meio dinamarquês
+Hallvard|m|norse|scandinavian|2|vintage,strong|Guardián de la roca|Rock guardian|Gardien du rocher|Felshüter|Guardiano della roccia|Guardião da rocha
+Håkon|m|norse|scandinavian|3|royal,strong|Hijo elegido|Chosen son|Fils choisi|Erwählter Sohn|Figlio scelto|Filho escolhido
+Jarl|m|norse|scandinavian|2|royal,warrior|Noble, conde|Earl, nobleman|Comte, noble|Edelmann, Graf|Nobile, conte|Nobre, conde
+Kåre|m|norse|scandinavian|2|vintage|De cabello rizado|Curly-haired|Aux cheveux bouclés|Der Lockige|Dai capelli ricci|De cabelo encaracolado
+Mads|m|hebrew|scandinavian|3|classic|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Mårten|m|latin|scandinavian|2|vintage|De Marte|Of Mars|De Mars|Der dem Mars Geweihte|Di Marte|De Marte
+Nikolaj|m|greek|scandinavian|3|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Orm|m|norse|scandinavian|2|animal,mythology|Serpiente|Serpent, worm|Serpent|Schlange, Wurm|Serpente|Serpente
+Peder|m|greek|scandinavian|2|classic|Roca|Rock|Roc|Fels|Roccia|Rocha
+Poul|m|latin|scandinavian|2|vintage|Pequeño|Small|Petit|Der Kleine|Piccolo|Pequeno
+Sindre|m|norse|scandinavian|2|mythology|Chispeante|Sparkling|Étincelant|Funkelnd|Scintillante|Cintilante
+Svein|m|norse|scandinavian|2|vintage|Joven, muchacho|Young man, boy|Jeune homme|Junger Mann, Bursche|Giovane, ragazzo|Jovem, rapaz
+Tor|m|norse|scandinavian|3|mythology,strong|Trueno|Thunder|Tonnerre|Donner|Tuono|Trovão
+Tore|m|norse|scandinavian|2|mythology,strong|De Thor|Thor's|De Thor|Der zu Thor Gehörige|Di Thor|De Thor
+Torgeir|m|norse|scandinavian|2|mythology,warrior|Lanza de Thor|Thor's spear|Lance de Thor|Speer des Thor|Lancia di Thor|Lança de Thor
+Torstein|m|norse|scandinavian|2|mythology,strong|Piedra de Thor|Thor's stone|Pierre de Thor|Thors Stein|Pietra di Thor|Pedra de Thor
+Torvald|m|norse|scandinavian|1|mythology,vintage|Gobernante de Thor|Thor's ruler|Souverain de Thor|Herrscher des Thor|Sovrano di Thor|Governante de Thor
+Trygve|m|norse|scandinavian|2|virtue|Confiable, fiel|Trustworthy, faithful|Digne de confiance, fidèle|Vertrauenswürdig, treu|Affidabile, fedele|Confiável, fiel
+Tyr|m|norse|scandinavian|1|mythology,warrior|Dios|God|Dieu|Gott|Dio|Deus
+Valdemar|m|germanic|scandinavian|3|royal|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+William|m|germanic|scandinavian,english|4|classic|Protección resuelta|Resolute protection|Protection résolue|Entschlossener Schutz|Protezione risoluta|Proteção resoluta
+Yngve|m|norse|scandinavian|1|mythology,vintage|Dios Ing|The god Ing|Le dieu Ing|Der Gott Ing|Il dio Ing|O deus Ing
+Odd|m|norse|scandinavian|2|vintage,warrior|Punta de lanza|Spear point|Pointe de lance|Speerspitze|Punta di lancia|Ponta de lança
+Ketil|m|norse|scandinavian|2|vintage|Caldero, casco|Cauldron, helmet|Chaudron, casque|Kessel, Helm|Calderone, elmo|Caldeirão, elmo
+Gaute|m|norse|scandinavian|2|vintage|Hombre de los gautas|Man of the Geats|Homme des Gautes|Mann der Gauten|Uomo dei Geati|Homem dos gautas
+Torkild|m|norse|scandinavian|1|mythology,vintage|Caldero de Thor|Thor's cauldron|Chaudron de Thor|Thors Kessel|Calderone di Thor|Caldeirão de Thor
+Jørn|m|greek|scandinavian|2|vintage|Agricultor|Farmer|Cultivateur|Landmann|Agricoltore|Lavrador

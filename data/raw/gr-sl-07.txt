@@ -1,0 +1,68 @@
+Bogusława|f|slavic|polish|1|vintage,virtue|Gloria de Dios|Glory of God|Gloire de Dieu|Ruhm Gottes|Gloria di Dio|Glória de Deus
+Dorota|f|greek|polish|3|saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Janina|f|hebrew|polish|2|vintage,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jolanta|f|greek|polish|2|flower,vintage|Flor violeta|Violet flower|Fleur violette|Violette Blume|Fiore viola|Flor violeta
+Kateřina|f|greek|polish|4|saint,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Krystyna|f|greek|polish|3|saint,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Lucie|f|latin|polish|5|light,saint,classic|Luz|Light|Lumière|Licht|Luce|Luz
+Markéta|f|greek|polish|4|gem,saint,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Matěj|m|hebrew|polish|5|biblical,saint,classic|Regalo de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dádiva de Deus
+Mieczysław|m|slavic|polish|2|warrior,vintage|Gloria de la espada|Glory of the sword|Gloire de l'épée|Ruhm des Schwertes|Gloria della spada|Glória da espada
+Miłosz|m|slavic|polish|3|love,modern|Amable, querido|Gracious, dear|Aimable, cher|Liebenswürdig, lieb|Gentile, caro|Amável, querido
+Ondřej|m|greek|polish|4|saint,strong|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Štěpán|m|greek|polish|3|saint,royal|Corona|Crown|Couronne|Krone|Corona|Coroa
+Tamara|f|hebrew|russian|3|classic,nature|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Tihana|f|slavic|russian|2|sweet,modern|Tranquila, silenciosa|Quiet, calm|Tranquille, silencieuse|Still, ruhig|Tranquilla, silenziosa|Tranquila, silenciosa
+Tihomir|m|slavic|russian|2|virtue,vintage|Paz tranquila|Quiet peace|Paix tranquille|Stiller Friede|Pace tranquilla|Paz tranquila
+Tomasz|m|hebrew|polish|4|biblical,saint,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Tomáš|m|hebrew|polish|4|biblical,saint,classic|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Tymon|m|greek|polish|4|classic,modern|Honor, estima|Honour, esteem|Honneur, estime|Ehre, Wertschätzung|Onore, stima|Honra, estima
+Tymoteusz|m|greek|polish|2|biblical,saint|El que honra a Dios|Honouring God|Celui qui honore Dieu|Gottesehrer|Colui che onora Dio|Aquele que honra a Deus
+Urszula|f|latin|polish|3|saint,animal,vintage|Osita|Little she-bear|Petite ourse|Kleine Bärin|Piccola orsa|Ursinha
+Václav|m|slavic|polish|3|royal,saint,classic|Mayor gloria|Greater glory|Plus grande gloire|Größerer Ruhm|Maggior gloria|Maior glória
+Wacław|m|slavic|polish|2|royal,saint,vintage|Mayor gloria|Greater glory|Plus grande gloire|Größerer Ruhm|Maggior gloria|Maior glória
+Vasilisa|f|greek|russian|3|royal,classic|Real, reina|Royal, queenly|Royale, reine|Königlich|Regale, regina|Real, rainha
+Vasily|m|greek|russian|3|royal,saint,classic|Real|Royal, kingly|Royal|Königlich|Regale|Real
+Velimir|m|slavic|russian|2|virtue,vintage|Gran paz|Great peace|Grande paix|Großer Friede|Grande pace|Grande paz
+Vera|f|slavic|russian|4|virtue,classic,saint|Fe|Faith|Foi|Glaube|Fede|Fé
+Veronika|f|greek|russian,polish|4|saint,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Veselin|m|slavic|russian|2|sweet,vintage|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Veselina|f|slavic|russian|2|sweet,modern|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Vesna|f|slavic|russian|3|nature,celestial|Primavera|Spring|Printemps|Frühling|Primavera|Primavera
+Viktor|m|latin|russian,polish|4|warrior,classic|Vencedor|Victor, conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Vlad|m|slavic|russian|3|royal,strong,modern|Gobernante|Ruler|Souverain|Herrscher|Sovrano|Governante
+Vladimir|m|slavic|russian|4|royal,classic|Gobernante del mundo|Ruler of the world|Souverain du monde|Herrscher der Welt|Sovrano del mondo|Governante do mundo
+Vladimira|f|slavic|russian|2|royal,classic|Gobernante del mundo|Ruler of the world|Souveraine du monde|Herrscherin der Welt|Sovrana del mondo|Governante do mundo
+Vladislav|m|slavic|russian|3|royal,warrior|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Sovrano glorioso|Governante glorioso
+Vlasta|f|slavic|polish|2|strong,vintage|Poder, patria|Power, homeland|Pouvoir, patrie|Macht, Heimat|Potere, patria|Poder, pátria
+Vojislav|m|slavic|russian|1|warrior,vintage|Gloria en la guerra|Glory in war|Gloire à la guerre|Ruhm im Krieg|Gloria in guerra|Glória na guerra
+Vojtěch|m|slavic|polish|3|warrior,saint|Alegría del guerrero|Warrior's joy|Joie du guerrier|Freude des Kriegers|Gioia del guerriero|Alegria do guerreiro
+Wojciech|m|slavic|polish|4|warrior,saint,classic|Alegría del guerrero|Warrior's joy|Joie du guerrier|Freude des Kriegers|Gioia del guerriero|Alegria do guerreiro
+Vsevolod|m|slavic|russian|2|royal,vintage|Soberano de todos|Ruler of all|Souverain de tous|Herrscher über alle|Sovrano di tutti|Soberano de todos
+Vyacheslav|m|slavic|russian|2|royal,vintage|Más gloria|More glory|Plus de gloire|Mehr Ruhm|Più gloria|Mais glória
+Weronika|f|greek|polish|4|saint,classic|Portadora de victoria|Bringer of victory|Porteuse de victoire|Siegbringerin|Portatrice di vittoria|Portadora de vitória
+Wioletta|f|latin|polish|2|flower,nature|Violeta|Violet|Violette|Veilchen|Violetta|Violeta
+Wiktor|m|latin|polish|4|warrior,classic|Vencedor|Victor, conqueror|Vainqueur|Sieger|Vincitore|Vencedor
+Wiktoria|f|latin|polish|5|warrior,classic|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Władysław|m|slavic|polish|3|royal,classic|Gobernante glorioso|Glorious ruler|Souverain glorieux|Ruhmreicher Herrscher|Sovrano glorioso|Governante glorioso
+Włodzimierz|m|slavic|polish|2|royal,vintage|Gobernante del mundo|Ruler of the world|Souverain du monde|Herrscher der Welt|Sovrano del mondo|Governante do mundo
+Yaroslava|f|slavic|russian|3|warrior,classic|Gloria vigorosa|Fierce glory|Gloire ardente|Feuriger Ruhm|Gloria ardente|Glória vigorosa
+Yuri|m|greek|russian|4|classic,nature|Agricultor|Farmer|Agriculteur|Landwirt|Agricoltore|Agricultor
+Zbigniew|m|slavic|polish|2|vintage,virtue|El que disipa la ira|To dispel anger|Qui dissipe la colère|Den Zorn vertreibend|Che dissipa l'ira|Aquele que dissipa a ira
+Zdravko|m|slavic|russian|2|virtue,classic|Salud, sano|Health, healthy|Santé, en bonne santé|Gesundheit, gesund|Salute, sano|Saúde, saudável
+Zhivka|f|slavic|russian|2|virtue,vintage|Viva, vivaz|Alive, lively|Vivante, vive|Lebendig, lebhaft|Viva, vivace|Viva, vivaz
+Zlata|f|slavic|russian,polish|3|gem,sweet,modern|Oro, dorada|Gold, golden|Or, dorée|Gold, die Goldene|Oro, dorata|Ouro, dourada
+Zlatan|m|slavic|russian|3|gem,strong|Dorado|Golden|Doré|Der Goldene|Dorato|Dourado
+Zlatko|m|slavic|russian|2|gem,classic|Dorado|Golden|Doré|Der Goldene|Dorato|Dourado
+Zofia|f|greek|polish|5|virtue,classic,saint|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Žofie|f|greek|polish|3|virtue,classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Zora|f|slavic|russian,polish|3|celestial,light,classic|Alba, aurora|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Zorana|f|slavic|russian|2|celestial,light|Alba, aurora|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Zoran|m|slavic|russian|3|celestial,light,classic|Alba, aurora|Dawn|Aube|Morgendämmerung|Alba|Alvorada
+Zorica|f|slavic|russian|3|celestial,light,sweet|Pequeña alba|Little dawn|Petite aube|Kleine Morgenröte|Piccola alba|Pequena alvorada
+Zornitsa|f|slavic|russian|2|celestial,light|Lucero del alba|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Zoryana|f|slavic|russian|2|celestial,light|Como la aurora|Like the dawn|Comme l'aube|Wie die Morgenröte|Come l'alba|Como a aurora
+Zuzana|f|hebrew|polish|4|biblical,flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Zuzanna|f|hebrew|polish|5|biblical,flower,classic|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Zvezdana|f|slavic|russian|2|celestial,sweet|Estrellada|Starry|Étoilée|Sternenhell|Stellata|Estrelada
+Zygmunt|m|germanic|polish|2|vintage,warrior|Protector victorioso|Victorious protector|Protecteur victorieux|Siegreicher Beschützer|Protettore vittorioso|Protetor vitorioso

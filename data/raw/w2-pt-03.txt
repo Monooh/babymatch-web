@@ -1,0 +1,82 @@
+Macário|m|greek|portuguese|1|saint,vintage|Bienaventurado|Blessed|Bienheureux|Selig|Beato|Bem-aventurado
+Magda|f|hebrew|portuguese|2|vintage,biblical|De Magdala, torre|Of Magdala, tower|De Magdala, tour|Aus Magdala, Turm|Di Magdala, torre|De Magdala, torre
+Magnólia|f|other|portuguese|2|flower|Flor de magnolia|Magnolia flower|Fleur de magnolia|Magnolienblüte|Fiore di magnolia|Flor de magnólia
+Maitê|f|basque|portuguese,basque|2|love,sweet|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Manoela|f|hebrew|portuguese|3|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus connosco
+Mar|f|latin|portuguese,spanish|2|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Marcial|m|latin|portuguese,spanish|1|saint,warrior|De Marte, guerrero|Of Mars, martial|De Mars, martial|Des Mars, kriegerisch|Di Marte, marziale|De Marte, guerreiro
+Marcelino|m|latin|portuguese|2|saint,vintage|Pequeño martillo, de Marcelo|Little hammer, of Marcellus|Petit marteau, de Marcellus|Kleiner Hammer, von Marcellus|Piccolo martello, di Marcello|Pequeno martelo, de Marcelo
+Marco|m|latin|portuguese,italian|3|classic,warrior|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Dedicato a Marte|Dedicado a Marte
+Marinho|m|latin|portuguese|2|sea,vintage|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Marino|m|latin|portuguese,italian|2|sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Mara|f|hebrew|portuguese|2|biblical|Amarga|Bitter|Amère|Bitter|Amara|Amarga
+Martina|f|latin|portuguese,italian,german|3|classic,warrior|Dedicada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Dedicata a Marte|Dedicada a Marte
+Maura|f|latin|portuguese,italian|2|vintage|Mora, de piel oscura|Moorish, dark-skinned|Maure, à la peau foncée|Maurin, dunkelhäutig|Moresca, scura di pelle|Moura, de pele escura
+Maximiliano|m|latin|portuguese|3|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Melchior|m|hebrew|portuguese|1|biblical,royal|Rey de la luz|King of light|Roi de lumière|König des Lichts|Re di luce|Rei da luz
+Mercedes|f|latin|portuguese,spanish|2|saint,virtue|Mercedes, favores|Mercies, favours|Faveurs, grâces|Gnaden|Grazie, favori|Mercês, favores
+Metódio|m|greek|portuguese|1|saint|Búsqueda, camino|Pursuit, way|Poursuite, voie|Verfolgung, Weg|Ricerca, via|Busca, caminho
+Morgana|f|celtic|portuguese|2|literary,sea|Nacida del mar|Sea-born|Née de la mer|Meergeboren|Nata dal mare|Nascida do mar
+Muriel|f|celtic|portuguese|2|sea,vintage|Mar brillante|Sea-bright|Mer brillante|Leuchtendes Meer|Mare splendente|Mar brilhante
+Narciso|m|greek|portuguese|2|mythology,flower|Narciso, flor|Narcissus, daffodil|Narcisse, jonquille|Narzisse|Narciso, fiore|Narciso, flor
+Narcisa|f|greek|portuguese|2|flower,vintage|Narciso, flor|Narcissus, daffodil|Narcisse, jonquille|Narzisse|Narciso, fiore|Narciso, flor
+Natal|m|latin|portuguese|2|saint,vintage|Navidad, nacimiento|Christmas, birth|Noël, naissance|Weihnachten, Geburt|Natale, nascita|Natal, nascimento
+Nazário|m|hebrew|portuguese|2|biblical,saint|De Nazaret|From Nazareth|De Nazareth|Aus Nazaret|Di Nazaret|De Nazaré
+Nereu|m|greek|portuguese|1|sea,mythology|Dios del mar|Sea god|Dieu de la mer|Meeresgott|Dio del mare|Deus do mar
+Nestor|m|greek|portuguese|2|classic,mythology|El que regresa a casa|He who returns home|Celui qui rentre chez lui|Der Heimkehrer|Colui che torna a casa|Aquele que regressa a casa
+Nicanor|m|greek|portuguese|1|saint,warrior|Victorioso|Victorious|Victorieux|Siegreich|Vittorioso|Vitorioso
+Nicodemos|m|greek|portuguese|2|biblical|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicole|f|greek|portuguese,french,english|3|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicolas|m|greek|portuguese,french|4|trendy,modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nilo|m|greek|portuguese|2|nature|Río Nilo|Nile river|Fleuve Nil|Nil|Fiume Nilo|Rio Nilo
+Noah|m|hebrew|portuguese,english,intl|3|biblical,trendy|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Noel|m|latin|portuguese,english,french|2|vintage|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Noelia|f|latin|portuguese,spanish|2|vintage,sweet|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Norma|f|latin|portuguese,english|2|vintage|Regla, norma|Rule, norm|Règle, norme|Regel, Norm|Regola, norma|Regra, norma
+Odete|f|germanic|portuguese|2|vintage|Rica, próspera|Wealthy, prosperous|Riche, prospère|Reich, wohlhabend|Ricca, prospera|Rica, próspera
+Olinda|f|other|portuguese|2|place,vintage|Hermosa, ¡oh bella!|Beautiful, "oh, lovely!"|Belle, « oh, jolie ! »|Schön, „oh, wie schön!“|Bella, «oh, bella!»|Linda, «ó linda!»
+Onésimo|m|greek|portuguese|1|biblical|Útil|Useful|Utile|Nützlich|Utile|Útil
+Orestes|m|greek|portuguese|2|mythology|Montañés|Mountain-dweller|Montagnard|Bergbewohner|Montanaro|Montanhês
+Osmar|m|germanic|portuguese|2|vintage|Gloria de Dios|Divine fame|Gloire divine|Göttlicher Ruhm|Gloria divina|Glória divina
+Ozéias|m|hebrew|portuguese|2|biblical|Salvación de Dios|Salvation of God|Salut de Dieu|Heil Gottes|Salvezza di Dio|Salvação de Deus
+Paio|m|greek|portuguese|1|vintage,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Paloma|f|latin|portuguese,spanish|2|animal,sweet|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Pancrácio|m|greek|portuguese|1|saint,strong|Todopoderoso|All-powerful|Tout-puissant|Allmächtig|Onnipotente|Todo-poderoso
+Pastora|f|latin|portuguese|1|saint,vintage|Pastora|Shepherdess|Bergère|Hirtin|Pastorella|Pastora
+Pelágio|m|greek|portuguese|1|saint,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Penélope|f|greek|portuguese,spanish|2|mythology,literary|Tejedora|Weaver|Tisseuse|Weberin|Tessitrice|Tecelã
+Piedade|f|latin|portuguese|2|saint,virtue|Piedad|Piety|Piété|Frömmigkeit|Pietà|Piedade
+Pilar|f|latin|portuguese,spanish|2|saint,strong|Columna|Pillar|Pilier|Säule|Pilastro|Pilar
+Pio|m|latin|portuguese,italian|1|saint,virtue|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Plínio|m|latin|portuguese|1|classic,literary|De la familia Plinia|Of the Plinius clan|De la famille Plinia|Aus dem Geschlecht der Plinier|Della gente Plinia|Da família Plínia
+Policarpo|m|greek|portuguese|1|saint,literary|De muchos frutos|Of much fruit|De beaucoup de fruits|Fruchtreich|Di molti frutti|De muitos frutos
+Porfírio|m|greek|portuguese|1|saint|Color púrpura|Purple-clad|Vêtu de pourpre|Purpurfarben|Color porpora|Cor de púrpura
+Próspero|m|latin|portuguese|2|classic,literary|Afortunado, próspero|Fortunate, prosperous|Fortuné, prospère|Glücklich, wohlhabend|Fortunato, prospero|Afortunado, próspero
+Purificação|f|latin|portuguese|1|saint,vintage|Purificación|Purification|Purification|Reinigung|Purificazione|Purificação
+Rafaella|f|hebrew|portuguese|2|modern,biblical|Dios ha curado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Ramon|m|germanic|portuguese,catalan|2|classic|Protector sabio|Wise protector|Protecteur sage|Weiser Beschützer|Saggio protettore|Protetor sábio
+Ramona|f|germanic|portuguese,spanish|2|vintage|Protectora sabia|Wise protector|Protectrice sage|Weise Beschützerin|Saggia protettrice|Protetora sábia
+Remígio|m|latin|portuguese|1|saint,vintage|Remero|Oarsman|Rameur|Ruderer|Rematore|Remador
+Rosana|f|other|portuguese|3|flower,vintage|Rosa graciosa|Graceful rose|Rose gracieuse|Anmutige Rose|Rosa aggraziata|Rosa graciosa
+Rosalina|f|latin|portuguese|2|flower,vintage|Rosa pequeña|Little rose|Petite rose|Kleine Rose|Piccola rosa|Pequena rosa
+Roxana|f|persian|portuguese|2|royal,light|Aurora, resplandor|Dawn, brightness|Aube, éclat|Morgenröte, Glanz|Alba, splendore|Aurora, resplendor
+Ryan|m|celtic|portuguese,irish,english|4|modern,trendy|Pequeño rey|Little king|Petit roi|Kleiner König|Piccolo re|Pequeno rei
+Rufina|f|latin|portuguese|1|saint,vintage|Pelirroja|Red-haired|Rousse|Rothaarig|Rossa|Ruiva
+Sabina|f|latin|portuguese,italian|2|classic|Sabina, del pueblo sabino|Sabine woman|Sabine|Sabinerin|Sabina|Sabina
+Sabrina|f|celtic|portuguese,english|3|mythology,modern|Del río Severn|Of the River Severn|De la Severn|Vom Fluss Severn|Del fiume Severn|Do rio Severn
+Sancho|m|latin|portuguese,spanish|2|vintage,royal|Santo, sagrado|Holy, sacred|Saint, sacré|Heilig|Santo, sacro|Santo, sagrado
+Sandro|m|greek|portuguese,italian|2|classic|Defensor de la humanidad|Defender of mankind|Défenseur de l'humanité|Beschützer der Menschheit|Difensore dell'umanità|Defensor da humanidade
+Santiago|m|hebrew|portuguese,spanish|2|saint,biblical|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Saul|m|hebrew|portuguese|2|biblical,royal|Pedido a Dios|Asked of God|Demandé à Dieu|Von Gott erbeten|Chiesto a Dio|Pedido a Deus
+Selene|f|greek|portuguese|2|celestial,mythology|Luna|Moon|Lune|Mond|Luna|Lua
+Severo|m|latin|portuguese,italian|1|saint,strong|Severo, serio|Stern, serious|Sévère, sérieux|Streng, ernst|Severo, serio|Severo, sério
+Sibila|f|greek|portuguese|1|mythology,vintage|Profetisa|Prophetess|Prophétesse|Prophetin|Profetessa|Profetisa
+Sidónia|f|other|portuguese|1|vintage,place|De Sidón|From Sidon|De Sidon|Aus Sidon|Di Sidone|De Sidónia
+Sigismundo|m|germanic|portuguese|1|vintage,royal|Protector victorioso|Victorious protector|Protecteur victorieux|Siegreicher Beschützer|Protettore vittorioso|Protetor vitorioso
+Silas|m|latin|portuguese,english|3|biblical,nature|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Silvano|m|latin|portuguese,italian|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Silvina|f|latin|portuguese|2|nature,vintage|Del bosque|Of the forest|De la forêt|Aus dem Wald|Del bosco|Da floresta
+Simeão|m|hebrew|portuguese|2|biblical,saint|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Soledade|f|latin|portuguese|2|saint,vintage|Soledad|Solitude|Solitude|Einsamkeit|Solitudine|Soledade
+Soraia|f|persian|portuguese|3|celestial,modern|Pléyades, estrellas|Pleiades, stars|Pléiades, étoiles|Plejaden, Sterne|Pleiadi, stelle|Plêiades, estrelas
+Tábata|f|hebrew|portuguese|2|biblical,animal|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela

@@ -1,0 +1,100 @@
+Mabel|f|latin|spanish,english|2|vintage,love|Amable|Lovable|Aimable|Liebenswert|Amabile|Amável
+Macarena|f|greek|spanish|3|saint,place|Bienaventurada, feliz|Blessed, happy|Bienheureuse, heureuse|Selige, glückliche|Beata, felice|Bem-aventurada, feliz
+Magdalena|f|hebrew|spanish,german|3|biblical,saint|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Maite|f|basque|spanish,basque|3|love,sweet|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Maitane|f|basque|spanish,basque|2|love,sweet|Amable, amada|Lovable, beloved|Aimable, bien-aimée|Liebenswert, geliebt|Amabile, amata|Amável, amada
+Malena|f|hebrew|spanish|3|vintage,music|De Magdala|From Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Manuela|f|hebrew|spanish,italian|3|classic,saint|Dios está con nosotros|God is with us|Dieu est avec nous|Gott ist mit uns|Dio è con noi|Deus está conosco
+Mar|f|latin|spanish|3|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Mara|f|hebrew|spanish,english|2|biblical|Amarga|Bitter|Amère|Bitter|Amara|Amarga
+Marcela|f|latin|spanish|3|classic,warrior|Consagrada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Consacrata a Marte|Consagrada a Marte
+Marga|f|greek|spanish|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margarita|f|greek|spanish,russian|3|flower,gem,classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margot|f|greek|spanish,french|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+María|f|hebrew|spanish,intl|5|biblical,saint,classic|Amada, excelsa|Beloved, exalted|Bien-aimée, élevée|Geliebte, Erhabene|Amata, eccelsa|Amada, excelsa
+María José|f|hebrew|spanish|3|classic,saint|Amada, Dios añadirá|Beloved, God will add|Bien-aimée, Dieu ajoutera|Geliebte, Gott wird hinzufügen|Amata, Dio aggiungerà|Amada, Deus acrescentará
+María del Carmen|f|hebrew|spanish|3|saint,classic|Amada, jardín de Dios|Beloved, garden of God|Bien-aimée, jardin de Dieu|Geliebte, Garten Gottes|Amata, giardino di Dio|Amada, jardim de Deus
+María Fernanda|f|hebrew|spanish|4|classic,modern|Amada, aventurera audaz|Beloved, bold adventurer|Bien-aimée, aventurière audacieuse|Geliebte, kühne Abenteurerin|Amata, avventuriera audace|Amada, aventureira audaz
+María Isabel|f|hebrew|spanish|2|classic,saint|Amada, Dios es mi juramento|Beloved, God is my oath|Bien-aimée, Dieu est mon serment|Geliebte, Gott ist mein Schwur|Amata, Dio è il mio giuramento|Amada, Deus é meu juramento
+María Teresa|f|hebrew|spanish|2|classic,saint|Amada, cazadora|Beloved, huntress|Bien-aimée, chasseresse|Geliebte, Jägerin|Amata, cacciatrice|Amada, caçadora
+María Victoria|f|hebrew|spanish|1|classic,saint|Amada, victoria|Beloved, victory|Bien-aimée, victoire|Geliebte, Sieg|Amata, vittoria|Amada, vitória
+Mariana|f|latin|spanish,portuguese|4|classic|María y Ana|Mary and Anne|Marie et Anne|Maria und Anna|Maria e Anna|Maria e Ana
+Maribel|f|hebrew|spanish|3|vintage,classic|María e Isabel|Mary and Isabel|Marie et Isabelle|Maria und Isabel|Maria e Isabella|Maria e Isabel
+Mariela|f|hebrew|spanish|2|modern|Pequeña María|Little Mary|Petite Marie|Kleine Maria|Piccola Maria|Pequena Maria
+Marina|f|latin|spanish,italian,russian|4|sea,classic|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Marisa|f|hebrew|spanish,italian|2|vintage|María y Luisa|Mary and Louise|Marie et Louise|Maria und Luise|Maria e Luisa|Maria e Luísa
+Marisol|f|latin|spanish|3|sea,celestial|María y sol|Mary and sun|Marie et soleil|Maria und Sonne|Maria e sole|Maria e sol
+Marta|f|hebrew|spanish,italian,portuguese|4|biblical,saint,classic|Señora|Lady|Maîtresse|Herrin|Signora|Senhora
+Martina|f|latin|spanish,italian,german|5|classic,strong|Consagrada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Consacrata a Marte|Consagrada a Marte
+Matilde|f|germanic|spanish,italian|2|vintage,warrior|Fuerte en el combate|Mighty in battle|Puissante au combat|Mächtig im Kampf|Forte in battaglia|Forte no combate
+Mauricia|f|latin|spanish|1|vintage|De piel oscura, mora|Dark-skinned, Moorish|À la peau sombre, mauresque|Dunkelhäutig, maurisch|Dalla pelle scura, moresca|De pele escura, moura
+Maura|f|latin|spanish,irish|1|vintage,saint|Mora, de piel oscura|Moorish, dark-skinned|Mauresque, à la peau sombre|Maurin, dunkelhäutig|Moresca, dalla pelle scura|Moura, de pele escura
+Maximina|f|latin|spanish|1|vintage|La más grande|The greatest|La plus grande|Die Größte|La più grande|A maior
+Maya|f|sanskrit|spanish,english,german|3|modern,sweet|Ilusión, magia|Illusion, magic|Illusion, magie|Illusion, Magie|Illusione, magia|Ilusão, magia
+Mayra|f|hebrew|spanish|2|modern|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Melania|f|greek|spanish,italian|2|saint,classic|Oscura, de piel morena|Dark, dusky|Sombre, brune|Dunkel, braun|Scura, bruna|Escura, morena
+Melisa|f|greek|spanish|3|modern,animal|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Mercedes|f|latin|spanish|3|saint,classic|Mercedes, favores (Virgen)|Mercies, favours (Our Lady)|Mercis, faveurs (Vierge)|Gnaden, Gunst (Gottesmutter)|Grazie, favori (Madonna)|Mercês, favores (Nossa Senhora)
+Micaela|f|hebrew|spanish|2|biblical,saint|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Milagros|f|latin|spanish|3|saint,virtue|Milagros|Miracles|Miracles|Wunder|Miracoli|Milagres
+Mía|f|latin|spanish,italian|5|modern,sweet|Mía, amada|Mine, beloved|À moi, bien-aimée|Meine, Geliebte|Mia, amata|Minha, amada
+Miriam|f|hebrew|spanish,german|3|biblical,classic|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, ersehnte|Amata, desiderata|Amada, desejada
+Mirta|f|greek|spanish|2|vintage,nature|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Mireya|f|other|spanish,french|2|literary,vintage|Admirable|Admirable|Admirable|Bewundernswert|Ammirevole|Admirável
+Mónica|f|other|spanish,portuguese|3|saint,classic|Consejera, solitaria|Adviser, solitary|Conseillère, solitaire|Beraterin, Einsame|Consigliera, solitaria|Conselheira, solitária
+Montserrat|f|latin|spanish,catalan|3|saint,place|Monte aserrado (Virgen)|Serrated mountain (Our Lady)|Montagne dentelée (Vierge)|Gezackter Berg (Gottesmutter)|Monte seghettato (Madonna)|Monte serrado (Nossa Senhora)
+Morena|f|latin|spanish,italian|1|vintage|De piel oscura|Dark-skinned|À la peau brune|Dunkelhäutig|Dalla pelle scura|De pele morena
+Nadia|f|slavic|spanish,russian|2|virtue,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Natalia|f|latin|spanish,russian,polish|4|classic,saint|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Natividad|f|latin|spanish|2|saint,vintage|Nacimiento|Nativity|Nativité|Geburt|Natività|Natividade
+Nayeli|f|native|spanish|2|modern,love|Te quiero|I love you|Je t'aime|Ich liebe dich|Ti voglio bene|Eu te amo
+Nazaret|f|hebrew|spanish|2|biblical,place|Brote, renuevo|Shoot, sprout|Rejeton, pousse|Spross, Trieb|Germoglio, virgulto|Rebento, broto
+Nelly|f|greek|spanish,english|2|vintage|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Nemesia|f|greek|spanish|1|vintage|Justicia|Justice|Justice|Gerechtigkeit|Giustizia|Justiça
+Nerea|f|basque|spanish,basque|4|modern,sweet|Mía|Mine|À moi|Meine|Mia|Minha
+Nereida|f|greek|spanish|2|sea,mythology|Ninfa del mar|Sea nymph|Nymphe de la mer|Meernymphe|Ninfa del mare|Ninfa do mar
+Nicolasa|f|greek|spanish|1|vintage,saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nicole|f|greek|spanish,french,english|3|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nieves|f|latin|spanish|2|saint,nature|Nieves (Virgen)|Snows (Our Lady)|Neiges (Vierge)|Schnee (Gottesmutter)|Nevi (Madonna)|Neves (Nossa Senhora)
+Noa|u|hebrew|spanish,hebrew,german|4|biblical,modern|Movimiento, agitación|Movement, motion|Mouvement|Bewegung|Movimento|Movimento
+Noelia|f|latin|spanish|4|modern,saint|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Noemí|f|hebrew|spanish|3|biblical,sweet|Mi dulzura, agradable|My sweetness, pleasant|Ma douceur, agréable|Meine Süße, lieblich|Mia dolcezza, piacevole|Minha doçura, agradável
+Nora|f|latin|spanish,english,irish|3|classic,virtue|Honor, luz|Honour, light|Honneur, lumière|Ehre, Licht|Onore, luce|Honra, luz
+Norma|f|latin|spanish,italian|2|vintage,music|Regla, norma|Rule, norm|Règle, norme|Regel, Norm|Regola, norma|Regra, norma
+Nube|f|latin|spanish|1|nature,celestial|Nube|Cloud|Nuage|Wolke|Nuvola|Nuvem
+Obdulia|f|latin|spanish|1|vintage|La que obtiene compasión|She who finds mercy|Celle qui trouve la pitié|Die Mitleid findet|Colei che trova pietà|Aquela que alcança compaixão
+Octavia|f|latin|spanish,italian|1|vintage,classic|Octava|Eighth|Huitième|Achte|Ottava|Oitava
+Odilia|f|germanic|spanish|1|vintage,saint|Rica, próspera|Rich, prosperous|Riche, prospère|Reich, wohlhabend|Ricca, prospera|Rica, próspera
+Ofelia|f|greek|spanish,italian|2|literary,classic|Ayuda, auxilio|Help, aid|Aide, secours|Hilfe, Beistand|Aiuto, soccorso|Ajuda, auxílio
+Oihana|f|basque|spanish,basque|2|nature|Bosque, selva|Forest, jungle|Forêt, jungle|Wald, Dschungel|Foresta, giungla|Floresta, selva
+Olalla|f|greek|spanish,galician|1|vintage,saint|Bien hablada|Well-spoken|Qui parle bien|Wohlredend|Ben parlante|Bem falante
+Olaya|f|greek|spanish|2|saint,vintage|Bien hablada|Well-spoken|Qui parle bien|Wohlredend|Ben parlante|Bem falante
+Olga|f|norse|spanish,russian|2|vintage,saint|Santa, bendita|Holy, blessed|Sainte, bénie|Heilige, gesegnete|Santa, benedetta|Santa, abençoada
+Oliva|f|latin|spanish|2|nature,vintage|Olivo, paz|Olive tree, peace|Olivier, paix|Olivenbaum, Frieden|Ulivo, pace|Oliveira, paz
+Olivia|f|latin|spanish,english,intl|4|nature,classic|Olivo, paz|Olive tree, peace|Olivier, paix|Olivenbaum, Frieden|Ulivo, pace|Oliveira, paz
+Olimpia|f|greek|spanish,italian|1|mythology,vintage|Del Olimpo|Of Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Otilia|f|germanic|spanish|1|vintage,saint|Rica en bienes|Rich in possessions|Riche en biens|Reich an Besitz|Ricca di beni|Rica em bens
+Paciencia|f|latin|spanish|1|virtue,vintage|Paciencia|Patience|Patience|Geduld|Pazienza|Paciência
+Palmira|f|latin|spanish,italian|1|vintage,place|De Palmira, palmera|From Palmyra, palm tree|De Palmyre, palmier|Aus Palmyra, Palme|Di Palmira, palma|De Palmira, palmeira
+Paloma|f|latin|spanish|4|animal,virtue|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Paola|f|latin|spanish,italian|3|classic|Pequeña|Small|Petite|Klein|Piccola|Pequena
+Pascuala|f|hebrew|spanish|1|vintage,saint|Nacida en Pascua|Born at Easter|Née à Pâques|An Ostern geboren|Nata a Pasqua|Nascida na Páscoa
+Pastora|f|latin|spanish|1|vintage,saint|Pastora|Shepherdess|Bergère|Hirtin|Pastora|Pastora
+Patricia|f|latin|spanish,english|4|classic,royal|Noble, patricia|Noble, patrician|Noble, patricienne|Edel, patrizisch|Nobile, patrizia|Nobre, patrícia
+Patrocinio|f|latin|spanish|1|saint,vintage|Amparo, protección|Patronage, protection|Patronage, protection|Schirmherrschaft, Schutz|Patrocinio, protezione|Patrocínio, proteção
+Paula|f|latin|spanish,portuguese,german|5|classic,saint|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Paulina|f|latin|spanish,polish|3|classic|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Paz|f|latin|spanish|3|virtue,saint|Paz|Peace|Paix|Frieden|Pace|Paz
+Penélope|f|greek|spanish|3|mythology,literary|Tejedora|Weaver|Tisseuse|Weberin|Tessitrice|Tecelã
+Perla|f|latin|spanish|3|gem,sea|Perla|Pearl|Perle|Perle|Perla|Pérola
+Petra|f|greek|spanish,german|2|vintage,strong|Piedra, roca|Stone, rock|Pierre, roc|Stein, Fels|Pietra, roccia|Pedra, rocha
+Pía|f|latin|spanish,italian|2|virtue,vintage|Piadosa|Pious|Pieuse|Fromm|Pia|Piedosa
+Piedad|f|latin|spanish|2|virtue,saint|Piedad, compasión|Piety, compassion|Piété, compassion|Frömmigkeit, Mitgefühl|Pietà, compassione|Piedade, compaixão
+Pilar|f|latin|spanish|4|saint,strong,place|Columna (Virgen del Pilar)|Pillar (Our Lady of the Pillar)|Pilier (Vierge du Pilier)|Säule (Muttergottes vom Pilar)|Pilastro (Madonna del Pilar)|Pilar (Nossa Senhora do Pilar)
+Plácida|f|latin|spanish|1|vintage,virtue|Tranquila, apacible|Calm, peaceful|Calme, paisible|Ruhig, friedlich|Tranquilla, placida|Tranquila, plácida
+Presentación|f|latin|spanish|1|saint,vintage|Presentación (de la Virgen)|Presentation (of Mary)|Présentation (de Marie)|Darstellung (Mariens)|Presentazione (di Maria)|Apresentação (de Maria)
+Priscila|f|latin|spanish|2|biblical,classic|Antigua, venerable|Ancient, venerable|Ancienne, vénérable|Altehrwürdig|Antica, venerabile|Antiga, venerável
+Prudencia|f|latin|spanish|1|virtue,vintage|Prudencia|Prudence|Prudence|Klugheit|Prudenza|Prudência
+Pura|f|latin|spanish|1|virtue,vintage|Pura|Pure|Pure|Reine|Pura|Pura
+Purificación|f|latin|spanish|1|saint,vintage|Purificación (de la Virgen)|Purification (of Mary)|Purification (de Marie)|Reinigung (Mariens)|Purificazione (di Maria)|Purificação (de Maria)
+Quetzalli|f|native|spanish|1|nature,modern|Pluma preciosa|Precious feather|Plume précieuse|Kostbare Feder|Piuma preziosa|Pena preciosa

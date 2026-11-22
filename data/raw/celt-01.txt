@@ -1,0 +1,58 @@
+Áine|f|celtic|irish|3|mythology,light|Esplendor, resplandor|Radiance, splendour|Éclat, splendeur|Glanz, Pracht|Splendore, fulgore|Esplendor, resplendor
+Aisling|f|celtic|irish|4|modern,sweet|Sueño, visión|Dream, vision|Rêve, vision|Traum, Vision|Sogno, visione|Sonho, visão
+Aoibhinn|f|celtic|irish|2|sweet,virtue|Deleitosa, encantadora|Delightful, pleasant|Ravissante, charmante|Entzückend, lieblich|Deliziosa, incantevole|Deliciosa, encantadora
+Aoibheann|f|celtic|irish|2|sweet,light|Hermosa figura, radiante|Beautiful form, radiant|Belle forme, radieuse|Schöne Gestalt, strahlend|Bella forma, radiosa|Bela forma, radiante
+Aoife|f|celtic|irish|4|mythology,warrior|Belleza, resplandor|Beauty, radiance|Beauté, éclat|Schönheit, Strahlkraft|Bellezza, splendore|Beleza, esplendor
+Aodh|m|celtic|irish|2|mythology,light|Fuego|Fire|Feu|Feuer|Fuoco|Fogo
+Aodhán|m|celtic|irish|2|saint,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Aidan|m|celtic|irish,english|4|saint,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Aonghus|m|celtic|irish|2|mythology,strong|Fuerza única|One strength|Force unique|Einzigartige Stärke|Forza unica|Força única
+Angus|m|celtic|scottish,english|3|strong,classic|Fuerza única|One strength|Force unique|Einzigartige Stärke|Forza unica|Força única
+Alasdair|m|greek|scottish|3|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Beschützer der Männer|Difensore degli uomini|Defensor dos homens
+Ailsa|f|celtic|scottish|2|place,sea|Roca de Ailsa, isla|Rock of Ailsa, island|Roche d'Ailsa, île|Felsen von Ailsa, Insel|Roccia di Ailsa, isola|Rochedo de Ailsa, ilha
+Aled|m|celtic|welsh|2|nature|Descendencia, vástago|Offspring|Descendance, rejeton|Nachkomme, Spross|Discendenza, rampollo|Descendência, rebento
+Alun|m|celtic|welsh|2|nature|Hermoso, armonioso|Fair, harmonious|Beau, harmonieux|Schön, harmonisch|Bello, armonioso|Belo, harmonioso
+Angharad|f|celtic|welsh|2|love,virtue|Muy amada|Much loved|Très aimée|Sehr geliebt|Molto amata|Muito amada
+Anwen|f|celtic|welsh|2|love,sweet|Muy bella, muy amada|Very fair, very beloved|Très belle, très aimée|Sehr schön, sehr geliebt|Molto bella, molto amata|Muito bela, muito amada
+Ardal|m|celtic|irish|1|warrior,strong|Gran valor|High valour|Grande vaillance|Hoher Mut|Grande valore|Grande valor
+Armel|m|celtic|french|2|royal,strong|Príncipe oso|Bear prince|Prince ours|Bärenfürst|Principe orso|Príncipe urso
+Arwen|f|celtic|welsh,english|3|literary,royal|Doncella noble|Noble maiden|Noble jeune fille|Edle Jungfrau|Nobile fanciulla|Donzela nobre
+Bébhinn|f|celtic|irish|1|sweet,mythology|Dama de bella cara|Fair lady|Belle dame|Schöne Dame|Bella dama|Bela dama
+Bethan|f|celtic|welsh|3|biblical,classic|Mi Dios es juramento|My God is an oath|Mon Dieu est un serment|Mein Gott ist ein Schwur|Il mio Dio è giuramento|Meu Deus é juramento
+Blair|u|celtic|scottish,english|3|nature,place|Llanura, campo|Plain, field|Plaine, champ|Ebene, Feld|Pianura, campo|Planície, campo
+Bláthnaid|f|celtic|irish|1|flower,mythology|Pequeña flor|Little flower|Petite fleur|Kleine Blume|Piccolo fiore|Pequena flor
+Bran|m|celtic|irish,welsh|2|mythology,animal|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Branwen|f|celtic|welsh|2|mythology,animal|Cuervo hermoso|Fair raven|Beau corbeau|Schöner Rabe|Bel corvo|Belo corvo
+Brian|m|celtic|irish,english|4|royal,classic|Alto, noble|High, noble|Haut, noble|Hoch, edel|Alto, nobile|Alto, nobre
+Bríd|f|celtic|irish|2|saint,mythology|La exaltada|The exalted one|L'exaltée|Die Erhabene|L'eccelsa|A exaltada
+Brigid|f|celtic|irish|2|saint,mythology|La exaltada|The exalted one|L'exaltée|Die Erhabene|L'eccelsa|A exaltada
+Bryn|m|celtic|welsh|3|nature,place|Colina|Hill|Colline|Hügel|Collina|Colina
+Cadi|f|celtic|welsh|1|sweet|Pura|Pure|Pure|Rein|Pura|Pura
+Caitlín|f|greek|irish|3|classic,virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Caitríona|f|greek|irish|3|classic,virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Caoilfhionn|f|celtic|irish|1|sweet,light|Delgada y bella|Slender and fair|Mince et belle|Schlank und schön|Esile e bella|Esbelta e bela
+Caoimhe|f|celtic|irish|4|sweet,virtue|Gentil, preciosa|Gentle, precious|Douce, précieuse|Sanft, kostbar|Gentile, preziosa|Gentil, preciosa
+Caoimhín|m|celtic|irish|3|saint,sweet|De noble nacimiento, gentil|Kind, gentle birth|De noble naissance, doux|Von edler Geburt, sanft|Di nobile nascita, gentile|De nobre nascimento, gentil
+Cara|f|celtic|irish,english|3|love,sweet|Amiga|Friend|Amie|Freundin|Amica|Amiga
+Caradoc|m|celtic|welsh|1|warrior,love|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Carwyn|m|celtic|welsh|2|love,sweet|Amor bendito|Blessed love|Amour béni|Gesegnete Liebe|Amore benedetto|Amor abençoado
+Carys|f|celtic|welsh|3|love,modern|Amor|Love|Amour|Liebe|Amore|Amor
+Cathal|m|celtic|irish|2|warrior,royal|Gobernante en la batalla|Battle ruler|Chef de bataille|Schlachtherrscher|Sovrano in battaglia|Governante da batalha
+Calum|m|latin|scottish|3|saint,classic|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Callum|m|latin|scottish,english|4|saint,modern|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Cameron|m|celtic|scottish,english|3|strong,modern|Nariz torcida|Crooked nose|Nez tordu|Krumme Nase|Naso storto|Nariz torto
+Catriona|f|greek|scottish|2|classic,virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Cerys|f|celtic|welsh|3|love,modern|Amor|Love|Amour|Liebe|Amore|Amor
+Cian|m|celtic|irish|4|mythology,classic|Antiguo, duradero|Ancient, enduring|Ancien, durable|Uralt, beständig|Antico, duraturo|Antigo, duradouro
+Ciara|f|celtic|irish|4|classic,sweet|De cabello oscuro|Dark-haired|Aux cheveux sombres|Dunkelhaarig|Dai capelli scuri|De cabelos escuros
+Ciarán|m|celtic|irish|3|saint,classic|Pequeño oscuro|Little dark one|Petit sombre|Kleiner Dunkler|Piccolo scuro|Pequeno escuro
+Cillian|m|celtic|irish|4|saint,modern|Pequeña iglesia|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Clodagh|f|celtic|irish|2|place,nature|Río Clodiagh|River Clodiagh|Rivière Clodiagh|Fluss Clodiagh|Fiume Clodiagh|Rio Clodiagh
+Colm|m|latin|irish|3|saint,classic|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Conall|m|celtic|irish|2|warrior,animal|Lobo fuerte|Strong wolf|Loup fort|Starker Wolf|Lupo forte|Lobo forte
+Conán|m|celtic|irish|2|warrior,animal|Pequeño sabueso|Little hound|Petit chien de chasse|Kleiner Jagdhund|Piccolo segugio|Pequeno cão de caça
+Conor|m|celtic|irish,english|4|warrior,classic|Amante de los sabuesos|Lover of hounds|Ami des chiens de chasse|Freund der Jagdhunde|Amante dei segugi|Amante dos cães de caça
+Craig|m|celtic|scottish,english|3|nature,strong|Roca, peñasco|Rock, crag|Rocher, falaise|Fels, Klippe|Roccia, rupe|Rocha, penhasco
+Cormac|m|celtic|irish|2|royal,classic|Hijo del carro|Son of the charioteer|Fils du conducteur de char|Sohn des Wagenlenkers|Figlio dell'auriga|Filho do cocheiro
+Dáire|m|celtic|irish|1|mythology,strong|Fecundo, fértil|Fruitful, fertile|Fécond, fertile|Fruchtbar|Fecondo, fertile|Fecundo, fértil
+Dara|u|celtic|irish|2|nature|Roble|Oak|Chêne|Eiche|Quercia|Carvalho

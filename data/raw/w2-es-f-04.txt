@@ -1,0 +1,70 @@
+Sancha|f|latin|spanish|1|royal,vintage|Santa|Holy|Sainte|Heilige|Santa|Santa
+Saturnina|f|latin|spanish|1|vintage,saint|Dedicada a Saturno|Devoted to Saturn|Dédiée à Saturne|Saturn geweiht|Dedicata a Saturno|Dedicada a Saturno
+Secundina|f|latin|spanish|1|vintage,saint|Segunda|Second|Seconde|Zweite|Seconda|Segunda
+Séfora|f|hebrew|spanish|1|biblical|Pajarillo|Little bird|Petit oiseau|Vögelchen|Uccellino|Passarinho
+Selva|f|latin|spanish|2|nature|Bosque|Forest|Forêt|Wald|Foresta|Selva
+Severa|f|latin|spanish|1|vintage,saint|Seria, estricta|Serious, strict|Sérieuse, stricte|Ernste, strenge|Seria, severa|Séria, severa
+Sigfrida|f|germanic|spanish|1|vintage|Victoria y paz|Victory and peace|Victoire et paix|Sieg und Frieden|Vittoria e pace|Vitória e paz
+Silveria|f|latin|spanish|1|vintage,nature|De la selva|Of the forest|De la forêt|Vom Wald|Della selva|Da selva
+Tamar|f|hebrew|spanish|1|biblical,nature|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Teodosia|f|greek|spanish|1|vintage,saint|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Teófila|f|greek|spanish|1|vintage,saint|Amada por Dios|Beloved of God|Aimée de Dieu|Von Gott geliebt|Amata da Dio|Amada por Deus
+Tiburcia|f|latin|spanish|1|vintage,saint|De Tibur|From Tibur|De Tibur|Aus Tibur|Di Tibur|De Tibur
+Topacio|f|greek|spanish|1|gem|Piedra preciosa dorada|Golden gemstone|Pierre précieuse dorée|Goldener Edelstein|Gemma dorata|Pedra preciosa dourada
+Tranquilina|f|latin|spanish|1|vintage,virtue|Tranquila|Calm|Tranquille|Ruhige|Tranquilla|Tranquila
+Tránsito|f|latin|spanish|1|saint,vintage|Paso, tránsito|Passage|Passage|Übergang|Passaggio|Passagem
+Urania|f|greek|spanish|1|mythology,celestial|Celestial|Heavenly|Céleste|Himmlische|Celeste|Celestial
+Urbana|f|latin|spanish|1|vintage,saint|Ciudadana|Of the city|Citadine|Städterin|Cittadina|Cidadã
+Valle|f|latin|spanish|1|saint,nature|Valle|Valley|Vallée|Tal|Valle|Vale
+Valquiria|f|norse|spanish|1|mythology,warrior|La que elige a los caídos|Chooser of the slain|Celle qui choisit les tués|Die Wählerin der Gefallenen|Colei che sceglie i caduti|A que escolhe os caídos
+Veneranda|f|latin|spanish|1|vintage,saint|Venerable|Venerable|Vénérable|Ehrwürdige|Venerabile|Venerável
+Victorina|f|latin|spanish|1|vintage,strong|Victoriosa|Victorious|Victorieuse|Siegreiche|Vittoriosa|Vitoriosa
+Victoriana|f|latin|spanish|1|vintage|Victoriosa|Victorious|Victorieuse|Siegreiche|Vittoriosa|Vitoriosa
+Visitación|f|latin|spanish|1|saint,vintage|Visita|Visit|Visite|Besuch|Visita|Visita
+Vitalia|f|latin|spanish|1|vintage|Llena de vida|Full of life|Pleine de vie|Voller Leben|Piena di vita|Cheia de vida
+Xaviera|f|basque|spanish|1|modern|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Xenia|f|greek|spanish|1|classic|Hospitalaria|Hospitable|Hospitalière|Gastfreundliche|Ospitale|Hospitaleira
+Xochiquetzal|f|native|spanish|1|mythology,flower|Flor preciosa|Precious flower|Fleur précieuse|Kostbare Blume|Fiore prezioso|Flor preciosa
+Yasmina|f|persian|spanish|2|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Yoloxóchitl|f|native|spanish|1|flower,love|Flor del corazón|Flower of the heart|Fleur du cœur|Blume des Herzens|Fiore del cuore|Flor do coração
+Zahira|f|arabic|spanish|1|light,sweet|Brillante, radiante|Bright, radiant|Brillante, rayonnante|Strahlende|Splendente, radiosa|Brilhante, radiante
+Zyanya|f|native|spanish|2|virtue,love|Siempre|Always|Toujours|Immer|Sempre|Sempre
+Ñusta|f|native|spanish|1|royal,historical|Princesa inca|Inca princess|Princesse inca|Inka-Prinzessin|Principessa inca|Princesa inca
+Itatí|f|native|spanish|2|saint,place|Punta de piedra|Tip of stone|Pointe de pierre|Steinspitze|Punta di pietra|Ponta de pedra
+Amor|f|latin|spanish|1|love,vintage|Amor|Love|Amour|Liebe|Amore|Amor
+María Alejandra|f|hebrew|spanish|3|classic,strong|Amada defensora de la humanidad|Beloved defender of mankind|Bien-aimée défenseuse de l'humanité|Geliebte Beschützerin der Menschen|Amata difenditrice dell'umanità|Amada defensora da humanidade
+María Andrea|f|hebrew|spanish|2|classic,strong|Amada y valiente|Beloved and brave|Bien-aimée et courageuse|Geliebt und tapfer|Amata e coraggiosa|Amada e corajosa
+María Angélica|f|hebrew|spanish|2|classic,sweet|Amada y angelical|Beloved and angelic|Bien-aimée et angélique|Geliebt und engelsgleich|Amata e angelica|Amada e angelical
+María Auxiliadora|f|hebrew|spanish|1|saint,vintage|Amada que ayuda|Beloved helper|Bien-aimée qui aide|Geliebte Helferin|Amata che aiuta|Amada que ajuda
+María Belén|f|hebrew|spanish|2|saint,classic|Amada, casa del pan|Beloved, house of bread|Bien-aimée, maison du pain|Geliebte, Haus des Brotes|Amata, casa del pane|Amada, casa do pão
+María Clara|f|hebrew|spanish|2|classic,light|Amada y brillante|Beloved and bright|Bien-aimée et brillante|Geliebt und strahlend|Amata e luminosa|Amada e brilhante
+María Cristina|f|hebrew|spanish|3|classic|Amada seguidora de Cristo|Beloved follower of Christ|Bien-aimée disciple du Christ|Geliebte Anhängerin Christi|Amata seguace di Cristo|Amada seguidora de Cristo
+María Daniela|f|hebrew|spanish|3|modern,biblical|Amada, Dios es mi juez|Beloved, God is my judge|Bien-aimée, Dieu est mon juge|Geliebte, Gott ist mein Richter|Amata, Dio è il mio giudice|Amada, Deus é o meu juiz
+María de los Ángeles|f|hebrew|spanish|2|saint,classic|Amada de los ángeles|Beloved of the angels|Bien-aimée des anges|Geliebte der Engel|Amata degli angeli|Amada dos anjos
+María del Mar|f|hebrew|spanish|2|saint,sea|Amada del mar|Beloved of the sea|Bien-aimée de la mer|Geliebte des Meeres|Amata del mare|Amada do mar
+María del Rosario|f|hebrew|spanish|2|saint,classic|Amada del rosario|Beloved of the rosary|Bien-aimée du rosaire|Geliebte vom Rosenkranz|Amata del rosario|Amada do rosário
+María del Socorro|f|hebrew|spanish|2|saint,vintage|Amada, auxilio|Beloved, help|Bien-aimée, secours|Geliebte, Hilfe|Amata, soccorso|Amada, socorro
+María Elena|f|hebrew|spanish|3|classic,light|Amada y luminosa|Beloved and radiant|Bien-aimée et lumineuse|Geliebte und strahlende|Amata e luminosa|Amada e luminosa
+María Gabriela|f|hebrew|spanish|3|classic,strong|Amada, Dios es mi fuerza|Beloved, God is my strength|Bien-aimée, Dieu est ma force|Geliebte, Gott ist meine Stärke|Amata, Dio è la mia forza|Amada, Deus é a minha força
+María Inés|f|hebrew|spanish|2|classic,saint|Amada y pura|Beloved and pure|Bien-aimée et pure|Geliebte und reine|Amata e pura|Amada e pura
+María Laura|f|hebrew|spanish|2|classic|Amada y coronada de laurel|Beloved and crowned with laurel|Bien-aimée et couronnée de laurier|Geliebt und lorbeergekrönt|Amata e coronata d'alloro|Amada e coroada de louro
+María Magdalena|f|hebrew|spanish|2|biblical,saint|Amada de Magdala|Beloved of Magdala|Bien-aimée de Magdala|Geliebte aus Magdala|Amata di Magdala|Amada de Magdala
+María Mercedes|f|hebrew|spanish|2|saint,classic|Amada y misericordiosa|Beloved and merciful|Bien-aimée et miséricordieuse|Geliebte und barmherzige|Amata e misericordiosa|Amada e misericordiosa
+María Paula|f|hebrew|spanish|3|modern,classic|Amada y humilde|Beloved and humble|Bien-aimée et humble|Geliebte und bescheidene|Amata e umile|Amada e humilde
+María Paz|f|hebrew|spanish|2|modern,virtue|Amada, paz|Beloved, peace|Bien-aimée, paix|Geliebte, Frieden|Amata, pace|Amada, paz
+María Rosa|f|hebrew|spanish|2|flower,vintage|Amada rosa|Beloved rose|Rose bien-aimée|Geliebte Rose|Rosa amata|Rosa amada
+María Sofía|f|hebrew|spanish|3|modern,classic|Amada y sabia|Beloved and wise|Bien-aimée et sage|Geliebte und weise|Amata e saggia|Amada e sábia
+María Valentina|f|hebrew|spanish|3|modern,strong|Amada y valiente|Beloved and brave|Bien-aimée et vaillante|Geliebt und tapfer|Amata e coraggiosa|Amada e corajosa
+Ana Cristina|f|hebrew|spanish|2|classic|Gracia, seguidora de Cristo|Grace, follower of Christ|Grâce, disciple du Christ|Anmut, Anhängerin Christi|Grazia, seguace di Cristo|Graça, seguidora de Cristo
+Ana Gabriela|f|hebrew|spanish|2|classic|Gracia, Dios es mi fuerza|Grace, God is my strength|Grâce, Dieu est ma force|Anmut, Gott ist meine Stärke|Grazia, Dio è la mia forza|Graça, Deus é a minha força
+Ana Laura|f|hebrew|spanish|2|classic|Gracia y laurel|Grace and laurel|Grâce et laurier|Anmut und Lorbeer|Grazia e alloro|Graça e louro
+Ana Paula|f|hebrew|spanish|3|classic|Gracia y humildad|Grace and humility|Grâce et humilité|Anmut und Demut|Grazia e umiltà|Graça e humildade
+Ana Rosa|f|hebrew|spanish|2|flower,vintage|Gracia y rosa|Grace and rose|Grâce et rose|Anmut und Rose|Grazia e rosa|Graça e rosa
+Carmen Rosa|f|hebrew|spanish|2|flower,vintage|Jardín de rosas|Garden of roses|Jardin de roses|Rosengarten|Giardino di rose|Jardim de rosas
+Flor María|f|latin|spanish|2|flower,vintage|Flor amada|Beloved flower|Fleur bien-aimée|Geliebte Blume|Fiore amato|Flor amada
+Gloria Inés|f|latin|spanish|2|classic,vintage|Gloria pura|Pure glory|Gloire pure|Reiner Ruhm|Gloria pura|Glória pura
+Luz Marina|f|latin|spanish|3|light,sea|Luz del mar|Light of the sea|Lumière de la mer|Licht des Meeres|Luce del mare|Luz do mar
+Luz María|f|latin|spanish|3|light,classic|Luz amada|Beloved light|Lumière bien-aimée|Geliebtes Licht|Luce amata|Luz amada
+Marta Lucía|f|hebrew|spanish|3|classic,light|Señora de la luz|Lady of light|Dame de lumière|Herrin des Lichts|Signora della luce|Senhora da luz
+Olga Lucía|f|norse|spanish|2|classic,light|Santa y luminosa|Holy and bright|Sainte et lumineuse|Heilig und strahlend|Santa e luminosa|Santa e luminosa
+Rosa Elena|f|latin|spanish|2|flower,light|Rosa luminosa|Radiant rose|Rose lumineuse|Strahlende Rose|Rosa luminosa|Rosa luminosa

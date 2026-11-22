@@ -1,0 +1,49 @@
+Kathryn|f|greek|english|3|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Katrina|f|greek|english|2|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Kirsty|f|greek|scottish,english|2|classic|Cristiana|Christian|Chrétienne|Christin|Cristiana|Cristã
+Laurel|f|latin|english|2|nature,vintage|Laurel|Laurel tree|Laurier|Lorbeer|Alloro|Louro
+Lavinia|f|latin|english|2|vintage,classic|Mujer del Lacio|Woman of Latium|Femme du Latium|Frau aus Latium|Donna del Lazio|Mulher do Lácio
+Lettice|f|latin|english|1|vintage,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Libby|f|hebrew|english|3|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Liberty|f|latin|english|2|virtue|Libertad|Freedom|Liberté|Freiheit|Libertà|Liberdade
+Lilac|f|persian|english|1|flower|Lila|Lilac|Lilas|Flieder|Lilla|Lilás
+Lottie|f|germanic|english|3|vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Lysandra|f|greek|english|1|classic|Libertadora|Liberator|Libératrice|Befreierin|Liberatrice|Libertadora
+Lyric|f|greek|english|2|modern,music|Letra de canción, lírica|Song lyric|Parole de chanson, lyrique|Liedtext, lyrisch|Testo di canzone, lirica|Letra de canção, lírica
+Lark|f|germanic|english|1|animal,music|Alondra|Lark|Alouette|Lerche|Allodola|Cotovia
+Mairead|f|greek|irish|2|classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marcella|f|latin|english,italian|2|classic|Dedicada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Dedicata a Marte|Dedicada a Marte
+Margery|f|greek|english|1|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marjorie|f|greek|english|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margo|f|greek|english|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Magdalene|f|hebrew|english|1|biblical,saint|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Martina|f|latin|english,italian,german|3|classic|Dedicada a Marte|Dedicated to Mars|Consacrée à Mars|Dem Mars geweiht|Dedicata a Marte|Dedicada a Marte
+Mattie|f|germanic|english|2|vintage|Poderosa en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa na batalha
+Mavis|f|celtic|english|1|vintage,animal|Tordo cantor|Song thrush|Grive chanteuse|Singdrossel|Tordo bottaccio|Tordo-músico
+Maxine|f|latin|english|1|vintage|La más grande|The greatest|La plus grande|Die Größte|La più grande|A maior
+May|f|latin|english|2|vintage,nature|Mes de mayo|Month of May|Mois de mai|Monat Mai|Mese di maggio|Mês de maio
+Meadow|f|germanic|english|2|nature,modern|Prado|Meadow|Prairie|Wiese|Prato|Prado
+Meg|f|greek|english|2|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Merry|f|germanic|english|1|vintage,sweet|Alegre|Cheerful|Joyeuse|Fröhlich|Allegra|Alegre
+Millicent|f|germanic|english|2|vintage|Fuerte en el trabajo|Strong in work|Forte au travail|Stark in der Arbeit|Forte nel lavoro|Forte no trabalho
+Myfanwy|f|celtic|welsh|1|vintage|Mi bella, mi querida|My fine one|Ma belle|Meine Feine|La mia bella|A minha bela
+Natalia|f|latin|english,spanish,italian|3|classic|Día del nacimiento del Señor|Birthday of the Lord|Jour de la naissance du Seigneur|Geburtstag des Herrn|Giorno della nascita del Signore|Dia do nascimento do Senhor
+Nerys|f|celtic|welsh|2|vintage|Señora|Lady|Dame|Herrin|Signora|Senhora
+Niamh|f|celtic|irish|4|mythology,light|Resplandor, brillo|Radiance, brightness|Éclat, lumière|Glanz, Helligkeit|Splendore, luminosità|Esplendor, brilho
+Olwen|f|celtic|welsh|1|vintage,literary|Huella blanca|White footprint|Empreinte blanche|Weiße Spur|Impronta bianca|Pegada branca
+Ondine|f|latin|english,french|1|mythology,sea|Pequeña ola|Little wave|Petite vague|Kleine Welle|Piccola onda|Pequena onda
+Ottilie|f|germanic|english,german|2|vintage|Prosperidad de la patria|Prosperity of the fatherland|Prospérité de la patrie|Wohlstand der Heimat|Prosperità della patria|Prosperidade da pátria
+Peggy|f|greek|english|1|vintage|Perla|Pearl|Perle|Perle|Perla|Pérola
+Philomena|f|greek|english|2|vintage,saint|Amada|Loved one|Bien-aimée|Geliebte|Amata|Amada
+Piper|f|germanic|english|3|modern,music|Flautista|Pipe player|Joueuse de flûte|Pfeiferin|Suonatrice di piffero|Flautista
+Posy|f|latin|english|1|flower,vintage|Ramillete de flores|Bunch of flowers|Bouquet de fleurs|Blumenstrauß|Mazzolino di fiori|Ramo de flores
+Primula|f|latin|english|1|flower|Primavera, primera|First little one, primrose|Primevère|Erste Kleine, Primel|Primula|Primeira pequena, prímula
+Prunella|f|latin|english|1|vintage,nature|Ciruela pequeña|Little plum|Petite prune|Kleine Pflaume|Piccola prugna|Pequena ameixa
+Raven|f|germanic|english|2|animal,modern|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Rhian|f|celtic|welsh|2|modern|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Rhiannon|f|celtic|welsh,english|3|mythology|Gran reina|Great queen|Grande reine|Große Königin|Grande regina|Grande rainha
+Rhosyn|f|celtic|welsh|1|flower|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Robyn|f|germanic|english|2|classic|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Rosanna|f|latin|english|2|vintage,flower|Rosa llena de gracia|Graceful rose|Rose pleine de grâce|Anmutige Rose|Rosa graziosa|Rosa graciosa
+Rosetta|f|latin|english,italian|1|vintage,flower|Rosita|Little rose|Petite rose|Röschen|Piccola rosa|Rosinha
+Rosina|f|latin|english,italian|1|vintage,flower|Rosita|Little rose|Petite rose|Röschen|Piccola rosa|Rosinha

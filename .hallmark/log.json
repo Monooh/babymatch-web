@@ -1,0 +1,37 @@
+[
+ {
+  "shape": "Ecosystem Index",
+  "theme": "hum",
+  "axes": "light/rounded-sans/chromatic-yellow",
+  "hero": "Counter",
+  "nav": "search-led bar",
+  "footer": "mast",
+  "imagery": "the product",
+  "photos": [],
+  "entry": "src/styles/site.css",
+  "fingerprint": "hum·counter·ecosystem-index·search-bar·mast·product",
+  "sections": [
+   "Hero",
+   "Rail",
+   "Index",
+   "Rows",
+   "Band",
+   "Band",
+   "Footer"
+  ],
+  "signature": "a live name card you can like or skip in the hero",
+  "waived": [
+   "47c",
+   "42",
+   "44c",
+   "79",
+   "77",
+   "49b"
+  ],
+  "prompt": "web app for expecting couples to pick a baby name by swiping cards",
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "site",
+  "date": "2026-11-22"
+ }
+]

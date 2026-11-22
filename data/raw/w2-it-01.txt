@@ -1,0 +1,88 @@
+Abbondio|m|latin|italian|1|saint,virtue|Abundancia|Abundance|Abondance|Überfluss|Abbondanza|Abundância
+Abelardo|m|germanic|italian,spanish,portuguese|1|vintage,strong|Noble y firme|Noble and resolute|Noble et résolu|Edel und standhaft|Nobile e risoluto|Nobre e resoluto
+Adalgisa|f|germanic|italian|2|vintage,literary|Noble prenda|Noble pledge|Noble gage|Edle Geisel|Nobile pegno|Nobre penhor
+Addolorata|f|latin|italian|1|saint|Dolorosa|Sorrowful|Douloureuse|Schmerzensreiche|Colei che soffre|Dolorosa
+Adelmo|m|germanic|italian|1|vintage|Protector noble|Noble protector|Noble protecteur|Edler Beschützer|Nobile protettore|Nobre protetor
+Adone|m|other|italian|1|mythology|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Agapito|m|greek|italian|1|saint|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Agatino|m|greek|italian|1|saint|Bueno|Good|Bon|Gut|Buono|Bom
+Agostina|f|latin|italian|2|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Agostino|m|latin|italian|3|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Aimone|m|germanic|italian|1|vintage|Hogar|Home|Foyer|Heim|Casa|Lar
+Albano|m|latin|italian|1|saint,place|De Alba|From Alba|D'Alba|Aus Alba|Di Alba|De Alba
+Alberico|m|germanic|italian|1|vintage|Gobernante de los elfos|Ruler of the elves|Souverain des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Albertina|f|germanic|italian|2|vintage|Noble y brillante|Noble and bright|Noble et brillante|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alboino|m|germanic|italian|1|vintage,royal|Amigo de los elfos|Friend of the elves|Ami des elfes|Freund der Elfen|Amico degli elfi|Amigo dos elfos
+Alcide|m|greek|italian|1|mythology,strong|Fuerza|Strength|Force|Stärke|Forza|Força
+Aldobrando|m|germanic|italian|1|vintage,warrior|Espada antigua|Old sword|Vieille épée|Alte Klinge|Antica spada|Espada antiga
+Alfonsina|f|germanic|italian|1|vintage|Noble y dispuesta|Noble and ready|Noble et prête|Edel und bereit|Nobile e pronta|Nobre e pronta
+Alma|f|latin|italian,spanish,intl|2|sweet,vintage|Que nutre|Nourishing|Nourricière|Nährend|Che nutre|Que nutre
+Amanda|f|latin|italian,english,spanish|2|sweet,love|Digna de ser amada|Worthy of love|Digne d'être aimée|Liebenswert|Degna d'amore|Digna de ser amada
+Amarilli|f|greek|italian|1|literary,flower|Resplandeciente|Sparkling|Étincelante|Strahlend|Scintillante|Resplandecente
+Amata|f|latin|italian|1|love,sweet|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Amato|m|latin|italian|1|saint,love|Amado|Beloved|Aimé|Geliebter|Amato|Amado
+Amedea|f|latin|italian|1|saint,vintage|Que ama a Dios|Who loves God|Qui aime Dieu|Gottliebende|Che ama Dio|Que ama a Deus
+Anacleto|m|greek|italian|1|saint|Llamado|Called forth|Appelé|Herbeigerufen|Chiamato|Chamado
+Angelico|m|latin|italian|1|saint,sweet|Angelical|Angelic|Angélique|Engelgleich|Angelico|Angélico
+Aniceto|m|greek|italian|1|saint|Invencible|Unconquerable|Invincible|Unbesiegbar|Invitto|Invencível
+Aniello|m|latin|italian|1|saint,animal|Cordero|Lamb|Agneau|Lamm|Agnello|Cordeiro
+Annalisa|f|hebrew|italian|3|classic|Gracia, Dios es mi juramento|Grace, God is my oath|Grâce, mon Dieu est serment|Gnade, Gott ist mein Eid|Grazia, Dio è il mio giuramento|Graça, Deus é meu juramento
+Annunziato|m|latin|italian|1|saint|Anunciado|Announced|Annoncé|Verkündet|Annunziato|Anunciado
+Anselma|f|germanic|italian|1|saint,vintage|Protegida por Dios|Under God's protection|Sous la protection de Dieu|Von Gott beschützt|Protetta da Dio|Protegida por Deus
+Ansaldo|m|germanic|italian|1|vintage|Gobernante divino|Divine ruler|Souverain divin|Göttlicher Herrscher|Governante divino|Governante divino
+Antioco|m|greek|italian|1|saint|Que resiste|Withstanding|Qui résiste|Standhaft|Che resiste|Que resiste
+Antonella|f|latin|italian|3|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonia|f|latin|italian,spanish,german|3|classic,saint|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Antonino|m|latin|italian|2|saint,classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Apollinare|m|greek|italian|1|saint,mythology|De Apolo|Of Apollo|D'Apollon|Des Apollo|Di Apollo|De Apolo
+Apollonia|f|greek|italian|1|saint,mythology|De Apolo|Of Apollo|D'Apollon|Des Apollo|Di Apollo|De Apolo
+Arcadio|m|greek|italian,spanish|1|place,classic|De Arcadia|From Arcadia|D'Arcadie|Aus Arkadien|Dell'Arcadia|Da Arcádia
+Archimede|m|greek|italian|1|classic|Maestro del pensamiento|Master thinker|Maître penseur|Oberster Denker|Maestro del pensiero|Mestre do pensamento
+Arduino|m|germanic|italian|1|vintage,warrior|Amigo audaz|Bold friend|Ami hardi|Kühner Freund|Amico audace|Amigo audaz
+Aristotele|m|greek|italian|1|classic|Mejor propósito|Best purpose|Meilleur but|Bestes Ziel|Il miglior fine|Melhor propósito
+Arnolfo|m|germanic|italian|1|vintage|Lobo águila|Eagle wolf|Aigle-loup|Adler-Wolf|Aquila e lupo|Águia-lobo
+Arrigo|m|germanic|italian|1|vintage|Señor del hogar|Ruler of the home|Maître du foyer|Herrscher des Hauses|Signore della casa|Senhor do lar
+Arsenio|m|greek|italian|1|classic|Viril|Virile|Viril|Männlich|Virile|Viril
+Artemisia|f|greek|italian|1|mythology,vintage|Dedicada a Artemisa|Devoted to Artemis|Consacrée à Artémis|Der Artemis geweiht|Devota ad Artemide|Dedicada a Ártemis
+Aspasia|f|greek|italian|1|classic|Bienvenida|Welcome|Bienvenue|Willkommen|Benvenuta|Bem-vinda
+Atanasio|m|greek|italian|1|saint|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Aurea|f|latin|italian|1|vintage,gem|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Aureliano|m|latin|italian|1|classic|Dorado|Golden|Doré|Golden|Dorato|Dourado
+Ausilio|m|latin|italian|1|saint|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Baldovino|m|germanic|italian|1|vintage,royal|Amigo audaz|Bold friend|Ami audacieux|Kühner Freund|Amico audace|Amigo audaz
+Barnaba|m|hebrew|italian|1|biblical,saint|Hijo del consuelo|Son of encouragement|Fils de la consolation|Sohn des Trostes|Figlio della consolazione|Filho da consolação
+Bartolo|m|hebrew|italian|1|saint,vintage|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Bartolomea|f|hebrew|italian|1|saint,vintage|Hija de Talmai|Daughter of Talmai|Fille de Talmaï|Tochter des Talmai|Figlia di Talmai|Filha de Talmai
+Basilia|f|greek|italian|1|saint,royal|Real|Royal|Royale|Königlich|Regale|Real
+Battista|m|greek|italian|2|saint,biblical|El que bautiza|The baptizer|Le baptiseur|Der Täufer|Colui che battezza|Aquele que batiza
+Benigno|m|latin|italian|1|virtue|Bondadoso|Kind|Bienveillant|Wohlwollend|Benevolo|Bondoso
+Beniamino|m|hebrew|italian|2|biblical,classic|Hijo de la diestra|Son of the right hand|Fils de la main droite|Sohn der rechten Hand|Figlio della destra|Filho da mão direita
+Benvenuto|m|latin|italian|1|vintage|Bienvenido|Welcome|Bienvenu|Willkommen|Ben arrivato|Bem-vindo
+Berengario|m|germanic|italian|1|vintage,royal|Lanza de oso|Bear spear|Lance d'ours|Bärenspeer|Lancia d'orso|Lança de urso
+Bernadetta|f|germanic|italian|2|saint|Valiente como un oso|Brave as a bear|Vaillante comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Bertoldo|m|germanic|italian|1|vintage|Gobernante brillante|Bright ruler|Souverain brillant|Glänzender Herrscher|Governante splendente|Governante brilhante
+Bertrando|m|germanic|italian|1|vintage|Cuervo brillante|Bright raven|Corbeau brillant|Glänzender Rabe|Corvo splendente|Corvo brilhante
+Bettina|f|hebrew|italian,german|2|vintage|Dios es mi juramento|God is my oath|Mon Dieu est serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Brando|m|germanic|italian|2|warrior,modern|Espada|Sword|Épée|Schwert|Spada|Espada
+Brunella|f|germanic|italian|2|sweet|Pequeña morena|Little brown one|Petite brune|Kleine Braune|Piccola bruna|Pequena morena
+Calista|f|greek|italian|1|classic|La más bella|The most beautiful|La plus belle|Die Schönste|La più bella|A mais bela
+Carola|f|germanic|italian,german|1|vintage|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Celestina|f|latin|italian|1|vintage|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Celia|f|latin|italian,spanish|2|vintage|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Celso|m|latin|italian|1|saint|Elevado|Lofty|Élevé|Erhaben|Elevato|Elevado
+Cesare|m|latin|italian|3|classic,royal|Emperador|Emperor|Empereur|Kaiser|Imperatore|Imperador
+Cherubino|m|hebrew|italian|1|literary,biblical|Querubín|Cherub|Chérubin|Cherub|Cherubino|Querubim
+Clemenza|f|latin|italian|1|virtue|Clemencia|Mercy|Clémence|Milde|Clemenza|Clemência
+Cleopatra|f|greek|italian|1|royal,classic|Gloria de su padre|Glory of her father|Gloire de son père|Ruhm ihres Vaters|Gloria del padre|Glória do pai
+Clodoveo|m|germanic|italian|1|royal|Famoso en el combate|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famoso in battaglia|Famoso em batalha
+Concordia|f|latin|italian|1|virtue|Concordia|Concord|Concorde|Eintracht|Concordia|Concórdia
+Consolata|f|latin|italian|1|saint|Consolada|Consoled|Consolée|Getröstete|Consolata|Consolada
+Cora|f|greek|italian,english|1|classic|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Costante|m|latin|italian|1|virtue|Constante|Steadfast|Constant|Beständig|Costante|Constante
+Costantina|f|latin|italian|1|virtue,vintage|Constante|Steadfast|Constante|Beständig|Costante|Constante
+Costanzo|m|latin|italian|1|virtue|Constante|Steadfast|Constant|Beständig|Costante|Constante
+Crescenza|f|latin|italian|1|vintage,saint|Que crece|Growing|Qui grandit|Wachsend|Che cresce|Que cresce
+Crisanto|m|greek|italian|1|saint|Flor de oro|Golden flower|Fleur d'or|Goldblume|Fiore d'oro|Flor de ouro
+Crispino|m|latin|italian|1|saint|De pelo rizado|Curly-haired|Aux cheveux bouclés|Kraushaarig|Riccio|De cabelo encaracolado
+Cristiana|f|latin|italian|2|saint,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Cunegonda|f|germanic|italian|1|vintage,saint|Guerrera del clan|Brave in the clan|Vaillante du clan|Kämpferin der Sippe|Audace nella stirpe|Guerreira do clã

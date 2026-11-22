@@ -1,0 +1,93 @@
+Tamar|f|hebrew|hebrew,english|3|biblical,nature|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Tehila|f|hebrew|hebrew|2|music,virtue|Alabanza|Praise|Louange|Lobpreis|Lode|Louvor
+Tikva|f|hebrew|hebrew|2|virtue,sweet|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Timna|f|hebrew|hebrew|1|biblical,place|Porción, contención|Portion, restraint|Part, retenue|Anteil, Zurückhaltung|Porzione, contenimento|Porção, contenção
+Tirza|f|hebrew|hebrew,dutch|2|biblical,virtue|Deleite, agradable|Delight, pleasant|Délice, agréable|Wonne, angenehm|Delizia, piacevole|Deleite, agradável
+Tzipora|f|hebrew|hebrew|1|biblical,animal|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Tzvi|m|hebrew|hebrew|1|animal,strong|Gacela, ciervo|Gazelle, deer|Gazelle, cerf|Gazelle, Hirsch|Gazzella, cervo|Gazela, cervo
+Uri|m|hebrew|hebrew,english|3|light,biblical|Mi luz|My light|Ma lumière|Mein Licht|La mia luce|Minha luz
+Uriel|m|hebrew|hebrew,spanish,german|2|biblical,light|Dios es mi luz|God is my light|Dieu est ma lumière|Gott ist mein Licht|Dio è la mia luce|Deus é minha luz
+Uriah|m|hebrew|english|1|biblical,light|Yahvé es mi luz|Yahweh is my light|Yahvé est ma lumière|Jahwe ist mein Licht|Yahweh è la mia luce|Javé é minha luz
+Yaakov|m|hebrew|hebrew|3|biblical,classic|El que sigue de cerca|Holder of the heel|Celui qui tient le talon|Der an der Ferse hält|Colui che segue il tallone|Aquele que segura o calcanhar
+Yael|f|hebrew|hebrew,english,intl|4|biblical,animal|Cabra montés|Mountain goat|Bouquetin|Steinbock|Stambecco|Cabra-montês
+Yair|m|hebrew|hebrew|2|biblical,light|Dios ilumina|God enlightens|Dieu éclaire|Gott erleuchtet|Dio illumina|Deus ilumina
+Yarden|u|hebrew|hebrew|3|biblical,nature|Jordán, el que desciende|Jordan, flowing down|Jourdain, qui descend|Jordan, hinabfließend|Giordano, che scende|Jordão, que desce
+Yehuda|m|hebrew|hebrew|2|biblical,virtue|Alabanza|Praise|Louange|Lobpreis|Lode|Louvor
+Yitzhak|m|hebrew|hebrew|3|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Yoav|m|hebrew|hebrew|2|biblical,warrior|Dios es padre|God is father|Dieu est père|Gott ist Vater|Dio è padre|Deus é pai
+Yoel|m|hebrew|hebrew|3|biblical,classic|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Yahweh è Dio|Javé é Deus
+Yonatan|m|hebrew|hebrew|3|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Yosef|m|hebrew|hebrew|3|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott möge hinzufügen|Dio aggiungerà|Deus acrescentará
+Yuval|u|hebrew|hebrew|3|nature,music|Arroyo, río|Stream, brook|Ruisseau|Bach|Ruscello|Ribeiro
+Zachariah|m|hebrew|english|2|biblical,vintage|Dios ha recordado|God has remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio si è ricordato|Deus lembrou
+Zadok|m|hebrew|english|1|biblical,virtue|Justo|Righteous|Juste|Gerecht|Giusto|Justo
+Zebulun|m|hebrew|english|1|biblical,vintage|Morada, honor|Dwelling, honor|Demeure, honneur|Wohnung, Ehre|Dimora, onore|Morada, honra
+Zev|m|hebrew|hebrew|2|animal,warrior|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Zion|m|hebrew|english,hebrew|3|biblical,place|Colina, ciudadela|Hill, citadel|Colline, citadelle|Hügel, Zitadelle|Colle, cittadella|Colina, cidadela
+Zimra|f|hebrew|hebrew|1|music,biblical|Canción, melodía|Song, melody|Chant, mélodie|Lied, Melodie|Canto, melodia|Canção, melodia
+Zipporah|f|hebrew|english|1|biblical,animal|Pájaro|Bird|Oiseau|Vogel|Uccello|Pássaro
+Zohar|u|hebrew|hebrew|3|light,celestial|Resplandor, brillo|Radiance, brilliance|Éclat, splendeur|Glanz, Strahlen|Splendore, brillantezza|Resplendor, brilho
+Aaliyah|f|arabic|english,arabic|4|modern,virtue|Excelsa, elevada|Exalted, lofty|Exaltée, élevée|Erhaben, hoch|Eccelsa, elevata|Excelsa, elevada
+Abbas|m|arabic|arabic,persian,turkish|3|animal,strong|León, severo|Lion, stern|Lion, sévère|Löwe, streng|Leone, severo|Leão, severo
+Abdullah|m|arabic|arabic,turkish,persian|4|virtue,classic|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Abdulrahman|m|arabic|arabic|3|virtue,classic|Siervo del Misericordioso|Servant of the Merciful|Serviteur du Miséricordieux|Diener des Barmherzigen|Servo del Misericordioso|Servo do Misericordioso
+Adnan|m|arabic|arabic,turkish|3|classic,virtue|Residente, asentado|Settler, resident|Résident, installé|Ansässiger|Residente, stabile|Residente, estabelecido
+Afnan|f|arabic|arabic|2|nature,sweet|Ramas frondosas|Leafy branches|Branches feuillues|Belaubte Zweige|Rami frondosi|Ramos frondosos
+Ahmad|m|arabic|arabic,persian|4|classic,virtue|El más alabado|Most praised|Le plus loué|Der Gepriesenste|Il più lodato|O mais louvado
+Ahmed|m|arabic|arabic,turkish,intl|4|classic,virtue|El más alabado|Most praised|Le plus loué|Der Gepriesenste|Il più lodato|O mais louvado
+Aisha|f|arabic|arabic,intl|4|classic,virtue|Viva, próspera|Alive, thriving|Vivante, prospère|Lebendig, gedeihend|Viva, prospera|Viva, próspera
+Akram|m|arabic|arabic|2|virtue,classic|El más generoso|Most generous|Le plus généreux|Der Großzügigste|Il più generoso|O mais generoso
+Alia|f|arabic|arabic,english|3|virtue,royal|Noble, elevada|Exalted, noble|Noble, élevée|Erhaben, edel|Nobile, elevata|Nobre, elevada
+Ali|m|arabic|arabic,turkish,persian,intl|5|classic,strong|Elevado, noble|Exalted, noble|Élevé, noble|Erhaben, edel|Elevato, nobile|Elevado, nobre
+Amal|f|arabic|arabic|3|virtue,sweet|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Amani|f|arabic|arabic,african|3|virtue,sweet|Deseos, aspiraciones|Wishes, aspirations|Souhaits, aspirations|Wünsche, Hoffnungen|Desideri, aspirazioni|Desejos, aspirações
+Amina|f|arabic|arabic,african|3|virtue,classic|Fiel, digna de confianza|Faithful, trustworthy|Fidèle, digne de confiance|Treu, vertrauenswürdig|Fedele, affidabile|Fiel, confiável
+Amir|m|arabic|arabic,persian,intl|4|royal,classic|Príncipe, comandante|Prince, commander|Prince, commandant|Prinz, Befehlshaber|Principe, comandante|Príncipe, comandante
+Ammar|m|arabic|arabic|3|virtue,classic|Constructor, longevo|Builder, long-lived|Bâtisseur, de longue vie|Erbauer, langlebig|Costruttore, longevo|Construtor, longevo
+Anas|m|arabic|arabic|3|virtue,sweet|Cordialidad, compañía|Affability, companionship|Cordialité, compagnie|Herzlichkeit, Gesellschaft|Cordialità, compagnia|Cordialidade, companhia
+Anisa|f|arabic|arabic|2|sweet,virtue|Amistosa, amable|Friendly, companionable|Amicale, aimable|Freundlich, gesellig|Amichevole, cordiale|Amigável, cordial
+Anwar|m|arabic|arabic|3|light,classic|Más luminoso|Most luminous|Le plus lumineux|Der Strahlendste|Il più luminoso|O mais luminoso
+Arif|m|arabic|arabic,turkish|2|virtue,classic|Sabio, conocedor|Knowledgeable, wise|Savant, sage|Kundig, weise|Esperto, saggio|Conhecedor, sábio
+Arwa|f|arabic|arabic|2|nature,animal|Cabra montés|Mountain goat|Bouquetin|Steinbock|Stambecco|Cabra-montês
+Asad|m|arabic|arabic,persian|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Asma|f|arabic|arabic|3|classic,virtue|Más excelsa, superior|Most exalted|La plus élevée|Die Erhabenste|La più eccelsa|A mais elevada
+Ayman|m|arabic|arabic|4|virtue,classic|Afortunado, bendecido|Fortunate, blessed|Chanceux, béni|Glücklich, gesegnet|Fortunato, benedetto|Afortunado, abençoado
+Aziz|m|arabic|arabic,turkish,persian|3|virtue,classic|Querido, poderoso|Beloved, mighty|Cher, puissant|Geliebt, mächtig|Caro, potente|Querido, poderoso
+Azra|f|arabic|arabic,turkish|2|virtue,sweet|Virgen, pura|Virgin, pure|Vierge, pure|Jungfrau, rein|Vergine, pura|Virgem, pura
+Badr|m|arabic|arabic|3|celestial,light|Luna llena|Full moon|Pleine lune|Vollmond|Luna piena|Lua cheia
+Basma|f|arabic|arabic|3|sweet,virtue|Sonrisa|Smile|Sourire|Lächeln|Sorriso|Sorriso
+Bashir|m|arabic|arabic|2|virtue,classic|Portador de buenas noticias|Bearer of good news|Porteur de bonnes nouvelles|Überbringer froher Botschaft|Portatore di buone notizie|Portador de boas notícias
+Batool|f|arabic|arabic|2|virtue,classic|Virgen, devota|Virgin, devoted|Vierge, dévouée|Jungfrau, ergeben|Vergine, devota|Virgem, devota
+Bilal|m|arabic|arabic,turkish|4|classic,virtue|Agua que refresca|Refreshing water|Eau qui rafraîchit|Erfrischendes Wasser|Acqua rinfrescante|Água refrescante
+Bushra|f|arabic|arabic|2|virtue,sweet|Buenas noticias|Good news|Bonne nouvelle|Gute Nachricht|Buona notizia|Boa notícia
+Dana|f|arabic|arabic,english|3|gem,sweet|Perla grande|Large pearl|Grosse perle|Große Perle|Grande perla|Grande pérola
+Dania|f|arabic|arabic|3|sweet,virtue|Cercana|Near, close|Proche|Nahe|Vicina|Próxima
+Daoud|m|arabic|arabic|2|biblical,royal|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Fadi|m|arabic|arabic|3|virtue,classic|Redentor|Redeemer|Rédempteur|Erlöser|Redentore|Redentor
+Fahd|m|arabic|arabic|2|animal,strong|Leopardo|Panther, leopard|Panthère, léopard|Panther, Leopard|Pantera, leopardo|Pantera, leopardo
+Faisal|m|arabic|arabic,intl|3|royal,strong|Decisivo, juez|Decisive, judge|Décisif, juge|Entscheidend, Richter|Decisivo, giudice|Decisivo, juiz
+Farah|f|arabic|arabic,persian|3|sweet,virtue|Alegría|Joy|Joie|Freude|Gioia|Alegria
+Farid|m|arabic|arabic,persian|2|virtue,gem|Único, incomparable|Unique, matchless|Unique, sans pareil|Einzigartig, unvergleichlich|Unico, incomparabile|Único, incomparável
+Farida|f|arabic|arabic|2|gem,virtue|Única, perla preciosa|Unique, precious pearl|Unique, perle précieuse|Einzigartig, kostbare Perle|Unica, perla preziosa|Única, pérola preciosa
+Fares|m|arabic|arabic|3|warrior,strong|Caballero, jinete|Knight, horseman|Chevalier, cavalier|Ritter, Reiter|Cavaliere|Cavaleiro
+Fatima|f|arabic|arabic,turkish,persian,intl|5|classic,virtue|La que desteta, cautivadora|Captivating, one who weans|Captivante|Faszinierende|Affascinante|Cativante
+Ghada|f|arabic|arabic|2|sweet,nature|Joven, grácil|Graceful young woman|Jeune femme gracieuse|Anmutige junge Frau|Giovane graziosa|Jovem graciosa
+Ghalia|f|arabic|arabic|2|virtue,sweet|Preciosa, querida|Precious, dear|Précieuse, chère|Kostbar, teuer|Preziosa, cara|Preciosa, querida
+Hadiya|f|arabic|arabic|1|virtue,sweet|Guiada, tranquila|Guided, calm|Guidée, calme|Geleitet, ruhig|Guidata, calma|Guiada, calma
+Hafsa|f|arabic|arabic,turkish|2|classic,animal|Leona joven|Young lioness|Jeune lionne|Junge Löwin|Giovane leonessa|Jovem leoa
+Hakim|m|arabic|arabic|2|virtue,classic|Sabio, juez|Wise, judge|Sage, juge|Weise, Richter|Saggio, giudice|Sábio, juiz
+Hala|f|arabic|arabic|3|light,celestial|Halo de la luna|Halo around the moon|Halo de la lune|Mondhof|Alone della luna|Halo da lua
+Halima|f|arabic|arabic,turkish|2|virtue,classic|Paciente, gentil|Patient, gentle|Patiente, douce|Geduldig, sanft|Paziente, gentile|Paciente, gentil
+Hamid|m|arabic|arabic,persian|2|virtue,classic|Alabador, digno de elogio|Praiseworthy|Digne de louange|Lobenswert|Lodevole|Louvável
+Hamza|m|arabic|arabic,turkish|4|animal,strong|León, fuerte|Lion, strong|Lion, fort|Löwe, stark|Leone, forte|Leão, forte
+Hanan|f|arabic|arabic|3|sweet,love|Ternura, compasión|Tenderness, compassion|Tendresse, compassion|Zärtlichkeit, Mitgefühl|Tenerezza, compassione|Ternura, compaixão
+Haroun|m|arabic|arabic|2|biblical,classic|Montaña de fortaleza|Mountain of strength|Montagne de force|Berg der Stärke|Montagna di forza|Montanha de força
+Hasan|m|arabic|arabic,turkish|3|virtue,classic|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Hassan|m|arabic|arabic,intl|4|virtue,classic|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Hashim|m|arabic|arabic|2|classic,virtue|El que desmenuza el pan|Crusher of bread|Celui qui émiette le pain|Der das Brot bricht|Colui che spezza il pane|Aquele que parte o pão
+Hayat|f|arabic|arabic|2|virtue,sweet|Vida|Life|Vie|Leben|Vita|Vida
+Hiba|f|arabic|arabic|2|virtue,sweet|Regalo, don|Gift|Don, cadeau|Geschenk, Gabe|Dono|Presente, dom
+Hisham|m|arabic|arabic|3|classic,virtue|Generosidad|Generosity|Générosité|Großzügigkeit|Generosità|Generosidade
+Huda|f|arabic|arabic|2|virtue,light|Guía correcta|Right guidance|Juste guidance|Rechte Führung|Retta guida|Guia correta
+Husam|m|arabic|arabic|2|warrior,strong|Espada|Sword|Épée|Schwert|Spada|Espada
+Hussein|m|arabic|arabic,intl|4|classic,virtue|Pequeño hermoso|Little handsome one|Petit beau|Kleiner Schöner|Piccolo bello|Pequeno belo

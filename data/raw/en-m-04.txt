@@ -1,0 +1,75 @@
+Kai|u|other|english,hawaiian,intl|4|sea,modern|Mar|Sea|Mer|Meer|Mare|Mar
+Kane|m|celtic|english|2|modern|Guerrero|Warrior|Guerrier|Krieger|Guerriero|Guerreiro
+Keith|m|celtic|english,scottish|2|classic|Bosque|Wood, forest|Bois, forêt|Wald|Bosco|Floresta
+Kelvin|m|celtic|english|1|vintage|Del río estrecho|From the narrow river|De la rivière étroite|Vom schmalen Fluss|Dal fiume stretto|Do rio estreito
+Ken|m|celtic|english|1|classic|Fuego nacido|Born of fire|Né du feu|Feuergeboren|Nato dal fuoco|Nascido do fogo
+Kendall|u|celtic|english|2|modern|Valle del río Kent|Valley of the River Kent|Vallée de la rivière Kent|Tal des Flusses Kent|Valle del fiume Kent|Vale do rio Kent
+Kenneth|m|celtic|english,scottish|2|classic|Nacido del fuego|Born of fire|Né du feu|Feuergeboren|Nato dal fuoco|Nascido do fogo
+Kent|m|celtic|english|2|place|Borde, costa|Edge, coastal land|Bord, littoral|Rand, Küstenland|Margine, costa|Borda, costa
+Kerry|u|celtic|english|1|place|Descendiente de Ciar|Dark one|Le sombre|Der Dunkle|Lo scuro|O escuro
+Kevin|m|celtic|english,german,french,intl|3|saint,classic|Hermoso, amable|Handsome, gentle|Beau, aimable|Schön, sanft|Bello, gentile|Belo, gentil
+Kieran|m|celtic|english,irish|3|saint,modern|Pequeño oscuro|Little dark one|Petit sombre|Kleiner Dunkler|Piccolo scuro|Pequeno escuro
+Kingsley|m|germanic|english|2|royal,modern|Prado del rey|King's meadow|Prairie du roi|Wiese des Königs|Prato del re|Prado do rei
+Kit|u|greek|english|2|vintage,sweet|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Knox|m|celtic|english,scottish|3|modern,trendy|Colina redonda|Round hill|Colline ronde|Runder Hügel|Collina rotonda|Colina redonda
+Kyle|m|celtic|english|3|classic|Estrecho, canal|Narrow strait|Détroit étroit|Schmale Meerenge|Stretto canale|Estreito canal
+Lachlan|m|celtic|english,scottish|3|modern|De la tierra de los lagos|From the land of lakes|De la terre des lacs|Aus dem Land der Seen|Dalla terra dei laghi|Da terra dos lagos
+Lance|m|germanic|english,french|2|warrior|Tierra|Land|Terre|Land|Terra|Terra
+Landon|m|germanic|english|3|modern|Colina larga|Long hill|Longue colline|Langer Hügel|Lunga collina|Colina longa
+Lawrence|m|latin|english|2|saint,classic|Laureado, de Laurentum|Laurelled, of Laurentum|Couronné de lauriers|Lorbeergekrönt|Coronato d'alloro|Coroado de louros
+Lawson|m|germanic|english|2|modern|Hijo de Lawrence|Son of Lawrence|Fils de Laurent|Sohn des Lawrence|Figlio di Lorenzo|Filho de Lourenço
+Lee|m|germanic|english|2|classic|Prado, claro|Meadow|Prairie|Wiese|Prato|Prado
+Leo|m|latin|english,german,spanish,italian,intl|5|classic,animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Leon|m|greek|english,german,polish|3|classic,animal|León|Lion|Lion|Löwe|Leone|Leão
+Leonard|m|germanic|english,german|2|classic,animal|Fuerte como un león|Brave as a lion|Courageux comme un lion|Löwenstark|Forte come un leone|Forte como um leão
+Leopold|m|germanic|english,german|1|royal,vintage|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Leroy|m|latin|english|1|vintage,royal|El rey|The king|Le roi|Der König|Il re|O rei
+Leslie|u|celtic|english,scottish|1|classic|Jardín de acebos|Holly garden|Jardin de houx|Stechpalmengarten|Giardino di agrifoglio|Jardim de azevinho
+Levi|m|hebrew|english,hebrew,intl|4|biblical,trendy|Unido, adherido|Joined, attached|Uni, attaché|Verbunden, vereint|Unito, legato|Unido, ligado
+Lewis|m|germanic|english|3|classic|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Liam|m|germanic|english,irish,intl|5|modern,strong|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Lincoln|m|latin|english|4|modern,place|Colonia junto al estanque|Settlement by the pool|Colonie près de l'étang|Siedlung am Teich|Colonia presso lo stagno|Colónia junto ao lago
+Linus|m|greek|english,german,scandinavian|2|vintage,saint|Lino, lino de lino|Flax-haired|Aux cheveux de lin|Flachsblond|Dai capelli di lino|De cabelos de linho
+Lionel|m|latin|english,french|1|classic,animal|Pequeño león|Little lion|Petit lion|Kleiner Löwe|Piccolo leone|Pequeno leão
+Lloyd|m|celtic|english,welsh|1|vintage|Gris|Grey|Gris|Grau|Grigio|Cinzento
+Logan|m|celtic|english,scottish|4|modern|Hondonada pequeña|Little hollow|Petit creux|Kleine Mulde|Piccola conca|Pequena depressão
+Louis|m|germanic|english,french,german|4|classic,royal|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Lucas|m|latin|english,spanish,portuguese,french,intl|5|classic,biblical,light|De Lucania, luminoso|From Lucania, light-giving|De Lucanie, lumineux|Aus Lukanien, leuchtend|Della Lucania, luminoso|Da Lucânia, luminoso
+Luke|m|latin|english|4|biblical,saint,light|De Lucania, luminoso|From Lucania, light-giving|De Lucanie, lumineux|Aus Lukanien, leuchtend|Della Lucania, luminoso|Da Lucânia, luminoso
+Luther|m|germanic|english,german|1|vintage|Ejército del pueblo|People's army|Armée du peuple|Heer des Volkes|Esercito del popolo|Exército do povo
+Lyle|m|latin|english|1|vintage|De la isla|From the island|De l'île|Von der Insel|Dall'isola|Da ilha
+Lyndon|m|germanic|english|1|vintage|Colina de tilos|Lime tree hill|Colline des tilleuls|Lindenhügel|Collina dei tigli|Colina de tílias
+Mack|m|celtic|english|1|modern|Hijo|Son|Fils|Sohn|Figlio|Filho
+Malcolm|m|celtic|english,scottish|2|classic|Discípulo de Columba|Disciple of Columba|Disciple de Colomba|Schüler des Columba|Discepolo di Colomba|Discípulo de Columba
+Marcus|m|latin|english,german|3|classic|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Dedicado a Marte
+Marlon|m|latin|english|1|vintage|Pequeño halcón|Little hawk|Petit faucon|Kleiner Falke|Piccolo falco|Pequeno falcão
+Marshall|m|latin|english|2|modern|Cuidador de caballos|Horse keeper|Gardien de chevaux|Pferdeknecht|Custode di cavalli|Cuidador de cavalos
+Martin|m|latin|english,german,french,intl|3|classic,saint|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Dedicado a Marte
+Marvin|m|germanic|english|1|vintage|Amigo del mar|Sea friend|Ami de la mer|Meeresfreund|Amico del mare|Amigo do mar
+Mason|m|latin|english|4|modern,trendy|Cantero, albañil|Stone worker|Tailleur de pierre|Steinmetz|Scalpellino|Pedreiro
+Matthew|m|hebrew|english|4|biblical,classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Maurice|m|latin|english,french|1|vintage|De piel oscura|Dark-skinned|À la peau sombre|Dunkelhäutig|Dalla pelle scura|De pele escura
+Max|m|latin|english,german,intl|4|classic,strong|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maximilian|m|latin|english,german|3|classic|El más grande|The greatest|Le plus grand|Der Größte|Il più grande|O maior
+Maxwell|m|germanic|english,scottish|3|modern|Manantial de Mack|Mack's stream|Source de Mack|Macks Quelle|Sorgente di Mack|Nascente de Mack
+Melvin|m|celtic|english|1|vintage|Amigo del consejo|Council friend|Ami du conseil|Ratsfreund|Amico del consiglio|Amigo do conselho
+Micah|m|hebrew|english|3|biblical|¿Quién es como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Michael|m|hebrew|english,german,intl|4|biblical,classic,saint|¿Quién es como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Miles|m|latin|english|3|vintage,music|Soldado|Soldier|Soldat|Soldat|Soldato|Soldado
+Milo|m|germanic|english,german,intl|4|vintage,sweet|Soldado, misericordioso|Soldier, merciful|Soldat, miséricordieux|Soldat, gnädig|Soldato, misericordioso|Soldado, misericordioso
+Milton|m|germanic|english|1|vintage,literary|Pueblo del molino|Mill town|Village du moulin|Mühlendorf|Villaggio del mulino|Povoado do moinho
+Mitchell|m|hebrew|english|2|modern|Quién es como Dios|Who is like God|Qui est comme Dieu|Wer ist wie Gott|Chi è come Dio|Quem é como Deus
+Morgan|u|celtic|english,welsh|3|sea|Nacido del mar|Sea-born|Né de la mer|Meergeboren|Nato dal mare|Nascido do mar
+Morris|m|latin|english|1|vintage|De piel oscura|Dark-skinned|À la peau sombre|Dunkelhäutig|Dalla pelle scura|De pele escura
+Murray|m|celtic|english,scottish|1|vintage|Asentamiento junto al mar|Settlement by the sea|Établissement près de la mer|Siedlung am Meer|Insediamento sul mare|Povoado junto ao mar
+Nash|m|germanic|english|2|modern|Junto al fresno|By the ash tree|Près du frêne|Bei der Esche|Presso il frassino|Junto ao freixo
+Nathan|m|hebrew|english,german,french,intl|4|biblical|Él dio|He gave|Il a donné|Er hat gegeben|Egli diede|Ele deu
+Nathaniel|m|hebrew|english|3|biblical,classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Neil|m|celtic|english,scottish|2|classic|Campeón|Champion|Champion|Meister|Campione|Campeão
+Nelson|m|germanic|english|2|vintage|Hijo de Neil|Son of Neil|Fils de Neil|Sohn des Neil|Figlio di Neil|Filho de Neil
+Nicholas|m|greek|english|3|classic,saint|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nigel|m|celtic|english|1|vintage|Campeón|Champion|Champion|Meister|Campione|Campeão
+Noah|m|hebrew|english,german,french,intl|5|biblical,trendy|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Noel|m|latin|english,french|2|classic|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Norman|m|germanic|english|1|vintage|Hombre del norte|Northman|Homme du nord|Nordmann|Uomo del nord|Homem do norte
+Nolan|m|celtic|english,irish|3|modern|Descendiente del campeón|Descendant of the champion|Descendant du champion|Nachkomme des Meisters|Discendente del campione|Descendente do campeão

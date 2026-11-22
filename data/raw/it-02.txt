@@ -1,0 +1,84 @@
+Dafne|f|greek|italian|3|mythology,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Daniela|f|hebrew|italian,spanish,german|3|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Debora|f|hebrew|italian|2|biblical,nature|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Delia|f|greek|italian|1|mythology,vintage|De Delos|From Delos|De Délos|Von Delos|Di Delo|De Delos
+Delfina|f|greek|italian,spanish|1|vintage,place|De Delfos|From Delphi|De Delphes|Aus Delphi|Di Delfi|De Delfos
+Diana|f|latin|italian,spanish,portuguese|3|mythology,celestial,classic|Divina|Divine|Divine|Göttlich|Divina|Divina
+Diletta|f|latin|italian|3|love,sweet|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Donata|f|latin|italian|1|saint,vintage|Regalada|Given as a gift|Donnée|Geschenkte|Donata, regalata|Presenteada
+Dora|f|greek|italian|2|vintage|Regalo|Gift|Cadeau|Geschenk|Dono|Presente
+Dorotea|f|greek|italian|2|saint,vintage|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Damiano|m|greek|italian|3|saint,classic|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador
+Daniele|m|hebrew|italian|4|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Dante|m|latin|italian,spanish|3|literary,classic|Perseverante|Enduring|Persévérant|Ausdauernd|Perseverante|Perseverante
+Dario|m|persian|italian,spanish|4|royal,classic|Que posee el bien|Possessor of good|Qui possède le bien|Besitzer des Guten|Colui che possiede il bene|Aquele que possui o bem
+Davide|m|hebrew|italian|5|biblical,royal,classic|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Demetrio|m|greek|italian|1|mythology,vintage|Consagrado a Deméter|Devoted to Demeter|Consacré à Déméter|Demeter geweiht|Devoto a Demetra|Consagrado a Deméter
+Dionigi|m|greek|italian|1|saint,mythology,vintage|Seguidor de Dioniso|Follower of Dionysus|Fidèle de Dionysos|Anhänger des Dionysos|Seguace di Dioniso|Seguidor de Dioniso
+Domenico|m|latin|italian|3|saint,classic|Del Señor|Of the Lord|Du Seigneur|Des Herrn|Del Signore|Do Senhor
+Donato|m|latin|italian|2|saint,vintage|Regalado|Given as a gift|Donné|Geschenkter|Donato, regalato|Presenteado
+Desiderio|m|latin|italian|1|vintage,love|Deseado|Desired|Désiré|Ersehnt|Desiderato|Desejado
+Elena|f|greek|italian,spanish|4|classic,mythology,light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Elisa|f|hebrew|italian,spanish,german|4|classic,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elisabetta|f|hebrew|italian|3|biblical,royal,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Elettra|f|greek|italian|2|mythology,celestial,gem|Brillante, ámbar|Bright, amber|Brillante, ambre|Strahlend, Bernstein|Splendente, ambra|Brilhante, âmbar
+Emanuela|f|hebrew|italian|2|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Emma|f|germanic|italian,english,german,intl|4|classic,royal|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Emilia|f|latin|italian,spanish,german|3|classic,vintage|Rival, emuladora|Rival, striving|Rivale, émule|Wetteifernd|Rivale, emula|Rival, emuladora
+Enrica|f|germanic|italian|2|vintage,royal|Señora del hogar|Ruler of the home|Maîtresse de la maison|Herrscherin des Hauses|Signora della casa|Senhora do lar
+Eugenia|f|greek|italian,spanish,russian|2|classic,royal|Bien nacida|Well-born|Bien née|Wohlgeboren|Di nobile nascita|Bem-nascida
+Eva|f|hebrew|italian,spanish,german,intl|3|biblical,classic|Vida|Life|Vie|Leben|Vita|Vida
+Ester|f|persian|italian|2|biblical,celestial|Estrella|Star|Étoile|Stern|Stella|Estrela
+Eufemia|f|greek|italian|1|saint,vintage|De buena fama|Of good repute|De bonne renommée|Von gutem Ruf|Di buona fama|De boa fama
+Edvige|f|germanic|italian|1|vintage,warrior|Lucha en el combate|Battle strife|Lutte au combat|Kampf|Lotta in battaglia|Luta em combate
+Eliana|f|hebrew|italian,portuguese|2|modern,biblical|Dios ha respondido|God has answered|Dieu a répondu|Gott hat geantwortet|Dio ha risposto|Deus respondeu
+Ebe|f|greek|italian|1|mythology,vintage|Juventud|Youth|Jeunesse|Jugend|Gioventù|Juventude
+Edoardo|m|germanic|italian|5|classic,royal|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Elia|m|hebrew|italian|3|biblical,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Eliseo|m|hebrew|italian,spanish|1|biblical,vintage|Dios es salvación|God is salvation|Dieu est salut|Gott ist Rettung|Dio è salvezza|Deus é salvação
+Elio|m|greek|italian|2|light,celestial,classic|Sol|Sun|Soleil|Sonne|Sole|Sol
+Emanuele|m|hebrew|italian|4|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Emilio|m|latin|italian,spanish,portuguese|3|classic,vintage|Rival, emulador|Rival, striving|Rival, émule|Wetteifernd|Rivale, emulo|Rival, emulador
+Enea|m|greek|italian|3|mythology,trendy,classic|Digno de elogio|Praiseworthy|Digne de louanges|Lobenswert|Degno di lode|Digno de louvor
+Enrico|m|germanic|italian|3|classic,royal|Señor del hogar|Ruler of the home|Maître de la maison|Herrscher des Hauses|Signore della casa|Senhor do lar
+Enzo|m|germanic|italian|4|modern,trendy,strong|Señor del hogar|Ruler of the home|Maître de la maison|Herrscher des Hauses|Signore della casa|Senhor do lar
+Ercole|m|greek|italian|1|mythology,strong,vintage|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Ermanno|m|germanic|italian|1|vintage,warrior|Hombre del ejército|Army man|Homme d'armée|Mann des Heeres|Uomo dell'esercito|Homem do exército
+Ernesto|m|germanic|italian,spanish,portuguese|2|classic,virtue|Seriedad, firmeza|Earnest, resolute|Sérieux, déterminé|Ernst, Entschlossenheit|Serietà, fermezza|Seriedade, firmeza
+Eros|m|greek|italian|1|mythology,love|Amor|Love|Amour|Liebe|Amore|Amor
+Ettore|m|greek|italian|3|mythology,warrior,classic|Que sostiene, protege|Holder, protector|Celui qui soutient, protecteur|Der Festhaltende, Beschützer|Colui che sostiene, protettore|Aquele que sustenta, protetor
+Eugenio|m|greek|italian,spanish|2|classic,royal|Bien nacido|Well-born|Bien né|Wohlgeboren|Di nobile nascita|Bem-nascido
+Eusebio|m|greek|italian,spanish,portuguese|1|saint,virtue,vintage|Piadoso|Pious|Pieux|Fromm|Pio|Piedoso
+Edmondo|m|germanic|italian|1|vintage,royal|Protector de la riqueza|Guardian of fortune|Protecteur de la fortune|Hüter des Wohlstands|Protettore della fortuna|Protetor da fortuna
+Fabiola|f|latin|italian,spanish|2|saint,vintage|De la familia Fabia|Of the Fabian clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della gente Fabia|Da família Fábia
+Fabrizia|f|latin|italian|1|classic|Artesana|Craftswoman|Artisane|Handwerkerin|Artigiana|Artesã
+Federica|f|germanic|italian|3|classic,royal|Gobernante pacífica|Peaceful ruler|Souveraine pacifique|Friedliche Herrscherin|Sovrana pacifica|Governante pacífica
+Felicita|f|latin|italian|2|virtue,vintage|Felicidad|Happiness|Bonheur|Glückseligkeit|Felicità|Felicidade
+Fiammetta|f|latin|italian|2|literary,light|Pequeña llama|Little flame|Petite flamme|Kleine Flamme|Piccola fiamma|Pequena chama
+Filippa|f|greek|italian|1|vintage,royal|Amante de los caballos|Lover of horses|Amie des chevaux|Pferdefreundin|Amante dei cavalli|Amante de cavalos
+Fiora|f|latin|italian|1|flower,vintage|Flor|Flower|Fleur|Blume|Fiore|Flor
+Fiorella|f|latin|italian|2|flower,sweet|Florecilla|Little flower|Petite fleur|Blümchen|Piccolo fiore|Florzinha
+Flavia|f|latin|italian,spanish,portuguese|3|classic|Rubia, dorada|Golden-haired|Blonde, dorée|Goldhaarig|Bionda, dorata|Loira, dourada
+Flora|f|latin|italian,english,spanish|2|flower,mythology|Flor|Flower|Fleur|Blume|Fiore|Flor
+Floriana|f|latin|italian|1|flower|Florida|Flowering|Fleurie|Blühend|Fiorita|Florida
+Francesca|f|latin|italian|4|saint,classic|Francesa, libre|Frenchwoman, free|Française, libre|Die Französin, die Freie|Francese, libera|Francesa, livre
+Franca|f|germanic|italian|2|vintage|Libre|Free|Franche, libre|Frei|Libera|Livre
+Febe|f|greek|italian|1|biblical,light|Brillante|Radiant|Radieuse|Strahlend|Radiosa|Radiante
+Fausta|f|latin|italian|1|vintage,virtue|Afortunada|Fortunate|Fortunée|Glücklich|Fortunata|Afortunada
+Filomena|f|greek|italian,portuguese|2|saint,love,vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Fortunata|f|latin|italian|1|vintage,virtue|Afortunada|Fortunate|Fortunée|Vom Glück begünstigt|Fortunata|Afortunada
+Fabio|m|latin|italian,portuguese|3|classic|De la familia Fabia|Of the Fabian clan|De la famille Fabia|Aus dem Geschlecht der Fabier|Della gente Fabia|Da família Fábia
+Fabrizio|m|latin|italian|3|classic|Artesano|Craftsman|Artisan|Handwerker|Artigiano|Artesão
+Federico|m|germanic|italian,spanish|3|classic,royal|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Sovrano pacifico|Governante pacífico
+Felice|m|latin|italian|2|virtue,vintage|Feliz|Happy|Heureux|Glücklich|Felice|Feliz
+Filippo|m|greek|italian|4|classic,saint,royal|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante de cavalos
+Fiorenzo|m|latin|italian|1|vintage,flower|Floreciente|Flourishing|Florissant|Blühend|Fiorente|Florescente
+Flavio|m|latin|italian,spanish,portuguese|3|classic|Rubio, dorado|Golden-haired|Blond, doré|Goldhaarig|Biondo, dorato|Loiro, dourado
+Francesco|m|latin|italian|4|saint,classic|Francés, libre|Frenchman, free|Français, libre|Der Franzose, der Freie|Francese, libero|Francês, livre
+Franco|m|germanic|italian,spanish|2|vintage,classic|Libre|Free|Franc, libre|Frei|Libero|Livre
+Fulvio|m|latin|italian|1|vintage|Rubio rojizo|Tawny|Fauve, roux|Rötlich-blond|Fulvo, biondo rossiccio|Fulvo, ruivo
+Fausto|m|latin|italian|2|literary,virtue|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Filiberto|m|germanic|italian|1|vintage,royal|Muy brillante|Very bright|Très brillant|Sehr glänzend|Molto splendente|Muito brilhante
+Fortunato|m|latin|italian|1|vintage,virtue|Afortunado|Fortunate|Fortuné|Vom Glück begünstigt|Fortunato|Afortunado
+Fedele|m|latin|italian|1|virtue,vintage|Fiel|Faithful|Fidèle|Treu|Fedele|Fiel
+Folco|m|germanic|italian|1|vintage|Pueblo|People|Peuple|Volk|Popolo|Povo

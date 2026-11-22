@@ -1,0 +1,100 @@
+Trajano|m|latin|spanish|1|royal,classic|De Traia|From Traia|De Traia|Aus Traia|Di Traia|De Traia
+Trifón|m|greek|spanish|1|saint,vintage|Delicado, refinado|Delicate, refined|Délicat, raffiné|Zart, fein|Delicato, raffinato|Delicado, refinado
+Tulio|m|latin|spanish|2|classic,vintage|Pertenece a la gens Tulia|Of the Tullia clan|De la gens Tullia|Aus der gens Tullia|Della gente Tullia|Da família Túlia
+Viriato|m|other|spanish|1|warrior,vintage|Caudillo lusitano|Lusitanian chieftain|Chef lusitanien|Lusitanischer Anführer|Condottiero lusitano|Chefe lusitano
+Virgilio|m|latin|spanish|3|classic,literary|Vigoroso, el que florece|Flourishing|Florissant|Blühend|Fiorente|Florescente
+Wenceslao|m|slavic|spanish|1|royal,vintage|Más glorioso|More glorious|Plus glorieux|Ruhmreicher|Più glorioso|Mais glorioso
+Wilmer|m|germanic|spanish|3|modern|Voluntad famosa|Famous will|Volonté célèbre|Berühmter Wille|Volontà famosa|Vontade famosa
+Wilson|m|germanic|spanish,english|3|modern|Hijo de Will|Son of Will|Fils de Will|Sohn des Will|Figlio di Will|Filho de Will
+Zebulón|m|hebrew|spanish|1|biblical|Morada, habitación|Dwelling|Demeure|Wohnung|Dimora|Morada
+Juan Pablo|m|hebrew|spanish|4|classic,saint|Dios es misericordioso, pequeño|God is gracious, small|Dieu est miséricordieux, petit|Gott ist gnädig, klein|Dio è misericordioso, piccolo|Deus é misericordioso, pequeno
+Juan Carlos|m|hebrew|spanish|4|classic,royal|Dios es misericordioso, hombre libre|God is gracious, free man|Dieu est miséricordieux, homme libre|Gott ist gnädig, freier Mann|Dio è misericordioso, uomo libero|Deus é misericordioso, homem livre
+Juan José|m|hebrew|spanish|3|classic,biblical|Dios es misericordioso, Dios añade|God is gracious, God adds|Dieu est miséricordieux, Dieu ajoute|Gott ist gnädig, Gott fügt hinzu|Dio è misericordioso, Dio aggiunge|Deus é misericordioso, Deus acrescenta
+Juan Manuel|m|hebrew|spanish|3|classic|Dios es misericordioso, Dios con nosotros|God is gracious, God with us|Dieu est miséricordieux, Dieu avec nous|Gott ist gnädig, Gott mit uns|Dio è misericordioso, Dio con noi|Deus é misericordioso, Deus conosco
+Juan Diego|m|hebrew|spanish|3|classic,saint|Dios es misericordioso, instruido|God is gracious, taught|Dieu est miséricordieux, instruit|Gott ist gnädig, gelehrt|Dio è misericordioso, istruito|Deus é misericordioso, instruído
+Juan Sebastián|m|hebrew|spanish|3|classic|Dios es misericordioso, venerable|God is gracious, venerable|Dieu est miséricordieux, vénérable|Gott ist gnädig, ehrwürdig|Dio è misericordioso, venerabile|Deus é misericordioso, venerável
+Juan David|m|hebrew|spanish|4|modern,biblical|Dios es misericordioso, amado|God is gracious, beloved|Dieu est miséricordieux, bien-aimé|Gott ist gnädig, geliebt|Dio è misericordioso, amato|Deus é misericordioso, amado
+Juan Camilo|m|hebrew|spanish|4|modern|Dios es misericordioso, servidor|God is gracious, attendant|Dieu est miséricordieux, serviteur|Gott ist gnädig, Diener|Dio è misericordioso, servitore|Deus é misericordioso, servidor
+Juan Esteban|m|hebrew|spanish|4|modern|Dios es misericordioso, coronado|God is gracious, crowned|Dieu est miséricordieux, couronné|Gott ist gnädig, gekrönt|Dio è misericordioso, coronato|Deus é misericordioso, coroado
+Juan Felipe|m|hebrew|spanish|3|modern|Dios es misericordioso, amigo de caballos|God is gracious, horse lover|Dieu est miséricordieux, ami des chevaux|Gott ist gnädig, Pferdefreund|Dio è misericordioso, amico dei cavalli|Deus é misericordioso, amigo dos cavalos
+Juan Antonio|m|hebrew|spanish|3|classic|Dios es misericordioso, inestimable|God is gracious, priceless|Dieu est miséricordieux, inestimable|Gott ist gnädig, unschätzbar|Dio è misericordioso, inestimabile|Deus é misericordioso, inestimável
+Juan Andrés|m|hebrew|spanish|3|classic|Dios es misericordioso, viril|God is gracious, manly|Dieu est miséricordieux, viril|Gott ist gnädig, mannhaft|Dio è misericordioso, virile|Deus é misericordioso, viril
+Juan Martín|m|hebrew|spanish|3|classic|Dios es misericordioso, consagrado a Marte|God is gracious, of Mars|Dieu est miséricordieux, consacré à Mars|Gott ist gnädig, dem Mars geweiht|Dio è misericordioso, consacrato a Marte|Deus é misericordioso, consagrado a Marte
+Juan Ignacio|m|hebrew|spanish|3|classic|Dios es misericordioso, ardiente|God is gracious, fiery|Dieu est miséricordieux, ardent|Gott ist gnädig, feurig|Dio è misericordioso, ardente|Deus é misericordioso, ardente
+Juan Francisco|m|hebrew|spanish|3|classic|Dios es misericordioso, libre|God is gracious, free|Dieu est miséricordieux, libre|Gott ist gnädig, frei|Dio è misericordioso, libero|Deus é misericordioso, livre
+Juan Luis|m|hebrew|spanish|3|classic|Dios es misericordioso, guerrero famoso|God is gracious, famous warrior|Dieu est miséricordieux, guerrier célèbre|Gott ist gnädig, berühmter Krieger|Dio è misericordioso, guerriero famoso|Deus é misericordioso, guerreiro famoso
+Juan Miguel|m|hebrew|spanish|3|classic|Dios es misericordioso, ¿quién como Dios?|God is gracious, who is like God?|Dieu est miséricordieux, qui est comme Dieu ?|Gott ist gnädig, wer ist wie Gott?|Dio è misericordioso, chi è come Dio?|Deus é misericordioso, quem é como Deus?
+Juan Pedro|m|hebrew|spanish|2|classic|Dios es misericordioso, roca|God is gracious, rock|Dieu est miséricordieux, pierre|Gott ist gnädig, Fels|Dio è misericordioso, roccia|Deus é misericordioso, rocha
+Juan Gabriel|m|hebrew|spanish|3|classic,music|Dios es misericordioso, fuerza de Dios|God is gracious, strength of God|Dieu est miséricordieux, force de Dieu|Gott ist gnädig, Stärke Gottes|Dio è misericordioso, forza di Dio|Deus é misericordioso, força de Deus
+Juan Fernando|m|hebrew|spanish|3|classic|Dios es misericordioso, audaz|God is gracious, bold|Dieu est miséricordieux, audacieux|Gott ist gnädig, kühn|Dio è misericordioso, audace|Deus é misericordioso, audaz
+Juan Alberto|m|hebrew|spanish|2|classic|Dios es misericordioso, de noble brillo|God is gracious, nobly bright|Dieu est miséricordieux, noble et brillant|Gott ist gnädig, edel und glänzend|Dio è misericordioso, nobile e splendente|Deus é misericordioso, nobre e brilhante
+José Luis|m|hebrew|spanish|4|classic|Dios añade, guerrero famoso|God adds, famous warrior|Dieu ajoute, guerrier célèbre|Gott fügt hinzu, berühmter Krieger|Dio aggiunge, guerriero famoso|Deus acrescenta, guerreiro famoso
+José Manuel|m|hebrew|spanish|4|classic|Dios añade, Dios con nosotros|God adds, God with us|Dieu ajoute, Dieu avec nous|Gott fügt hinzu, Gott mit uns|Dio aggiunge, Dio con noi|Deus acrescenta, Deus conosco
+José Antonio|m|hebrew|spanish|4|classic|Dios añade, inestimable|God adds, priceless|Dieu ajoute, inestimable|Gott fügt hinzu, unschätzbar|Dio aggiunge, inestimabile|Deus acrescenta, inestimável
+José Miguel|m|hebrew|spanish|3|classic|Dios añade, ¿quién como Dios?|God adds, who is like God?|Dieu ajoute, qui est comme Dieu ?|Gott fügt hinzu, wer ist wie Gott?|Dio aggiunge, chi è come Dio?|Deus acrescenta, quem é como Deus?
+José María|m|hebrew|spanish|4|classic,saint|Dios añade, amada de Dios|God adds, beloved of God|Dieu ajoute, aimée de Dieu|Gott fügt hinzu, von Gott geliebt|Dio aggiunge, amata da Dio|Deus acrescenta, amada por Deus
+José Ángel|m|hebrew|spanish|3|classic|Dios añade, mensajero de Dios|God adds, messenger of God|Dieu ajoute, messager de Dieu|Gott fügt hinzu, Bote Gottes|Dio aggiunge, messaggero di Dio|Deus acrescenta, mensageiro de Deus
+José Ramón|m|hebrew|spanish|3|classic|Dios añade, protector sabio|God adds, wise protector|Dieu ajoute, protecteur sage|Gott fügt hinzu, weiser Beschützer|Dio aggiunge, protettore saggio|Deus acrescenta, protetor sábio
+José Carlos|m|hebrew|spanish|3|classic|Dios añade, hombre libre|God adds, free man|Dieu ajoute, homme libre|Gott fügt hinzu, freier Mann|Dio aggiunge, uomo libero|Deus acrescenta, homem livre
+José Francisco|m|hebrew|spanish|3|classic|Dios añade, libre|God adds, free|Dieu ajoute, libre|Gott fügt hinzu, frei|Dio aggiunge, libero|Deus acrescenta, livre
+José Ignacio|m|hebrew|spanish|3|classic|Dios añade, ardiente|God adds, fiery|Dieu ajoute, ardent|Gott fügt hinzu, feurig|Dio aggiunge, ardente|Deus acrescenta, ardente
+José Daniel|m|hebrew|spanish|3|modern|Dios añade, Dios es mi juez|God adds, God is my judge|Dieu ajoute, Dieu est mon juge|Gott fügt hinzu, Gott ist mein Richter|Dio aggiunge, Dio è il mio giudice|Deus acrescenta, Deus é meu juiz
+Luis Miguel|m|germanic|spanish|4|classic,music|Guerrero famoso, ¿quién como Dios?|Famous warrior, who is like God?|Guerrier célèbre, qui est comme Dieu ?|Berühmter Krieger, wer ist wie Gott?|Guerriero famoso, chi è come Dio?|Guerreiro famoso, quem é como Deus?
+Luis Fernando|m|germanic|spanish|3|classic|Guerrero famoso, audaz|Famous warrior, bold|Guerrier célèbre, audacieux|Berühmter Krieger, kühn|Guerriero famoso, audace|Guerreiro famoso, audaz
+Luis Alberto|m|germanic|spanish|3|classic|Guerrero famoso, de noble brillo|Famous warrior, nobly bright|Guerrier célèbre, noble et brillant|Berühmter Krieger, edel und glänzend|Guerriero famoso, nobile e splendente|Guerreiro famoso, nobre e brilhante
+Luis Ángel|m|germanic|spanish|3|modern|Guerrero famoso, mensajero|Famous warrior, messenger|Guerrier célèbre, messager|Berühmter Krieger, Bote|Guerriero famoso, messaggero|Guerreiro famoso, mensageiro
+Luis Carlos|m|germanic|spanish|3|classic|Guerrero famoso, hombre libre|Famous warrior, free man|Guerrier célèbre, homme libre|Berühmter Krieger, freier Mann|Guerriero famoso, uomo libero|Guerreiro famoso, homem livre
+Miguel Ángel|m|hebrew|spanish|4|classic,saint,biblical|¿Quién como Dios?, mensajero|Who is like God?, messenger|Qui est comme Dieu ?, messager|Wer ist wie Gott?, Bote|Chi è come Dio?, messaggero|Quem é como Deus?, mensageiro
+Francisco Javier|m|latin|spanish|3|classic,saint|Libre, el de la casa nueva|Free, of the new house|Libre, de la maison neuve|Frei, vom neuen Haus|Libero, della casa nuova|Livre, da casa nova
+Carlos Alberto|m|germanic|spanish|3|classic|Hombre libre, de noble brillo|Free man, nobly bright|Homme libre, noble et brillant|Freier Mann, edel und glänzend|Uomo libero, nobile e splendente|Homem livre, nobre e brilhante
+Carlos Eduardo|m|germanic|spanish|3|classic|Hombre libre, guardián de la riqueza|Free man, guardian of wealth|Homme libre, gardien de la richesse|Freier Mann, Hüter des Reichtums|Uomo libero, custode della ricchezza|Homem livre, guardião da riqueza
+Jorge Luis|m|greek|spanish|3|classic,literary|Agricultor, guerrero famoso|Farmer, famous warrior|Agriculteur, guerrier célèbre|Bauer, berühmter Krieger|Agricoltore, guerriero famoso|Agricultor, guerreiro famoso
+Pedro Pablo|m|greek|spanish|2|classic,saint|Roca, pequeño|Rock, small|Pierre, petit|Fels, klein|Roccia, piccolo|Rocha, pequeno
+Abdiel|m|hebrew|spanish|3|biblical,modern|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Azael|m|hebrew|spanish|2|biblical,modern|Dios ha hecho|God has made|Dieu a fait|Gott hat gemacht|Dio ha fatto|Deus fez
+Baruc|m|hebrew|spanish|1|biblical|Bendito|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Enoc|m|hebrew|spanish|1|biblical|Dedicado, iniciado|Dedicated, initiated|Consacré, initié|Geweiht, eingeweiht|Dedicato, iniziato|Dedicado, iniciado
+Esdras|m|hebrew|spanish|1|biblical|Dios ayuda|God helps|Dieu aide|Gott hilft|Dio aiuta|Deus ajuda
+Ezra|m|hebrew|spanish|1|biblical,modern|Ayuda|Help|Aide|Hilfe|Aiuto|Ajuda
+Ezequías|m|hebrew|spanish|1|biblical|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio rafforza|Deus fortalece
+Gerson|m|hebrew|spanish|2|biblical,modern|Extranjero allí|Stranger there|Étranger là|Fremder dort|Straniero là|Estrangeiro ali
+Jafet|m|hebrew|spanish|1|biblical|Que Dios ensanche|May God enlarge|Que Dieu élargisse|Möge Gott erweitern|Che Dio allarghi|Que Deus alargue
+Jared|m|hebrew|spanish|2|biblical,modern|Descenso|Descent|Descente|Abstieg|Discesa|Descida
+Joab|m|hebrew|spanish|1|biblical|Dios es padre|God is father|Dieu est père|Gott ist Vater|Dio è padre|Deus é pai
+Joás|m|hebrew|spanish|1|biblical|Yahveh ha dado|Yahweh has given|Yahvé a donné|Jahwe hat gegeben|Yahweh ha dato|Javé deu
+Judá|m|hebrew|spanish|1|biblical|Alabado|Praised|Loué|Gepriesen|Lodato|Louvado
+Matatías|m|hebrew|spanish|1|biblical|Don de Yahveh|Gift of Yahweh|Don de Yahvé|Gabe Jahwes|Dono di Yahweh|Dom de Javé
+Obadías|m|hebrew|spanish|1|biblical|Siervo de Yahveh|Servant of Yahweh|Serviteur de Yahvé|Diener Jahwes|Servo di Yahweh|Servo de Javé
+Sofonías|m|hebrew|spanish|1|biblical|Yahveh ha protegido|Yahweh has protected|Yahvé a protégé|Jahwe hat geborgen|Yahweh ha protetto|Javé protegeu
+Zadoc|m|hebrew|spanish|1|biblical|Justo|Righteous|Juste|Gerecht|Giusto|Justo
+Azarías|m|hebrew|spanish|1|biblical|Yahveh ayuda|Yahweh helps|Yahvé aide|Jahwe hilft|Yahweh aiuta|Javé ajuda
+Ethan|m|hebrew|spanish,english|3|biblical,modern|Firme, duradero|Firm, enduring|Ferme, durable|Fest, beständig|Fermo, duraturo|Firme, duradouro
+Samir|m|arabic|spanish,arabic|2|modern|Compañero de tertulia nocturna|Evening companion|Compagnon de veillée|Gefährte des Abendgesprächs|Compagno di conversazione serale|Companheiro de serão
+Emir|m|arabic|spanish,turkish,arabic|3|modern,royal|Príncipe, comandante|Prince, commander|Prince, commandant|Prinz, Befehlshaber|Principe, comandante|Príncipe, comandante
+Franklin|m|germanic|spanish,english|3|modern|Hombre libre|Free landowner|Propriétaire libre|Freier Grundbesitzer|Proprietario libero|Proprietário livre
+Henry|m|germanic|spanish,english|3|modern,royal|Gobernante del hogar|Ruler of the home|Maître du foyer|Herrscher des Hauses|Signore della casa|Senhor do lar
+Ronald|m|germanic|spanish,english|3|modern|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Amando|m|latin|spanish|2|saint,love|Digno de ser amado|Worthy of love|Digne d'être aimé|Liebenswert|Degno di essere amato|Digno de ser amado
+Bibiano|m|latin|spanish|1|saint,vintage|Vivo, lleno de vida|Full of life|Plein de vie|Voller Leben|Pieno di vita|Cheio de vida
+Columbano|m|latin|spanish|1|saint,animal,vintage|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Donaciano|m|latin|spanish|1|saint,vintage|Regalo, donación|Gift|Don|Geschenk|Dono|Dádiva
+Emerico|m|germanic|spanish|1|saint,vintage|Gobernante del hogar|Ruler of the home|Maître du foyer|Herrscher des Hauses|Signore della casa|Senhor do lar
+Estanislao|m|slavic|spanish|2|saint,vintage|Que alcanza la gloria|One who attains glory|Celui qui atteint la gloire|Wer Ruhm erlangt|Colui che raggiunge la gloria|Aquele que alcança a glória
+Eustasio|m|greek|spanish|1|saint,vintage|Fecundo en espigas|Rich in ears of grain|Riche en épis|Reich an Ähren|Ricco di spighe|Rico em espigas
+Flaviano|m|latin|spanish|1|saint,vintage|Rubio, dorado|Golden-haired|Blond, doré|Blond, golden|Biondo, dorato|Loiro, dourado
+Hilarión|m|greek|spanish|1|saint,vintage|Alegre, risueño|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Hermógenes|m|greek|spanish|1|vintage,mythology|Nacido de Hermes|Born of Hermes|Né d'Hermès|Von Hermes geboren|Nato da Ermes|Nascido de Hermes
+Leoncio|m|latin|spanish|2|saint,vintage,animal|Pequeño león|Little lion|Petit lion|Kleiner Löwe|Piccolo leone|Pequeno leão
+Liberato|m|latin|spanish|1|saint,vintage|Liberado|Liberated|Libéré|Befreit|Liberato|Libertado
+Medardo|m|germanic|spanish|1|saint,vintage|Fuerte y poderoso|Strong and mighty|Fort et puissant|Stark und mächtig|Forte e potente|Forte e poderoso
+Metodio|m|greek|spanish|1|saint,vintage|El que sigue un camino|One who follows a path|Celui qui suit une voie|Wer einem Weg folgt|Colui che segue una via|Aquele que segue um caminho
+Olimpio|m|greek|spanish|1|saint,vintage,mythology|Del Olimpo|Of Olympus|De l'Olympe|Vom Olymp|Dell'Olimpo|Do Olimpo
+Paterno|m|latin|spanish|1|saint,vintage|Paternal|Fatherly|Paternel|Väterlich|Paterno|Paterno
+Pelagio|m|greek|spanish|1|saint,vintage,sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Perpetuo|m|latin|spanish|1|saint,vintage|Constante, duradero|Constant, lasting|Constant, durable|Beständig, dauerhaft|Costante, duraturo|Constante, duradouro
+Probo|m|latin|spanish|1|saint,vintage,virtue|Honrado, recto|Upright, honest|Intègre, droit|Rechtschaffen, ehrlich|Probo, retto|Íntegro, reto
+Quintiliano|m|latin|spanish|1|vintage,classic|Descendiente de Quintilio|Descendant of Quintilius|Descendant de Quintilius|Nachkomme des Quintilius|Discendente di Quintilio|Descendente de Quintílio
+Reginaldo|m|germanic|spanish|2|vintage|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Rutilio|m|latin|spanish|1|vintage|Rojizo|Reddish|Roussâtre|Rötlich|Rossiccio|Arruivado
+Sidonio|m|latin|spanish|1|saint,vintage,place|De Sidón|From Sidon|De Sidon|Aus Sidon|Di Sidone|De Sídon
+Simplicio|m|latin|spanish|1|saint,vintage,virtue|Sencillo, sin doblez|Simple, plain|Simple, sans détour|Schlicht, aufrichtig|Semplice, schietto|Simples, sem malícia

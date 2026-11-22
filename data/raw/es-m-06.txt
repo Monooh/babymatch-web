@@ -1,0 +1,64 @@
+Pablo|m|latin|spanish|5|biblical,saint,classic|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pánfilo|m|greek|spanish|1|saint,vintage,love|Amigo de todos|Friend of all|Ami de tous|Freund aller|Amico di tutti|Amigo de todos
+Pascual|m|latin|spanish|2|saint,vintage|De la Pascua|Of Easter|De Pâques|Von Ostern|Di Pasqua|Da Páscoa
+Pastor|m|latin|spanish|1|saint,vintage|Pastor|Shepherd|Berger|Hirte|Pastore|Pastor
+Patricio|m|latin|spanish|3|saint,royal,classic|Noble|Nobleman|Noble|Edler|Nobile|Nobre
+Paulino|m|latin|spanish|1|saint,vintage|Pequeño|Small|Petit|Klein|Piccolo|Pequeno
+Pedro|m|greek|spanish,portuguese|5|biblical,saint,classic|Piedra|Rock, stone|Pierre|Fels, Stein|Pietra|Pedra
+Pelayo|m|greek|spanish|2|sea,royal,vintage|De alta mar|Of the open sea|De la haute mer|Von der hohen See|Dell'alto mare|Do alto-mar
+Peregrino|m|latin|spanish|1|vintage|Viajero, peregrino|Traveller, pilgrim|Voyageur, pèlerin|Reisender, Pilger|Viaggiatore, pellegrino|Viajante, peregrino
+Plácido|m|latin|spanish|2|saint,virtue,vintage|Tranquilo, sereno|Calm, serene|Tranquille, serein|Ruhig, gelassen|Tranquillo, sereno|Tranquilo, sereno
+Policarpo|m|greek|spanish|1|saint,vintage|De mucho fruto|Much fruit|De beaucoup de fruit|Fruchtreich|Di molto frutto|De muito fruto
+Porfirio|m|greek|spanish|2|vintage,royal|Púrpura|Purple|Pourpre|Purpur|Porpora|Púrpura
+Pío|m|latin|spanish,italian|2|saint,virtue,vintage|Piadoso, devoto|Pious, devout|Pieux, dévot|Fromm, gottesfürchtig|Pio, devoto|Piedoso, devoto
+Primitivo|m|latin|spanish|1|vintage|El primero|The first|Le premier|Der Erste|Il primo|O primeiro
+Prudencio|m|latin|spanish|1|saint,virtue,vintage|Prudente|Prudent|Prudent|Klug|Prudente|Prudente
+Próspero|m|latin|spanish|2|literary,virtue,vintage|Próspero, favorable|Prosperous|Prospère|Wohlhabend|Prospero|Próspero
+Publio|m|latin|spanish|1|classic,vintage|Del pueblo|Of the people|Du peuple|Vom Volk|Del popolo|Do povo
+Quintín|m|latin|spanish|2|saint,vintage|Quinto|Fifth|Cinquième|Fünfter|Quinto|Quinto
+Rafael|m|hebrew|spanish,portuguese|5|biblical,saint,classic|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Raimundo|m|germanic|spanish,portuguese|2|vintage,saint|Protector aconsejado|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Ramiro|m|germanic|spanish,portuguese|3|royal,vintage|Consejero ilustre|Famed counsellor|Conseiller illustre|Berühmter Ratgeber|Consigliere illustre|Conselheiro ilustre
+Ramón|m|germanic|spanish|3|classic|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Ramsés|m|other|spanish|1|royal,celestial|Nacido de Ra|Born of Ra|Né de Rê|Von Ra geboren|Nato da Ra|Nascido de Rá
+Raúl|m|germanic|spanish|4|classic,animal|Lobo consejero|Wolf counsel|Loup conseiller|Ratgebender Wolf|Lupo consigliere|Lobo conselheiro
+Reinaldo|m|germanic|spanish,portuguese|2|vintage,royal|Consejero poderoso|Powerful counsellor|Conseiller puissant|Mächtiger Ratgeber|Consigliere potente|Conselheiro poderoso
+Remigio|m|latin|spanish|1|saint,vintage|Remero|Rower|Rameur|Ruderer|Rematore|Remador
+Renato|m|latin|spanish,italian,portuguese|2|classic|Renacido|Reborn|Renaître|Wiedergeboren|Rinato|Renascido
+Ricardo|m|germanic|spanish,portuguese|4|royal,classic|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Roberto|m|germanic|spanish,italian|4|classic,royal|Fama brillante|Bright fame|Gloire éclatante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Rodolfo|m|germanic|spanish,portuguese|3|classic,animal|Lobo famoso|Famous wolf|Loup célèbre|Berühmter Wolf|Lupo famoso|Lobo famoso
+Rodrigo|m|germanic|spanish,portuguese|4|royal,classic|Gobernante famoso|Famous ruler|Souverain célèbre|Berühmter Herrscher|Sovrano famoso|Governante famoso
+Rogelio|m|germanic|spanish|2|classic,vintage|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Rolando|m|germanic|spanish,italian|3|literary,warrior,classic|Tierra famosa|Famed land|Terre célèbre|Berühmtes Land|Terra famosa|Terra famosa
+Román|m|latin|spanish|3|classic|Romano|Roman|Romain|Römer|Romano|Romano
+Rómulo|m|latin|spanish|1|mythology,royal|De Roma|Of Rome|De Rome|Aus Rom|Di Roma|De Roma
+Rosendo|m|germanic|spanish,galician|1|saint,vintage|Camino glorioso|Glorious path|Chemin glorieux|Ruhmreicher Weg|Cammino glorioso|Caminho glorioso
+Rubén|m|hebrew|spanish|3|biblical,classic|¡Mirad, un hijo!|Behold, a son!|Voyez, un fils !|Seht, ein Sohn!|Ecco, un figlio!|Eis um filho!
+Rufino|m|latin|spanish|1|saint,vintage|De cabello rojizo|Red-haired|Aux cheveux roux|Rothaarig|Dai capelli rossi|Ruivo
+Ruperto|m|germanic|spanish|1|saint,vintage|Fama brillante|Bright fame|Gloire éclatante|Glänzender Ruhm|Fama splendente|Fama brilhante
+Sabino|m|latin|spanish,italian|1|saint,vintage|Sabino|Sabine|Sabin|Sabiner|Sabino|Sabino
+Salomón|m|hebrew|spanish|2|biblical,royal|Paz|Peace|Paix|Frieden|Pace|Paz
+Salvador|m|latin|spanish,portuguese|4|saint,classic|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Samuel|m|hebrew|spanish,intl|4|biblical,classic|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat erhört|Dio ha ascoltato|Deus ouviu
+Sancho|m|latin|spanish|2|literary,royal,saint|Santo|Holy|Saint|Heilig|Santo|Santo
+Sansón|m|hebrew|spanish|1|biblical,strong|Hombre del sol|Man of the sun|Homme du soleil|Mann der Sonne|Uomo del sole|Homem do sol
+Santiago|m|hebrew|spanish|5|saint,biblical,classic|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Santino|m|latin|spanish,italian|4|modern,trendy,saint|Pequeño santo|Little saint|Petit saint|Kleiner Heiliger|Piccolo santo|Pequeno santo
+Santos|m|latin|spanish|2|saint,vintage|Santos|Saints|Saints|Heilige|Santi|Santos
+Saturnino|m|latin|spanish|1|saint,vintage|De Saturno|Of Saturn|De Saturne|Des Saturn|Di Saturno|De Saturno
+Saúl|m|hebrew|spanish|3|biblical,classic|Pedido a Dios|Asked of God|Demandé à Dieu|Von Gott erbeten|Chiesto a Dio|Pedido a Deus
+Sebastián|m|greek|spanish|5|saint,classic|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Segismundo|m|germanic|spanish|1|royal,vintage|Victoria protectora|Protective victory|Victoire protectrice|Schützender Sieg|Vittoria protettrice|Vitória protetora
+Serafín|m|hebrew|spanish|2|saint,celestial,vintage|Ardiente, ángel de fuego|Fiery one, angel of fire|Ardent, ange de feu|Feuriger, Feuerengel|Ardente, angelo di fuoco|Ardente, anjo de fogo
+Sergio|m|latin|spanish,italian,portuguese|4|classic|Guardián, servidor|Guardian, servant|Gardien, serviteur|Wächter, Diener|Custode, servitore|Guardião, servidor
+Servando|m|latin|spanish|1|saint,vintage|El que sirve|He who serves|Celui qui sert|Der Dienende|Colui che serve|Aquele que serve
+Severino|m|latin|spanish,italian|1|saint,vintage|Severo|Stern|Sévère|Streng|Severo|Severo
+Severo|m|latin|spanish,italian|1|vintage,strong|Severo, serio|Stern, serious|Sévère, sérieux|Streng, ernst|Severo, serio|Severo, sério
+Sigfrido|m|germanic|spanish|1|literary,warrior|Paz y victoria|Peace and victory|Paix et victoire|Frieden und Sieg|Pace e vittoria|Paz e vitória
+Silas|m|latin|spanish,english|1|biblical|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Silvestre|m|latin|spanish|1|saint,vintage,nature|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Silvio|m|latin|spanish,italian|2|nature,classic|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Silverio|m|latin|spanish|1|saint,vintage,nature|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Simeón|m|hebrew|spanish|1|biblical|Dios ha oído|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Simón|m|hebrew|spanish|3|biblical,classic|Dios ha oído|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu

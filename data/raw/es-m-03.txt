@@ -1,0 +1,53 @@
+Fabián|m|latin|spanish|3|saint,classic|De la familia Fabia|Of the Fabian clan|De la gens Fabia|Aus dem Geschlecht der Fabier|Della gens Fabia|Da família Fábia
+Fabio|m|latin|spanish,italian,portuguese|3|classic|De la familia Fabia|Of the Fabian clan|De la gens Fabia|Aus dem Geschlecht der Fabier|Della gens Fabia|Da família Fábia
+Fabricio|m|latin|spanish|2|classic|Artesano|Craftsman|Artisan|Handwerker|Artigiano|Artesão
+Facundo|m|latin|spanish|4|saint,trendy|Elocuente|Eloquent|Éloquent|Redegewandt|Eloquente|Eloquente
+Faustino|m|latin|spanish|1|saint,vintage|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Fausto|m|latin|spanish,italian|2|literary,classic|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Federico|m|germanic|spanish,italian|3|royal,classic|Gobernante pacífico|Peaceful ruler|Souverain pacifique|Friedlicher Herrscher|Governante pacifico|Governante pacífico
+Felipe|m|greek|spanish|4|royal,biblical,classic|Amante de los caballos|Lover of horses|Ami des chevaux|Pferdefreund|Amante dei cavalli|Amante de cavalos
+Feliciano|m|latin|spanish|1|saint,vintage|Feliz|Happy|Heureux|Glücklich|Felice|Feliz
+Félix|m|latin|spanish,french|3|saint,classic|Feliz, afortunado|Happy, lucky|Heureux, chanceux|Glücklich|Felice, fortunato|Feliz, afortunado
+Fermín|m|latin|spanish|2|saint,vintage|Firme, fuerte|Firm, strong|Ferme, fort|Fest, stark|Fermo, forte|Firme, forte
+Fernando|m|germanic|spanish,portuguese|4|royal,classic|Aventurero audaz|Bold adventurer|Aventurier audacieux|Kühner Abenteurer|Avventuriero audace|Aventureiro audaz
+Fidel|m|latin|spanish|2|virtue,classic|Fiel|Faithful|Fidèle|Treu|Fedele|Fiel
+Fidencio|m|latin|spanish|1|saint,vintage,virtue|Confiado|Confident|Confiant|Zuversichtlich|Fiducioso|Confiante
+Filiberto|m|germanic|spanish,italian|1|vintage,royal|Muy brillante|Very bright|Très brillant|Sehr glänzend|Molto splendente|Muito brilhante
+Florencio|m|latin|spanish|1|saint,vintage,flower|Floreciente|Flourishing|Florissant|Blühend|Fiorente|Florescente
+Florián|m|latin|spanish,german|1|saint,flower,vintage|Florido|Flowering|Fleuri|Blühend|Fiorito|Florido
+Fortunato|m|latin|spanish,italian|1|saint,vintage|Afortunado|Fortunate|Fortuné|Glücklich|Fortunato|Afortunado
+Francisco|m|latin|spanish,portuguese|5|saint,classic|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Fructuoso|m|latin|spanish|1|saint,vintage|Fructífero|Fruitful|Fécond|Fruchtbar|Fruttuoso|Frutuoso
+Fulgencio|m|latin|spanish|1|saint,vintage,light|Resplandeciente|Radiant|Resplendissant|Strahlend|Splendente|Resplandecente
+Gabino|m|latin|spanish|1|saint,vintage|De Gabii|From Gabii|De Gabies|Aus Gabii|Di Gabi|De Gábios
+Gabriel|m|hebrew|spanish,intl|5|biblical,saint,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é minha força
+Gael|m|celtic|spanish,french|4|modern,trendy,virtue|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Galo|m|latin|spanish|1|vintage,animal|Galo, de la Galia|Gaul|Gaulois|Gallier|Gallo|Gaulês
+Gaspar|m|persian|spanish,portuguese|2|biblical,royal,classic|Tesorero|Treasurer|Trésorier|Schatzmeister|Tesoriere|Tesoureiro
+Gaudencio|m|latin|spanish|1|saint,vintage|El que se alegra|He who rejoices|Celui qui se réjouit|Der sich freut|Colui che si rallegra|Aquele que se alegra
+Genaro|m|latin|spanish,italian|2|saint,vintage|Nacido en enero|Born in January|Né en janvier|Im Januar geboren|Nato a gennaio|Nascido em janeiro
+Gerardo|m|germanic|spanish,italian,portuguese|3|classic,warrior|Lanza valiente|Brave spear|Lance vaillante|Tapferer Speer|Lancia coraggiosa|Lança valente
+Germán|m|latin|spanish,german|3|classic|Hermano, hombre de Germania|Brother, man of Germania|Frère, homme de Germanie|Bruder, Mann aus Germanien|Fratello, uomo di Germania|Irmão, homem da Germânia
+Godofredo|m|germanic|spanish|1|vintage,royal|Paz de Dios|Peace of God|Paix de Dieu|Friede Gottes|Pace di Dio|Paz de Deus
+Gonzalo|m|germanic|spanish,portuguese|4|classic,warrior|Dispuesto para la batalla|Ready for battle|Prêt pour la bataille|Bereit zum Kampf|Pronto alla battaglia|Pronto para a batalha
+Graciano|m|latin|spanish|1|saint,vintage|Agraciado|Graced|Gracieux|Begnadet|Graziato|Agraciado
+Gregorio|m|greek|spanish,italian|3|saint,classic|Vigilante|Watchful|Vigilant|Wachsam|Vigilante|Vigilante
+Guadalupe|u|arabic|spanish|2|saint,place|Río de lobos|River of wolves|Rivière des loups|Fluss der Wölfe|Fiume dei lupi|Rio dos lobos
+Guillermo|m|germanic|spanish|4|classic,warrior|Voluntad protectora|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Gustavo|m|germanic|spanish,portuguese,german|4|royal,classic|Bastón de los godos|Staff of the Goths|Bâton des Goths|Stab der Goten|Bastone dei Goti|Bastão dos godos
+Héctor|m|greek|spanish|4|mythology,warrior|El que sostiene firme|He who holds fast|Celui qui tient bon|Der Standhafte|Colui che resiste|Aquele que se mantém firme
+Heliodoro|m|greek|spanish|1|saint,vintage,celestial|Regalo del sol|Gift of the sun|Don du soleil|Geschenk der Sonne|Dono del sole|Presente do sol
+Helio|m|greek|spanish,portuguese|2|celestial,mythology,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Heraclio|m|greek|spanish|1|vintage,mythology|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Hércules|m|greek|spanish|1|mythology,strong|Gloria de Hera|Glory of Hera|Gloire d'Héra|Ruhm der Hera|Gloria di Era|Glória de Hera
+Heriberto|m|germanic|spanish|2|vintage,warrior|Brillante en el ejército|Bright in the army|Brillant dans l'armée|Glänzend im Heer|Splendente nell'esercito|Brilhante no exército
+Hermenegildo|m|germanic|spanish|1|royal,vintage|Sacrificio completo|Complete sacrifice|Sacrifice complet|Vollständiges Opfer|Sacrificio completo|Sacrifício completo
+Hermes|m|greek|spanish|1|mythology|Mensajero de los dioses|Messenger of the gods|Messager des dieux|Götterbote|Messaggero degli dei|Mensageiro dos deuses
+Hernán|m|germanic|spanish|3|classic,warrior|Aventurero audaz|Bold adventurer|Aventurier audacieux|Kühner Abenteurer|Avventuriero audace|Aventureiro audaz
+Hernando|m|germanic|spanish|2|vintage,warrior|Aventurero audaz|Bold adventurer|Aventurier audacieux|Kühner Abenteurer|Avventuriero audace|Aventureiro audaz
+Higinio|m|greek|spanish|1|saint,vintage|Saludable|Healthy|Sain|Gesund|Salutare|Saudável
+Hilario|m|latin|spanish|2|saint,vintage|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Hipólito|m|greek|spanish|2|mythology,saint,vintage|El que desata los caballos|Unleasher of horses|Celui qui délie les chevaux|Rosselöser|Colui che scioglie i cavalli|Aquele que solta os cavalos
+Honorato|m|latin|spanish|1|saint,vintage|Honrado|Honoured|Honoré|Geehrt|Onorato|Honrado
+Honorio|m|latin|spanish|1|saint,vintage|Honorable|Honourable|Honorable|Ehrenhaft|Onorevole|Honorável
+Hugo|m|germanic|spanish,french,german|5|classic,royal|Mente inteligente|Bright mind|Esprit brillant|Kluger Geist|Mente brillante|Mente brilhante

@@ -1,0 +1,59 @@
+Calixta|f|greek|spanish|1|vintage|La más hermosa|The most beautiful|La plus belle|Die Schönste|La più bella|A mais bela
+Camelia|f|other|spanish,italian|2|flower,nature|Flor de camelia|Camellia flower|Fleur de camélia|Kamelienblüte|Fiore di camelia|Flor de camélia
+Camila|f|latin|spanish,portuguese|5|classic,modern|Joven ayudante en el culto|Young attendant at worship|Jeune servante du culte|Junge Gehilfin im Kult|Giovane assistente al culto|Jovem auxiliar do culto
+Candela|f|latin|spanish|3|light,saint|Vela, luz|Candle, light|Chandelle, lumière|Kerze, Licht|Candela, luce|Vela, luz
+Candelaria|f|latin|spanish|2|light,saint|Virgen de la Candelaria, luz|Candlemas, light|Chandeleur, lumière|Lichtmess, Licht|Candelora, luce|Candelária, luz
+Cándida|f|latin|spanish|1|vintage,virtue|Blanca, pura|White, pure|Blanche, pure|Weiß, rein|Bianca, pura|Branca, pura
+Caridad|f|latin|spanish|2|virtue,vintage|Amor al prójimo|Charity, love of neighbour|Charité|Nächstenliebe|Carità|Caridade
+Carina|f|latin|spanish,italian,german|2|sweet,love|Querida|Dear one|Chère|Liebe|Cara|Querida
+Carla|f|germanic|spanish,italian,catalan|4|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carlota|f|germanic|spanish|4|royal,classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Carmela|f|hebrew|spanish,italian|2|vintage,saint|Jardín de Dios|Garden of God|Jardin de Dieu|Garten Gottes|Giardino di Dio|Jardim de Deus
+Carmen|f|hebrew|spanish|4|classic,saint|Jardín, viña de Dios|Garden, vineyard of God|Jardin, vigne de Dieu|Garten, Weinberg Gottes|Giardino, vigna di Dio|Jardim, vinha de Deus
+Carmina|f|latin|spanish,catalan|1|vintage,music|Canción, poema|Song, poem|Chanson, poème|Lied, Gedicht|Canto, poema|Canção, poema
+Carolina|f|germanic|spanish,portuguese,italian|3|classic|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Casandra|f|greek|spanish|2|mythology|La que destaca entre los hombres|She who excels among men|Celle qui surpasse les hommes|Die unter Männern Herausragende|Colei che eccelle tra gli uomini|Aquela que se destaca entre os homens
+Catalina|f|greek|spanish|4|saint,classic,royal|Pura|Pure|Pure|Rein|Pura|Pura
+Cayetana|f|latin|spanish|2|vintage,royal|De la ciudad de Gaeta|From the city of Gaeta|De la ville de Gaète|Aus der Stadt Gaeta|Della città di Gaeta|Da cidade de Gaeta
+Cecilia|f|latin|spanish,italian|4|saint,music,classic|Ciega, de la familia Cecilia|Blind, of the Caecilius clan|Aveugle, de la famille Caecilia|Blind, aus dem Hause der Caecilier|Cieca, della gente Cecilia|Cega, da família Cecília
+Celeste|f|latin|spanish,italian|3|celestial,light|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Celia|f|latin|spanish|3|celestial,vintage|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Celina|f|latin|spanish,french|2|celestial,sweet|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Cielo|f|latin|spanish|2|celestial,modern|Cielo|Sky, heaven|Ciel|Himmel|Cielo|Céu
+Cintia|f|greek|spanish|2|mythology,celestial|De la montaña Cinto (Artemisa)|From Mount Cynthus (Artemis)|Du mont Cynthe (Artémis)|Vom Berg Kynthos (Artemis)|Del monte Cinto (Artemide)|Do monte Cinto (Ártemis)
+Citlali|f|native|spanish|2|celestial,modern|Estrella|Star|Étoile|Stern|Stella|Estrela
+Clara|f|latin|spanish,portuguese,german,intl|5|light,classic,saint|Clara, brillante|Clear, bright|Claire, brillante|Hell, klar|Chiara, luminosa|Clara, brilhante
+Claudia|f|latin|spanish,italian,german|4|classic,strong|Coja|Lame|Boiteuse|Die Hinkende|Zoppa|Coxa
+Clemencia|f|latin|spanish|1|virtue,vintage|Clemencia, bondad|Mercy, mildness|Clémence, douceur|Milde, Gnade|Clemenza|Clemência
+Clementina|f|latin|spanish,italian|1|vintage,virtue|Clemente, misericordiosa|Merciful, mild|Clémente, miséricordieuse|Milde, barmherzig|Clemente, misericordiosa|Clemente, misericordiosa
+Cloe|f|greek|spanish,catalan|4|nature,modern|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Broto verde
+Clotilde|f|germanic|spanish,french|1|vintage,warrior|Batalla famosa|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famosa in battaglia|Famosa na batalha
+Columba|f|latin|spanish|1|animal,saint|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Concepción|f|latin|spanish|2|saint,vintage|Inmaculada Concepción|Immaculate Conception|Immaculée Conception|Unbefleckte Empfängnis|Immacolata Concezione|Imaculada Conceição
+Concha|f|latin|spanish|2|sea,vintage|Concha marina|Seashell|Coquillage|Muschel|Conchiglia|Concha marinha
+Constanza|f|latin|spanish|4|virtue,classic|Firmeza, perseverancia|Steadfastness, perseverance|Constance, fermeté|Beständigkeit, Ausdauer|Fermezza, perseveranza|Firmeza, perseverança
+Consuelo|f|latin|spanish|3|saint,virtue|Alivio, consuelo|Comfort, consolation|Réconfort, consolation|Trost, Linderung|Conforto, consolazione|Consolo, conforto
+Coral|f|latin|spanish|3|sea,gem|Coral|Coral|Corail|Koralle|Corallo|Coral
+Cora|f|greek|spanish,english|1|vintage,mythology|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Corina|f|greek|spanish,italian,german|1|vintage,mythology|Doncella|Maiden|Jeune fille|Jungfrau|Fanciulla|Donzela
+Covadonga|f|latin|spanish|1|saint,place|Cueva de la Señora|Cave of the Lady|Grotte de Notre-Dame|Höhle der Herrin|Grotta della Signora|Gruta da Senhora
+Cristina|f|greek|spanish,italian,portuguese|4|saint,classic|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Cruz|u|latin|spanish|2|saint,vintage|Cruz|Cross|Croix|Kreuz|Croce|Cruz
+Custodia|f|latin|spanish|1|saint,vintage|Guardiana|Guardian|Gardienne|Hüterin|Custode|Guardiã
+Dafne|f|greek|spanish,italian|3|mythology,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Dalia|f|other|spanish|3|flower,nature|Flor de dalia|Dahlia flower|Fleur de dahlia|Dahlienblüte|Fiore di dalia|Flor de dália
+Damiana|f|greek|spanish|1|saint,vintage|Domadora|Tamer|Dompteuse|Bezwingerin|Domatrice|Domadora
+Daniela|f|hebrew|spanish,italian,german|5|biblical,classic|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Débora|f|hebrew|spanish,portuguese|3|biblical,animal|Abeja|Bee|Abeille|Biene|Ape|Abelha
+Delfina|f|greek|spanish,italian|3|sea,animal|Delfín, de Delfos|Dolphin, of Delphi|Dauphine, de Delphes|Delfin, aus Delphi|Delfina, di Delfi|Golfinha, de Delfos
+Delia|f|greek|spanish|2|mythology,celestial|De la isla de Delos|From the island of Delos|De l'île de Délos|Von der Insel Delos|Dell'isola di Delo|Da ilha de Delos
+Desirée|f|latin|spanish,french|2|love|Deseada|Desired|Désirée|Ersehnte|Desiderata|Desejada
+Diana|f|latin|spanish,italian,intl|4|mythology,light,classic|Divina, luminosa|Divine, luminous|Divine, lumineuse|Göttlich, strahlend|Divina, luminosa|Divina, luminosa
+Dina|f|hebrew|spanish|1|biblical|Juzgada, vindicada|Judged, vindicated|Jugée, justifiée|Gerichtete, gerechtfertigte|Giudicata, vendicata|Julgada, vindicada
+Divina|f|latin|spanish|1|saint,virtue|Divina|Divine|Divine|Göttliche|Divina|Divina
+Dolores|f|latin|spanish|3|saint,classic|Dolores, penas (Virgen)|Sorrows (Our Lady)|Douleurs (Vierge)|Schmerzen (Gottesmutter)|Dolori (Madonna)|Dores (Nossa Senhora)
+Dominga|f|latin|spanish|1|vintage,saint|Perteneciente al Señor|Belonging to the Lord|Appartenant au Seigneur|Dem Herrn gehörig|Appartenente al Signore|Pertencente ao Senhor
+Dorotea|f|greek|spanish,italian|2|vintage,saint|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Presente de Deus
+Dulce|f|latin|spanish|3|sweet,virtue|Dulce|Sweet|Douce|Süße|Dolce|Doce
+Dulcinea|f|latin|spanish|2|literary,sweet|Dulce, la amada de Don Quijote|Sweet, Don Quixote's beloved|Douce, la bien-aimée de Don Quichotte|Süße, Don Quijotes Geliebte|Dolce, l'amata di Don Chisciotte|Doce, a amada de Dom Quixote
+Dunia|f|arabic|spanish,arabic|1|modern|El mundo|The world|Le monde|Die Welt|Il mondo|O mundo

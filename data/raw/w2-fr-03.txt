@@ -1,0 +1,34 @@
+Magali|f|hebrew|french,occitan|3|vintage,flower|Perla|Pearl|Perle|Perle|Perla|Pérola
+Mahaut|f|germanic|french|1|vintage,royal|Fuerza en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Marielle|f|hebrew|french|2|sweet|Pequeña María|Little Mary|Petite Marie|Kleine Maria|Piccola Maria|Pequena Maria
+Marjolaine|f|other|french|1|flower,nature|Mejorana|Marjoram|Marjolaine|Majoran|Maggiorana|Manjerona
+Marlène|f|hebrew|french,german|2|vintage|María Magdalena|Mary Magdalene|Marie Madeleine|Maria Magdalena|Maria Maddalena|Maria Madalena
+Nelly|f|greek|french,english|2|vintage|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Ninon|f|hebrew|french|2|vintage,sweet|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Nina|f|hebrew|french|3|classic,sweet|Gracia|Grace|Grâce|Anmut|Grazia|Graça
+Noélie|f|latin|french|2|modern,saint|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Noa|f|hebrew|french|3|modern,biblical|Movimiento|Movement|Mouvement|Bewegung|Movimento|Movimento
+Philomène|f|greek|french|2|vintage,saint|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Pétronille|f|latin|french|1|vintage,saint|De la familia Petronia|Of the Petronius family|De la famille Pétronius|Aus dem Hause der Petronier|Della famiglia Petronia|Da família Petrónia
+Régina|f|latin|french|2|classic,royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Rolande|f|germanic|french|1|vintage|Famosa en la tierra|Famous throughout the land|Célèbre dans le pays|Berühmt im Land|Famosa nella terra|Famosa na terra
+Rosemonde|f|germanic|french|1|vintage|Protectora de los caballos|Horse protector|Protectrice des chevaux|Rossbeschützerin|Protettrice dei cavalli|Protetora dos cavalos
+Rosine|f|latin|french|2|vintage,flower|Pequeña rosa|Little rose|Petite rose|Kleine Rose|Piccola rosa|Pequena rosa
+Sandra|f|greek|french|3|classic|Defensora de la humanidad|Defender of mankind|Défenseure des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Scholastique|f|greek|french|1|vintage,saint|Estudiosa|Scholar|Studieuse|Gelehrte|Studiosa|Estudiosa
+Sidonie|f|greek|french|2|vintage|De Sidón|From Sidon|De Sidon|Aus Sidon|Di Sidone|De Sídon
+Soline|f|latin|french|2|modern,sweet|Solemne|Solemn|Solennelle|Feierliche|Solenne|Solene
+Solenne|f|latin|french|2|modern|Solemne|Solemn|Solennelle|Feierliche|Solenne|Solene
+Sonia|f|slavic|french,russian|2|classic|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Suzel|f|hebrew|french|1|vintage,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Sylviane|f|latin|french|2|vintage,nature|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Tamara|f|hebrew|french,russian|2|classic|Palmera datilera|Date palm|Palmier dattier|Dattelpalme|Palma da datteri|Tamareira
+Violaine|f|latin|french|2|flower,modern|Violeta|Violet|Violette|Veilchen|Viola|Violeta
+Yolande|f|germanic|french|1|vintage,royal|Flor de violeta|Violet flower|Fleur violette|Veilchenblüte|Fiore di viola|Flor de violeta
+Grégory|m|greek|french|3|classic|Vigilante|Watchful|Vigilant|Wachsam|Vigilante|Vigilante
+Hamon|m|germanic|french|1|vintage|Protector del hogar|Home protector|Protecteur du foyer|Beschützer des Heims|Protettore del focolare|Protetor do lar
+Honorat|m|latin|french|1|vintage,saint|Honrado|Honoured|Honoré|Geehrt|Onorato|Honrado
+Jacquemin|m|hebrew|french|1|vintage|Que Dios proteja|May God protect|Que Dieu protège|Möge Gott schützen|Che Dio protegga|Que Deus proteja
+Joris|m|greek|french,dutch|2|classic|Agricultor|Farmer|Agriculteur|Bauer|Agricoltore|Agricultor
+Josse|m|celtic|french|1|vintage,saint|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Julian|m|latin|french|2|classic|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Hause der Julier|Della famiglia Giulia|Da família Júlia

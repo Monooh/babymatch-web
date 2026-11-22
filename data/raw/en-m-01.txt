@@ -1,0 +1,74 @@
+Aaron|m|hebrew|english,german,french,intl|4|biblical,classic|Exaltado, elevado|Exalted, lofty|Exalté, élevé|Erhaben, hoch|Esaltato, elevato|Exaltado, elevado
+Abel|m|hebrew|english,spanish,french,intl|3|biblical,classic|Aliento, soplo|Breath|Souffle|Hauch|Soffio|Sopro
+Abner|m|hebrew|english|1|biblical,vintage|Padre de luz|Father of light|Père de lumière|Vater des Lichts|Padre di luce|Pai da luz
+Abraham|m|hebrew|english,spanish,intl|3|biblical,classic|Padre de muchos|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de muitos
+Absalom|m|hebrew|english|1|biblical|Padre de paz|Father of peace|Père de paix|Vater des Friedens|Padre di pace|Pai da paz
+Achilles|m|greek|english,greek|1|mythology,warrior|Héroe de Troya|Hero of Troy|Héros de Troie|Held von Troja|Eroe di Troia|Herói de Troia
+Adam|m|hebrew|english,german,french,intl|4|biblical,classic|Hombre de la tierra|Man of the earth|Homme de la terre|Mensch der Erde|Uomo della terra|Homem da terra
+Addison|m|germanic|english|3|modern,trendy|Hijo de Adam|Son of Adam|Fils d'Adam|Sohn Adams|Figlio di Adamo|Filho de Adão
+Adrian|m|latin|english,german,intl|4|classic,strong|Del mar Adriático|From the Adriatic Sea|De la mer Adriatique|Vom Adriatischen Meer|Dal mare Adriatico|Do mar Adriático
+Aiden|m|celtic|english|4|modern,trendy|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Alan|m|celtic|english,french,spanish|3|classic|Pequeña roca, armonía|Little rock, harmony|Petit rocher, harmonie|Kleiner Fels, Harmonie|Piccola roccia, armonia|Pequena rocha, harmonia
+Albert|m|germanic|english,german,french,intl|3|classic,royal|Noble y brillante|Noble and bright|Noble et brillant|Edel und glänzend|Nobile e splendente|Nobre e brilhante
+Alden|m|germanic|english|2|vintage|Viejo amigo|Old friend|Vieil ami|Alter Freund|Vecchio amico|Velho amigo
+Alexander|m|greek|english,german,scandinavian,intl|5|classic,royal,strong|Defensor de la humanidad|Defender of mankind|Défenseur des hommes|Verteidiger der Menschen|Difensore dell'umanità|Defensor da humanidade
+Alfie|m|germanic|english|4|modern,sweet|Consejero de los elfos|Elf counsel|Conseil des elfes|Rat der Elfen|Consiglio degli elfi|Conselho dos elfos
+Alfred|m|germanic|english,german,french|2|vintage,royal|Consejo de los elfos|Elf counsel|Conseil des elfes|Rat der Elfen|Consiglio degli elfi|Conselho dos elfos
+Algernon|m|germanic|english|1|vintage|El de bigote|With whiskers|Le moustachu|Der Schnurrbärtige|Il baffuto|O bigodudo
+Alvin|m|germanic|english|2|vintage|Amigo de los elfos|Elf friend|Ami des elfes|Freund der Elfen|Amico degli elfi|Amigo dos elfos
+Ambrose|m|greek|english|2|vintage,saint|Inmortal|Immortal|Immortel|Unsterblich|Immortale|Imortal
+Amos|m|hebrew|english|2|biblical,vintage|Llevado por Dios|Carried by God|Porté par Dieu|Von Gott getragen|Portato da Dio|Carregado por Deus
+Andrew|m|greek|english|4|classic,saint|Viril, valiente|Manly, brave|Viril, courageux|Mannhaft, tapfer|Virile, coraggioso|Viril, corajoso
+Ansel|m|germanic|english|2|vintage|Protección divina|Divine protection|Protection divine|Göttlicher Schutz|Protezione divina|Proteção divina
+Anselm|m|germanic|english,german|1|saint,vintage|Casco divino|Divine helmet|Casque divin|Göttlicher Helm|Elmo divino|Elmo divino
+Anthony|m|latin|english|4|classic,saint|Digno de elogio|Priceless, praiseworthy|Inestimable, digne d'éloge|Unschätzbar, lobenswert|Inestimabile, degno di lode|Inestimável, digno de louvor
+Apollo|m|greek|english|2|mythology,light,music|Dios del sol y la música|God of sun and music|Dieu du soleil et de la musique|Gott von Sonne und Musik|Dio del sole e della musica|Deus do sol e da música
+Archer|m|latin|english|3|modern,warrior|Arquero|Bowman|Archer|Bogenschütze|Arciere|Arqueiro
+Archie|m|germanic|english|4|vintage,sweet|Genuino y audaz|Genuine and bold|Authentique et audacieux|Echt und kühn|Genuino e audace|Genuíno e ousado
+Arden|u|celtic|english|2|nature,modern|Bosque|Forest|Forêt|Wald|Foresta|Floresta
+Arlo|m|germanic|english|3|modern,trendy|Colina fortificada|Fortified hill|Colline fortifiée|Befestigter Hügel|Collina fortificata|Colina fortificada
+Arnold|m|germanic|english,german|1|vintage|Águila poderosa|Eagle ruler|Aigle puissant|Herrschender Adler|Aquila che governa|Águia que governa
+Arthur|m|celtic|english,french,german,intl|4|royal,classic,vintage|Oso, hombre noble|Bear, noble man|Ours, homme noble|Bär, edler Mann|Orso, uomo nobile|Urso, homem nobre
+Asa|m|hebrew|english|1|biblical,vintage|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Asher|m|hebrew|english|4|biblical,trendy|Feliz, bendecido|Happy, blessed|Heureux, béni|Glücklich, gesegnet|Felice, benedetto|Feliz, abençoado
+Ashley|u|germanic|english|3|nature,classic|Bosque de fresnos|Ash tree meadow|Prairie des frênes|Eschenwiese|Prato di frassini|Prado de freixos
+Ashton|m|germanic|english|3|modern,nature|Pueblo de los fresnos|Ash tree town|Village des frênes|Eschendorf|Villaggio dei frassini|Povoado dos freixos
+Aspen|u|other|english|2|nature,modern|Álamo temblón|Aspen tree|Tremble|Espe|Pioppo tremulo|Choupo-tremedor
+Atlas|m|greek|english|3|mythology,modern|El que soporta|Enduring, bearer|Celui qui supporte|Der Tragende|Colui che sopporta|O que suporta
+Atticus|m|greek|english|3|literary,vintage|De Ática|Man of Attica|Homme de l'Attique|Mann aus Attika|Uomo dell'Attica|Homem da Ática
+Aubrey|u|germanic|english|3|vintage,royal|Gobernante de los elfos|Elf ruler|Souverain des elfes|Herrscher der Elfen|Sovrano degli elfi|Governante dos elfos
+August|m|latin|english,german,scandinavian|3|vintage,classic|Venerable, majestuoso|Venerable, majestic|Vénérable, majestueux|Ehrwürdig, erhaben|Venerabile, maestoso|Venerável, majestoso
+Augustine|m|latin|english,french|2|saint,vintage|Pequeño venerable|Little venerable one|Petit vénérable|Kleiner Erhabener|Piccolo venerabile|Pequeno venerável
+Augustus|m|latin|english|2|royal,classic|Venerable, majestuoso|Venerable, majestic|Vénérable, majestueux|Ehrwürdig, erhaben|Venerabile, maestoso|Venerável, majestoso
+Aurelius|m|latin|english|1|classic,light|Dorado|Golden|Doré|Golden|Dorato|Dourado
+Austin|m|latin|english|3|modern|Venerable|Venerable|Vénérable|Ehrwürdig|Venerabile|Venerável
+Avery|u|germanic|english|4|modern,trendy|Consejero de los elfos|Elf counsel|Conseil des elfes|Rat der Elfen|Consiglio degli elfi|Conselho dos elfos
+Bailey|u|latin|english|3|modern|Alguacil, administrador|Bailiff, steward|Bailli, intendant|Vogt, Verwalter|Balivo, amministratore|Bailio, administrador
+Barnaby|m|hebrew|english|2|biblical,vintage|Hijo del consuelo|Son of consolation|Fils de la consolation|Sohn des Trostes|Figlio della consolazione|Filho da consolação
+Barney|m|hebrew|english|1|vintage,sweet|Hijo del consuelo|Son of consolation|Fils de la consolation|Sohn des Trostes|Figlio della consolazione|Filho da consolação
+Barry|m|celtic|english|2|classic|De cabello claro|Fair-haired|Aux cheveux clairs|Blondhaarig|Dai capelli chiari|De cabelos claros
+Bartholomew|m|hebrew|english|1|biblical,saint,vintage|Hijo de Talmai|Son of Talmai|Fils de Talmaï|Sohn des Talmai|Figlio di Talmai|Filho de Talmai
+Basil|m|greek|english|2|vintage,royal|Real, regio|Kingly, royal|Royal|Königlich|Regale|Real
+Baxter|m|germanic|english|2|modern|Panadero|Baker|Boulanger|Bäcker|Panettiere|Padeiro
+Beau|m|latin|english,french|3|modern,sweet|Hermoso, apuesto|Handsome, beautiful|Beau, joli|Schön, hübsch|Bello, attraente|Belo, bonito
+Bede|m|germanic|english|1|saint,vintage|Oración|Prayer|Prière|Gebet|Preghiera|Oração
+Benedict|m|latin|english,german|2|saint,classic|Bendito|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Benjamin|m|hebrew|english,german,french,intl|5|biblical,classic|Hijo de la mano derecha|Son of the right hand|Fils de la main droite|Sohn der rechten Hand|Figlio della mano destra|Filho da mão direita
+Bennett|m|latin|english|3|modern,vintage|Bendito|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Benson|m|germanic|english|2|modern|Hijo de Ben|Son of Ben|Fils de Ben|Sohn des Ben|Figlio di Ben|Filho de Ben
+Bentley|m|germanic|english|3|modern|Prado de hierba rígida|Meadow of bent grass|Prairie d'herbe raide|Wiese mit Borstgras|Prato d'erba rigida|Prado de erva rígida
+Bernard|m|germanic|english,french,german|2|classic,saint|Oso valiente|Brave as a bear|Courageux comme un ours|Stark wie ein Bär|Forte come un orso|Forte como um urso
+Bertie|m|germanic|english|1|vintage,sweet|Brillante|Bright|Brillant|Glänzend|Splendente|Brilhante
+Bertram|m|germanic|english|1|vintage|Cuervo brillante|Bright raven|Corbeau brillant|Glänzender Rabe|Corvo splendente|Corvo brilhante
+Blake|u|germanic|english|3|modern|Oscuro o pálido|Dark or pale|Sombre ou pâle|Dunkel oder blass|Scuro o pallido|Escuro ou pálido
+Bobby|m|germanic|english|2|classic,sweet|Fama brillante|Bright fame|Gloire brillante|Strahlender Ruhm|Fama splendente|Fama brilhante
+Bodhi|u|sanskrit|english,indian|3|modern,trendy|Despertar, iluminación|Awakening, enlightenment|Éveil, illumination|Erwachen, Erleuchtung|Risveglio, illuminazione|Despertar, iluminação
+Bradford|m|germanic|english|1|vintage|Vado ancho|Broad ford|Large gué|Breite Furt|Ampio guado|Vau largo
+Bradley|m|germanic|english|3|classic|Prado ancho|Broad meadow|Large prairie|Breite Wiese|Ampio prato|Prado largo
+Brandon|m|germanic|english|3|classic|Colina de retama|Broom hill|Colline de genêts|Ginsterhügel|Collina di ginestre|Colina de giesta
+Brett|m|celtic|english|2|classic|Bretón|Briton|Breton|Brite|Bretone|Bretão
+Brian|m|celtic|english|3|classic|Fuerte, noble|Strong, noble|Fort, noble|Stark, edel|Forte, nobile|Forte, nobre
+Brock|m|germanic|english|2|nature,animal|Tejón|Badger|Blaireau|Dachs|Tasso|Texugo
+Brooks|m|germanic|english|3|nature,modern|Arroyos|Streams|Ruisseaux|Bäche|Ruscelli|Riachos
+Bruno|m|germanic|english,german,spanish,italian,portuguese,intl|3|classic,strong|Marrón, oscuro|Brown|Brun|Braun|Bruno, scuro|Moreno, escuro
+Byron|m|germanic|english|2|literary,vintage|Del establo de las vacas|At the cattle sheds|Aux étables|Bei den Viehställen|Presso le stalle|Junto aos currais

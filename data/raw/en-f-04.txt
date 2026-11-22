@@ -1,0 +1,97 @@
+Kate|f|greek|english|3|classic,strong|Pura|Pure|Pure|Rein|Pura|Pura
+Katherine|f|greek|english|4|classic,saint|Pura|Pure|Pure|Rein|Pura|Pura
+Kathleen|f|greek|english,irish|1|vintage,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Katie|f|greek|english|2|sweet,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Kayla|f|hebrew|english|2|modern|Corona|Crown|Couronne|Krone|Corona|Coroa
+Keira|f|celtic|english|2|modern|Oscura|Dark one|Sombre|Dunkle|Scura|Escura
+Kelly|f|celtic|english|1|modern|Guerrera|Warrior|Guerrière|Kriegerin|Guerriera|Guerreira
+Kendra|f|germanic|english|1|modern|Conocimiento, sabiduría|Knowledge, wise woman|Savoir, sage|Wissen, Weise|Sapere, saggia|Conhecimento, sábia
+Kimberly|f|germanic|english|2|place,modern|Pradera real|Royal meadow|Prairie royale|Königliche Wiese|Prato reale|Prado real
+Kira|f|persian|english,russian|2|modern,light|Sol, trono|Sun, throne|Soleil, trône|Sonne, Thron|Sole, trono|Sol, trono
+Kitty|f|greek|english|1|vintage,sweet|Pura|Pure|Pure|Rein|Pura|Pura
+Lara|f|latin|english,russian|3|classic,literary|Protectora, ciudadela|Protection, citadel|Protection, citadelle|Schutz, Zitadelle|Protezione, cittadella|Proteção, cidadela
+Laura|f|latin|english,spanish,italian|3|classic,nature|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Lauren|f|latin|english|3|classic,nature|Coronada de laurel|Laurel-crowned|Couronnée de laurier|Lorbeerbekränzt|Coronata d'alloro|Coroada de louro
+Layla|f|arabic|english,arabic|4|modern,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Leah|f|hebrew|english|3|biblical,classic|Fatigada, vaca salvaje|Weary, wild cow|Fatiguée|Müde|Stanca|Cansada
+Leila|f|arabic|english,arabic|2|modern,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Lena|f|greek|english,german|3|classic,light|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Leonie|f|latin|english,german|2|classic,animal|Leona|Lioness|Lionne|Löwin|Leonessa|Leoa
+Leslie|f|celtic|english,scottish|1|modern,place|Jardín de acebos|Holly garden|Jardin de houx|Stechpalmengarten|Giardino di agrifogli|Jardim de azevinhos
+Letitia|f|latin|english|1|vintage,virtue|Alegría|Joy, gladness|Joie|Freude|Letizia|Alegria
+Lettie|f|latin|english|1|vintage,sweet|Alegría|Joy, gladness|Joie|Freude|Letizia|Alegria
+Lexi|f|greek|english|3|modern,strong|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Lila|f|persian|english|3|sweet,modern|Noche, juego divino|Night, divine play|Nuit, jeu divin|Nacht, göttliches Spiel|Notte, gioco divino|Noite, jogo divino
+Lilian|f|latin|english|2|flower,vintage|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lillian|f|latin|english|4|flower,vintage|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Lily|f|latin|english|5|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Linda|f|germanic|english|2|vintage,sweet|Hermosa, suave|Pretty, soft|Jolie, douce|Hübsch, sanft|Bella, dolce|Bela, suave
+Lindsay|f|germanic|english|1|modern,place|Isla de los tilos|Linden island|Île des tilleuls|Lindeninsel|Isola dei tigli|Ilha dos tílias
+Lisa|f|hebrew|english|2|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Lizzie|f|hebrew|english|2|sweet,vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é meu juramento
+Lois|f|greek|english|1|biblical,vintage|Mejor, más deseable|Better, more desirable|Meilleure, plus désirable|Besser, wünschenswerter|Migliore, più desiderabile|Melhor, mais desejável
+Lola|f|latin|english,spanish|3|sweet,vintage|Dolores|Sorrows|Douleurs|Schmerzen|Dolori|Dores
+Lorna|f|celtic|english,scottish|1|vintage,literary|Abandonada|Forsaken|Abandonnée|Verlassen|Abbandonata|Abandonada
+Louisa|f|germanic|english,german|3|vintage,classic|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Louise|f|germanic|english,french|3|classic,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Lucy|f|latin|english|4|classic,light|Luz|Light|Lumière|Licht|Luce|Luz
+Luna|f|latin|english,spanish,intl|5|celestial,modern|Luna|Moon|Lune|Mond|Luna|Lua
+Lydia|f|greek|english|3|biblical,classic|De Lidia|From Lydia|De Lydie|Aus Lydien|Della Lidia|Da Lídia
+Lynn|f|celtic|english|1|vintage,nature|Cascada, lago|Waterfall, lake|Cascade, lac|Wasserfall, See|Cascata, lago|Cascata, lago
+Mabel|f|latin|english|3|vintage,love|Amable|Lovable|Aimable|Liebenswert|Amabile|Amável
+Macy|f|germanic|english|2|modern|De Massy|From Massy|De Massy|Aus Massy|Da Massy|De Massy
+Madeline|f|hebrew|english|3|classic,biblical|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Madison|f|germanic|english|3|modern|Hijo de Maud|Son of Maud|Fils de Maud|Sohn der Maud|Figlio di Maud|Filho de Maud
+Mae|f|latin|english|3|vintage,nature|Mayo, la mayor|May, the greater|Mai, la plus grande|Mai, die Größere|Maggio, la maggiore|Maio, a maior
+Maggie|f|greek|english|2|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Magnolia|f|other|english|2|flower,nature|Flor de magnolia|Magnolia flower|Fleur de magnolia|Magnolienblüte|Fiore di magnolia|Flor de magnólia
+Maisie|f|greek|english,scottish|2|vintage,sweet|Perla|Pearl|Perle|Perle|Perla|Pérola
+Mandy|f|latin|english|1|classic|Digna de ser amada|Worthy of love|Digne d'être aimée|Liebenswert|Degna di essere amata|Digna de ser amada
+Marcia|f|latin|english|1|vintage,mythology|De Marte|Of Mars|De Mars|Des Mars|Di Marte|De Marte
+Margaret|f|greek|english|3|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Margot|f|greek|english,french|3|vintage,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Marguerite|f|greek|english,french|2|flower,gem|Margarita, perla|Daisy, pearl|Marguerite, perle|Margerite, Perle|Margherita, perla|Margarida, pérola
+Maria|f|hebrew|english,intl|4|biblical,classic|Amada, deseada|Beloved, wished-for|Bien-aimée|Geliebte|Amata|Amada
+Marian|f|hebrew|english|1|classic,vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Marianne|f|hebrew|english,french|2|classic,vintage|Amada y graciosa|Beloved and graceful|Bien-aimée et gracieuse|Geliebt und anmutig|Amata e graziosa|Amada e graciosa
+Marie|f|hebrew|english,french,german|3|classic,biblical|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Marigold|f|other|english|2|flower,nature|Flor de caléndula|Marigold flower|Souci|Ringelblume|Calendula|Calêndula
+Marilyn|f|hebrew|english|1|vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Martha|f|hebrew|english|2|biblical,vintage|Señora|Lady, mistress|Dame|Herrin|Signora|Senhora
+Mary|f|hebrew|english|3|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Matilda|f|germanic|english|3|vintage,strong|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Maud|f|germanic|english|1|vintage,strong|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Maude|f|germanic|english|2|vintage,strong|Fuerte en la batalla|Mighty in battle|Puissante au combat|Mächtig im Kampf|Potente in battaglia|Poderosa em batalha
+Maureen|f|hebrew|english,irish|1|vintage|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Maya|f|other|english,intl|4|modern,nature|Ilusión, agua|Illusion, water|Illusion, eau|Illusion, Wasser|Illusione, acqua|Ilusão, água
+Megan|f|celtic|english,welsh|2|classic|Perla|Pearl|Perle|Perle|Perla|Pérola
+Melanie|f|greek|english,french|2|classic|Oscura|Dark|Sombre|Dunkel|Scura|Escura
+Melissa|f|greek|english|3|classic,animal|Abeja|Honey bee|Abeille|Honigbiene|Ape|Abelha
+Melody|f|greek|english|3|music,sweet|Melodía|Melody, song|Mélodie|Melodie|Melodia|Melodia
+Mercy|f|latin|english|1|virtue,vintage|Misericordia|Compassion|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Meredith|f|celtic|english,welsh|1|classic,strong|Señor del mar|Great ruler|Grand souverain|Großer Herrscher|Grande sovrano|Grande governante
+Mia|f|latin|english,intl|5|modern,sweet|Mía, amada|Mine, beloved|Mienne, aimée|Meine, Geliebte|Mia, amata|Minha, amada
+Michelle|f|hebrew|english,french|2|classic,biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Mildred|f|germanic|english|1|vintage|Fuerza amable|Gentle strength|Force douce|Sanfte Stärke|Forza gentile|Força gentil
+Millie|f|germanic|english|3|vintage,sweet|Fuerza amable|Gentle strength|Force douce|Sanfte Stärke|Forza gentile|Força gentil
+Mina|f|germanic|english|1|vintage,sweet|Amor, voluntad|Love, resolve|Amour, volonté|Liebe, Entschlossenheit|Amore, volontà|Amor, vontade
+Minnie|f|germanic|english|1|vintage,sweet|Amor, recuerdo|Love, remembrance|Amour, souvenir|Liebe, Erinnerung|Amore, ricordo|Amor, lembrança
+Miranda|f|latin|english|2|literary,virtue|Admirable|Admirable|Admirable|Bewundernswert|Ammirevole|Admirável
+Miriam|f|hebrew|english|2|biblical,classic|Amada, deseada|Beloved, wished-for child|Bien-aimée|Geliebte|Amata|Amada
+Molly|f|hebrew|english|3|vintage,sweet|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Monica|f|latin|english|2|saint,classic|Consejera|Advisor|Conseillère|Beraterin|Consigliera|Conselheira
+Morgan|f|celtic|english,welsh|2|modern,sea|Nacida del mar|Sea-born|Née de la mer|Meeresgeboren|Nata dal mare|Nascida do mar
+Myra|f|latin|english|1|vintage,literary|Admirable|Admirable|Admirable|Bewundernswert|Ammirevole|Admirável
+Myrtle|f|greek|english|1|nature,vintage|Mirto|Myrtle|Myrte|Myrte|Mirto|Murta
+Nadia|f|slavic|english,russian|2|virtue,classic|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Nancy|f|hebrew|english|1|vintage|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Naomi|f|hebrew|english|3|biblical,sweet|Placer, dulzura|Pleasantness|Douceur|Lieblichkeit|Piacevolezza|Doçura
+Natalie|f|latin|english,french|3|classic|Día de Navidad|Christmas Day|Jour de Noël|Weihnachtstag|Giorno di Natale|Dia de Natal
+Natasha|f|latin|english,russian|2|classic|Día de Navidad|Christmas Day|Jour de Noël|Weihnachtstag|Giorno di Natale|Dia de Natal
+Nell|f|greek|english|1|vintage|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Nellie|f|greek|english|2|vintage,sweet|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Nicole|f|greek|english,french|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Nina|f|hebrew|english,russian|2|classic,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Nora|f|latin|english,irish|4|classic,vintage|Honor, luz|Honor, light|Honneur, lumière|Ehre, Licht|Onore, luce|Honra, luz
+Norah|f|latin|english|2|vintage,classic|Honor, luz|Honor, light|Honneur, lumière|Ehre, Licht|Onore, luce|Honra, luz
+Nova|f|latin|english|4|celestial,modern|Nueva|New|Nouvelle|Neu|Nuova|Nova
