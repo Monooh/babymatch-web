@@ -11,6 +11,6 @@ const wanted = process.argv.slice(2)
 const targets = readdirSync(DIST).filter(d => !wanted.length || wanted.includes(d)).sort((a, b) => (a === 'root' ? 1 : b === 'root' ? -1 : a.localeCompare(b)))
 for (const t of targets) {
   console.log(`\n── deploying ${t} ──`)
-  const r = spawnSync('npx', ['--yes', 'wrangler@latest', 'deploy'], { cwd: join(DIST, t), stdio: 'inherit' })
+  const r = spawnSync('npx', ['--yes', 'wrangler@4', 'deploy'], { cwd: join(DIST, t), stdio: 'inherit' })
   if (r.status !== 0) { console.error(`deploy of ${t} failed`); process.exit(r.status || 1) }
 }

@@ -80,6 +80,10 @@ npm run build        # con BM_ROUTES=0 no configura rutas: cada Worker queda sol
 npm run deploy       # despliega los siete Workers (o `npm run deploy -- es root` para algunos)
 ```
 
+Cada push a `main` despliega solo con GitHub Actions (`.github/workflows/deploy.yml`), que usa los secretos
+`CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` del repositorio. Sin ellos el workflow avisa y no despliega.
+Los cambios que solo tocan ficheros `.md` no lanzan despliegue.
+
 Para que las rutas funcionen, `babymatch.app` tiene que ser una zona activa en la misma cuenta de Cloudflare
 (DNS gestionado por Cloudflare). Las redirecciones de las URLs antiguas están en `cloudflare/_redirects` y las
 cabeceras de caché en `cloudflare/_headers`.
