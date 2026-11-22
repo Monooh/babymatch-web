@@ -13,15 +13,15 @@ import { Crumbs } from '@/components/Chrome'
 type Props = { params: Promise<{ lang: string; section: string; slug: string }> }
 const MAX_ON_PAGE = 400
 
-export const dynamicParams = true
-export const revalidate = false
+export const dynamicParams = false
 
-// Every list page and the best-known names are built ahead; the long tail of names renders on first visit and is cached.
+// The site is exported as static HTML: every list and every name in every language is built ahead.
+// BM_ONLY_POPULAR=1 builds just the best-known names, for a quick local build.
 export function generateStaticParams() {
-  if (process.env.BM_PREBUILD === 'none') return []
+  const quick = process.env.BM_ONLY_POPULAR === '1'
   return LOCALES.flatMap(lang => [
     ...allLists(lang).map(x => ({ lang, section: SEGMENTS[lang].lists, slug: x.slug })),
-    ...allNames(lang).filter(n => n.pop >= 5 && n.home).map(n => ({ lang, section: SEGMENTS[lang].names, slug: n.slug })),
+    ...allNames(lang).filter(n => !quick || (n.pop >= 5 && n.home)).map(n => ({ lang, section: SEGMENTS[lang].names, slug: n.slug })),
   ])
 }
 

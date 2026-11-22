@@ -1,6 +1,6 @@
 import { LOCALES, LOCALE_NAMES, SITE_NAME, paths, type Locale } from '@/i18n/config'
 import type { Dict } from '@/i18n/dict'
-import { NameSearch } from './NameSearch'
+import { IconSearch } from './Icons'
 
 export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
   return (
@@ -11,7 +11,14 @@ export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
           <img src="/logo.png" alt="" width={40} height={40} />
           <span>{SITE_NAME}</span>
         </a>
-        <NameSearch lang={lang} base={paths.names(lang)} placeholder={d.nav.searchPlaceholder} label={d.nav.searchLabel} noResults={d.nav.noResults} />
+        {/* Enhanced by /search.js, a plain script: name and list pages ship no framework code. */}
+        <div className="search" role="search" data-lang={lang} data-base={paths.names(lang)} data-none={d.nav.noResults}>
+          <IconSearch size={20} />
+          <input type="search" name="q" autoComplete="off" spellCheck={false} placeholder={d.nav.searchPlaceholder} aria-label={d.nav.searchLabel}
+            role="combobox" aria-expanded={false} aria-controls="name-search-results" aria-autocomplete="list" />
+          <ul className="search-pop" id="name-search-results" role="listbox" hidden />
+        </div>
+        <script src="/search.js" defer />
         <nav className="nav-links" aria-label={SITE_NAME}>
           <a href={paths.names(lang)}>{d.nav.names}</a>
           <a href={paths.lists(lang)}>{d.nav.lists}</a>

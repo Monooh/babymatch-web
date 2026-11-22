@@ -38,3 +38,7 @@ next-env.d.ts
 # hallmark working files
 .hallmark/shots
 .hallmark/before
+
+# cloudflare packaging
+/dist/
+.wrangler

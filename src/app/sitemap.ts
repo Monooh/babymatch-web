@@ -3,6 +3,8 @@ import { LOCALES, HREFLANG, SITE_URL, paths, type Locale } from '@/i18n/config'
 import { allNames } from '@/lib/names'
 import { allLists, listByKey } from '@/lib/lists'
 
+export const dynamic = 'force-static'
+
 // One sitemap per language: /sitemap/es.xml, /sitemap/en.xml…
 export function generateSitemaps() {
   return LOCALES.map(id => ({ id }))

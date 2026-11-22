@@ -1,0 +1,20 @@
+# URLs of the first, Spanish-only version of the site.
+/nombres/nina /es/listas/nombres-de-nina 301
+/nombres/nino /es/listas/nombres-de-nino 301
+/nombres/espanoles /es/listas/nombres-espanoles 301
+/nombres/vascos /es/listas/nombres-vascos 301
+/nombres/gallegos /es/listas/nombres-gallegos 301
+/nombres/franceses /es/listas/nombres-franceses 301
+/nombres/italianos /es/listas/nombres-italianos 301
+/nombres/escandinavos /es/listas/nombres-escandinavos 301
+/nombres/biblicos /es/listas/nombres-biblicos 301
+/nombres/cortos /es/listas/nombres-cortos 301
+/nombres/largos /es/listas/nombres-largos 301
+/nombres/griegos /es/listas/nombres-griegos 301
+/nombres/irlandeses /es/listas/nombres-irlandeses 301
+/nombres/celtas /es/listas/nombres-irlandeses 301
+/nombres/arabes /es/listas/nombres-arabes 301
+/nombres/hebreos /es/listas/nombres-hebreos 301
+/nombres /es/nombres 301
+/app /es/app 301
+/nombres/* /es/nombres/:splat 301

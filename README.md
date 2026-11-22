@@ -14,6 +14,7 @@ Todo vive en este proyecto Next.js: la web de SEO y la app comparten datos, dise
 | `/sitemap/{idioma}.xml`, `/robots.txt` | Sitemaps con hreflang por idioma |
 
 `/` redirige al idioma del navegador. Las URLs de la primera versión (`/nombres/...`, `/app`) redirigen a `/es/...`.
+Ambas cosas las hace Cloudflare (ver «Despliegue»).
 
 ## Sin cuentas, sin servidor
 
@@ -49,14 +50,39 @@ Las listas no se guardan: se calculan a partir de una clave (`c:basque:f`, `t:bi
 
 ```bash
 npm install
-npm run dev      # http://localhost:3000
-npm run build    # datos + build de producción
+npm run dev          # http://localhost:3000 (redirige "/" a /es)
+npm run build:quick  # build rápido: solo las fichas de los nombres más populares
+npm run build        # datos + exportación estática completa + empaquetado para Cloudflare
 ```
 
 Variable opcional: `NEXT_PUBLIC_SITE_URL` (por defecto `https://babymatch.app`), usada en canónicas, hreflang y sitemaps.
 
-En el build se generan todas las listas y las fichas de los nombres más populares; el resto de fichas se
-generan en la primera visita y quedan en caché.
+## Despliegue en Cloudflare (gratis)
+
+El sitio es HTML estático: `next build` lo exporta a `out/` y `scripts/build-cf.mjs` lo reparte en `dist/cf/`.
+Cloudflare admite 20.000 ficheros por Worker en el plan gratuito y hay más páginas que eso, así que cada idioma
+va en su propio Worker de solo ficheros y uno pequeño atiende el resto:
+
+| Worker | Ruta | Contenido |
+| --- | --- | --- |
+| `babymatch-es`, `-en`, `-fr`, `-de`, `-it`, `-pt` | `babymatch.app/es`, `/es/*`… | Todas las páginas de ese idioma |
+| `babymatch-root` | `babymatch.app/*` | Redirección de `/` según el idioma del navegador, URLs antiguas, `robots.txt`, sitemaps, `/_next`, `/data` |
+
+Las peticiones que responde un fichero estático no ejecutan código: son gratuitas e ilimitadas. El único código
+es `cloudflare/root-worker.js`, que solo corre para `/` y para URLs que no existen.
+
+Las fichas, listas e índices se publican sin el JavaScript de Next (unos 10 KB por página); solo la home y la app
+cargan React. El buscador de la cabecera es `public/search.js`.
+
+```bash
+npx wrangler login   # una vez
+npm run build        # con BM_ROUTES=0 no configura rutas: cada Worker queda solo en su dirección workers.dev
+npm run deploy       # despliega los siete Workers (o `npm run deploy -- es root` para algunos)
+```
+
+Para que las rutas funcionen, `babymatch.app` tiene que ser una zona activa en la misma cuenta de Cloudflare
+(DNS gestionado por Cloudflare). Las redirecciones de las URLs antiguas están en `cloudflare/_redirects` y las
+cabeceras de caché en `cloudflare/_headers`.
 
 ## Diseño
 

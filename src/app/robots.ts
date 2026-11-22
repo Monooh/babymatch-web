@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next'
 import { LOCALES, SITE_URL } from '@/i18n/config'
 
+export const dynamic = 'force-static'
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: '*', allow: '/' },
