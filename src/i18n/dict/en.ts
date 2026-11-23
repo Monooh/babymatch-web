@@ -49,6 +49,13 @@ const en = {
     figNames: 'names with meanings',
     figLists: 'lists to swipe',
     figLangs: 'languages',
+    insideH2: 'Inside the app',
+    insideLead: 'Real screenshots: this is what you see when you open BabyMatch on your phone.',
+    capQuiz: 'Six questions to start with the names that suit you.',
+    capFilters: 'Filters by gender, origin, style, first letter and length.',
+    capLists: '{lists} lists to swipe just one kind of name.',
+    capLikes: 'Your favourites, with the starred ones on top.',
+    shotAlt: 'BabyMatch app screenshot: {what}',
     faqH2: 'Common questions',
     faq: [
       ['What is BabyMatch?', 'BabyMatch is a free website for choosing a baby name as a couple. Each of you swipes through names on your own phone, liking or skipping them, and then you see which names you both chose.'],

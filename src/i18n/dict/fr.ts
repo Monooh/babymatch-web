@@ -50,6 +50,13 @@ const fr: Dict = {
     figNames: 'prénoms avec leur sens',
     figLists: 'listes à swiper',
     figLangs: 'langues',
+    insideH2: 'L’appli de l’intérieur',
+    insideLead: 'De vraies captures : voici ce que tu vois en ouvrant BabyMatch sur ton téléphone.',
+    capQuiz: 'Six questions pour commencer par les prénoms qui te ressemblent.',
+    capFilters: 'Des filtres par genre, origine, style, initiale et longueur.',
+    capLists: '{lists} listes pour ne swiper qu’un type de prénom.',
+    capLikes: 'Tes favoris, avec tes coups de cœur en haut.',
+    shotAlt: 'Capture de l’appli BabyMatch : {what}',
     faqH2: 'Questions fréquentes',
     faq: [
       ['C’est quoi, BabyMatch ?', 'BabyMatch est un site gratuit pour choisir un prénom de bébé à deux. Chacun fait défiler des prénoms sur son téléphone et dit oui ou non ; vous voyez ensuite ceux que vous avez choisis tous les deux.'],

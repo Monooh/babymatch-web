@@ -57,6 +57,13 @@ Dos fuentes dan a cada ficha y a cada lista algo que no tiene ninguna otra pági
 
 El año de los títulos es el del día en que se construye el sitio, así que esas direcciones cambian cada enero.
 
+## Capturas de la app
+
+Las imágenes y los clips de la portada, las fichas y las listas son la app de verdad, capturada en cada idioma:
+`npm run shots` abre la app publicada en un Chrome sin interfaz, la maneja como lo haría una persona (preguntas,
+deslizar, filtros, listas, favoritos, invitación y match) y guarda en `public/shots/{idioma}/` ocho pantallas en
+WebP y dos clips en MP4. Necesita Google Chrome y `ffmpeg`. Vuelve a ejecutarlo cuando cambie el aspecto de la app.
+
 ## Idiomas
 
 - Textos de interfaz: `src/i18n/dict/{idioma}.ts` (el inglés define las claves).

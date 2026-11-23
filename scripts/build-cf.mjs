@@ -65,7 +65,7 @@ function writeConfig(dir, config) {
 function addShared(assets, { everything }) {
   // Language Workers carry the shared files too, so each also works alone on its workers.dev address.
   for (const name of shared) {
-    if (!everything && !['_next', 'data', '404.html', 'search.js', 'consent.js', 'logo.png', 'icon-192.png', 'icon-512.png', 'favicon.ico'].includes(name)) continue
+    if (!everything && !['_next', 'data', '404.html', 'search.js', 'consent.js', 'shots', 'logo.png', 'icon-192.png', 'icon-512.png', 'favicon.ico'].includes(name)) continue
     copy(join(OUT, name), join(assets, name), name)
   }
   copyFileSync(join(CF, '_headers'), join(assets, '_headers'))

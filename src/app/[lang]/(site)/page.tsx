@@ -11,6 +11,7 @@ import { t, num } from '@/lib/t'
 import { Torn } from '@/components/Torn'
 import { HeroDeck } from '@/components/HeroDeck'
 import { Faq } from '@/components/Faq'
+import { Phone, shotSrc, type Shot } from '@/components/Phone'
 import type { CardData } from '@/components/SwipeStack'
 
 type Props = { params: Promise<{ lang: string }> }
@@ -72,10 +73,15 @@ export default async function Home({ params }: Props) {
     '@context': 'https://schema.org', '@type': 'WebApplication', name: SITE_NAME, url: SITE_URL + paths.app(l),
     applicationCategory: 'LifestyleApplication', operatingSystem: 'Any', browserRequirements: 'Requires JavaScript', inLanguage: HREFLANG[l],
     description: t(d.meta.homeDesc, { count: nf(total) }), isAccessibleForFree: true,
+    screenshot: (['swipe', 'match', 'lists'] as Shot[]).map(x => SITE_URL + shotSrc(l, x)),
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
   }
   const faqVars = { count: nf(total), lists: nf(lists.length), langs: LOCALES.length, cultures: nf(cultures.length) }
   const faq = d.home.faq.map(([q, a]) => [q, t(a, faqVars)] as [string, string])
+  const alt = (what: string) => t(d.home.shotAlt, { what })
+  const inside: [Shot, string][] = [
+    ['quiz', d.home.capQuiz], ['filters', d.home.capFilters], ['lists', t(d.home.capLists, { lists: nf(lists.length) })], ['likes', d.home.capLikes],
+  ]
 
   return (
     <>
@@ -139,11 +145,25 @@ export default async function Home({ params }: Props) {
       <section className="section" aria-labelledby="h-match">
         <div className="container">
           <div className="head"><h2 id="h-match">{d.home.matchH2}</h2></div>
-          <ol className="rows">
-            <li><h3>{d.home.row1T}</h3><p>{d.home.row1D}</p></li>
-            <li><h3>{d.home.row2T}</h3><p>{d.home.row2D}</p></li>
-            <li><h3>{d.home.row3T}</h3><p>{d.home.row3D}</p></li>
+          <ol className="steps">
+            <li><Phone l={l} shot="swipe" alt={alt(d.home.row1T)} clip /><h3>{d.home.row1T}</h3><p>{d.home.row1D}</p></li>
+            <li><Phone l={l} shot="invite" alt={alt(d.home.row2T)} /><h3>{d.home.row2T}</h3><p>{d.home.row2D}</p></li>
+            <li><Phone l={l} shot="match" alt={alt(d.home.row3T)} clip /><h3>{d.home.row3T}</h3><p>{d.home.row3D}</p></li>
           </ol>
+        </div>
+      </section>
+
+      <section className="section" aria-labelledby="h-inside">
+        <div className="container">
+          <div className="head head--split">
+            <h2 id="h-inside">{d.home.insideH2}</h2>
+            <p className="lead">{d.home.insideLead}</p>
+          </div>
+          <ul className="gallery">
+            {inside.map(([shot, caption]) => (
+              <li key={shot}><Phone l={l} shot={shot} alt={alt(caption)} /><p>{caption}</p></li>
+            ))}
+          </ul>
         </div>
       </section>
 

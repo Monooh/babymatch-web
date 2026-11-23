@@ -50,6 +50,13 @@ const es: Dict = {
     figNames: 'nombres con significado',
     figLists: 'listas para deslizar',
     figLangs: 'idiomas',
+    insideH2: 'La app por dentro',
+    insideLead: 'Capturas reales: esto es lo que ves al abrir BabyMatch en el móvil.',
+    capQuiz: 'Seis preguntas para empezar por los nombres que encajan contigo.',
+    capFilters: 'Filtros por género, origen, estilo, inicial y longitud.',
+    capLists: '{lists} listas para deslizar solo un tipo de nombre.',
+    capLikes: 'Tus favoritos, con los destacados arriba.',
+    shotAlt: 'Captura de la app BabyMatch: {what}',
     faqH2: 'Preguntas frecuentes',
     faq: [
       ['¿Qué es BabyMatch?', 'BabyMatch es una web gratuita para elegir el nombre de un bebé en pareja. Cada uno desliza nombres en su móvil y dice sí o no; después se ve en cuáles coinciden los dos.'],

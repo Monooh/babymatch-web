@@ -11,6 +11,7 @@ import { pageMeta, jsonLd, breadcrumbLd, abs } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Crumbs } from '@/components/Chrome'
 import { Faq } from '@/components/Faq'
+import { shotSrc } from '@/components/Phone'
 
 type Props = { params: Promise<{ lang: string; section: string; slug: string }> }
 const MAX_ON_PAGE = 400
@@ -207,7 +208,8 @@ export default async function SlugPage({ params }: Props) {
 
         <section className="section section--tight">
           <div className="container">
-            <div className="cta">
+            <div className="cta cta--shot">
+              <div className="cta-shot"><img src={shotSrc(l, 'swipe')} alt={t(d.home.shotAlt, { what: d.common.startSwiping })} width={780} height={1688} loading="lazy" decoding="async" /></div>
               <div>
                 <h2>{t(d.name.ctaH2, { name: n.name })}</h2>
                 <p>{d.name.ctaP}</p>
@@ -282,7 +284,8 @@ export default async function SlugPage({ params }: Props) {
 
       <section className="section section--tight">
         <div className="container">
-          <div className="cta">
+          <div className="cta cta--shot">
+            <div className="cta-shot"><img src={shotSrc(l, 'swipe')} alt={t(d.home.shotAlt, { what: d.common.swipeThisList })} width={780} height={1688} loading="lazy" decoding="async" /></div>
             <div>
               <h2>{t(d.list.ctaH2, { count: nf(list.count) })}</h2>
               <p>{d.list.ctaP}</p>

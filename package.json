@@ -5,6 +5,7 @@
   "scripts": {
     "data": "node scripts/build-data.mjs",
     "people": "node scripts/fetch-people.mjs",
+    "shots": "node scripts/capture-app.mjs",
     "dev": "next dev",
     "build": "node scripts/build-data.mjs && next build && node scripts/build-cf.mjs",
     "build:quick": "BM_ONLY_POPULAR=1 npm run build",
@@ -21,6 +22,7 @@
     "@types/node": "^20.19.39",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "puppeteer-core": "^25.18.1",
     "typescript": "^5.9.3"
   }
 }
