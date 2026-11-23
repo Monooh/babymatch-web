@@ -141,5 +141,7 @@ ok(!!b, 'and her partner is simply unpaired')
 const errs = [...A.errors, ...B.errors, ...C.errors, ...D.errors]
 ok(errs.length === 0, 'no errors in any browser console', errs.slice(0, 5))
 console.log(`${passed} passed, ${failed} failed`)
+// Against the live site, the one person this run leaves behind (the partner) can be removed by this id.
+console.log('left behind: ' + (d && d.uid))
 await browser.close()
 process.exit(failed ? 1 : 0)

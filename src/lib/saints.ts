@@ -11,11 +11,21 @@ import { allNames } from './names'
 type Stored = { id: string; day: string; links?: number; l: Record<string, string>; t: Record<string, string>; w: Record<string, string> }
 export type Saint = { id: string; month: number; day: number; date: string; name: string; about: string; url: string | null }
 
+type Fixes = { day?: Record<string, string>; first?: Record<string, string> }
 let saints: Record<string, Stored[]> | null = null
 function all() {
   if (!saints) {
-    const path = join(process.cwd(), 'data/saints.json')
-    saints = existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : {}
+    const read = (file: string) => { const path = join(process.cwd(), 'data', file); return existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : {} }
+    const data = read('saints.json') as Record<string, Stored[]>
+    // A short list of hand corrections (data/saints-fixes.json): a wrong day, or the saint a name day really follows.
+    const fixes = read('saints-fixes.json') as Fixes
+    const byId = new Map<string, Stored>()
+    for (const rows of Object.values(data)) for (const r of rows) { if (fixes.day?.[r.id]) r.day = fixes.day[r.id]; if (!byId.has(r.id)) byId.set(r.id, r) }
+    for (const [slug, id] of Object.entries(fixes.first || {})) {
+      const saint = byId.get(id) // may be filed under another name: Francis Xavier under Francisco
+      if (saint) data[slug] = [saint, ...(data[slug] || []).filter(r => r.id !== id)]
+    }
+    saints = data
   }
   return saints!
 }

@@ -275,6 +275,7 @@ for (const id of wanted) {
   if (!slugs.size) continue
   mary ? marian++ : persons++
   const row = { id, day: null, links: s.links, l: lean(inLangs(e.l, e.l.mul)), t: inLangs(e.t), w: inLangs(e.w) }
+  if (sex.size === 1) row.g = [...sex][0]
   if (mary) row.k = 'mary'
   const weight = s.links * (!mary && regnal(labels) ? REGNAL_WEIGHT : 1)
   for (const slug of slugs) { if (!bySlug.has(slug)) bySlug.set(slug, []); bySlug.get(slug).push({ row, weight }) }

@@ -124,7 +124,9 @@ for (const [slug, recs] of bySlug) {
 master.sort((a, b) => a.slug.localeCompare(b.slug))
 
 // ───── Real-world data layered on top of the names (both optional: the site builds without them) ─────
-const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model']
+// Same order as FAME in src/lib/model.ts: people first, then the stories whose characters make a list.
+const FICTION = ['harry-potter', 'disney', 'pixar', 'star-wars', 'marvel', 'dc', 'game-of-thrones', 'middle-earth', 'twilight', 'stranger-things', 'friends', 'simpsons', 'pokemon', 'shakespeare', 'attack-on-titan', 'greys-anatomy']
+const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model', ...FICTION]
 const NEW_ENTRY = 999
 const entryBySlug = new Map(master.map(e => [e.slug, e]))
 const entryByForm = new Map()
@@ -151,6 +153,16 @@ for (const kind of FAME) {
       fame[e.slug] ||= {}
       if (!fame[e.slug][kind]) fame[e.slug][kind] = { id: person.id, l: person.l, t: person.t, w: person.w }
     }
+  }
+}
+// Names borne by fictional characters (data/characters.json, from scripts/fetch-characters.mjs): already matched to a slug.
+const characters = readJson(join(ROOT, 'data/characters.json')) || {}
+const slugs = new Set(master.map(e => e.slug))
+for (const universe of FICTION) {
+  for (const who of characters[universe]?.people || []) {
+    if (!slugs.has(who.slug)) continue
+    fame[who.slug] ||= {}
+    if (!fame[who.slug][universe]) fame[who.slug][universe] = { id: who.id, links: who.links, l: who.l, t: who.t, w: who.w }
   }
 }
 for (const e of master) if (fame[e.slug]) e.k = FAME.filter(k => fame[e.slug][k])

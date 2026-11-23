@@ -2,7 +2,7 @@ import 'server-only'
 import { type Locale } from '@/i18n/config'
 import { getDict } from '@/i18n/dict'
 import { listSlug, listTitle } from '@/i18n/taxonomy'
-import { allListKeys, matchList, parseListKey, listOrder, type ListKey, type N } from './model'
+import { allListKeys, isFiction, matchList, parseListKey, listOrder, type ListKey, type N } from './model'
 import { allNames } from './names'
 
 export type ListInfo = { key: ListKey; title: string; slug: string; count: number }
@@ -31,10 +31,10 @@ export const listBySlug = (l: Locale, slug: string) => data(l).bySlug.get(slug)
 export const listByKey = (l: Locale, key: ListKey) => data(l).byKey.get(key)
 export const listNames = (l: Locale, key: ListKey): N[] => allNames(l).filter(n => matchList(key, n)).sort(listOrder(key))
 
-export type ListGroup = 'gender' | 'popular' | 'famous' | 'origin' | 'style' | 'length' | 'letter'
+export type ListGroup = 'gender' | 'popular' | 'famous' | 'fiction' | 'origin' | 'style' | 'length' | 'letter'
 export function groupOf(key: ListKey): ListGroup {
-  const { kind } = parseListKey(key)
-  return kind === 'g' ? 'gender' : kind === 'pop' || kind === 'y' ? 'popular' : kind === 'fame' ? 'famous' : kind === 'c' ? 'origin' : kind === 't' ? 'style'
+  const { kind, value } = parseListKey(key)
+  return kind === 'g' ? 'gender' : kind === 'pop' || kind === 'y' ? 'popular' : kind === 'fame' ? (isFiction(value) ? 'fiction' : 'famous') : kind === 'c' ? 'origin' : kind === 't' ? 'style'
     : kind === 'l' ? 'letter' : 'length'
 }
 
@@ -45,7 +45,8 @@ export function listsForName(l: Locale, n: N, limit = 10): ListInfo[] {
   const gk = (base: string) => (g === 'u' ? base : `${base}:${g}`)
   if (n.rank) keys.push(gk('y:now'))
   if (n.rise) keys.push(gk('y:next'))
-  for (const k of n.fame.slice(0, 2)) keys.push(gk(`fame:${k}`))
+  // Up to two kinds of famous people and two stories, so one does not crowd out the other.
+  for (const k of [...n.fame.filter(k => !isFiction(k)).slice(0, 2), ...n.fame.filter(isFiction).slice(0, 2)]) keys.push(gk(`fame:${k}`))
   for (const c of n.cultures.slice(0, 2)) keys.push(g === 'u' ? `c:${c}` : `c:${c}:${g}`)
   for (const tg of n.tags.slice(0, 3)) keys.push(g === 'u' ? `t:${tg}` : `t:${tg}:${g}`)
   keys.push(g === 'u' ? 'g:u' : `g:${g}`)

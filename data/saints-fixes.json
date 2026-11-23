@@ -1,0 +1,24 @@
+{
+  "_": "Corrections applied on top of data/saints.json (src/lib/saints.ts). Wikidata has these wrong, incomplete or in an order that does not match the day a name is actually celebrated. Keep this list short and only for dates that are beyond dispute.",
+  "day": {
+    "Q128267": "03-19",
+    "Q9200": "06-29",
+    "Q63070": "07-22"
+  },
+  "why": {
+    "Q128267": "Saint Joseph: the solemnity is 19 March; Wikidata only carries 1 May (Joseph the Worker).",
+    "Q9200": "Paul the Apostle: Saints Peter and Paul, 29 June, is marked deprecated in Wikidata.",
+    "Q63070": "Mary Magdalene: feast on 22 July; Wikidata lists it second.",
+    "carlos": "Charles Borromeo (4 November) is the saint the name day follows, not Charlemagne.",
+    "teresa": "Teresa of Ávila (15 October) is the saint the name day follows, ahead of Mother Teresa.",
+    "javier": "Francis Xavier (3 December) is filed under Francisco because matching is by first name.",
+    "magdalena": "Mary Magdalene is filed under María for the same reason."
+  },
+  "first": {
+    "carlos": "Q216946",
+    "teresa": "Q174880",
+    "javier": "Q163900",
+    "xavier": "Q163900",
+    "magdalena": "Q63070"
+  }
+}

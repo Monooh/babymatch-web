@@ -23,7 +23,11 @@ export type Tag = (typeof TAGS)[number]
 export type Gender = 'f' | 'm' | 'u'
 
 /** Occupations with a list of their own: a name is on it when one of the best-known people of that kind bears it. */
-export const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model'] as const
+/** Stories with a list of their own: a name is on it when one of their characters bears it (data/characters.json). */
+export const FICTION = ['harry-potter', 'disney', 'pixar', 'star-wars', 'marvel', 'dc', 'game-of-thrones', 'middle-earth', 'twilight', 'stranger-things', 'friends', 'simpsons', 'pokemon', 'shakespeare', 'attack-on-titan', 'greys-anatomy'] as const
+/** New kinds go at the end: the app's data files refer to a kind by its position here. */
+export const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model', ...FICTION] as const
+export const isFiction = (kind: string) => (FICTION as readonly string[]).includes(kind)
 export type Fame = (typeof FAME)[number]
 
 /** One name, already resolved for one site language. */

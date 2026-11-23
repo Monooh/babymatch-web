@@ -160,6 +160,23 @@ const FAME_MOD: Record<Fame, Six> = {
   actor: ['de actores y actrices', 'of famous actors', 'd’acteurs et d’actrices', 'von Schauspielerinnen und Schauspielern', 'di attori e attrici', 'de atores e atrizes'],
   footballer: ['de futbolistas', 'of famous footballers', 'de footballeurs', 'von Fußballern', 'di calciatori', 'de jogadores de futebol'],
   model: ['de modelos', 'of famous models', 'de mannequins', 'von Models', 'di modelle e modelli', 'de modelos'],
+  // Stories: "Nombres de personajes de Harry Potter", "Names of Harry Potter characters".
+  'harry-potter': ['de personajes de Harry Potter', 'of Harry Potter characters', 'de personnages de Harry Potter', 'von Figuren aus Harry Potter', 'di personaggi di Harry Potter', 'de personagens de Harry Potter'],
+  'disney': ['de personajes de Disney', 'of Disney characters', 'de personnages Disney', 'von Disney-Figuren', 'di personaggi Disney', 'de personagens da Disney'],
+  'pixar': ['de personajes de Pixar', 'of Pixar characters', 'de personnages Pixar', 'von Pixar-Figuren', 'di personaggi Pixar', 'de personagens da Pixar'],
+  'star-wars': ['de personajes de Star Wars', 'of Star Wars characters', 'de personnages de Star Wars', 'von Figuren aus Star Wars', 'di personaggi di Star Wars', 'de personagens de Star Wars'],
+  'marvel': ['de personajes de Marvel', 'of Marvel characters', 'de personnages Marvel', 'von Marvel-Figuren', 'di personaggi Marvel', 'de personagens da Marvel'],
+  'dc': ['de personajes de DC', 'of DC characters', 'de personnages DC', 'von DC-Figuren', 'di personaggi DC', 'de personagens da DC'],
+  'game-of-thrones': ['de personajes de Juego de Tronos', 'of Game of Thrones characters', 'de personnages de Game of Thrones', 'von Figuren aus Game of Thrones', 'di personaggi de Il Trono di Spade', 'de personagens de Game of Thrones'],
+  'middle-earth': ['de personajes de El Señor de los Anillos', 'of The Lord of the Rings characters', 'de personnages du Seigneur des anneaux', 'von Figuren aus Der Herr der Ringe', 'di personaggi de Il Signore degli Anelli', 'de personagens de O Senhor dos Anéis'],
+  'twilight': ['de personajes de Crepúsculo', 'of Twilight characters', 'de personnages de Twilight', 'von Figuren aus Twilight', 'di personaggi di Twilight', 'de personagens de Crepúsculo'],
+  'stranger-things': ['de personajes de Stranger Things', 'of Stranger Things characters', 'de personnages de Stranger Things', 'von Figuren aus Stranger Things', 'di personaggi di Stranger Things', 'de personagens de Stranger Things'],
+  'friends': ['de personajes de Friends', 'of Friends characters', 'de personnages de Friends', 'von Figuren aus Friends', 'di personaggi di Friends', 'de personagens de Friends'],
+  'simpsons': ['de personajes de Los Simpson', 'of The Simpsons characters', 'de personnages des Simpson', 'von Figuren aus Die Simpsons', 'di personaggi dei Simpson', 'de personagens de Os Simpsons'],
+  'pokemon': ['de personajes de Pokémon', 'of Pokémon characters', 'de personnages de Pokémon', 'von Figuren aus Pokémon', 'di personaggi dei Pokémon', 'de personagens de Pokémon'],
+  'shakespeare': ['de personajes de Shakespeare', 'of Shakespeare characters', 'de personnages de Shakespeare', 'von Shakespeare-Figuren', 'di personaggi di Shakespeare', 'de personagens de Shakespeare'],
+  'attack-on-titan': ['de personajes de Ataque a los Titanes', 'of Attack on Titan characters', 'de personnages de L’Attaque des Titans', 'von Figuren aus Attack on Titan', 'di personaggi de L’attacco dei giganti', 'de personagens de Attack on Titan'],
+  'greys-anatomy': ['de personajes de Anatomía de Grey', 'of Grey’s Anatomy characters', 'de personnages de Grey’s Anatomy', 'von Figuren aus Grey’s Anatomy', 'di personaggi di Grey’s Anatomy', 'de personagens de Grey’s Anatomy'],
 }
 
 // ── The country whose ranking each site language reads, and the body that publishes it ──

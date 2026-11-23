@@ -7,8 +7,8 @@ import { allNames, getName, middleNames, namesByLetter, otherForms, siblingNames
 import { statsFor, type NameStats } from '@/lib/stats'
 import { calendar, monthCount, monthFromSlug, monthName, monthSlug, nameDays } from '@/lib/saints'
 import { allLists, listBySlug, listByKey, listNames, listsForName, relatedLists } from '@/lib/lists'
-import { NEW_ENTRY, firstLetter, nameLength, parseListKey, type Fame, type N } from '@/lib/model'
-import { famousNamed, fameExample, officialFor, ranksFor, type RankRow } from '@/lib/people'
+import { NEW_ENTRY, firstLetter, isFiction, nameLength, parseListKey, type Fame, type N } from '@/lib/model'
+import { famousNamed, fameExample, fameWeight, officialFor, ranksFor, type RankRow } from '@/lib/people'
 import { pageMeta, jsonLd, breadcrumbLd, abs } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Crumbs } from '@/components/Chrome'
@@ -391,7 +391,11 @@ export default async function SlugPage({ params }: Props) {
   const { kind, value, gender: listGender } = parseListKey(list.key)
   const gendered = !!listGender
   const official = kind === 'y' ? officialFor(l) : undefined
-  const names = listNames(l, list.key)
+  const listed0 = listNames(l, list.key)
+  // A list of characters opens with the ones everybody knows (Harry, Hermione), not with the commonest names.
+  const names = kind === 'fame' && isFiction(value)
+    ? [...listed0].sort((a, b) => fameWeight(b.slug, value as Fame) - fameWeight(a.slug, value as Fame) || a.name.localeCompare(b.name, l))
+    : listed0
   const shown = names.slice(0, MAX_ON_PAGE)
   const related = relatedLists(l, list.key, 9)
   const appHref = `${paths.app(l)}?list=${encodeURIComponent(list.key)}`
@@ -410,7 +414,7 @@ export default async function SlugPage({ params }: Props) {
           <p className="lead">{
             official && value === 'now' ? t(d.list.yNowLead, { source: official.source, dataYear: official.year, count: nf(list.count) })
               : official ? t(d.list.yNextLead, { source: RANK_SOURCE[l], prevYear: official.prevYear || '', dataYear: official.year, year: YEAR_NOW + 1 })
-                : t(kind === 'fame' ? d.list.fameLead : d.list.intro, { title: list.title, count: nf(list.count), top: listed(names.slice(0, 5).map(n => n.name)) })
+                : t(kind === 'fame' ? (isFiction(value) ? d.list.ficLead : d.list.fameLead) : d.list.intro, { title: list.title, count: nf(list.count), top: listed(names.slice(0, 5).map(n => n.name)) })
           }</p>
           {official ? <p className="muted note">{d.list.source}: <a className="link" href={official.url} rel="noopener">{official.source}</a>{official.secondary ? ` · ${d.list.secondary}` : ''}</p> : null}
           <div className="hero-actions">

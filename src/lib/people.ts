@@ -45,6 +45,8 @@ export function fameExample(l: Locale, slug: string, kind: Fame): Person | null 
   const p = FAME[slug]?.[kind]
   return p ? show(p, l) : null
 }
+/** How well known that person or character is (Wikipedia language editions): the order of a list of characters. */
+export const fameWeight = (slug: string, kind: Fame) => FAME[slug]?.[kind]?.links || 0
 
 type Official = { source: string; url: string; secondary: boolean; year: number; prevYear: number | null; f: [string, number, number][]; m: [string, number, number][] }
 const OFFICIAL = officialData as unknown as Partial<Record<Locale, Official>>

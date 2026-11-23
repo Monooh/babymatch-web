@@ -82,6 +82,11 @@ El año de los títulos es el del día en que se construye el sitio, así que es
   `src/lib/stats.ts` las lee al construir y la ficha las muestra en «{nombre} en cifras».
 - `node scripts/fetch-saints.mjs` escribe `data/saints.json` (Wikidata): el santo de cada nombre. Sale en la ficha
   («Santo de {nombre}») y en el calendario por meses (`/es/santoral`, `/en/name-days`…, `src/lib/saints.ts`).
+  `data/saints-fixes.json` corrige a mano las pocas fechas que Wikidata trae mal (San José, San Pablo…).
+- `node scripts/fetch-characters.mjs` escribe `data/characters.json` (Wikidata): personajes de 16 sagas y series
+  cuyo nombre está en la base. Cada una es una lista («Nombres de personajes de Harry Potter»); para añadir otra,
+  quita `list: false` en el script y añade su clave a `FICTION` (`src/lib/model.ts` y `scripts/build-data.mjs`)
+  y su título a `FAME_MOD` (`src/i18n/taxonomy.ts`).
 - Los nombres de hermanos y los segundos nombres de cada ficha no vienen de ninguna fuente: se calculan en
   `src/lib/names.ts` (`siblingNames`, `middleNames`) con el estilo, el origen, la popularidad y la sonoridad.
 

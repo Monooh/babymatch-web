@@ -6,7 +6,7 @@
 // Two or three SPARQL queries per universe, one at a time and six seconds apart (Wikidata throttles this machine hard).
 // Each answer is kept in the system temp folder for a week, so a run that dies picks up where it stopped.
 // Writes data/characters.json (the universes that yield enough of our names) and data/raw/characters-universes.json
-// (every universe tried, with its counts and whether it was kept).
+// (every universe tried, with its counts, whether it was kept, and its best-known characters whose name we do not have).
 import { readFileSync, writeFileSync, existsSync, renameSync, mkdirSync, statSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -23,6 +23,7 @@ const KEEP = 60         // characters kept per universe
 const PER_NAME = 3      // of which at most this many share a name, so sixty rows do not turn into twenty Johns
 const MIN_LINKS = 1     // at least one Wikipedia article somewhere
 const MIN_NAMES = 12    // a universe with fewer of our names than this does not make a list
+const MISSED = 15       // best-known characters without a name of ours, listed per universe in the stats file
 const GAP = 6000        // between two queries
 const BATCH = 400       // characters per details query
 const FRESH = process.argv.includes('--fresh')
@@ -30,38 +31,42 @@ const FRESH = process.argv.includes('--fresh')
 // Where a universe's characters hang in Wikidata. `in`: the fictional universes (P1080), franchises (P8345) and works
 // (P1441) a character can point to. `studio`: every work that studio produced (P272). `author`: every work by that
 // writer (P50), plus the characters credited to them (P170). `qid` is the item the list is named after; `name`
-// replaces its label when Wikidata's would read oddly as a title.
+// replaces its label when Wikidata's would read oddly as a title. `skip`: English labels that are not what they seem
+// (a guest from another franchise, a code name, a family name written first). `surnameFirst`: the labels put the
+// family name first, so only one-word names can be trusted. `list: false`: fetched and counted in the stats file, but
+// left out of characters.json to keep it to sixteen lists; delete the flag to add the list.
 const UNIVERSES = {
   'harry-potter': { qid: 'Q8337', in: ['Q5410773', 'Q30739117', 'Q8337', 'Q216930'] },
-  'disney': { qid: 'Q1047410', name: 'Disney', studio: ['Q1047410'], in: ['Q1140303', 'Q18148065', 'Q246283', 'Q6548398', 'Q2901452', 'Q16155122', 'Q15731902', 'Q20649552', 'Q113674891', 'Q3260246', 'Q12301358'] },
-  'pixar': { qid: 'Q127552', studio: ['Q127552'], in: ['Q2316015', 'Q15885268', 'Q5046850'] },
+  'disney': { qid: 'Q1047410', name: 'Disney', studio: ['Q1047410'], in: ['Q1140303', 'Q18148065', 'Q246283', 'Q6548398', 'Q2901452', 'Q16155122', 'Q15731902', 'Q20649552', 'Q113674891', 'Q3260246', 'Q12301358'],
+    skip: ['Ryu', 'Ken Masters', 'Donald Duckling'] }, // Street Fighter guests in Wreck-It Ralph; a duplicate of Donald Duck
+  'pixar': { qid: 'Q127552', studio: ['Q127552'], in: ['Q2316015', 'Q15885268', 'Q5046850'], skip: ['Lewis Hamilton'] }, // the racing driver, as himself in Cars 2
   'star-wars': { qid: 'Q462', in: ['Q462', 'Q19786052', 'Q3551295'] },
-  'marvel': { qid: 'Q931597', name: 'Marvel', in: ['Q931597', 'Q2246088', 'Q642878'] },
-  'dc': { qid: 'Q1152150', name: 'DC', in: ['Q1152150', 'Q20775209'] },
+  'marvel': { qid: 'Q931597', name: 'Marvel', in: ['Q931597', 'Q2246088', 'Q642878'], skip: ['Storm', 'Falcon', 'Echo', 'Nova', 'Vision', 'Angel', 'Rogue', 'Cable', 'Bishop', 'Havok', 'Sentry'] },
+  'dc': { qid: 'Q1152150', name: 'DC', in: ['Q1152150', 'Q20775209'], skip: ['Flash', 'Oracle', 'Huntress', 'Arsenal', 'Speedy', 'Steel'] },
   'game-of-thrones': { qid: 'Q23572', in: ['Q2461698', 'Q45875', 'Q23572', 'Q17164884'] },
   'middle-earth': { qid: 'Q79734', in: ['Q81738', 'Q15228', 'Q74287', 'Q79762'] },
-  'twilight': { qid: 'Q44523', in: ['Q20645685', 'Q44523', 'Q652599', 'Q54807402', 'Q189378', 'Q160071', 'Q53945'] },
+  'twilight': { qid: 'Q44523', in: ['Q20645685', 'Q44523', 'Q652599', 'Q189378', 'Q160071', 'Q53945'] },
   'hunger-games': { qid: 'Q11679', in: ['Q748351', 'Q11679', 'Q11885031', 'Q11678'] },
   'stranger-things': { qid: 'Q19798734', in: ['Q19798734', 'Q123728481'] },
   'friends': { qid: 'Q79784', in: ['Q79784'] },
   'simpsons': { qid: 'Q886', in: ['Q61468436', 'Q7764350', 'Q886'] },
   'naruto': { qid: 'Q642', in: ['Q1088263', 'Q642'] },
   'dragon-ball': { qid: 'Q2020', in: ['Q3551230', 'Q2020'] },
-  'one-piece': { qid: 'Q673', in: ['Q16682047', 'Q673'] },
+  'one-piece': { qid: 'Q673', in: ['Q16682047', 'Q673'], surnameFirst: true }, // Nico Robin, Charlotte Linlin, Bartholomew Kuma: all family names
   'pokemon': { qid: 'Q864', in: ['Q17562848', 'Q864'] },
   'ghibli': { qid: 'Q182950', studio: ['Q182950'] },
   'shakespeare': { qid: 'Q692', author: ['Q692'] },
   // Not on the first wish list, but well covered and full of ordinary given names.
   'attack-on-titan': { qid: 'Q586025', in: ['Q123784069', 'Q586025'] },
-  'star-trek': { qid: 'Q1092', in: ['Q18043309', 'Q1092'] },
-  'doctor-who': { qid: 'Q34316', in: ['Q3567870', 'Q98137611', 'Q34316'] },
-  'walking-dead': { qid: 'Q232737', in: ['Q99429862', 'Q3177580', 'Q232737'] },
-  'narnia': { qid: 'Q501121', name: 'Narnia', in: ['Q501121'] },
-  'peanuts': { qid: 'Q7115636', in: ['Q98149594', 'Q7115636'] },
+  'greys-anatomy': { qid: 'Q438406', in: ['Q438406'] },
+  'star-trek': { qid: 'Q1092', in: ['Q18043309', 'Q1092'], list: false, skip: ['Kira Nerys', 'Kai Opaka', 'Li Nalas', 'Tora Ziyal'] }, // Bajoran family names come first; Kai is a title
+  'doctor-who': { qid: 'Q34316', in: ['Q3567870', 'Q98137611', 'Q34316'], list: false },
+  'walking-dead': { qid: 'Q232737', in: ['Q99429862', 'Q3177580', 'Q232737'], list: false },
+  'big-bang-theory': { qid: 'Q8539', in: ['Q141934409', 'Q8539'], list: false },
+  'narnia': { qid: 'Q501121', name: 'Narnia', in: ['Q501121'], list: false },
+  'peanuts': { qid: 'Q7115636', in: ['Q98149594', 'Q7115636'], list: false },
   'peppa-pig': { qid: 'Q938985', in: ['Q109061852', 'Q938985'] },
   'how-i-met-your-mother': { qid: 'Q147235', in: ['Q147235'] },
-  'greys-anatomy': { qid: 'Q438406', in: ['Q438406'] },
-  'big-bang-theory': { qid: 'Q8539', in: ['Q141934409', 'Q8539'] },
   'the-witcher': { qid: 'Q11835640', in: ['Q1989642', 'Q11835640', 'Q47500433'] },
   'little-women': { qid: 'Q523076', in: ['Q523076'] },
   'pride-and-prejudice': { qid: 'Q170583', in: ['Q170583'] },
@@ -81,7 +86,7 @@ const RANK = new Set(['lord', 'darth', 'professor', 'prof.', 'captain', 'capt.',
 // Second words that give away a code name: Scarlet Witch, Winter Soldier, Iron Man.
 const CODE_NAME = new Set(['witch', 'soldier', 'knight', 'man', 'woman', 'girl', 'boy', 'lad', 'lass', 'surfer', 'widow', 'panther', 'lantern', 'hornet', 'rider', 'torch', 'spider',
   'hulk', 'raccoon', 'beetle', 'devil', 'demon', 'sorcerer', 'monster', 'machine', 'squad', 'corps', 'patrol', 'america', 'marvel', 'lord', 'ranger', 'racer', 'avenger', 'guardian',
-  'titan', 'dragon', 'ninja', 'turtle', 'pony', 'bot', 'prime', 'mouse', 'duck', 'bear', 'dog', 'cat', 'pig', 'rabbit', 'bunny', 'tiger', 'lion', 'wolf'])
+  'titan', 'ninja', 'bot', 'prime', 'master', 'trio', 'duo', 'family', 'twins', 'brothers', 'sisters', 'siblings', 'gang', 'team', 'clan'])
 
 const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
 const sleep = ms => new Promise(r => setTimeout(r, ms))
@@ -141,7 +146,9 @@ async function candidates(u) {
   if (u.in) for (const p of ['P1080', 'P8345', 'P1441']) parts.push(`{ ${values('?u', u.in)} ?c wdt:${p} ?u }`)
   if (u.studio) parts.push(`{ ${values('?x', u.studio)} ?w wdt:P272 ?x . ?c wdt:P1441 ?w }`)
   if (u.author) parts.push(`{ ${values('?x', u.author)} ?w wdt:P50 ?x . ?c wdt:P1441 ?w }`, `{ ${values('?x', u.author)} ?c wdt:P170 ?x }`)
+  // Without the hint the query service starts from "everything that has a sitelink count" and times out; with it, it works top to bottom.
   const rows = await sparql(`SELECT ?c ?links ?en ?mul WHERE {
+    hint:Query hint:optimizer "None" .
     { SELECT DISTINCT ?c WHERE { ${parts.join(' UNION ')} } }
     ?c wikibase:sitelinks ?links . FILTER(?links >= ${MIN_LINKS})
     OPTIONAL { ?c rdfs:label ?en . FILTER(LANG(?en) = "en") }
@@ -191,17 +198,18 @@ for (const e of [...master].sort((a, b) => b.p - a.p || a.slug.localeCompare(b.s
 /** The name of ours a character goes by, from the label English-speaking fans know them by, or null.
  *  "Hermione Granger" → hermione, "Mary Jane Watson" → mary-jane if we have it, else mary, "Jean-Luc Picard" → jean-luc or jean,
  *  "Princess Leia" → leia; nothing for "Lord Voldemort", "Captain America", "Scarlet Witch" or "Timon and Pumbaa". */
-function nameOf(label) {
+function nameOf(label, surnameFirst) {
   let words = label.replace(/["“”«»]/g, '').replace(/\s*\(.*\)\s*$/, '').trim().split(/\s+/)
-  if (words.some(w => /^(and|&|'n'|n'|vs\.?)$/i.test(w))) return null
+  if (words.some(w => /^(and|&|'n'|n'|vs\.?)$/i.test(w)) || (surnameFirst && words.length > 1)) return null
   if (words.length > 1 && COURTESY.has(fold(words[0]))) words = words.slice(1)
   const first = fold(words[0].replace(/[,.:;]+$/, ''))
   if (RANK.has(first) || COURTESY.has(first)) return null
-  if (words.length === 2 && CODE_NAME.has(fold(words[1]))) return null
+  if (words.length > 1 && words.length < 4 && CODE_NAME.has(fold(words[words.length - 1]))) return null
   if (words.length > 2) { const two = slugBySpelling.get(first + ' ' + fold(words[1])) || slugBySpelling.get(first + '-' + fold(words[1])); if (two) return two }
   if (slugBySpelling.has(first)) return slugBySpelling.get(first)
+  // "Jean-Luc" and "Jack-Jack" are a first name and another one; "Obi-Wan" and "Bo-Katan" only look like it.
   const dash = first.indexOf('-')
-  if (dash > 0 && !CODE_NAME.has(first.slice(dash + 1))) return slugBySpelling.get(first.slice(0, dash)) || null
+  if (dash > 0 && slugBySpelling.has(first.slice(dash + 1))) return slugBySpelling.get(first.slice(0, dash)) || null
   return null
 }
 
@@ -220,10 +228,12 @@ const stats = only.length && existsSync(STATS) ? JSON.parse(readFileSync(STATS, 
 
 for (const [key, u] of Object.entries(UNIVERSES)) {
   if (only.length && !only.includes(key)) continue
-  const all = await candidates(u)
-  const named = all.map(c => ({ ...c, slug: nameOf(c.label) })).filter(c => c.slug)
+  const all = (await candidates(u)).filter(c => !u.skip?.includes(c.label))
+  const named = all.map(c => ({ ...c, slug: nameOf(c.label, u.surnameFirst) })).filter(c => c.slug)
+  // The best-known ones we have no name for, to see what a list is missing (Draco, Sirius, Leia…).
+  const unnamed = all.filter(c => !nameOf(c.label, u.surnameFirst)).sort((a, b) => b.links - a.links || a.id.localeCompare(b.id)).slice(0, MISSED * 3)
   const info = new Map()
-  const ids = [...new Set([u.qid, ...named.map(c => c.id)])].sort()
+  const ids = [...new Set([u.qid, ...named.map(c => c.id), ...unnamed.map(c => c.id)])].sort()
   for (let i = 0; i < ids.length; i += BATCH) await details(ids.slice(i, i + BATCH), info)
 
   // One row per character: Wikidata often has the book's, the film's and the game's version of the same one.
@@ -244,11 +254,16 @@ for (const [key, u] of Object.entries(UNIVERSES)) {
     people.push(row)
   }
   const label = u.name ? Object.fromEntries(LANGS.map(l => [l, u.name])) : inLangs(info.get(u.qid)?.l || {}, info.get(u.qid)?.l.mul)
-  const kept = names.size >= MIN_NAMES
-  stats[key] = { qid: u.qid, label: label.en, items: all.length, characters, names: names.size, rows: people.length, kept }
+  const enough = names.size >= MIN_NAMES, kept = enough && u.list !== false
+  const missed = unnamed.filter(c => info.get(c.id)?.character).slice(0, MISSED).map(c => c.label)
+  // Named, but Wikidata does not call it a fictional character (a ship, a place, a film, a real person): worth a look when a list seems thin.
+  const notCharacters = named.filter(c => info.get(c.id) && !info.get(c.id).character).map(c => c.label)
+  stats[key] = { qid: u.qid, label: label.en, items: all.length, characters, names: names.size, rows: people.length, kept,
+    why: kept ? undefined : enough ? 'enough names, left out to keep the file to sixteen lists (list: false)' : `fewer than ${MIN_NAMES} of our names`,
+    missed, notCharacters: notCharacters.slice(0, 12), notCharactersCount: notCharacters.length }
   if (kept) out[key] = { qid: u.qid, label, people }
   else delete out[key]
-  console.log(`${kept ? '✓' : '✗'} ${key}: ${all.length} items with a Wikipedia article · ${characters} characters go by one of our names · ${names.size} names · ${people.length} rows`)
+  console.log(`${kept ? '✓' : enough ? '·' : '✗'} ${key}: ${all.length} items with a Wikipedia article · ${characters} characters go by one of our names · ${names.size} names · ${people.length} rows`)
   save(OUT, out)
   save(STATS, stats)
 }

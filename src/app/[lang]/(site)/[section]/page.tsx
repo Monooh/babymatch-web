@@ -145,7 +145,7 @@ export default async function SectionPage({ params }: Props) {
   // lists hub
   const lists = allLists(l)
   const groups: [ListGroup, string][] = [
-    ['gender', d.listsHub.gGender], ['popular', d.listsHub.gPopular], ['famous', d.listsHub.gFamous], ['origin', d.listsHub.gOrigin],
+    ['gender', d.listsHub.gGender], ['popular', d.listsHub.gPopular], ['famous', d.listsHub.gFamous], ['fiction', d.listsHub.gFiction], ['origin', d.listsHub.gOrigin],
     ['style', d.listsHub.gStyle], ['length', d.listsHub.gLength], ['letter', d.listsHub.gLetter],
   ]
   const by = (g: ListGroup): ListInfo[] => lists.filter(x => groupOf(x.key) === g)
