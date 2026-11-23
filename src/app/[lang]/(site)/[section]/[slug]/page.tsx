@@ -3,7 +3,9 @@ import { notFound } from 'next/navigation'
 import { HREFLANG, LOCALES, SEGMENTS, isLocale, paths, type Locale } from '@/i18n/config'
 import { getDict } from '@/i18n/dict'
 import { RANK_SOURCE, YEAR_NOW, countryName, cultureLabel, cultureListPhrase, genderAdj, rootAdj, tagLabel } from '@/i18n/taxonomy'
-import { allNames, getName, namesByLetter, otherForms, similarNames } from '@/lib/names'
+import { allNames, getName, middleNames, namesByLetter, otherForms, siblingNames, similarNames } from '@/lib/names'
+import { statsFor, type NameStats } from '@/lib/stats'
+import { calendar, monthCount, monthFromSlug, monthName, monthSlug, nameDays } from '@/lib/saints'
 import { allLists, listBySlug, listByKey, listNames, listsForName, relatedLists } from '@/lib/lists'
 import { NEW_ENTRY, firstLetter, nameLength, parseListKey, type Fame, type N } from '@/lib/model'
 import { famousNamed, fameExample, officialFor, ranksFor, type RankRow } from '@/lib/people'
@@ -25,12 +27,14 @@ export function generateStaticParams() {
   return LOCALES.flatMap(lang => [
     ...allLists(lang).map(x => ({ lang, section: SEGMENTS[lang].lists, slug: x.slug })),
     ...allNames(lang).filter(n => !quick || (n.pop >= 5 && n.home)).map(n => ({ lang, section: SEGMENTS[lang].names, slug: n.slug })),
+    ...Array.from({ length: 12 }, (_, i) => ({ lang, section: SEGMENTS[lang].saints, slug: monthSlug(lang, i + 1) })),
   ])
 }
 
 function resolve(lang: Locale, section: string, slug: string) {
   if (section === SEGMENTS[lang].names) { const n = getName(lang, slug); return n ? { kind: 'name' as const, n } : null }
   if (section === SEGMENTS[lang].lists) { const list = listBySlug(lang, slug); return list ? { kind: 'list' as const, list } : null }
+  if (section === SEGMENTS[lang].saints) { const month = monthFromSlug(lang, slug); return month ? { kind: 'month' as const, month } : null }
   return null
 }
 
@@ -46,6 +50,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: t(d.name.title, { name: n.name }),
       description: t(d.name.desc, { name: n.name, meaning: n.meaning, root: rootAdj(n.root, lang), genderLower: genderAdj(n.g, lang) }),
       path: l => paths.name(l, n.slug),
+    })
+  }
+  if (r.kind === 'month') {
+    const month = monthName(lang, r.month)
+    return pageMeta(lang, {
+      title: t(d.saints.monthTitle, { month }), description: t(d.saints.monthDesc, { month, count: num(monthCount(lang, r.month), HREFLANG[lang]) }),
+      path: l => paths.saintsMonth(l, monthSlug(l, r.month)),
     })
   }
   const { list } = r
@@ -103,6 +114,32 @@ export default async function SlugPage({ params }: Props) {
     const rankLine = (r: RankRow) => t(d.name.rankLine, { country: countryName(r.country, l), source: RANK_SOURCE[r.country], year: r.year, name: n.name, rank: r.rank, g: among(r.g) })
     if (standing.length) faq[3][1] += ' ' + rankLine(standing[0])
     if (famous.length >= 2) faq.push([t(d.name.qFamous, { name: n.name }), t(d.name.aFamous, { name: n.name, people: listed(famous.slice(0, 4).map(p => p.name)) })])
+    // Name day: the feast of the best-known saint who goes by this name.
+    const feast = nameDays(l, n.slug)
+    if (feast.length) faq.push([t(d.name.qSaint, { name: n.name }), t(d.name.saintLine, { name: n.name, date: feast[0].date, saint: feast[0].name })])
+    // Official figures: how many people carry the name, their age, where they live, how its use moved.
+    const stats = statsFor(l, n.slug)
+    const homeStats = stats[0]?.country === l ? stats[0] : null
+    const dec = (v: number) => new Intl.NumberFormat(HREFLANG[l], { maximumFractionDigits: 1 }).format(v)
+    const day = (iso: string) => new Intl.DateTimeFormat(HREFLANG[l], { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(iso + 'T00:00:00Z'))
+    const told = (x: NameStats, full: boolean) => {
+      const where = countryName(x.country, l)
+      const parts = [t(x.kind === 'residents' ? d.name.stLive : d.name.stBorn, { country: where, n: nf(x.n), name: n.name, since: x.since || '' })]
+      if (x.age) parts.push(t(d.name.stAge, { age: dec(x.age) }))
+      if (full && x.rank && n.g !== 'u') parts.push(t(d.name.stRank, { rank: nf(x.rank), g: among(n.g) }))
+      if (full && x.rate) parts.push(t(d.name.stRate, { rate: dec(x.rate) }))
+      if (x.peak) parts.push(t(d.name.stPeak, { year: x.peak[0], n: nf(x.peak[1]) }))
+      if (full && x.last) parts.push(t(d.name.stLast, { year: x.last[0], n: nf(x.last[1]) }))
+      return parts.join(' ')
+    }
+    if (stats.length) faq.push([t(d.name.qHowMany, { name: n.name }), stats.slice(0, 3).map(x => told(x, false)).join(' ')])
+    if (homeStats && homeStats.top.length >= 3) faq.push([t(d.name.qWhere, { name: n.name }), t(d.name.aWhere, { country: countryName(l, l), name: n.name, places: listed(homeStats.top.slice(0, 3).map(x => x[0])) })])
+    // Names that go with this one: for a brother or sister, and as a second name.
+    const sib = siblingNames(l, n)
+    const seconds = middleNames(l, n)
+    const sibAll = [...sib.sisters.slice(0, 2), ...sib.brothers.slice(0, 2)]
+    if (sibAll.length >= 3) faq.push([t(d.name.qSiblings, { name: n.name }), t(d.name.aSiblings, { name: n.name, names: listed(sibAll.map(o => o.name)) })])
+    if (seconds.length >= 3) faq.push([t(d.name.qMiddle, { name: n.name }), t(d.name.aMiddle, { names: listed(seconds.slice(0, 3).map(o => `${n.name} ${o.name}`)) })])
     const ld = {
       '@context': 'https://schema.org', '@type': 'DefinedTerm', name: n.name, description: lead, url: abs(paths.name(l, n.slug)),
       inLanguage: HREFLANG[l], inDefinedTermSet: abs(paths.names(l)),
@@ -134,6 +171,7 @@ export default async function SlugPage({ params }: Props) {
                   <dt>{d.common.syllables}</dt><dd className="num">{n.syl}</dd>
                   <dt>{d.common.letters}</dt><dd className="num">{nameLength(n.name)}</dd>
                   {forms.length ? (<><dt>{d.name.otherForms}</dt><dd>{forms.join(', ')}</dd></>) : null}
+                  {feast.length ? (<><dt>{d.name.saintFact}</dt><dd>{feast[0].date}</dd></>) : null}
                 </dl>
               </aside>
             </div>
@@ -160,6 +198,70 @@ export default async function SlugPage({ params }: Props) {
           </section>
         ) : null}
 
+        {feast.length ? (
+          <section className="section section--tight" aria-labelledby="h-saint">
+            <div className="container">
+              <h2 id="h-saint" className="h-sm">{t(d.name.saintH2, { name: n.name })}</h2>
+              <p className="lead">{t(d.name.saintLine, { name: n.name, date: feast[0].date, saint: feast[0].name })}</p>
+              <ul className="people" style={{ marginTop: 'var(--space-lg)' }}>
+                {feast.map(p => (
+                  <li key={p.id}>
+                    {p.url ? <a href={p.url} rel="noopener">{p.name}</a> : <b>{p.name}</b>}
+                    <small>{p.date}</small>
+                    {p.about ? <span>{p.about}</span> : null}
+                  </li>
+                ))}
+              </ul>
+              <p className="note"><a className="link" href={`${paths.saintsMonth(l, monthSlug(l, feast[0].month))}#d${feast[0].day}`}>{t(d.name.saintMore, { month: monthName(l, feast[0].month) })}</a></p>
+              <p className="muted note">{d.name.saintNote}</p>
+            </div>
+          </section>
+        ) : null}
+
+        {stats.length ? (
+          <section className="section section--tight" aria-labelledby="h-stats">
+            <div className="container">
+              <h2 id="h-stats" className="h-sm">{t(d.name.statsH2, { name: n.name })}</h2>
+              {homeStats ? (
+                <div className="stats">
+                  <div>
+                    <p className="lead">{told(homeStats, true)}</p>
+                    {([[d.name.stTop, homeStats.top], [d.name.stTopRate, homeStats.topRate]] as const).map(([label, rows]) => rows.length ? (
+                      <div key={label} className="places">
+                        <h3>{label}</h3>
+                        <ol>
+                          {rows.map(([place, count, rate]) => (
+                            <li key={place}><span>{place}</span><b className="num">{nf(count)}</b>{rate ? <small>{t(d.name.stPer, { rate: dec(rate) })}</small> : null}</li>
+                          ))}
+                        </ol>
+                      </div>
+                    ) : null)}
+                  </div>
+                  {homeStats.decades.length >= 3 ? (
+                    <div className="places">
+                      <h3>{d.name.stDecades}</h3>
+                      <ol className="bars">
+                        {homeStats.decades.map(([label, count]) => (
+                          <li key={label}><span className="num">{label}</span><i style={{ ['--w' as string]: (count / Math.max(...homeStats.decades.map(x => x[1]))).toFixed(3) }} /><b className="num">{nf(count)}</b></li>
+                        ))}
+                      </ol>
+                    </div>
+                  ) : null}
+                </div>
+              ) : null}
+              {stats.length > (homeStats ? 1 : 0) ? (
+                <>
+                  {homeStats ? <h3 className="stats-more">{d.name.stElsewhere}</h3> : null}
+                  <ul className="ranks">{stats.filter(x => x !== homeStats).map(x => <li key={x.country}>{told(x, true)}</li>)}</ul>
+                </>
+              ) : null}
+              <p className="muted note">
+                {stats.map((x, i) => <span key={x.country}>{i ? ' ' : ''}{t(d.name.stSource, { source: x.source, date: day(x.asOf) })} <a href={x.url} rel="noopener">{x.license}</a></span>)}
+              </p>
+            </div>
+          </section>
+        ) : null}
+
         {standing.length ? (
           <section className="section section--tight" aria-labelledby="h-ranks">
             <div className="container">
@@ -172,6 +274,35 @@ export default async function SlugPage({ params }: Props) {
                   </li>
                 ))}
               </ul>
+            </div>
+          </section>
+        ) : null}
+
+        {sib.sisters.length + sib.brothers.length >= 4 ? (
+          <section className="section section--tight" aria-labelledby="h-siblings">
+            <div className="container">
+              <h2 id="h-siblings" className="h-sm">{t(d.name.siblingsH2, { name: n.name })}</h2>
+              <div className="pairs">
+                {([[d.name.sisters, sib.sisters], [d.name.brothers, sib.brothers]] as const).map(([label, group]) => group.length ? (
+                  <div key={label}>
+                    <h3>{label}</h3>
+                    <ul className="grid-names grid-names--2">{group.map(o => <li key={o.id}><NameLink n={o} l={l} gLabel={gLabel(o.g)} /></li>)}</ul>
+                  </div>
+                ) : null)}
+              </div>
+              <p className="muted note">{t(d.name.siblingsNote, { name: n.name })}</p>
+            </div>
+          </section>
+        ) : null}
+
+        {seconds.length >= 3 ? (
+          <section className="section section--tight" aria-labelledby="h-middle">
+            <div className="container">
+              <h2 id="h-middle" className="h-sm">{t(d.name.middleH2, { name: n.name })}</h2>
+              <div className="pills">
+                {seconds.map(o => <a key={o.id} className="pill" href={paths.name(l, o.slug)}>{n.name} {o.name}</a>)}
+              </div>
+              <p className="muted note">{d.name.middleNote}</p>
             </div>
           </section>
         ) : null}
@@ -217,6 +348,39 @@ export default async function SlugPage({ params }: Props) {
               <a className="btn" href={`${paths.app(l)}?n=${n.slug}`}>{d.common.startSwiping}</a>
             </div>
           </div>
+        </section>
+      </>
+    )
+  }
+
+  if (r.kind === 'month') {
+    const month = monthName(l, r.month)
+    const days = calendar(l)[r.month - 1]
+    const cap = (x: string) => x.charAt(0).toUpperCase() + x.slice(1)
+    const around = [r.month === 1 ? 12 : r.month - 1, r.month === 12 ? 1 : r.month + 1]
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(breadcrumbLd([{ name: 'BabyMatch', path: paths.home(l) }, { name: d.saints.nav, path: paths.saints(l) }, { name: cap(month), path: paths.saintsMonth(l, slug) }]))} />
+        <section className="page-hero">
+          <div className="container">
+            <Crumbs items={[{ name: 'BabyMatch', href: paths.home(l) }, { name: d.saints.nav, href: paths.saints(l) }, { name: cap(month) }]} />
+            <h1>{t(d.saints.monthH1, { month })}</h1>
+            <p className="lead">{t(d.saints.monthLead, { month, count: nf(monthCount(l, r.month)) })}</p>
+            <div className="pills" style={{ marginTop: 'var(--space-lg)' }}>
+              {around.map(m => <a key={m} className="pill" href={paths.saintsMonth(l, monthSlug(l, m))}>{cap(monthName(l, m))}</a>)}
+            </div>
+          </div>
+        </section>
+        {days.map(x => (
+          <section key={x.day} className="section section--tight" aria-labelledby={`d${x.day}`}>
+            <div className="container">
+              <h2 id={`d${x.day}`} className="h-sm">{x.date}</h2>
+              <ul className="grid-names">{x.names.map(({ n, saint }) => <li key={n.id}><NameLink n={n} l={l} gLabel={gLabel(n.g)} sub={saint.name} /></li>)}</ul>
+            </div>
+          </section>
+        ))}
+        <section className="section section--tight">
+          <div className="container"><p className="muted note">{d.name.saintNote}</p></div>
         </section>
       </>
     )

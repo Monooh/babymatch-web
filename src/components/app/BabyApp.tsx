@@ -2,13 +2,14 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { fromRow, type N, type Row } from '@/lib/model'
 import { actions, getState, setState, useStore, EMPTY_FILTERS } from '@/lib/store'
+import { adoptKey, forgetAll, joinInvite, startSync, track, useRestoring } from '@/lib/sync'
 import { decodeInvite } from '@/lib/share'
 import { t } from '@/lib/t'
-import { SwipeStack, type CardData } from '../SwipeStack'
-import { IconCards, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconTrash, IconUsers, IconX } from '../Icons'
+import { SwipeStack, type CardData, type Swipe } from '../SwipeStack'
+import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconTrash, IconUsers, IconX } from '../Icons'
 import { activeCount, buildDeck } from './deck'
 import { Quiz } from './Quiz'
-import { FiltersSheet, LikesTab, ListsTab, MatchesTab } from './Panels'
+import { BackupSheet, FiltersSheet, LikesTab, ListsTab, MatchesTab } from './Panels'
 import type { AppProps, Ctx } from './types'
 
 type Tab = 'swipe' | 'lists' | 'likes' | 'matches'
@@ -24,8 +25,14 @@ export function BabyApp(props: AppProps) {
   const [showMenu, setShowMenu] = useState(false)
   const [redoQuiz, setRedoQuiz] = useState(false)
   const [match, setMatch] = useState<N | null>(null)
-  const [invite, setInvite] = useState<{ name: string; ids: number[] } | null>(null)
+  const [news, setNews] = useState(0) // several new matches at once: announced as a number
+  const [invite, setInvite] = useState<{ name: string; ids: number[] } | null>(null) // a list inside an old-style link
+  const [key, setKey] = useState<string | null>(null) // a "my list on another phone" link was opened
+  const [join, setJoin] = useState<'ask' | 'busy' | 'taken' | 'unknown' | 'network'>('ask')
+  const [takenBy, setTakenBy] = useState('')
+  const [showBackup, setShowBackup] = useState(false)
   const [mounted, setMounted] = useState(false)
+  const restoring = useRestoring()
   const seed = useRef(1)
   const firstSlug = useRef<string | null>(null)
 
@@ -40,22 +47,40 @@ export function BabyApp(props: AppProps) {
     return () => { alive = false }
   }, [lang, attempt])
 
-  // What the URL asks for: a list to swipe, a name to show first, a partner's likes.
+  // What the URL asks for: a list to swipe, a name to show first, a partner's invitation, a saved list to open.
   useEffect(() => {
     seed.current = (Date.now() & 0xffffffff) >>> 0
     const url = new URL(window.location.href)
     const list = url.searchParams.get('list')
     if (list && props.lists.some(x => x.key === list)) setState({ list })
     firstSlug.current = url.searchParams.get('n')
-    const m = url.hash.match(/^#p=([\w-]+)$/)
-    if (m) {
-      const inv = decodeInvite(m[1])
-      // Tapping your own link (to check it before sending) must not make you your own partner.
-      const mine = getState()
+    const mine = getState()
+    const joinLink = url.hash.match(/^#j=([a-z0-9]{6,20})(?:&n=([^&]*))?$/)
+    const keyLink = url.hash.match(/^#k=([\w-]{20,})$/)
+    const oldLink = url.hash.match(/^#p=([\w-]+)$/)
+    if (joinLink) {
+      // Tapping your own link (to check it before sending) must not do anything.
+      if (joinLink[1] !== mine.invite) {
+        let name = ''
+        try { name = decodeURIComponent(joinLink[2] || '').replace(/[\u0000-\u001f<>]/g, '').slice(0, 30) } catch { /* a mangled name is just left out */ }
+        setState({ pending: { code: joinLink[1], name } }, { remote: true })
+        track('invite_opened')
+      }
+    } else if (keyLink) {
+      setKey(keyLink[1])
+    } else if (oldLink) {
+      const inv = decodeInvite(oldLink[1])
       const own = !!inv && inv.name === mine.me.trim().slice(0, 30) && inv.ids.every(id => mine.likes[id])
       if (inv && inv.ids.length && !own) setInvite(inv)
     }
-    if (list || firstSlug.current || m) window.history.replaceState(null, '', url.pathname)
+    // The address must not keep a code or a key: it would end up in the history and in screenshots.
+    if (list || firstSlug.current || joinLink || keyLink || oldLink) window.history.replaceState(null, '', url.pathname)
+    startSync(lang)
+    track('app_open')
+    // Where this visit to the app came from: a name page, a list, the home, a partner's link, or somewhere else.
+    let fromHome = false
+    try { fromHome = new URL(document.referrer).pathname.replace(/\/$/, '') === hrefs.home.replace(/\/$/, '') && new URL(document.referrer).origin === url.origin } catch { /* no referrer */ }
+    track(joinLink ? 'from_invite' : list ? 'from_list' : firstSlug.current ? 'from_name' : fromHome ? 'from_home' : 'from_other')
     setMounted(true)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
@@ -84,15 +109,59 @@ export function BabyApp(props: AppProps) {
   })
 
   const partnerLikes = useMemo(() => new Set(s.partner?.likes || []), [s.partner])
+  const partnerSupers = useMemo(() => new Set(s.partner?.supers || []), [s.partner])
   const likeIds = Object.keys(s.likes).map(Number)
-  const matchCount = likeIds.filter(id => partnerLikes.has(id)).length
+  const matchIds = useMemo(() => Object.keys(s.likes).map(Number).filter(id => partnerLikes.has(id)), [s.likes, partnerLikes])
+  const matchCount = matchIds.length
 
-  function onSwipe(dir: 'like' | 'nope', card: CardData) {
-    if (dir === 'like') {
-      actions.like(card.id)
-      if (partnerLikes.has(card.id)) setMatch(byId.get(card.id) || null)
-    } else actions.nope(card.id)
+  // A match can also come from the other side: the partner liked something already in this list, or just joined.
+  useEffect(() => {
+    if (!mounted || !names) return
+    const seen = new Set(getState().seen)
+    const fresh = matchIds.filter(id => !seen.has(id))
+    if (!fresh.length) return
+    setState(st => ({ seen: [...st.seen, ...fresh] }), { remote: true })
+    if (fresh.length === 1) setMatch(byId.get(fresh[0]) || null)
+    else setNews(fresh.length)
+    track('match')
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [matchIds, mounted, names])
+
+  function onSwipe(dir: Swipe, card: CardData) {
+    const total = Object.keys(s.likes).length + Object.keys(s.nopes).length + 1
+    track('first_swipe', true)
+    if (total >= 10) track('swipes_10', true)
+    if (total >= 50) track('swipes_50', true)
+    if (dir === 'nope') actions.nope(card.id)
+    else {
+      if (dir === 'super') { actions.superlike(card.id); track('superlike') } else actions.like(card.id)
+      track('first_like', true)
+      if (likeIds.length + 1 >= 10) track('likes_10', true)
+      if (partnerLikes.has(card.id)) {
+        setState(st => ({ seen: [...st.seen, card.id] }), { remote: true })
+        setMatch(byId.get(card.id) || null)
+        track('match')
+      }
+    }
     setProg({ deck, pos: p.pos + 1, hist: [...p.hist, card.id] })
+  }
+  async function doJoin(claim = false) {
+    const pending = getState().pending
+    if (!pending) return
+    setJoin('busy')
+    const r = await joinInvite(pending.code, claim)
+    if (r.result === 'taken') { setTakenBy(r.partner || ''); setJoin('taken') }
+    else if (r.result === 'unknown' || r.result === 'network') setJoin(r.result)
+    else {
+      setJoin('ask')
+      if (r.result === 'joined') { track('partner_joined'); if (s.quiz || s.quizSkipped) setTab('matches') }
+    }
+  }
+  async function openKey() {
+    if (!key) return
+    setJoin('busy')
+    const done = await adoptKey(key)
+    if (done) { setKey(null); setJoin('ask'); track('restored'); setTab('likes') } else setJoin('network')
   }
   function undo() {
     const id = p.hist[p.hist.length - 1]
@@ -116,6 +185,52 @@ export function BabyApp(props: AppProps) {
     )
   } else if (!ctx || !mounted) {
     body = <div className="empty" role="status"><div className="spinner keep-motion" aria-hidden="true" /><p>{d.loading}</p></div>
+  } else if (restoring || join === 'busy') {
+    body = <div className="empty" role="status"><div className="spinner keep-motion" aria-hidden="true" /><p>{restoring ? d.menu.restoring : d.matches.joining}</p></div>
+  } else if (key) {
+    const failed = join === 'network'
+    body = (
+      <div className="quiz">
+        <div className="welcome">
+          <img src="/logo.png" alt="" width={96} height={96} />
+          <h1>{failed ? d.matches.networkH : d.menu.keyH}</h1>
+          <p className="lead">{failed ? d.matches.networkP : d.menu.keyP}</p>
+        </div>
+        <div className="quiz-foot">
+          <button type="button" className="btn" onClick={() => { setKey(null); setJoin('ask') }}>{d.matches.importDecline}</button>
+          <button type="button" className="btn btn--primary" onClick={openKey}>{failed ? d.retry : d.menu.keyAccept}</button>
+        </div>
+      </div>
+    )
+  } else if (s.pending || join === 'unknown') {
+    const M = d.matches
+    const who = s.pending?.name || ''
+    const drop = () => { setState({ pending: null }, { remote: true }); setJoin('ask') }
+    const [h, p2, yes, onYes] =
+      join === 'taken' ? [M.takenH, t(M.takenP, { partner: takenBy || M.partnerFallback }), M.takenYes, () => doJoin(true)] as const
+        : join === 'unknown' ? [M.unknownH, M.unknownP, '', drop] as const
+          : join === 'network' ? [M.networkH, M.networkP, d.retry, () => doJoin()] as const
+            : [who ? t(M.joinH, { partner: who }) : M.joinHAnon, M.joinP, M.joinAccept, () => doJoin()] as const
+    body = (
+      <div className="quiz">
+        <div className="welcome">
+          <img src="/logo.png" alt="" width={96} height={96} />
+          <h1>{h}</h1>
+          <p className="lead">{p2}</p>
+          {join === 'ask' ? (
+            <div className="field field--wide">
+              <label htmlFor="me">{M.yourName}</label>
+              <input id="me" className="input" name="given-name" autoComplete="given-name" maxLength={30} placeholder={M.yourNamePh} value={s.me}
+                onChange={e => setState({ me: e.target.value })} onKeyDown={e => { if (e.key === 'Enter') void doJoin() }} />
+            </div>
+          ) : null}
+        </div>
+        <div className="quiz-foot">
+          <button type="button" className={yes ? 'btn' : 'btn btn--primary'} onClick={drop}>{join === 'taken' ? M.takenNo : yes ? M.importDecline : c.close}</button>
+          {yes ? <button type="button" className="btn btn--primary" onClick={onYes}>{yes}</button> : null}
+        </div>
+      </div>
+    )
   } else if (invite) {
     body = (
       <div className="quiz">
@@ -152,8 +267,7 @@ export function BabyApp(props: AppProps) {
         </div>
         {rest.length ? (
           <SwipeStack cards={rest.map(toCard)} onSwipe={onSwipe} onUndo={undo} canUndo={p.hist.length > 0}
-            onStar={card => { if (!s.likes[card.id]) actions.like(card.id); actions.toggleStar(card.id) }}
-            starred={s.stars.includes(rest[0].id)} surname={s.surname || undefined}
+            superlike surname={s.surname || undefined}
             labels={{ like: c.like, nope: c.nope, undo: c.undo, star: c.star }} />
         ) : (
           <div className="empty">
@@ -167,14 +281,14 @@ export function BabyApp(props: AppProps) {
       </div>
     )
   } else if (tab === 'lists') {
-    body = <ListsTab ctx={ctx} onPick={key => { setState({ list: key }); setTab('swipe') }} />
+    body = <ListsTab ctx={ctx} onPick={key => { setState({ list: key }); track('list_opened'); setTab('swipe') }} />
   } else if (tab === 'likes') {
     body = <LikesTab ctx={ctx} onSwipe={() => setTab('swipe')} />
   } else {
     body = <MatchesTab ctx={ctx} onSwipe={() => setTab('swipe')} />
   }
 
-  const showTabs = !!ctx && mounted && !invite && !needsQuiz && !failed
+  const showTabs = !!ctx && mounted && !invite && !key && !s.pending && join === 'ask' && !restoring && !needsQuiz && !failed
   const tabs: [Tab, string, React.ReactNode, number][] = [
     ['swipe', d.tabSwipe, <IconCards key="i" size={22} />, 0],
     ['lists', d.tabLists, <IconLayers key="i" size={22} />, 0],
@@ -194,11 +308,12 @@ export function BabyApp(props: AppProps) {
           <div style={{ position: 'absolute', inset: 0, zIndex: 99 }} onClick={() => setShowMenu(false)} aria-hidden="true" />
           <div className="menu" role="menu">
             <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setRedoQuiz(true) }}><IconRefresh size={18} />{d.menu.redoQuiz}</button>
+            <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setShowBackup(true) }}><IconCopy size={18} />{d.menu.backup}</button>
             <a role="menuitem" href={hrefs.home}><IconHome size={18} />{d.menu.site}</a>
             <hr />
             <button type="button" role="menuitem" className="danger" onClick={() => {
               setShowMenu(false)
-              if (window.confirm(d.menu.resetConfirm)) { actions.reset(); setTab('swipe') }
+              if (window.confirm(d.menu.resetConfirm)) { void forgetAll(); setTab('swipe') }
             }}><IconTrash size={18} />{d.menu.reset}</button>
           </div>
         </>
@@ -218,15 +333,19 @@ export function BabyApp(props: AppProps) {
       ) : null}
 
       {showFilters && ctx ? <FiltersSheet ctx={ctx} onClose={() => setShowFilters(false)} /> : null}
+      {showBackup && ctx ? <BackupSheet ctx={ctx} onClose={() => setShowBackup(false)} /> : null}
 
-      {match ? (
+      {match || news ? (
         <div className="overlay" role="dialog" aria-modal="true" aria-labelledby="match-h">
-          <h2 id="match-h">{d.matches.overlayH}</h2>
-          <div className="big">{match.name}</div>
-          <p className="lead">{t(d.matches.overlayP, { partner: partnerName })}</p>
+          <h2 id="match-h">{match ? d.matches.overlayH : t(d.matches.overlayNewH, { count: news })}</h2>
+          {match ? <div className="big">{match.name}</div> : null}
+          <p className="lead">
+            {t(match ? d.matches.overlayP : d.matches.overlayNewP, { partner: partnerName })}
+            {match && partnerSupers.has(match.id) ? ' ' + t(d.matches.overlaySuper, { partner: partnerName }) : ''}
+          </p>
           <div className="actions">
-            <button type="button" className="btn btn--primary" autoFocus onClick={() => setMatch(null)}>{d.matches.keepSwiping}</button>
-            <button type="button" className="btn" onClick={() => { setMatch(null); setTab('matches') }}>{d.matches.seeMatches}</button>
+            <button type="button" className="btn btn--primary" autoFocus onClick={() => { setMatch(null); setNews(0) }}>{d.matches.keepSwiping}</button>
+            <button type="button" className="btn" onClick={() => { setMatch(null); setNews(0); setTab('matches') }}>{d.matches.seeMatches}</button>
           </div>
         </div>
       ) : null}

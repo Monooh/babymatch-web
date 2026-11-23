@@ -2,6 +2,7 @@
 import { useState } from 'react'
 import { CULTURES, type Culture, type Tag } from '@/lib/model'
 import { getState, setState, EMPTY_FILTERS, type Quiz as QuizAnswers } from '@/lib/store'
+import { track } from '@/lib/sync'
 import { t } from '@/lib/t'
 import type { Ctx } from './types'
 
@@ -28,6 +29,7 @@ export function Quiz({ ctx, onDone }: { ctx: Ctx; onDone: () => void }) {
         cultures: a.origin === 'pick' ? picked : [],
       },
     })
+    track('quiz_done', true)
     onDone()
   }
   const next = () => (step >= STEPS ? finish() : setStep(step + 1))
@@ -41,8 +43,8 @@ export function Quiz({ ctx, onDone }: { ctx: Ctx; onDone: () => void }) {
           <p className="lead">{q.welcomeP}</p>
         </div>
         <div className="quiz-foot">
-          <button type="button" className="btn" onClick={() => { setState({ quizSkipped: true }); onDone() }}>{q.skip}</button>
-          <button type="button" className="btn btn--primary" onClick={() => setStep(1)}>{q.start}</button>
+          <button type="button" className="btn" onClick={() => { setState({ quizSkipped: true }); track('quiz_skip', true); onDone() }}>{q.skip}</button>
+          <button type="button" className="btn btn--primary" onClick={() => { track('quiz_start', true); setStep(1) }}>{q.start}</button>
         </div>
       </div>
     )

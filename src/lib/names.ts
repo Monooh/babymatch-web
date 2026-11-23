@@ -73,3 +73,58 @@ export function topNames(l: Locale, g: Gender, limit: number): N[] {
   return data(l).all.filter(n => n.home && n.g === g && n.pop >= 4)
     .sort((a, b) => Number(native(l, b)) - Number(native(l, a)) || b.pop - a.pop || a.slug.localeCompare(b.slug)).slice(0, limit)
 }
+
+const fold = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+const VOWEL = /[aeiouy]/
+/** Two spellings of one name, or near enough that a family would not use both (Lucía / Lucio, Ana / Anna). */
+const tooClose = (a: string, b: string) => a.slice(0, 4) === b.slice(0, 4) || (a.length > 3 && b.length > 3 && a.slice(0, 3) === b.slice(0, 3) && a.slice(-2) === b.slice(-2))
+
+/**
+ * Names for a brother or a sister: the same world as this one (culture, style, how common it is) but clearly a
+ * different name, starting with another letter. Deterministic, so a page says the same thing on every build.
+ */
+export function siblingNames(l: Locale, n: N, each = 5): { sisters: N[]; brothers: N[] } {
+  const me = fold(n.name)
+  const pick = (g: Gender) => {
+    const scored: [number, N][] = []
+    for (const o of data(l).all) {
+      if (o.id === n.id || o.g !== g || !o.fit) continue
+      const other = fold(o.name)
+      if (other[0] === me[0] || tooClose(me, other) || other.slice(-3) === me.slice(-3)) continue
+      const shared = o.tags.filter(t => n.tags.includes(t)).length
+      let s = shared * 1.5
+      if (o.cultures[0] === n.cultures[0]) s += 3
+      else if (o.cultures.some(c => c !== 'intl' && n.cultures.includes(c))) s += 1.5
+      if (s < 3) continue
+      s += 1.5 - Math.abs(o.pop - n.pop) * 0.9 + (Math.abs(o.syl - n.syl) <= 1 ? 0.5 : 0) + (o.home ? 0.5 : 0) + o.pop * 0.1
+      scored.push([s, o])
+    }
+    return scored.sort((a, b) => b[0] - a[0] || a[1].slug.localeCompare(b[1].slug)).slice(0, each).map(x => x[1])
+  }
+  return { sisters: pick('f'), brothers: pick('m') }
+}
+
+/**
+ * Second names that sit well after this one. What makes a pair easy to say: a different length, no rhyme, and no
+ * vowel running into the same vowel ("Ana Alba"). Well-known names are preferred: a second name is rarely the odd one.
+ */
+export function middleNames(l: Locale, n: N, limit = 8): N[] {
+  if (n.g === 'u') return []
+  const me = fold(n.name)
+  const last = me[me.length - 1]
+  const scored: [number, N][] = []
+  for (const o of data(l).all) {
+    if (o.id === n.id || o.g !== n.g || !o.home || o.pop < 3) continue
+    const other = fold(o.name)
+    if (/[\s-]/.test(o.name) || tooClose(me, other) || other.slice(-2) === me.slice(-2)) continue
+    if (other[0] === last && VOWEL.test(last)) continue
+    let s = o.pop * 0.6
+    if (o.syl !== n.syl) s += 1.5
+    if ((n.syl <= 2 && o.syl >= 3) || (n.syl >= 3 && o.syl <= 2)) s += 1
+    if (other[0] !== me[0]) s += 0.5
+    if (VOWEL.test(last) !== VOWEL.test(other[0])) s += 0.75 // a consonant meeting a vowel links the two
+    s += o.tags.filter(t => n.tags.includes(t)).length * 0.5 + (o.cultures[0] === n.cultures[0] ? 1 : 0) + (o.tags.includes('classic') ? 0.5 : 0)
+    scored.push([s, o])
+  }
+  return scored.sort((a, b) => b[0] - a[0] || a[1].slug.localeCompare(b[1].slug)).slice(0, limit).map(x => x[1])
+}

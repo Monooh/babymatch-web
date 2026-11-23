@@ -2,7 +2,7 @@
 import { useMemo, useState } from 'react'
 import { CULTURES, LETTERS, TAGS, fold, type Culture, type Gender, type N, type Tag } from '@/lib/model'
 import { actions, setState, useStore, EMPTY_FILTERS, type Filters } from '@/lib/store'
-import { encodeInvite } from '@/lib/share'
+import { createInvite, deviceKey, leavePartner, track, useSyncStatus } from '@/lib/sync'
 import { t } from '@/lib/t'
 import { IconCheck, IconCopy, IconShare, IconStar, IconTrash, IconX } from '../Icons'
 import { passes } from './deck'
@@ -58,7 +58,7 @@ export function FiltersSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void }
         </div>
         <div className="sheet-foot">
           <button type="button" className="btn" onClick={() => setF({ ...EMPTY_FILTERS, nativeOnly: false })}>{F.clear}</button>
-          <button type="button" className="btn btn--primary" onClick={() => { setState({ filters: f }); onClose() }}>{t(F.apply, { count })}</button>
+          <button type="button" className="btn btn--primary" onClick={() => { setState({ filters: f }); track('filters_used'); onClose() }}>{t(F.apply, { count })}</button>
         </div>
       </div>
     </div>
@@ -84,12 +84,12 @@ export function ListsTab({ ctx, onPick }: { ctx: Ctx; onPick: (key: string) => v
 }
 
 // ───────────────────────── Likes ─────────────────────────
-function NameRow({ n, ctx, starred }: { n: N; ctx: Ctx; starred?: boolean }) {
+function NameRow({ n, ctx, starred, badge }: { n: N; ctx: Ctx; starred?: boolean; badge?: string }) {
   const { d, hrefs } = ctx
   return (
     <li>
       <a className="who" href={`${hrefs.names}/${n.slug}`} target="_blank" rel="noopener" style={{ textDecoration: 'none' }}>
-        <b>{n.name}</b><span>{n.meaning}</span>
+        <b>{n.name}</b>{badge ? <em className="chip chip--super">{badge}</em> : null}<span>{n.meaning}</span>
       </a>
       {starred !== undefined ? (
         <>
@@ -112,6 +112,7 @@ export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
   const { d, c, byId } = ctx
   const s = useStore()
   const [copied, copy] = useCopy()
+  const sync = useSyncStatus()
   const liked = Object.entries(s.likes).sort((a, b) => b[1] - a[1]).map(([id]) => byId.get(Number(id))).filter((n): n is N => !!n)
   const stars = liked.filter(n => s.stars.includes(n.id))
   const rest = liked.filter(n => !s.stars.includes(n.id))
@@ -121,7 +122,14 @@ export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
   return (
     <div className="app-pad">
       <div style={{ display: 'flex', alignItems: 'end', justifyContent: 'space-between', gap: 'var(--space-sm)' }}>
-        <div><h1 className="app-h">{d.likes.h}</h1><p className="muted">{t(d.likes.count, { count: liked.length })}</p></div>
+        <div>
+          <h1 className="app-h">{d.likes.h}</h1>
+          <p className="muted">{t(d.likes.count, { count: liked.length })}</p>
+          {/* Said out loud because it is the promise that matters most here: the list is not only on this phone. */}
+          {sync === 'idle' && !s.uid ? null : (
+            <p className="sync-note" role="status">{sync === 'offline' ? d.likes.offline : sync === 'saving' ? d.likes.saving : <><IconCheck size={16} />{d.likes.saved}</>}</p>
+          )}
+        </div>
         <button type="button" className="btn btn--small" onClick={() => copy(liked.map(n => n.name).join('\n'))}>
           {copied ? <IconCheck size={18} /> : <IconCopy size={18} />}{copied ? c.copied : d.likes.copyList}
         </button>
@@ -133,30 +141,48 @@ export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
 }
 
 // ───────────────────────── Matches ─────────────────────────
-function InviteMaker({ ctx, title, text }: { ctx: Ctx; title: string; text: string }) {
-  const { d, c, hrefs } = ctx
+function ShareRow({ ctx, link, message, onShared }: { ctx: Ctx; link: string; message: string; onShared?: () => void }) {
+  const { c } = ctx
+  const [copied, copy] = useCopy()
+  const share = () => {
+    onShared?.()
+    if (navigator.share) navigator.share({ text: message, url: link }).catch(() => {})
+    else copy(`${message} ${link}`.trim())
+  }
+  return (
+    <>
+      <div className="linkbox">{link}</div>
+      <div className="share-row">
+        <button type="button" className="btn btn--primary" onClick={share}><IconShare size={20} />{c.share}</button>
+        <button type="button" className="btn" onClick={() => { onShared?.(); copy(link) }}>{copied ? <IconCheck size={20} /> : <IconCopy size={20} />}{copied ? c.copied : c.copy}</button>
+      </div>
+    </>
+  )
+}
+
+/** One link, sent once: the partner opens it and from then on both lists are compared on the server as they change. */
+function InvitePanel({ ctx }: { ctx: Ctx }) {
+  const { d, hrefs } = ctx
   const M = d.matches
   const s = useStore()
-  const [link, setLink] = useState('')
-  const [copied, copy] = useCopy()
-  const ids = Object.keys(s.likes).map(Number)
-  const message = s.me.trim() ? t(M.shareText, { name: s.me.trim() }) : M.shareTextAnon
-  const make = () => setLink(`${window.location.origin}${hrefs.app}#p=${encodeInvite(s.me, ids)}`)
-  const share = () => {
-    if (navigator.share) navigator.share({ text: message, url: link }).catch(() => {})
-    else copy(`${message} ${link}`)
+  const [busy, setBusy] = useState(false)
+  const [failed, setFailed] = useState(false)
+  const me = s.me.trim()
+  const link = s.invite ? `${window.location.origin}${hrefs.app}#j=${s.invite}${me ? '&n=' + encodeURIComponent(me) : ''}` : ''
+  const make = async () => {
+    setBusy(true); setFailed(false)
+    const code = await createInvite()
+    setBusy(false)
+    if (code) track('invite_created'); else setFailed(true)
   }
   return (
     <section className="panel panel--sugar">
-      <div><h2>{title}</h2><p>{text}</p></div>
-      {!ids.length ? <p>{M.needLikes}</p> : link ? (
+      <div><h2>{M.inviteH}</h2><p>{M.inviteP}</p></div>
+      {link ? (
         <>
-          <div><strong>{M.linkReady}</strong><p>{t(M.linkHint, { count: ids.length })}</p></div>
-          <div className="linkbox">{link}</div>
-          <div className="share-row">
-            <button type="button" className="btn btn--primary" onClick={share}><IconShare size={20} />{c.share}</button>
-            <button type="button" className="btn" onClick={() => copy(link)}>{copied ? <IconCheck size={20} /> : <IconCopy size={20} />}{copied ? c.copied : c.copy}</button>
-          </div>
+          <strong>{M.linkReady}</strong>
+          <ShareRow ctx={ctx} link={link} message={me ? t(M.shareText, { name: me }) : M.shareTextAnon} onShared={() => track('invite_shared')} />
+          <p role="status">{M.linkWait}</p>
         </>
       ) : (
         <>
@@ -164,7 +190,8 @@ function InviteMaker({ ctx, title, text }: { ctx: Ctx; title: string; text: stri
             <label htmlFor="me">{M.yourName}</label>
             <input id="me" className="input" name="given-name" autoComplete="given-name" maxLength={30} placeholder={M.yourNamePh} value={s.me} onChange={e => setState({ me: e.target.value })} />
           </div>
-          <button type="button" className="btn btn--primary" onClick={make}>{M.createLink}</button>
+          <button type="button" className="btn btn--primary" onClick={make} disabled={busy}>{busy ? M.joining : M.createLink}</button>
+          {failed ? <p role="alert">{M.linkError}</p> : null}
         </>
       )}
     </section>
@@ -175,26 +202,76 @@ export function MatchesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) 
   const { d, byId } = ctx
   const M = d.matches
   const s = useStore()
-  if (!s.partner) {
-    return <div className="app-pad"><h1 className="app-h">{M.h}</h1><InviteMaker ctx={ctx} title={M.inviteH} text={M.inviteP} /></div>
-  }
-  const partner = s.partner.name || M.partnerFallback
-  const theirs = new Set(s.partner.likes)
+  const p = s.partner
+  if (!p) return <div className="app-pad"><h1 className="app-h">{M.h}</h1><InvitePanel ctx={ctx} /></div>
+  const live = !!p.id // joined through the server; otherwise a list imported from an old-style link
+  const partner = p.name || M.partnerFallback
+  const theirs = new Set(p.likes), theirLoves = new Set(p.supers || []), myLoves = new Set(s.stars)
+  const weight = (id: number) => Number(myLoves.has(id)) + Number(theirLoves.has(id))
   const matches = Object.keys(s.likes).map(Number).filter(id => theirs.has(id)).map(id => byId.get(id)).filter((n): n is N => !!n)
-    .sort((a, b) => Number(s.stars.includes(b.id)) - Number(s.stars.includes(a.id)) || a.name.localeCompare(b.name))
+    .sort((a, b) => weight(b.id) - weight(a.id) || a.name.localeCompare(b.name))
+  const badge = (id: number) => (myLoves.has(id) && theirLoves.has(id) ? M.superBoth : theirLoves.has(id) ? t(M.superTheirs, { partner }) : myLoves.has(id) ? M.superMine : undefined)
   return (
     <div className="app-pad">
-      <div><h1 className="app-h">{M.h}</h1><p className="muted">{t(M.partnerH, { partner, count: s.partner.likes.length })}</p></div>
+      <div>
+        <h1 className="app-h">{live ? t(M.liveH, { partner }) : M.h}</h1>
+        <p className="muted">{live ? t(M.liveP, { count: matches.length }) : t(M.partnerH, { partner, count: p.likes.length })}</p>
+      </div>
       {matches.length ? (
-        <ul className="rowlist">{matches.map(n => <NameRow key={n.id} n={n} ctx={ctx} />)}</ul>
+        <ul className="rowlist">{matches.map(n => <NameRow key={n.id} n={n} ctx={ctx} badge={badge(n.id)} />)}</ul>
       ) : (
         <section className="panel panel--mint">
           <div><h2>{M.emptyH}</h2><p>{t(M.emptyP, { partner })}</p><p>{M.partnerP}</p></div>
           <button type="button" className="btn" onClick={onSwipe}>{M.keepSwiping}</button>
         </section>
       )}
-      <InviteMaker ctx={ctx} title={M.sendBack} text={t(M.sendBackP, { partner })} />
-      <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => setState({ partner: null })}>{M.forget}</button>
+      {live ? (
+        <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }}
+          onClick={() => { if (window.confirm(t(M.unlinkConfirm, { partner }))) void leavePartner() }}>{M.unlink}</button>
+      ) : (
+        <>
+          <InvitePanel ctx={ctx} />
+          <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => setState({ partner: null })}>{M.forget}</button>
+        </>
+      )}
+    </div>
+  )
+}
+
+// ───────────────────────── My list on another phone ─────────────────────────
+export function BackupSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void }) {
+  const { d, c, hrefs } = ctx
+  const [link, setLink] = useState('')
+  const [busy, setBusy] = useState(false)
+  const [failed, setFailed] = useState(false)
+  const make = async () => {
+    setBusy(true); setFailed(false)
+    const key = await deviceKey()
+    setBusy(false)
+    if (key) { setLink(`${window.location.origin}${hrefs.app}#k=${key}`); track('backup_link') } else setFailed(true)
+  }
+  return (
+    <div className="sheet-back" onClick={e => { if (e.target === e.currentTarget) onClose() }}>
+      <div className="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="backup-h">
+        <div className="sheet-head">
+          <h2 id="backup-h">{d.menu.backupH}</h2>
+          <button type="button" className="icon-btn" onClick={onClose} aria-label={c.close}><IconX /></button>
+        </div>
+        <div className="sheet-scroll">
+          <p>{d.menu.backupP}</p>
+          {link ? (
+            <>
+              <ShareRow ctx={ctx} link={link} message="" />
+              <p className="muted">{d.menu.backupWarn}</p>
+            </>
+          ) : (
+            <>
+              <button type="button" className="btn btn--primary" onClick={make} disabled={busy}>{busy ? d.matches.joining : d.menu.backupCreate}</button>
+              {failed ? <p role="alert">{d.matches.linkError}</p> : null}
+            </>
+          )}
+        </div>
+      </div>
     </div>
   )
 }

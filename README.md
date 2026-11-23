@@ -16,14 +16,31 @@ Todo vive en este proyecto Next.js: la web de SEO y la app comparten datos, dise
 `/` redirige al idioma del navegador. Las URLs de la primera versión (`/nombres/...`, `/app`) redirigen a `/es/...`.
 Ambas cosas las hace Cloudflare (ver «Despliegue»).
 
-## Sin cuentas, sin servidor
+## Sin registro, con copia en el servidor
 
-- Favoritos, descartes y respuestas del cuestionario se guardan en `localStorage` (`src/lib/store.ts`).
-- El match con la pareja viaja en un enlace: los ids de los nombres que te gustan van comprimidos en el
-  fragmento de la URL (`src/lib/share.ts`), que nunca llega al servidor. Quien lo abre guarda esa lista y ve un
-  match cada vez que le gusta el mismo nombre.
-- El proyecto antiguo de Supabase ya no existe. Para cuentas y sincronización en tiempo real haría falta un
-  backend nuevo; `store.ts` es el único punto que habría que conectar.
+No hay cuentas, correo ni contraseña, pero las listas ya no viven solo en el navegador.
+
+- **El móvil es la copia de trabajo.** Cada deslizamiento se guarda primero en `localStorage` (`src/lib/store.ts`)
+  y se envía un segundo después. Sin conexión todo sigue funcionando y se envía al volver.
+- **El servidor es la red de seguridad y el punto de encuentro de la pareja** (`cloudflare/api/worker.js`, un Worker
+  con una base D1, en `babymatch.app/api/*`). La primera vez que un dispositivo guarda un nombre recibe una persona
+  y un secreto; el secreto va en una cookie `HttpOnly` (los navegadores la conservan aunque borren el almacenamiento
+  local, que es lo que hace Safari tras 7 días sin visitas) y la app guarda otra copia.
+- **Una lista es un mapa `{id del nombre: [respuesta, hora]}`** (0 no, 1 me gusta, 2 superlike, 3 retirado) que se
+  fusiona entrada a entrada, gana la más reciente. Fusionar dos veces da lo mismo, así que una petición repetida,
+  tardía o simultánea desde otro dispositivo nunca borra un nombre. `src/lib/sync.ts` es el motor del cliente.
+- **Pareja**: un enlace con un código (`#j=…`). Quien lo abre queda unido y, desde entonces, cada uno recibe los
+  «me gusta» del otro al sincronizar (cada 20 s con la app abierta). Si el enlace ya unió a dos personas, pregunta
+  «¿eres tú?» y devuelve su lista: es la vía de recuperación cuando alguien lo ha perdido todo.
+- **Otro móvil**: el menú crea un enlace personal (`#k=…`) que abre la misma lista en otro dispositivo.
+- **Borrar todo** elimina la persona del servidor y del móvil.
+- Los enlaces antiguos (`#p=…`, la lista entera dentro del enlace, `src/lib/share.ts`) se siguen abriendo.
+- Para cobrar más adelante: `users.plan` y `users.email` ya existen; el servidor media todo lo que ve la pareja,
+  así que un límite de pago se aplica ahí, no en el cliente.
+
+Probarlo en local: `wrangler dev` en `cloudflare/api` (puerto 8787) y `npm run dev -- --port 3210`; después
+`npm run test:api` (33 comprobaciones del servidor) y `npm run test:app` (dos móviles simulados de principio a fin).
+Cómo se usa la app, en cifras: `npm run stats` y `docs/medicion.md`.
 
 ## La base de nombres
 
@@ -56,6 +73,17 @@ Dos fuentes dan a cada ficha y a cada lista algo que no tiene ninguna otra pági
   cada nombre en su ficha. Hay que actualizarlos a mano cuando cada organismo publique el año nuevo.
 
 El año de los títulos es el del día en que se construye el sitio, así que esas direcciones cambian cada enero.
+
+### Cifras oficiales, santoral y nombres que combinan
+
+- `npm run` no los lanza: son descargas puntuales. `node scripts/fetch-stats.mjs [es|en|fr|it]` escribe
+  `data/stats/<idioma>.json` con cifras de los institutos de estadística (INE: personas, edad media, provincias y
+  décadas; INSEE e ISTAT: nacimientos por año; SSA: hay que bajar el zip a mano, lo explica el script).
+  `src/lib/stats.ts` las lee al construir y la ficha las muestra en «{nombre} en cifras».
+- `node scripts/fetch-saints.mjs` escribe `data/saints.json` (Wikidata): el santo de cada nombre. Sale en la ficha
+  («Santo de {nombre}») y en el calendario por meses (`/es/santoral`, `/en/name-days`…, `src/lib/saints.ts`).
+- Los nombres de hermanos y los segundos nombres de cada ficha no vienen de ninguna fuente: se calculan en
+  `src/lib/names.ts` (`siblingNames`, `middleNames`) con el estilo, el origen, la popularidad y la sonoridad.
 
 ## Capturas de la app
 

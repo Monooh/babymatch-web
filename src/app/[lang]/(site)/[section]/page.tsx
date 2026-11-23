@@ -5,21 +5,22 @@ import { getDict } from '@/i18n/dict'
 import { nameCount, topNames } from '@/lib/names'
 import { allLists, groupOf, listByKey, type ListGroup, type ListInfo } from '@/lib/lists'
 import { LETTERS } from '@/lib/model'
+import { calendar, monthCount, monthName, monthSlug } from '@/lib/saints'
 import { pageMeta, jsonLd, breadcrumbLd } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Crumbs } from '@/components/Chrome'
 
 type Props = { params: Promise<{ lang: string; section: string }> }
-type Kind = 'names' | 'lists' | 'privacy'
+type Kind = 'names' | 'lists' | 'privacy' | 'saints'
 
 function kindOf(l: Locale, section: string): Kind | null {
   const s = SEGMENTS[l]
-  return section === s.names ? 'names' : section === s.lists ? 'lists' : section === s.privacy ? 'privacy' : null
+  return section === s.names ? 'names' : section === s.lists ? 'lists' : section === s.privacy ? 'privacy' : section === s.saints ? 'saints' : null
 }
 
 export const dynamicParams = false
 export function generateStaticParams() {
-  return LOCALES.flatMap(lang => [SEGMENTS[lang].names, SEGMENTS[lang].lists, SEGMENTS[lang].privacy].map(section => ({ lang, section })))
+  return LOCALES.flatMap(lang => [SEGMENTS[lang].names, SEGMENTS[lang].lists, SEGMENTS[lang].privacy, SEGMENTS[lang].saints].map(section => ({ lang, section })))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -31,6 +32,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const count = num(nameCount(), HREFLANG[lang])
   if (kind === 'names') return pageMeta(lang, { title: d.meta.namesTitle, description: t(d.meta.namesDesc, { count }), path: l => paths.names(l) })
   if (kind === 'lists') return pageMeta(lang, { title: d.meta.listsTitle, description: t(d.meta.listsDesc, { count: allLists(lang).length }), path: l => paths.lists(l) })
+  if (kind === 'saints') {
+    const total = calendar(lang).flat().reduce((acc, x) => acc + x.names.length, 0)
+    return pageMeta(lang, { title: d.saints.title, description: t(d.saints.desc, { count: num(total, HREFLANG[lang]) }), path: l => paths.saints(l) })
+  }
   return pageMeta(lang, { title: d.meta.privacyTitle, description: d.privacy.p1, path: l => paths.privacy(l) })
 }
 
@@ -54,6 +59,33 @@ export default async function SectionPage({ params }: Props) {
           </div>
         </div>
       </section>
+    )
+  }
+
+  if (kind === 'saints') {
+    const months = Array.from({ length: 12 }, (_, i) => i + 1)
+    const cap = (x: string) => x.charAt(0).toUpperCase() + x.slice(1)
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(breadcrumbLd([{ name: 'BabyMatch', path: paths.home(l) }, { name: d.saints.nav, path: paths.saints(l) }]))} />
+        <section className="page-hero">
+          <div className="container">
+            <Crumbs items={[{ name: 'BabyMatch', href: paths.home(l) }, { name: d.saints.nav }]} />
+            <h1>{d.saints.h1}</h1>
+            <p className="lead">{d.saints.lead}</p>
+          </div>
+        </section>
+        <section className="section section--tight" aria-labelledby="h-months">
+          <div className="container">
+            <h2 id="h-months" className="h-sm">{d.saints.months}</h2>
+            <ul className="linklist">
+              {months.map(m => (
+                <li key={m}><a href={paths.saintsMonth(l, monthSlug(l, m))}><span>{cap(monthName(l, m))}</span><small>{nf(monthCount(l, m))}</small></a></li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      </>
     )
   }
 

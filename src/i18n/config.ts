@@ -12,13 +12,13 @@ export function isLocale(v: string): v is Locale {
 }
 
 /** Localised URL segments: /es/nombres/lucia, /en/names/lucia, /fr/prenoms/lucia… */
-export const SEGMENTS: Record<Locale, { names: string; lists: string; privacy: string }> = {
-  es: { names: 'nombres', lists: 'listas', privacy: 'privacidad' },
-  en: { names: 'names', lists: 'lists', privacy: 'privacy' },
-  fr: { names: 'prenoms', lists: 'listes', privacy: 'confidentialite' },
-  de: { names: 'vornamen', lists: 'listen', privacy: 'datenschutz' },
-  it: { names: 'nomi', lists: 'liste', privacy: 'privacy' },
-  pt: { names: 'nomes', lists: 'listas', privacy: 'privacidade' },
+export const SEGMENTS: Record<Locale, { names: string; lists: string; privacy: string; saints: string }> = {
+  es: { names: 'nombres', lists: 'listas', privacy: 'privacidad', saints: 'santoral' },
+  en: { names: 'names', lists: 'lists', privacy: 'privacy', saints: 'name-days' },
+  fr: { names: 'prenoms', lists: 'listes', privacy: 'confidentialite', saints: 'fetes' },
+  de: { names: 'vornamen', lists: 'listen', privacy: 'datenschutz', saints: 'namenstage' },
+  it: { names: 'nomi', lists: 'liste', privacy: 'privacy', saints: 'onomastici' },
+  pt: { names: 'nomes', lists: 'listas', privacy: 'privacidade', saints: 'santos' },
 }
 
 export const LOCALE_NAMES: Record<Locale, string> = {
@@ -49,4 +49,6 @@ export const paths = {
   lists: (l: Locale) => `/${l}/${SEGMENTS[l].lists}`,
   list: (l: Locale, slug: string) => `/${l}/${SEGMENTS[l].lists}/${slug}`,
   privacy: (l: Locale) => `/${l}/${SEGMENTS[l].privacy}`,
+  saints: (l: Locale) => `/${l}/${SEGMENTS[l].saints}`,
+  saintsMonth: (l: Locale, month: string) => `/${l}/${SEGMENTS[l].saints}/${month}`,
 }

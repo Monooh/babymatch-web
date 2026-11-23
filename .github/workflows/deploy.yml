@@ -60,11 +60,15 @@ jobs:
       - name: Check the live site
         if: steps.creds.outputs.ready == 'true'
         run: |
-          for path in /es /en/names/olivia /fr/prenoms/emma /de/vornamen/emma /it/nomi/sofia /pt/nomes/helena /es/app /robots.txt; do
+          for path in /es /en/names/olivia /fr/prenoms/emma /de/vornamen/emma /it/nomi/sofia /pt/nomes/helena /es/app /robots.txt /es/santoral /es/santoral/diciembre /en/name-days/march; do
             code=$(curl -s -o /dev/null -m 30 -w '%{http_code}' "https://babymatch.app$path")
             echo "$path -> $code"
             [ "$code" = "200" ] || { echo "::error::https://babymatch.app$path answered $code"; exit 1; }
           done
+          # The API that keeps the lists: a request with nothing to save must answer, and create nothing.
+          body=$(curl -s -m 30 -X POST -H 'Content-Type: application/json' -d '{}' https://babymatch.app/api/sync)
+          echo "/api/sync -> $body"
+          echo "$body" | grep -q '"anon":true' || { echo "::error::https://babymatch.app/api/sync answered: $body"; exit 1; }
           # The bare domain and www must redirect when asked the way a browser asks (Sec-Fetch-Mode: navigate):
           # Cloudflare treats those requests differently from a plain curl.
           for check in "https://babymatch.app/ 307" "https://www.babymatch.app/ 301" "https://www.babymatch.app/es 301" "https://babymatch.app/no-such-page 404"; do

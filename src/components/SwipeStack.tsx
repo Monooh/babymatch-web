@@ -36,18 +36,20 @@ export function NameCardFace({ c, surname }: { c: CardData; surname?: string }) 
   )
 }
 
+export type Swipe = 'like' | 'nope' | 'super'
+
 /**
  * The stack of name cards. The top card can be dragged, flicked with the arrow keys or sent away with the buttons.
- * `cards[0]` is on top; the parent drops it from the array in onSwipe.
+ * `cards[0]` is on top; the parent drops it from the array in onSwipe. With `superlike`, dragging the card up (or
+ * the star button) is a third answer; without it the card leaves vertical drags to the page, so it can scroll.
  */
-export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, starred, surname, end, ariaLabel }: {
+export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, superlike, surname, end, ariaLabel }: {
   cards: CardData[]
-  onSwipe: (dir: 'like' | 'nope', card: CardData) => void
+  onSwipe: (dir: Swipe, card: CardData) => void
   labels: Labels
   onUndo?: () => void
   canUndo?: boolean
-  onStar?: (card: CardData) => void
-  starred?: boolean
+  superlike?: boolean
   surname?: string
   end?: ReactNode
   ariaLabel?: string
@@ -55,6 +57,7 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
   const el = useRef<HTMLDivElement | null>(null)
   const likeStamp = useRef<HTMLSpanElement | null>(null)
   const nopeStamp = useRef<HTMLSpanElement | null>(null)
+  const superStamp = useRef<HTMLSpanElement | null>(null)
   const drag = useRef<{ x: number; y: number; id: number; moved: boolean } | null>(null)
   const busy = useRef(false)
   const top = cards[0]
@@ -62,12 +65,15 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
   const paint = (dx: number, dy: number) => {
     const node = el.current
     if (!node) return
-    node.style.transform = `translate(${dx}px, ${dy * 0.25}px) rotate(${dx * 0.05}deg)`
-    if (likeStamp.current) likeStamp.current.style.opacity = String(Math.max(0, Math.min(1, (dx - 24) / 70)))
-    if (nopeStamp.current) nopeStamp.current.style.opacity = String(Math.max(0, Math.min(1, (-dx - 24) / 70)))
+    // Going up more than sideways is a superlike in the making: the card follows the finger instead of tilting.
+    const up = !!superlike && dy < 0 && -dy > Math.abs(dx)
+    node.style.transform = up ? `translate(${dx * 0.4}px, ${dy}px)` : `translate(${dx}px, ${dy * 0.25}px) rotate(${dx * 0.05}deg)`
+    if (likeStamp.current) likeStamp.current.style.opacity = up ? '0' : String(Math.max(0, Math.min(1, (dx - 24) / 70)))
+    if (nopeStamp.current) nopeStamp.current.style.opacity = up ? '0' : String(Math.max(0, Math.min(1, (-dx - 24) / 70)))
+    if (superStamp.current) superStamp.current.style.opacity = up ? String(Math.max(0, Math.min(1, (-dy - 24) / 70))) : '0'
   }
 
-  const fly = useCallback((dir: 'like' | 'nope') => {
+  const fly = useCallback((dir: Swipe) => {
     const node = el.current
     if (!node || !top || busy.current) return
     busy.current = true
@@ -75,9 +81,9 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
     node.classList.remove('card--back')
     node.classList.add('card--fly')
     const sign = dir === 'like' ? 1 : -1
-    node.style.transform = `translate(${sign * 130}%, -6%) rotate(${sign * 16}deg)`
+    node.style.transform = dir === 'super' ? 'translate(0, -130%)' : `translate(${sign * 130}%, -6%) rotate(${sign * 16}deg)`
     node.style.opacity = '0'
-    const stamp = dir === 'like' ? likeStamp.current : nopeStamp.current
+    const stamp = dir === 'super' ? superStamp.current : dir === 'like' ? likeStamp.current : nopeStamp.current
     if (stamp) stamp.style.opacity = '1'
     window.setTimeout(() => { busy.current = false; onSwipe(dir, top) }, reduce ? 0 : 200)
   }, [top, onSwipe])
@@ -92,7 +98,7 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
     const d = drag.current
     if (!d || d.id !== e.pointerId) return
     const dx = e.clientX - d.x, dy = e.clientY - d.y
-    if (!d.moved && Math.abs(dx) < 6) return
+    if (!d.moved && Math.abs(dx) < 6 && !(superlike && dy < -6)) return
     d.moved = true
     paint(dx, dy)
   }
@@ -100,14 +106,16 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
     const d = drag.current
     if (!d || d.id !== e.pointerId) return
     drag.current = null
-    const dx = e.clientX - d.x
-    if (dx > 90) fly('like')
+    const dx = e.clientX - d.x, dy = e.clientY - d.y
+    if (superlike && dy < -110 && -dy > Math.abs(dx)) fly('super')
+    else if (dx > 90) fly('like')
     else if (dx < -90) fly('nope')
     else { e.currentTarget.classList.add('card--back'); paint(0, 0) }
   }
   const onKey = (e: KeyboardEvent<HTMLDivElement>) => {
     if (e.key === 'ArrowRight') { e.preventDefault(); fly('like') }
     else if (e.key === 'ArrowLeft') { e.preventDefault(); fly('nope') }
+    else if (e.key === 'ArrowUp' && superlike) { e.preventDefault(); fly('super') }
   }
 
   return (
@@ -116,11 +124,12 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
         {cards[2] ? <div className="card card--under2" aria-hidden="true" /> : null}
         {cards[1] ? <div className="card card--under" aria-hidden="true" /> : null}
         {top ? (
-          <div key={top.id} ref={el} className="card card--top" tabIndex={0} role="group" aria-roledescription="card"
+          <div key={top.id} ref={el} className={superlike ? 'card card--top card--free' : 'card card--top'} tabIndex={0} role="group" aria-roledescription="card"
             aria-label={ariaLabel ? `${ariaLabel}: ${top.name}` : top.name}
             onPointerDown={onDown} onPointerMove={onMove} onPointerUp={onUp} onPointerCancel={onUp} onKeyDown={onKey}>
             <span ref={likeStamp} className="stamp stamp--like" aria-hidden="true">{labels.like}</span>
             <span ref={nopeStamp} className="stamp stamp--nope" aria-hidden="true">{labels.nope}</span>
+            {superlike ? <span ref={superStamp} className="stamp stamp--super" aria-hidden="true">{labels.star}</span> : null}
             <NameCardFace c={top} surname={surname} />
           </div>
         ) : end}
@@ -132,8 +141,8 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, onStar, st
           ) : null}
           <button type="button" className="btn" onClick={() => fly('nope')} aria-label={labels.nope} title={labels.nope}><IconX size={28} /></button>
           <button type="button" className="btn btn--primary" onClick={() => fly('like')} aria-label={labels.like} title={labels.like}><IconHeart size={28} /></button>
-          {onStar ? (
-            <button type="button" className="btn btn--mini" onClick={() => onStar(top)} aria-pressed={!!starred} aria-label={labels.star} title={labels.star}><IconStar size={20} /></button>
+          {superlike ? (
+            <button type="button" className="btn btn--mini btn--super" onClick={() => fly('super')} aria-label={labels.star} title={labels.star}><IconStar size={20} /></button>
           ) : null}
         </div>
       ) : null}

@@ -10,7 +10,10 @@
     "build": "node scripts/build-data.mjs && next build && node scripts/build-cf.mjs",
     "build:quick": "BM_ONLY_POPULAR=1 npm run build",
     "deploy": "node scripts/deploy-cf.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:api": "node scripts/test-api.mjs",
+    "test:app": "node scripts/test-app.mjs",
+    "stats": "node scripts/stats.mjs"
   },
   "dependencies": {
     "next": "^15.5.14",

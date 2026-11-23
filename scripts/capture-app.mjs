@@ -42,7 +42,7 @@ async function capture(l) {
     filters: { g: [], cultures: [], tags: [], letters: [], len: [], pop: [], nativeOnly: true }, list: null, me: WHO[l][0], surname: '', partner: null,
   }
   // The partner already likes four of ours (the matches) and most well-known names, so the next like is a match.
-  const withPartner = { ...state, partner: { name: WHO[l][1], likes: [...liked.slice(0, 4), ...known.map(r => r[0]).filter(id => !liked.includes(id))], at: now } }
+  const withPartner = { ...state, seen: liked.slice(0, 4), partner: { id: 'demo', rev: 1, name: WHO[l][1], likes: [...liked.slice(0, 4), ...known.map(r => r[0]).filter(id => !liked.includes(id))], supers: liked.slice(1, 3), at: now } }
 
   async function open(saved) {
     const page = await browser.newPage()
@@ -51,6 +51,7 @@ async function capture(l) {
     await page.evaluateOnNewDocument((s) => {
       try {
         localStorage.setItem('babymatch:consent', 'no') // keep the analytics notice out of the picture
+        localStorage.setItem('babymatch:nosync', '1') // these made-up swipes must never reach the server
         // Every page shares one browser profile: always set or clear, or a first visit inherits the last state.
         if (s) localStorage.setItem('babymatch:v1', s)
         else localStorage.removeItem('babymatch:v1')

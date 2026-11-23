@@ -45,3 +45,6 @@ next-env.d.ts
 
 # partial downloads of scripts/fetch-people.mjs
 /data/*.tmp
+
+# raw downloads kept by scripts/fetch-stats.mjs so a run can resume
+/data/stats/cache/

@@ -1,0 +1,13 @@
+{
+  // The only part of BabyMatch with a database: it keeps each person's list safe and joins the two partners.
+  // Everything else is static files (see scripts/build-cf.mjs).
+  "name": "babymatch-api",
+  "main": "./worker.js",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "routes": [{ "pattern": "babymatch.app/api/*", "zone_name": "babymatch.app" }],
+  "d1_databases": [
+    { "binding": "DB", "database_name": "babymatch", "database_id": "933c1f5e-c797-4f84-bf7a-bd3aa53ed42a", "migrations_dir": "./migrations" }
+  ],
+  "observability": { "enabled": true }
+}

@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next'
 import { LOCALES, HREFLANG, SITE_URL, paths, type Locale } from '@/i18n/config'
 import { allNames } from '@/lib/names'
 import { allLists, listByKey } from '@/lib/lists'
+import { monthSlug } from '@/lib/saints'
 
 export const dynamic = 'force-static'
 
@@ -25,6 +26,11 @@ export default async function sitemap({ id }: { id: string }): Promise<MetadataR
     { url: u(paths.app(l)), lastModified: now, changeFrequency: 'monthly', priority: 0.9, alternates: langs(paths.app) },
     { url: u(paths.names(l)), lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: langs(paths.names) },
     { url: u(paths.lists(l)), lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: langs(paths.lists) },
+    { url: u(paths.saints(l)), lastModified: now, changeFrequency: 'monthly', priority: 0.7, alternates: langs(paths.saints) },
+    ...Array.from({ length: 12 }, (_, i) => ({
+      url: u(paths.saintsMonth(l, monthSlug(l, i + 1))), lastModified: now, changeFrequency: 'monthly' as const, priority: 0.6,
+      alternates: langs(o => paths.saintsMonth(o, monthSlug(o, i + 1))),
+    })),
     ...allLists(l).map(x => ({
       url: u(paths.list(l, x.slug)), lastModified: now, changeFrequency: 'weekly' as const, priority: 0.8,
       alternates: langs(o => { const y = listByKey(o, x.key); return y ? paths.list(o, y.slug) : null }),

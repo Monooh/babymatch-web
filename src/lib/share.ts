@@ -1,4 +1,5 @@
-// A partner invite is the list of liked name ids packed into the URL fragment. Nothing reaches a server.
+// The first kind of invitation: the list of liked name ids packed into the link itself. New invitations are a short
+// code joined on the server (src/lib/sync.ts); this stays so that links already sent keep opening.
 const VERSION = 1
 
 function toB64Url(bytes: Uint8Array): string {

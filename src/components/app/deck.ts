@@ -35,6 +35,7 @@ export function buildDeck(names: N[], s: State, seed: number, firstSlug?: string
   const rand = mulberry(seed)
   const q: Quiz | null = s.quiz
   const partner = new Set(s.partner?.likes || [])
+  const loved = new Set(s.partner?.supers || [])
   const scored: [number, N][] = []
   for (const n of names) {
     if (s.likes[n.id] || s.nopes[n.id]) continue
@@ -49,6 +50,7 @@ export function buildDeck(names: N[], s: State, seed: number, firstSlug?: string
       if (q.pop === 'rare') score += (3 - n.pop) * 1.2
     }
     if (partner.has(n.id)) score += 3.5
+    if (loved.has(n.id)) score += 3 // what the partner loves comes up sooner still
     if (firstSlug && n.slug === firstSlug) score += 1000
     scored.push([score, n])
   }

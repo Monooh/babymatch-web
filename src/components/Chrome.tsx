@@ -41,6 +41,7 @@ export function SiteFooter({ lang, d }: { lang: Locale; d: Dict }) {
             <ul>
               <li><a href={paths.names(lang)}>{d.nav.names}</a></li>
               <li><a href={paths.lists(lang)}>{d.nav.lists}</a></li>
+              <li><a href={paths.saints(lang)}>{d.saints.nav}</a></li>
               <li><a href={paths.app(lang)}>{d.nav.openApp}</a></li>
               <li><a href={paths.privacy(lang)}>{d.footer.privacy}</a></li>
             </ul>
