@@ -215,7 +215,7 @@ const pt: Dict = {
     p1: 'O BabyMatch não pede cadastro, e-mail nem senha. Os nomes que você curte, pula ou marca com superlike ficam salvos no seu navegador e, para você não perder, em uma cópia no nosso servidor ligada a um identificador aleatório. Se você escrever seu primeiro nome para seu parceiro, ele também é salvo. Não guardamos mais nada sobre você.',
     p2: 'Para reconhecer seu navegador usamos um cookie próprio, necessário para salvar sua lista. Quando você convida seu parceiro, o link leva um código que une as duas listas: cada um vê os nomes que o outro curte. Compartilhe só com essa pessoa.',
     p3: 'Com «Apagar tudo», no menu do app, sua lista é eliminada do celular e do nosso servidor para sempre.',
-    p4: 'Não usamos cookies de publicidade. Contamos de forma anônima quantas vezes cada função do app é usada, sem identificar ninguém. Para contar visitas usamos também o Google Analytics, só se você aceitar no aviso: nesse caso o Google guarda cookies de medição no seu navegador. Você pode mudar sua escolha aqui embaixo.',
+    p4: 'Não usamos cookies de publicidade. Contamos de forma anônima quantas vezes cada função do app é usada, sem identificar ninguém, e a Cloudflare, que hospeda o site, conta as visitas sem cookies. Usamos também o Google Analytics, só se você aceitar no aviso: nesse caso o Google guarda cookies de medição no seu navegador. Você pode mudar sua escolha aqui embaixo.',
     change: 'Mudar minha escolha sobre a análise',
   },
   saints: {

@@ -16,7 +16,7 @@ Cobrar tiene sentido cuando la 2 y la 3 dan que sí de forma sostenida. Los umbr
 |---|---|---|---|
 | Impresiones, clics y posición en Google | Search Console, propiedad `babymatch.app` | Todo el mundo | Con 2–3 días de retraso. Mirar por carpeta de idioma (`/es/`, `/en/`…) y por tipo de página (fichas, listas). |
 | Visitas a la web y de dónde vienen | Google Analytics 4, propiedad «BabyMatch» | Solo quien acepta el aviso | Sirve para proporciones (fuentes, páginas de entrada), no para totales. |
-| Visitas totales, sin cookies | Cloudflare Web Analytics | Todo el mundo | **Pendiente de activar** (ver «Pendiente»). Es el total fiable de visitas. |
+| Visitas totales, sin cookies | Cloudflare Web Analytics (panel de Cloudflare → Analytics & Logs → Web Analytics → babymatch.app) | Todo el mundo | Activo para todos los países desde el 23-11-2026 (antes excluía a la UE). Es el total fiable de visitas. |
 | Uso de la app, paso a paso | `npm run stats` | Todo el mundo | Contadores anónimos de la propia app y las listas guardadas. No dependen del aviso de cookies. |
 | Presencia en respuestas de IA | `.granola/mediciones/` (`/granola medir`) | — | Una pasada al mes con las mismas preguntas. |
 
@@ -90,12 +90,13 @@ Son umbrales de partida, elegidos con criterio y no con datos propios: revisarlo
 El paso siguiente antes de construir nada de pago es una **prueba de puerta falsa**: un botón «Premium» que solo
 cuenta cuánta gente lo toca (evento `premium_tap`) y explica que llegará pronto.
 
+## Hecho
+
+- Cloudflare Web Analytics cuenta a todos los visitantes (23-11-2026).
+- En GA4, `first_like`, `invite_created`, `partner_joined` y `match` están creados como eventos clave (23-11-2026).
+
 ## Pendiente
 
-- **Activar Cloudflare Web Analytics** (gratis, sin cookies): panel de Cloudflare → Analytics & Logs → Web Analytics
-  → añadir `babymatch.app` con instalación automática. Sin esto no hay un total de visitas que no dependa del aviso.
-- **Marcar eventos clave en GA4**: Administrar → Eventos → marcar `first_like`, `invite_created`, `partner_joined`
-  y `match` como eventos clave cuando empiecen a llegar.
 - **Bing Webmaster Tools**: importar la propiedad desde Search Console (Copilot y ChatGPT se apoyan en Bing).
 - **Informe anual con datos propios** («los nombres con más likes en BabyMatch»): los datos ya se guardan;
   falta volumen para publicarlo con sentido.

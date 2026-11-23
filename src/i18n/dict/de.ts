@@ -215,7 +215,7 @@ const de: Dict = {
     p1: 'BabyMatch verlangt keine Anmeldung, keine E-Mail und kein Passwort. Namen, die du magst, überspringst oder mit Superlike markierst, werden in deinem Browser gespeichert und, damit du sie nicht verlierst, als Kopie auf unserem Server unter einer zufälligen Kennung. Wenn du deinen Vornamen für deinen Partner eingibst, wird auch er gespeichert. Mehr speichern wir nicht über dich.',
     p2: 'Um deinen Browser wiederzuerkennen, verwenden wir ein eigenes Cookie, das zum Speichern deiner Liste nötig ist. Wenn du deinen Partner einlädst, enthält der Link einen Code, der beide Listen verbindet: Jeder sieht, welche Namen dem anderen gefallen. Teile ihn nur mit dieser Person.',
     p3: 'Mit „Alles löschen“ im App-Menü wird deine Liste endgültig von deinem Handy und von unserem Server gelöscht.',
-    p4: 'Wir verwenden keine Werbe-Cookies. Wir zählen anonym, wie oft jede Funktion der App genutzt wird, ohne jemanden zu identifizieren. Um Besuche zu zählen, nutzen wir außerdem Google Analytics, nur wenn du im Hinweis zustimmst: Dann speichert Google Mess-Cookies in deinem Browser. Du kannst deine Auswahl unten ändern.',
+    p4: 'Wir verwenden keine Werbe-Cookies. Wir zählen anonym, wie oft jede Funktion der App genutzt wird, ohne jemanden zu identifizieren, und Cloudflare, das die Website hostet, zählt Besuche ohne Cookies. Außerdem nutzen wir Google Analytics, nur wenn du im Hinweis zustimmst: Dann speichert Google Mess-Cookies in deinem Browser. Du kannst deine Auswahl unten ändern.',
     change: 'Meine Analyse-Auswahl ändern',
   },
   saints: {

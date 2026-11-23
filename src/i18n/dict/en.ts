@@ -214,7 +214,7 @@ const en = {
     p1: 'BabyMatch asks for no sign-up, email or password. The names you like, skip or superlike are saved in your browser and, so you do not lose them, in a copy on our server tied to a random identifier. If you type your first name for your partner, that is saved too. We keep nothing else about you.',
     p2: 'To recognise your browser we use one first-party cookie, needed to save your list. When you invite your partner, the link carries a code that joins the two lists: each of you sees the names the other likes. Share it only with them.',
     p3: 'Choosing “Erase everything” in the app menu deletes your list from your phone and from our server for good.',
-    p4: 'We do not use advertising cookies. We count anonymously how often each feature of the app is used, without identifying anyone. To count visits we also use Google Analytics, only if you accept it in the notice: Google then stores measurement cookies in your browser. You can change your choice below.',
+    p4: 'We do not use advertising cookies. We count anonymously how often each feature of the app is used, without identifying anyone, and Cloudflare, which hosts the site, counts visits without cookies. We also use Google Analytics, only if you accept it in the notice: Google then stores measurement cookies in your browser. You can change your choice below.',
     change: 'Change my analytics choice',
   },
   saints: {
