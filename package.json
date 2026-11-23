@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "data": "node scripts/build-data.mjs",
+    "people": "node scripts/fetch-people.mjs",
     "dev": "next dev",
     "build": "node scripts/build-data.mjs && next build && node scripts/build-cf.mjs",
     "build:quick": "BM_ONLY_POPULAR=1 npm run build",

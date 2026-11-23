@@ -123,9 +123,69 @@ for (const [slug, recs] of bySlug) {
 }
 master.sort((a, b) => a.slug.localeCompare(b.slug))
 
+// ───── Real-world data layered on top of the names (both optional: the site builds without them) ─────
+const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model']
+const NEW_ENTRY = 999
+const entryBySlug = new Map(master.map(e => [e.slug, e]))
+const entryByForm = new Map()
+for (const e of master) for (const f of Object.values(e.f)) { const k = slugify(f); if (!entryByForm.has(k)) entryByForm.set(k, e) }
+/** The entry a real-world spelling refers to; `g` prefers the girl's or the boy's name when two share a slug. */
+function findEntry(name, g) {
+  const k = slugify(name)
+  const options = [entryBySlug.get(k), entryBySlug.get(`${k}-f`), entryBySlug.get(`${k}-m`), entryByForm.get(k)].filter(Boolean)
+  return options.find(e => !g || e.g._ === g || e.g._ === 'u') || options[0]
+}
+const readJson = path => (existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : null)
+
+// Names borne by the best-known people of a kind (data/creators.json, from scripts/fetch-people.mjs).
+const creators = readJson(join(ROOT, 'data/creators.json')) || {}
+const fame = {} // slug → kind → the best-known person with that name
+// People we would rather not hold up as a namesake on a baby-name site, by their English name (data/people-exclude.json).
+const excluded = new Set((readJson(join(ROOT, 'data/people-exclude.json')) || []).map(x => x.toLowerCase()))
+for (const kind of FAME) {
+  for (const person of creators[kind] || []) {
+    if (excluded.has((person.l.en || '').toLowerCase())) continue
+    for (const given of person.given) {
+      const e = findEntry(given)
+      if (!e) continue
+      fame[e.slug] ||= {}
+      if (!fame[e.slug][kind]) fame[e.slug][kind] = { id: person.id, l: person.l, t: person.t, w: person.w }
+    }
+  }
+}
+for (const e of master) if (fame[e.slug]) e.k = FAME.filter(k => fame[e.slug][k])
+
+// Official rankings of newborn names per country (data/official/<lang>.json).
+const official = {}
+// "Sophia/Sofia" and "Matt(h)eo/Mat(h)eo" are several spellings sharing one place; ISTAT writes a final accent as an apostrophe.
+const spellings = raw => raw.split('/').flatMap(x => (/\(.\)/.test(x) ? [x.replace(/\((.)\)/g, '$1'), x.replace(/\(.\)/g, '')] : [x]))
+  .map(x => x.trim().replace(/([aeiou])'$/, (m, v) => ({ a: 'à', e: 'è', i: 'ì', o: 'ò', u: 'ù' })[v]))
+for (const l of LOCALES) {
+  const o = readJson(join(ROOT, `data/official/${l}.json`))
+  if (!o || !o.latest) continue
+  const place = (list, g) => { const m = new Map(); list.forEach((raw, i) => { for (const sp of spellings(raw)) { const e = findEntry(sp, g); if (e && !m.has(e.slug)) m.set(e.slug, i + 1) } }); return m }
+  const out = { country: l, source: o.source, url: o.sourceUrl, secondary: !!o.secondary, year: o.latest.year, prevYear: o.previous?.year || null, f: [], m: [], missing: [] }
+  for (const [g, key] of [['f', 'girls'], ['m', 'boys']]) {
+    const now = place(o.latest[key] || [], g), before = place(o.previous?.[key] || [], g)
+    const hadBefore = (o.previous?.[key] || []).length > 0
+    o.latest[key].forEach(raw => { if (!spellings(raw).some(sp => findEntry(sp, g))) out.missing.push(raw) })
+    for (const [slug, rank] of now) {
+      const prev = before.get(slug) || 0
+      out[g].push([slug, rank, prev])
+      const e = entryBySlug.get(slug)
+      e.r ||= {}
+      // A name on both lists keeps its better place.
+      if (!e.r[l] || rank < e.r[l][0]) e.r[l] = [rank, prev ? Math.max(0, prev - rank) : hadBefore ? NEW_ENTRY : 0, g]
+    }
+  }
+  official[l] = out
+}
+
 mkdirSync(join(ROOT, 'src/data'), { recursive: true })
 mkdirSync(join(ROOT, 'public/data'), { recursive: true })
 writeFileSync(join(ROOT, 'src/data/master.json'), JSON.stringify(master))
+writeFileSync(join(ROOT, 'src/data/fame.json'), JSON.stringify(fame))
+writeFileSync(join(ROOT, 'src/data/official.json'), JSON.stringify(official))
 writeFileSync(idsPath, JSON.stringify(ids))
 
 // Each language sees its own cultures first, so a Spanish reader meets Helena as a Spanish name.
@@ -135,6 +195,7 @@ for (const l of LOCALES) {
     e.id, e.slug, e.f[l] || e.f._, e.g[l] || e.g._, ROOTS.indexOf(e.root), homeFirst(e.c, l).map(c => CULTURES.indexOf(c)), e.p,
     e.t.map(t => TAGS.indexOf(t)), e.s, e.m[l],
     e.c.some(c => LOCALE_CULTURES[l].includes(c)) ? 2 : e.c.includes('intl') ? 1 : 0,
+    (e.k || []).map(k => FAME.indexOf(k)), e.r?.[l]?.[0] || 0, e.r?.[l]?.[1] || 0, e.r?.[l]?.[2] || '',
   ])
   writeFileSync(join(ROOT, `public/data/names.${l}.json`), JSON.stringify(rows))
 }
@@ -143,6 +204,8 @@ const count = (fn) => master.filter(fn).length
 console.log(`files ${stats.files} · lines ${stats.lines} · rejected ${stats.bad} · merged duplicates ${stats.merged} · split by gender ${stats.split || 0}`)
 console.log(`names ${master.length} · girls ${count(e => e.g._ === 'f')} · boys ${count(e => e.g._ === 'm')} · unisex ${count(e => e.g._ === 'u')}`)
 console.log('native per language: ' + LOCALES.map(l => `${l} ${count(e => e.c.includes('intl') || e.c.some(c => LOCALE_CULTURES[l].includes(c)))}`).join(' · '))
+console.log('famous kinds: ' + FAME.map(k => `${k} ${count(e => (e.k || []).includes(k))}`).join(' · '))
+for (const [l, o] of Object.entries(official)) console.log(`official ${l} ${o.year}: girls ${o.f.length} · boys ${o.m.length}` + (o.missing.length ? ` · not in the database: ${o.missing.join(', ')}` : ''))
 if (bad.length) {
   writeFileSync(join(ROOT, 'data/rejected.txt'), bad.join('\n') + '\n')
   console.log(`rejected lines listed in data/rejected.txt (first 5):\n  ${bad.slice(0, 5).join('\n  ')}`)

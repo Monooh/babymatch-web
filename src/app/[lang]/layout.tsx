@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { notFound } from 'next/navigation'
-import { LOCALES, SITE_NAME, SITE_URL, isLocale } from '@/i18n/config'
+import { GA_ID, LOCALES, SITE_NAME, SITE_URL, isLocale, paths } from '@/i18n/config'
+import { getDict } from '@/i18n/dict'
 import '@/styles/site.css'
 
 export const dynamicParams = false
@@ -21,6 +22,7 @@ export const viewport: Viewport = { width: 'device-width', initialScale: 1, view
 export default async function RootLayout({ children, params }: { children: React.ReactNode; params: Promise<{ lang: string }> }) {
   const { lang } = await params
   if (!isLocale(lang)) notFound()
+  const c = getDict(lang).consent
   return (
     <html lang={lang} className="overflow-x-clip">
       <head>
@@ -29,7 +31,10 @@ export default async function RootLayout({ children, params }: { children: React
         <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=chillax@500,600&display=swap" />
         <link rel="manifest" href={`/${lang}/manifest.webmanifest`} />
       </head>
-      <body className="overflow-x-clip">{children}</body>
+      <body className="overflow-x-clip">
+        {children}
+        {GA_ID ? <script src="/consent.js" defer data-ga={GA_ID} data-text={c.text} data-yes={c.accept} data-no={c.decline} data-more={c.more} data-privacy={paths.privacy(lang)} /> : null}
+      </body>
     </html>
   )
 }

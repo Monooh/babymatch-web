@@ -1,11 +1,12 @@
 import 'server-only'
 import master from '@/data/master.json'
 import { LOCALES, LOCALE_CULTURES, type Locale } from '@/i18n/config'
-import { type N, type Culture, type Gender, type Root, type Tag, firstLetter } from './model'
+import { type N, type Culture, type Fame, type Gender, type Root, type Tag, firstLetter } from './model'
 
 type Master = {
   id: number; slug: string; f: Record<string, string>; g: Record<string, string>; root: string
   c: string[]; p: number; t: string[]; s: number; m: Record<string, string>
+  k?: string[]; r?: Record<string, [number, number, 'f' | 'm']>
 }
 const MASTER = master as unknown as Master[]
 
@@ -17,6 +18,7 @@ function build(l: Locale) {
     id: e.id, slug: e.slug, name: e.f[l] || e.f._, g: (e.g[l] || e.g._) as Gender, root: e.root as Root,
     cultures: [...e.c.filter(c => native.includes(c)), ...e.c.filter(c => !native.includes(c))] as Culture[], pop: e.p, tags: e.t as Tag[], syl: e.s, meaning: e.m[l],
     fit: e.c.includes('intl') || e.c.some(c => native.includes(c)), home: e.c.some(c => native.includes(c)),
+    fame: (e.k || []) as Fame[], rank: e.r?.[l]?.[0] || 0, rise: e.r?.[l]?.[1] || 0, rankG: e.r?.[l]?.[2] || '',
   }))
   const bySlug = new Map(all.map(n => [n.slug, n]))
   const byLetter = new Map<string, N[]>()

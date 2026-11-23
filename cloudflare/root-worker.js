@@ -25,6 +25,12 @@ export default {
         headers: { Location: `${url.origin}/${match ? match.tag : DEFAULT_LOCALE}`, Vary: 'Accept-Language', 'Cache-Control': 'private, no-store' },
       })
     }
-    return env.ASSETS.fetch(request) // answers with 404.html and status 404
+    // Nothing matched. The assets are configured without a not-found page on purpose: with one, Cloudflare answers
+    // browser navigations (Sec-Fetch-Mode: navigate) itself and this script never sees "/" or www.
+    const page = await env.ASSETS.fetch(new URL('/404', url))
+    return new Response(page.body, {
+      status: 404,
+      headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=0, must-revalidate' },
+    })
   },
 }

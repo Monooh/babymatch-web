@@ -65,3 +65,11 @@ jobs:
             echo "$path -> $code"
             [ "$code" = "200" ] || { echo "::error::https://babymatch.app$path answered $code"; exit 1; }
           done
+          # The bare domain and www must redirect when asked the way a browser asks (Sec-Fetch-Mode: navigate):
+          # Cloudflare treats those requests differently from a plain curl.
+          for check in "https://babymatch.app/ 307" "https://www.babymatch.app/ 301" "https://www.babymatch.app/es 301" "https://babymatch.app/no-such-page 404"; do
+            set -- $check
+            code=$(curl -s -o /dev/null -m 30 -H 'Sec-Fetch-Mode: navigate' -H 'Accept-Language: es' -w '%{http_code}' "$1")
+            echo "$1 -> $code"
+            [ "$code" = "$2" ] || { echo "::error::$1 answered $code, expected $2"; exit 1; }
+          done

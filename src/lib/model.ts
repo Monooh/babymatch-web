@@ -22,6 +22,10 @@ export type Tag = (typeof TAGS)[number]
 
 export type Gender = 'f' | 'm' | 'u'
 
+/** Occupations with a list of their own: a name is on it when one of the best-known people of that kind bears it. */
+export const FAME = ['youtuber', 'tiktoker', 'influencer', 'singer', 'actor', 'footballer', 'model'] as const
+export type Fame = (typeof FAME)[number]
+
 /** One name, already resolved for one site language. */
 export type N = {
   id: number
@@ -36,21 +40,28 @@ export type N = {
   meaning: string
   fit: boolean // usable in this site language: native to it, or international
   home: boolean // belongs to one of this language's own cultures
+  fame: Fame[] // kinds of well-known people who bear it
+  rank: number // place in the latest official ranking of this language's country (0 = not ranked)
+  rise: number // places gained since the year before (0 = none or not ranked; NEW_ENTRY = entered the ranking)
+  rankG: 'f' | 'm' | '' // whether that place is on the girls' or the boys' ranking
 }
+export const NEW_ENTRY = 999
 
-/** Compact row shipped to the client: [id, slug, name, g, rootIdx, cultureIdxs, pop, tagIdxs, syl, meaning, fit] (fit: 2 home, 1 international, 0 foreign) */
-export type Row = [number, string, string, Gender, number, number[], number, number[], number, string, 0 | 1 | 2]
+/** Compact row shipped to the client: [id, slug, name, g, rootIdx, cultureIdxs, pop, tagIdxs, syl, meaning, fit, fameIdxs, rank, rise, rankG] (fit: 2 home, 1 international, 0 foreign) */
+export type Row = [number, string, string, Gender, number, number[], number, number[], number, string, 0 | 1 | 2, number[]?, number?, number?, ('f' | 'm' | '')?]
 
 export function fromRow(r: Row): N {
   return {
     id: r[0], slug: r[1], name: r[2], g: r[3], root: ROOTS[r[4]], cultures: r[5].map(i => CULTURES[i]),
     pop: r[6], tags: r[7].map(i => TAGS[i]), syl: r[8], meaning: r[9], fit: r[10] > 0, home: r[10] === 2,
+    fame: (r[11] || []).map(i => FAME[i]), rank: r[12] || 0, rise: r[13] || 0, rankG: r[14] || '',
   }
 }
 export function toRow(n: N): Row {
   return [
     n.id, n.slug, n.name, n.g, ROOTS.indexOf(n.root), n.cultures.map(c => CULTURES.indexOf(c)), n.pop,
     n.tags.map(t => TAGS.indexOf(t)), n.syl, n.meaning, n.home ? 2 : n.fit ? 1 : 0,
+    n.fame.map(k => FAME.indexOf(k)), n.rank, n.rise, n.rankG,
   ]
 }
 
@@ -77,6 +88,8 @@ export function firstLetter(name: string): string {
 //   len:short len:long (+gender)
 //   syl:1 syl:2 (+gender)
 //   pop:top pop:rare (+gender)   (top = popular among names native to the site language)
+//   y:now y:next (+gender)       the latest official ranking, and the names climbing it
+//   fame:youtuber (+gender)      names borne by the best-known people of that kind
 
 export type ListKey = string
 export const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
@@ -86,6 +99,8 @@ export function allListKeys(): ListKey[] {
   const keys: ListKey[] = ['g:f', 'g:m', 'g:u']
   const withGenders = (base: string) => { keys.push(base); for (const g of GENDERS) keys.push(`${base}:${g}`) }
   withGenders('pop:top'); withGenders('pop:rare')
+  withGenders('y:now'); withGenders('y:next')
+  for (const k of FAME) withGenders(`fame:${k}`)
   for (const c of CULTURES) withGenders(`c:${c}`)
   for (const t of TAGS) withGenders(`t:${t}`)
   withGenders('len:short'); withGenders('len:long')
@@ -102,8 +117,10 @@ export function parseListKey(key: ListKey): { kind: string; value: string; gende
 
 export function matchList(key: ListKey, n: N): boolean {
   const { kind, value, gender } = parseListKey(key)
+  // A ranking is the girls' or the boys': a name belongs to the one it was counted in.
+  if (kind === 'y' && gender) { if (n.rankG !== gender) return false }
   // A gendered list also welcomes unisex names; the unisex list holds only those.
-  if (gender && n.g !== gender && !(gender !== 'u' && n.g === 'u')) return false
+  else if (gender && n.g !== gender && !(gender !== 'u' && n.g === 'u')) return false
   switch (kind) {
     case 'g': return true
     case 'c': return n.cultures.includes(value as Culture)
@@ -112,6 +129,8 @@ export function matchList(key: ListKey, n: N): boolean {
     case 'len': return value === 'short' ? nameLength(n.name) <= 4 : nameLength(n.name) >= 9
     case 'syl': return n.syl === Number(value)
     case 'pop': return value === 'top' ? n.home && n.pop >= 4 : n.pop <= 1
+    case 'y': return value === 'now' ? n.rank > 0 : n.rise >= RISE_MIN
+    case 'fame': return n.fame.includes(value as Fame)
     default: return false
   }
 }
@@ -119,6 +138,16 @@ export function nameLength(name: string): number {
   return name.replace(/[^\p{L}]/gu, '').length
 }
 
+/** Places a name must have climbed in a year to count as rising. */
+export const RISE_MIN = 5
+/** Order of a list: official rankings by place, risers by how far they climbed, the rest familiar names first. */
+export function listOrder(key: ListKey): (a: N, b: N) => number {
+  const { kind, value } = parseListKey(key)
+  if (kind === 'y' && value === 'now') return (a, b) => a.rank - b.rank || a.name.localeCompare(b.name)
+  // Risers: the biggest climbers first, then the names that entered the ranking, best placed first.
+  if (kind === 'y') return (a, b) => Number(a.rise >= NEW_ENTRY) - Number(b.rise >= NEW_ENTRY) || (a.rise >= NEW_ENTRY ? 0 : b.rise - a.rise) || a.rank - b.rank || a.name.localeCompare(b.name)
+  return byPopThenName
+}
 /** Sort used on list pages: familiar names first, then alphabetical. */
 export function byPopThenName(a: N, b: N): number {
   return (a.home === b.home ? 0 : a.home ? -1 : 1) || b.pop - a.pop || a.name.localeCompare(b.name)

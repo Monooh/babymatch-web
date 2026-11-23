@@ -4,6 +4,8 @@ export const DEFAULT_LOCALE: Locale = 'en'
 
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://babymatch.app').replace(/\/$/, '')
 export const SITE_NAME = 'BabyMatch'
+/** Google Analytics 4 measurement id. Loaded by /consent.js only after the visitor accepts; empty turns it off. */
+export const GA_ID = 'G-RYQMVXMSTY'
 
 export function isLocale(v: string): v is Locale {
   return (LOCALES as readonly string[]).includes(v)

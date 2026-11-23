@@ -10,6 +10,7 @@ import { pageMeta, jsonLd } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Torn } from '@/components/Torn'
 import { HeroDeck } from '@/components/HeroDeck'
+import { Faq } from '@/components/Faq'
 import type { CardData } from '@/components/SwipeStack'
 
 type Props = { params: Promise<{ lang: string }> }
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function tileClass(key: string): string {
   const { kind, gender } = parseListKey(key)
-  if (kind === 'pop') return gender === 'f' ? 'tile--f' : gender === 'm' ? 'tile--m' : 'tile--pear'
+  if (kind === 'pop' || kind === 'y') return gender === 'f' ? 'tile--f' : gender === 'm' ? 'tile--m' : 'tile--pear'
   if (gender === 'f') return 'tile--f'
   if (gender === 'm') return 'tile--m'
   if (gender === 'u') return 'tile--u'
@@ -52,7 +53,7 @@ export default async function Home({ params }: Props) {
 
   const home = LOCALE_CULTURES[l]
   const featuredKeys = [
-    'pop:top:f', 'pop:top:m', `c:${home[1] || home[0]}`, 't:vintage', 't:biblical:f', 'len:short', 't:nature', 'g:u',
+    'y:now:f', 'y:now:m', 'y:next', 'fame:influencer', 'fame:singer', 'fame:youtuber', `c:${home[1] || home[0]}`, 't:vintage', 't:biblical:f', 'len:short', 't:nature', 'g:u',
     't:mythology', 'pop:rare', 't:royal', 'syl:1:m',
   ]
   const featured = featuredKeys.map(k => listByKey(l, k)).filter((x): x is ListInfo => !!x)
@@ -69,9 +70,12 @@ export default async function Home({ params }: Props) {
   }
   const appLd = {
     '@context': 'https://schema.org', '@type': 'WebApplication', name: SITE_NAME, url: SITE_URL + paths.app(l),
-    applicationCategory: 'LifestyleApplication', operatingSystem: 'Any', inLanguage: HREFLANG[l],
+    applicationCategory: 'LifestyleApplication', operatingSystem: 'Any', browserRequirements: 'Requires JavaScript', inLanguage: HREFLANG[l],
+    description: t(d.meta.homeDesc, { count: nf(total) }), isAccessibleForFree: true,
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
   }
+  const faqVars = { count: nf(total), lists: nf(lists.length), langs: LOCALES.length, cultures: nf(cultures.length) }
+  const faq = d.home.faq.map(([q, a]) => [q, t(a, faqVars)] as [string, string])
 
   return (
     <>
@@ -142,6 +146,8 @@ export default async function Home({ params }: Props) {
           </ol>
         </div>
       </section>
+
+      <Faq id="h-faq" title={d.home.faqH2} items={faq} />
 
       <Torn seed={23} className="band band--pear">
         <section className="container" aria-labelledby="h-origins">

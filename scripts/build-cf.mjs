@@ -31,10 +31,10 @@ rmSync(DIST, { recursive: true, force: true })
 
 // React Server Component payloads (.txt beside each .html) are only fetched by next/link navigation.
 // The site uses plain links, so they are dead weight: skip them and halve the upload.
-const isRscPayload = (name) => name.endsWith('.txt') && name !== 'robots.txt'
-// Name, list and hub pages have no client components: the only script they need is /search.js. Removing the
+const isRscPayload = (name) => name.endsWith('.txt') && name !== 'robots.txt' && name !== 'llms.txt'
+// Name, list and hub pages have no client components: the only scripts they need are /search.js and /consent.js. Removing the
 // framework runtime and the inlined RSC payload takes each of them from about 38 KB to about 10 KB.
-const NEXT_SCRIPT = /<script\b(?![^>]*type="application\/ld\+json")(?![^>]*src="\/search\.js")[^>]*>[\s\S]*?<\/script>/g
+const NEXT_SCRIPT = /<script\b(?![^>]*type="application\/ld\+json")(?![^>]*src="\/(?:search|consent)\.js")[^>]*>[\s\S]*?<\/script>/g
 const SCRIPT_PRELOAD = /<link\b[^>]*\bas="script"[^>]*>/g
 const staticHtml = html => html.replace(NEXT_SCRIPT, '').replace(SCRIPT_PRELOAD, '')
 // These keep React: the home (live deck in the hero) and the app itself.
@@ -65,7 +65,7 @@ function writeConfig(dir, config) {
 function addShared(assets, { everything }) {
   // Language Workers carry the shared files too, so each also works alone on its workers.dev address.
   for (const name of shared) {
-    if (!everything && !['_next', 'data', '404.html', 'search.js', 'logo.png', 'icon-192.png', 'icon-512.png', 'favicon.ico'].includes(name)) continue
+    if (!everything && !['_next', 'data', '404.html', 'search.js', 'consent.js', 'logo.png', 'icon-192.png', 'icon-512.png', 'favicon.ico'].includes(name)) continue
     copy(join(OUT, name), join(assets, name), name)
   }
   copyFileSync(join(CF, '_headers'), join(assets, '_headers'))
@@ -98,7 +98,9 @@ for (const l of LOCALES) {
     name: 'babymatch-root',
     main: './worker.js',
     compatibility_date: COMPAT,
-    assets: { directory: './assets', binding: 'ASSETS', html_handling: 'auto-trailing-slash', not_found_handling: '404-page' },
+    // No not_found_handling here: it would make Cloudflare serve 404.html to browser navigations without running
+    // the script, so "/" and www would never redirect. The script serves the 404 page itself.
+    assets: { directory: './assets', binding: 'ASSETS', html_handling: 'auto-trailing-slash' },
     workers_dev: true,
     ...(ROUTES ? { routes: [{ pattern: `${DOMAIN}/*`, zone_name: DOMAIN }, { pattern: `www.${DOMAIN}/*`, zone_name: DOMAIN }] } : {}),
   })

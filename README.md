@@ -39,6 +39,24 @@ Ambas cosas las hace Cloudflare (ver «Despliegue»).
 Las listas no se guardan: se calculan a partir de una clave (`c:basque:f`, `t:biblical`, `l:a:m`…) en
 `src/lib/model.ts`, y su título y slug se componen por idioma en `src/i18n/taxonomy.ts`.
 
+## Datos del mundo real
+
+Dos fuentes dan a cada ficha y a cada lista algo que no tiene ninguna otra página:
+
+- **Personas conocidas (Wikidata, licencia CC0).** `npm run people` descarga, para cada nombre, las personas con
+  artículo en Wikipedia que se llaman así (`data/people.json`). Tarda horas, se puede cortar y retomar, y empieza
+  por los nombres más populares. `npm run people creators` descarga los youtubers, tiktokers, influencers,
+  cantantes, actores, futbolistas y modelos más conocidos con su nombre de pila (`data/creators.json`): de ahí
+  salen las listas «Nombres de youtubers», etc. Para dejar fuera a alguien, añade su nombre en inglés a
+  `data/people-exclude.json`.
+- **Rankings de recién nacidos por país.** `data/official/{idioma}.json` guarda el último ranking publicado y el
+  del año anterior: INE (España), SSA (Estados Unidos), INSEE (Francia), ISTAT (Italia), GfdS (Alemania, solo los
+  10 primeros) e IRN (Portugal, 10 primeros, cifras provisionales de prensa). De ahí salen las listas «populares
+  en {año}» (el ranking tal cual) y «tendencia en {año siguiente}» (los que más puestos suben), y el puesto de
+  cada nombre en su ficha. Hay que actualizarlos a mano cuando cada organismo publique el año nuevo.
+
+El año de los títulos es el del día en que se construye el sitio, así que esas direcciones cambian cada enero.
+
 ## Idiomas
 
 - Textos de interfaz: `src/i18n/dict/{idioma}.ts` (el inglés define las claves).

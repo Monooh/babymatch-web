@@ -1,0 +1,61 @@
+{
+  "country": "Germany",
+  "source": "Gesellschaft für deutsche Sprache (GfdS)",
+  "sourceUrl": "https://gfds.de/vornamen/beliebteste-vornamen/",
+  "secondary": false,
+  "latest": {
+    "year": 2025,
+    "girls": [
+      "Sophia/Sofia",
+      "Emma",
+      "Emilia",
+      "Mia",
+      "Lina",
+      "Ella",
+      "Hanna/Hannah",
+      "Klara/Clara",
+      "Mila",
+      "Lia/Liah"
+    ],
+    "boys": [
+      "Noah",
+      "Matt(h)eo/Mat(h)eo",
+      "Theo",
+      "Leo",
+      "Emil",
+      "Leon",
+      "Elias",
+      "Paul",
+      "Luca/Luka",
+      "Henry/Henri"
+    ]
+  },
+  "previous": {
+    "year": 2024,
+    "girls": [
+      "Sophia/Sofia",
+      "Emilia",
+      "Emma",
+      "Mia",
+      "Lina",
+      "Hanna/Hannah",
+      "Ella",
+      "Mila",
+      "Klara/Clara",
+      "Lia/Liah"
+    ],
+    "boys": [
+      "Noah",
+      "Matt(h)eo/Mat(h)eo",
+      "Leon",
+      "Luca/Luka",
+      "Paul",
+      "Henry/Henri",
+      "Theo",
+      "Emil",
+      "Elias",
+      "Louis/Luis"
+    ]
+  },
+  "notes": "Germany has no federal official statistic; this is the GfdS list (not beliebte-vornamen.de). Year = year in which the names were registered for newborns at German registry offices (Standesämter). GfdS publishes only the TOP 10 per sex free of charge (its top-200 lists are sold), so each list has 10 names, not 100. Lists are GfdS's 'Erstnamenliste' (first given names only, the list GfdS itself headlines since 2019), read from the 'Top Ten der beliebtesten Vornamen seit 1977' section of the source page and cross-checked against GfdS's detailed evaluations (https://gfds.de/ausfuehrliche-auswertung-vornamen-2025/ and https://gfds.de/ausfuehrliche-auswertung-vornamen-2024/; 2025 press release dated 9 June 2026: https://gfds.de/die-beliebtesten-vornamen-2025/). GfdS merges spelling variants that sound alike into one entry, so entries such as 'Sophia/Sofia', 'Hanna/Hannah', 'Luca/Luka' and 'Matt(h)eo/Mat(h)eo' (= Matteo, Mattheo, Mateo, Matheo) are single ranks and are kept exactly as GfdS writes them; the 2025 detailed evaluation writes the same entry as 'Mat(h)eo/Matt(h)eo'. Per the GfdS 2025 press release, 749 registry offices took part, covering almost 91 % of all first names given in 2025 (not a full census)."
+}

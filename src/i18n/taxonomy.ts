@@ -1,5 +1,5 @@
 import { LOCALES, type Locale } from './config'
-import { type Culture, type Tag, type Root, type Gender, type ListKey, parseListKey, slugify } from '@/lib/model'
+import { type Culture, type Fame, type Tag, type Root, type Gender, type ListKey, parseListKey, slugify } from '@/lib/model'
 import type { Dict } from './dict/en'
 
 type Six = [string, string, string, string, string, string] // es, en, fr, de, it, pt
@@ -151,6 +151,31 @@ const GENDER_ADJ: Record<Gender, Six> = {
 }
 const AND: Six = ['y', 'and', 'et', 'und', 'e', 'e']
 
+// ── Lists made from real people: "Nombres de youtubers", "Names of famous YouTubers" ──
+const FAME_MOD: Record<Fame, Six> = {
+  youtuber: ['de youtubers', 'of famous YouTubers', 'de youtubeurs', 'von YouTubern', 'di youtuber', 'de youtubers'],
+  tiktoker: ['de tiktokers', 'of famous TikTokers', 'de tiktokeurs', 'von TikTokern', 'di tiktoker', 'de tiktokers'],
+  influencer: ['de influencers', 'of famous influencers', 'd’influenceurs', 'von Influencern', 'di influencer', 'de influencers'],
+  singer: ['de cantantes', 'of famous singers', 'de chanteurs et chanteuses', 'von Sängerinnen und Sängern', 'di cantanti', 'de cantores'],
+  actor: ['de actores y actrices', 'of famous actors', 'd’acteurs et d’actrices', 'von Schauspielerinnen und Schauspielern', 'di attori e attrici', 'de atores e atrizes'],
+  footballer: ['de futbolistas', 'of famous footballers', 'de footballeurs', 'von Fußballern', 'di calciatori', 'de jogadores de futebol'],
+  model: ['de modelos', 'of famous models', 'de mannequins', 'von Models', 'di modelle e modelli', 'de modelos'],
+}
+
+// ── The country whose ranking each site language reads, and the body that publishes it ──
+const COUNTRY: Record<Locale, Six> = {
+  es: ['España', 'Spain', 'Espagne', 'Spanien', 'Spagna', 'Espanha'],
+  en: ['Estados Unidos', 'United States', 'États-Unis', 'USA', 'Stati Uniti', 'Estados Unidos'],
+  fr: ['Francia', 'France', 'France', 'Frankreich', 'Francia', 'França'],
+  de: ['Alemania', 'Germany', 'Allemagne', 'Deutschland', 'Germania', 'Alemanha'],
+  it: ['Italia', 'Italy', 'Italie', 'Italien', 'Italia', 'Itália'],
+  pt: ['Portugal', 'Portugal', 'Portugal', 'Portugal', 'Portogallo', 'Portugal'],
+}
+export const countryName = (country: Locale, l: Locale) => at(COUNTRY[country], l)
+export const RANK_SOURCE: Record<Locale, string> = { es: 'INE', en: 'SSA', fr: 'INSEE', de: 'GfdS', it: 'ISTAT', pt: 'IRN' }
+/** The year in list titles: "popular in <this year>", "rising for <next year>". Fixed when the site is built. */
+export const YEAR_NOW = new Date().getFullYear()
+
 export const cultureLabel = (c: Culture, l: Locale) => at(CULTURE_LABEL[c], l)
 export const tagLabel = (t: Tag, l: Locale) => at(TAG_LABEL[t], l)
 export const rootAdj = (r: Root, l: Locale) => at(ROOT_ADJ[r], l)
@@ -176,6 +201,18 @@ export function listTitle(key: ListKey, l: Locale, d: Dict): string {
   const { kind, value, gender } = parseListKey(key)
   const T = d.listTitle
   const gWord = gender === 'f' ? T.girl : gender === 'm' ? T.boy : gender === 'u' ? T.unisex : ''
+
+  if (kind === 'y') {
+    const now = value === 'now'
+    const tpl = gender === 'f' ? (now ? T.yNowF : T.yNextF) : gender === 'm' ? (now ? T.yNowM : T.yNextM) : now ? T.yNow : T.yNext
+    return tpl.replace('{year}', String(now ? YEAR_NOW : YEAR_NOW + 1))
+  }
+  if (kind === 'fame') {
+    const of = at(FAME_MOD[value as Fame], l)
+    if (l === 'en' || l === 'de') return `${gWord || (l === 'en' ? cap(T.names) : T.names)} ${of}`
+    // "Nombres de youtubers para niña": the people come first, they are what the list is about.
+    return [T.names, of, gender === 'f' ? T.forGirl : gender === 'm' ? T.forBoy : ''].filter(Boolean).join(' ')
+  }
 
   let mod = '' // "a:…" adjective or "p:…" phrase
   if (kind === 'c') mod = 'a:' + culturePlural(value as Culture, l)

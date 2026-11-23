@@ -2,13 +2,15 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { HREFLANG, LOCALES, SEGMENTS, isLocale, paths, type Locale } from '@/i18n/config'
 import { getDict } from '@/i18n/dict'
-import { cultureLabel, cultureListPhrase, genderAdj, rootAdj, tagLabel } from '@/i18n/taxonomy'
+import { RANK_SOURCE, YEAR_NOW, countryName, cultureLabel, cultureListPhrase, genderAdj, rootAdj, tagLabel } from '@/i18n/taxonomy'
 import { allNames, getName, namesByLetter, otherForms, similarNames } from '@/lib/names'
 import { allLists, listBySlug, listByKey, listNames, listsForName, relatedLists } from '@/lib/lists'
-import { firstLetter, nameLength, parseListKey, type N } from '@/lib/model'
+import { NEW_ENTRY, firstLetter, nameLength, parseListKey, type Fame, type N } from '@/lib/model'
+import { famousNamed, fameExample, officialFor, ranksFor, type RankRow } from '@/lib/people'
 import { pageMeta, jsonLd, breadcrumbLd, abs } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Crumbs } from '@/components/Chrome'
+import { Faq } from '@/components/Faq'
 
 type Props = { params: Promise<{ lang: string; section: string; slug: string }> }
 const MAX_ON_PAGE = 400
@@ -54,12 +56,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   })
 }
 
-function NameLink({ n, l, gLabel }: { n: N; l: Locale; gLabel?: string }) {
+function NameLink({ n, l, gLabel, place, sub }: { n: N; l: Locale; gLabel?: string; place?: number; sub?: string }) {
   return (
     <a className="nm" href={paths.name(l, n.slug)}>
-      <b>{n.name}</b>
+      <b>{place ? <span className="num">{place}. </span> : null}{n.name}</b>
       {gLabel ? <i className={n.g}>{gLabel}</i> : null}
-      <span>{n.meaning}</span>
+      <span>{sub || n.meaning}</span>
     </a>
   )
 }
@@ -73,6 +75,7 @@ export default async function SlugPage({ params }: Props) {
   const d = getDict(l)
   const nf = (x: number) => num(x, HREFLANG[l])
   const gLabel = (g: string) => (g === 'f' ? d.common.girl : g === 'm' ? d.common.boy : d.common.unisex)
+  const listed = (items: string[]) => new Intl.ListFormat(HREFLANG[l], { style: 'long', type: 'conjunction' }).format(items)
 
   if (r.kind === 'name') {
     const n = r.n
@@ -84,6 +87,21 @@ export default async function SlugPage({ params }: Props) {
     const L = firstLetter(n.name)
     const letterList = listByKey(l, `l:${L.toLowerCase()}${n.g === 'u' ? '' : ':' + n.g}`)
     const sameLetter = (namesByLetter(l).get(L) || []).filter(o => o.id !== n.id && (o.g === n.g || o.g === 'u')).sort((a, b) => b.pop - a.pop || a.name.localeCompare(b.name, l)).slice(0, 12)
+    // The questions people actually type about a name, each answered in one sentence that stands on its own.
+    const faq: [string, string][] = [
+      [t(d.name.qMeaning, { name: n.name }), t(d.name.aMeaning, { name: n.name, meaning: n.meaning })],
+      [t(d.name.qOrigin, { name: n.name }), t(d.name.aOrigin, { name: n.name, root: rootAdj(n.root, l) }) + (cultures ? ' ' + t(d.name.usedIn, { cultures }) : '')],
+      [t(d.name.qGender, { name: n.name }), t(n.g === 'f' ? d.name.aGenderF : n.g === 'm' ? d.name.aGenderM : d.name.aGenderU, { name: n.name })],
+      [t(d.name.qPop, { name: n.name }), t(d.name.aPop, { name: n.name, min: d.pop[0], max: d.pop[4], level: d.pop[n.pop - 1] })],
+    ]
+    if (forms.length) faq.push([t(d.name.qForms, { name: n.name }), t(d.name.aForms, { name: n.name, forms: listed(forms) })])
+    // What only this name has: the well-known people who bear it and its place in each country's ranking.
+    const famous = famousNamed(l, n.slug)
+    const standing = ranksFor(l, n.slug)
+    const among = (g: 'f' | 'm') => { const w = g === 'f' ? d.listTitle.girl : d.listTitle.boy; return l === 'en' ? w.toLowerCase() : w }
+    const rankLine = (r: RankRow) => t(d.name.rankLine, { country: countryName(r.country, l), source: RANK_SOURCE[r.country], year: r.year, name: n.name, rank: r.rank, g: among(r.g) })
+    if (standing.length) faq[3][1] += ' ' + rankLine(standing[0])
+    if (famous.length >= 2) faq.push([t(d.name.qFamous, { name: n.name }), t(d.name.aFamous, { name: n.name, people: listed(famous.slice(0, 4).map(p => p.name)) })])
     const ld = {
       '@context': 'https://schema.org', '@type': 'DefinedTerm', name: n.name, description: lead, url: abs(paths.name(l, n.slug)),
       inLanguage: HREFLANG[l], inDefinedTermSet: abs(paths.names(l)),
@@ -120,6 +138,42 @@ export default async function SlugPage({ params }: Props) {
             </div>
           </div>
         </section>
+
+        <Faq id="h-faq" title={t(d.name.faqH2, { name: n.name })} items={faq} small />
+
+        {famous.length ? (
+          <section className="section section--tight" aria-labelledby="h-famous">
+            <div className="container">
+              <h2 id="h-famous" className="h-sm">{t(d.name.famousH2, { name: n.name })}</h2>
+              <ul className="people">
+                {famous.map(p => (
+                  <li key={p.id}>
+                    {p.url ? <a href={p.url} rel="noopener">{p.name}</a> : <b>{p.name}</b>}
+                    {p.years ? <small>{p.years}</small> : null}
+                    {p.about ? <span>{p.about}</span> : null}
+                  </li>
+                ))}
+              </ul>
+              <p className="muted note">{d.name.famousNote}</p>
+            </div>
+          </section>
+        ) : null}
+
+        {standing.length ? (
+          <section className="section section--tight" aria-labelledby="h-ranks">
+            <div className="container">
+              <h2 id="h-ranks" className="h-sm">{t(d.name.ranksH2, { name: n.name })}</h2>
+              <ul className="ranks">
+                {standing.map(r => (
+                  <li key={r.country + r.g}>
+                    {rankLine(r)}
+                    {r.prevYear ? <small> {r.prev ? t(d.name.rankPrev, { year: r.prevYear, rank: r.prev }) : t(d.name.rankNew, { year: r.prevYear })}</small> : null}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </section>
+        ) : null}
 
         {similar.length ? (
           <section className="section section--tight" aria-labelledby="h-similar">
@@ -168,7 +222,9 @@ export default async function SlugPage({ params }: Props) {
 
   // ───── list page ─────
   const { list } = r
-  const gendered = !!parseListKey(list.key).gender
+  const { kind, value, gender: listGender } = parseListKey(list.key)
+  const gendered = !!listGender
+  const official = kind === 'y' ? officialFor(l) : undefined
   const names = listNames(l, list.key)
   const shown = names.slice(0, MAX_ON_PAGE)
   const related = relatedLists(l, list.key, 9)
@@ -185,7 +241,12 @@ export default async function SlugPage({ params }: Props) {
         <div className="container">
           <Crumbs items={[{ name: 'BabyMatch', href: paths.home(l) }, { name: d.nav.lists, href: paths.lists(l) }, { name: list.title }]} />
           <h1>{list.title}</h1>
-          <p className="lead">{t(d.list.intro, { count: nf(list.count) })}</p>
+          <p className="lead">{
+            official && value === 'now' ? t(d.list.yNowLead, { source: official.source, dataYear: official.year, count: nf(list.count) })
+              : official ? t(d.list.yNextLead, { source: RANK_SOURCE[l], prevYear: official.prevYear || '', dataYear: official.year, year: YEAR_NOW + 1 })
+                : t(kind === 'fame' ? d.list.fameLead : d.list.intro, { title: list.title, count: nf(list.count), top: listed(names.slice(0, 5).map(n => n.name)) })
+          }</p>
+          {official ? <p className="muted note">{d.list.source}: <a className="link" href={official.url} rel="noopener">{official.source}</a>{official.secondary ? ` · ${d.list.secondary}` : ''}</p> : null}
           <div className="hero-actions">
             <a className="btn btn--primary" href={appHref}>{d.common.swipeThisList}</a>
           </div>
@@ -194,7 +255,16 @@ export default async function SlugPage({ params }: Props) {
 
       <section className="section section--tight" aria-label={list.title}>
         <div className="container">
-          <ul className="grid-names">{shown.map(n => <li key={n.id}><NameLink n={n} l={l} gLabel={gendered && n.g !== 'u' ? undefined : gLabel(n.g)} /></li>)}</ul>
+          <ul className="grid-names">{shown.map(n => {
+            const person = kind === 'fame' ? fameExample(l, n.slug, value as Fame) : null
+            const climbed = kind === 'y' && value === 'next' ? (n.rise >= NEW_ENTRY ? d.list.isNew : `+${n.rise}`) : ''
+            return (
+              <li key={n.id}>
+                <NameLink n={n} l={l} gLabel={climbed || (gendered && n.g !== 'u' ? undefined : gLabel(n.g))}
+                  place={kind === 'y' && n.rank ? n.rank : undefined} sub={person ? t(d.list.like, { person: person.name }) : undefined} />
+              </li>
+            )
+          })}</ul>
           {names.length > shown.length ? <p className="muted" style={{ marginTop: 'var(--space-lg)' }}>{t(d.list.showing, { shown: nf(shown.length), count: nf(names.length) })}</p> : null}
         </div>
       </section>

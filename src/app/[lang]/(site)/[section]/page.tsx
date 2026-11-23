@@ -50,6 +50,7 @@ export default async function SectionPage({ params }: Props) {
           <h1>{d.privacy.h1}</h1>
           <div className="prose" style={{ marginTop: 'var(--space-xl)' }}>
             <p>{d.privacy.p1}</p><p>{d.privacy.p2}</p><p>{d.privacy.p3}</p><p>{d.privacy.p4}</p>
+            <p><button type="button" className="btn btn--small" data-consent-reset>{d.privacy.change}</button></p>
           </div>
         </div>
       </section>
@@ -112,7 +113,7 @@ export default async function SectionPage({ params }: Props) {
   // lists hub
   const lists = allLists(l)
   const groups: [ListGroup, string][] = [
-    ['gender', d.listsHub.gGender], ['popular', d.listsHub.gPopular], ['origin', d.listsHub.gOrigin],
+    ['gender', d.listsHub.gGender], ['popular', d.listsHub.gPopular], ['famous', d.listsHub.gFamous], ['origin', d.listsHub.gOrigin],
     ['style', d.listsHub.gStyle], ['length', d.listsHub.gLength], ['letter', d.listsHub.gLetter],
   ]
   const by = (g: ListGroup): ListInfo[] => lists.filter(x => groupOf(x.key) === g)

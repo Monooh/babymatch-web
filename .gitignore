@@ -42,3 +42,6 @@ next-env.d.ts
 # cloudflare packaging
 /dist/
 .wrangler
+
+# partial downloads of scripts/fetch-people.mjs
+/data/*.tmp

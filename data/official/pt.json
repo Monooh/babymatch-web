@@ -1,0 +1,61 @@
+{
+  "country": "Portugal",
+  "source": "IRN (Instituto dos Registos e do Notariado), as reported by the Portuguese press",
+  "sourceUrl": "https://sol.iol.pt/2025/12/23/maria-e-francisco-lideram-nomes-de-bebes-em-portugal-em-2025/",
+  "secondary": true,
+  "latest": {
+    "year": 2025,
+    "girls": [
+      "Maria",
+      "Alice",
+      "Leonor",
+      "Matilde",
+      "Benedita",
+      "Aurora",
+      "Olívia",
+      "Carolina",
+      "Camila",
+      "Francisca"
+    ],
+    "boys": [
+      "Francisco",
+      "Tomás",
+      "Duarte",
+      "Afonso",
+      "Vicente",
+      "João",
+      "Lourenço",
+      "Martim",
+      "Miguel",
+      "Gabriel"
+    ]
+  },
+  "previous": {
+    "year": 2024,
+    "girls": [
+      "Maria",
+      "Alice",
+      "Benedita",
+      "Matilde",
+      "Leonor",
+      "Carolina",
+      "Aurora",
+      "Camila",
+      "Margarida",
+      "Beatriz"
+    ],
+    "boys": [
+      "Francisco",
+      "Lourenço",
+      "Tomás",
+      "Vicente",
+      "João",
+      "Duarte",
+      "Afonso",
+      "Gabriel",
+      "Miguel",
+      "Santiago"
+    ]
+  },
+  "notes": "SECONDARY and PARTIAL-YEAR. These are Portugal (IRN) figures, not Brazil/IBGE. No IRN or justica.gov.pt page with the 2025 or 2024 ranking could be found: IRN's last own news item on the subject is for 2022, and its open-data dataset 'Registo de Nomes' (top 20 per sex, dados.justica.gov.pt) was unreachable (HTTP 502) on 2026-11-23 and, in the archived copy that could be read, stops at 2023. The lists are therefore the IRN figures as released to the press each December, top 10 per sex only, and they do not cover the full year of birth. 2025: births registered 1 January–30 November 2025, list as printed by SOL (sourceUrl, 23 Dec 2025, citing the Ministry of Justice and IRN); same order in Renascença (https://rr.pt/artigo/explicador-renascenca/2025/12/23/quais-foram-os-nomes-mais-populares-este-ano-em-portugal/452820/) and Público (https://www.publico.pt/2025/12/23/impar/noticia/nomes-bebes-2025-maria-francisco-continuam-reinado-portugal-2159092); the outlets disagree on the count for Tomás (1,318 vs 1,356) but not on the order. 2024: births registered January–September 2024 only, taken from the two charts in Renascença's article of 3 Dec 2024 (https://rr.pt/noticia/pais/2024/12/03/quais-sao-os-nomes-de-bebes-mais-escolhidos-em-2024/404304/), which cites IRN numbers via Correio da Manhã; boys' ranks 3 and 4 (Tomás, Vicente) are tied at 1,036 and are in the chart's order. Full-year final rankings for 2024 and 2025 were not found and may differ from these. Names keep the Portuguese accents used by the sources."
+}
