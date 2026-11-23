@@ -22,7 +22,7 @@ export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
         <nav className="nav-links" aria-label={SITE_NAME}>
           <a href={paths.names(lang)}>{d.nav.names}</a>
           <a href={paths.lists(lang)}>{d.nav.lists}</a>
-          <a className="btn btn--small" href={paths.app(lang)}>{d.nav.openApp}</a>
+          <a className="btn btn--small" href={paths.app(lang)}><span className="nav-long">{d.nav.openApp}</span><span className="nav-short">{d.nav.openShort}</span></a>
         </nav>
       </div>
     </header>

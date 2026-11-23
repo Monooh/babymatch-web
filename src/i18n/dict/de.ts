@@ -16,7 +16,7 @@ const de: Dict = {
   nav: {
     names: 'Namen',
     lists: 'Listen',
-    openApp: 'Los swipen',
+    openApp: 'Los swipen', openShort: 'Swipen',
     searchPlaceholder: 'Name suchen',
     searchLabel: 'Name suchen',
     noResults: 'Noch kein Name beginnt so.',
@@ -71,7 +71,7 @@ const de: Dict = {
   common: {
     girl: 'Mädchen', boy: 'Junge', unisex: 'Unisex',
     girlNames: 'Mädchennamen', boyNames: 'Jungennamen', unisexNames: 'Unisex-Namen',
-    namesCount: '{count} Namen',
+    namesCount: '{count} {count|Name|Namen}',
     meaning: 'Bedeutung', origin: 'Herkunft', usedIn: 'Verbreitet in', gender: 'Geschlecht', popularity: 'Beliebtheit',
     syllables: 'Silben', letters: 'Buchstaben', style: 'Stil',
     like: 'Gefällt mir', nope: 'Überspringen', undo: 'Rückgängig', star: 'Favorit',
@@ -239,7 +239,7 @@ const de: Dict = {
     },
     likes: {
       h: 'Deine Likes',
-      count: '{count} Namen',
+      count: '{count} {count|Name|Namen}',
       emptyH: 'Noch keine Likes',
       emptyP: 'Namen, die dir gefallen, landen hier. Fang an zu swipen, um die Liste zu füllen.',
       remove: 'Entfernen',
@@ -258,7 +258,7 @@ const de: Dict = {
       createLink: 'Meinen Link erstellen',
       needLikes: 'Mag zuerst ein paar Namen und hol dir dann deinen Link.',
       linkReady: 'Dein Link ist fertig',
-      linkHint: 'Er enthält deine {count} Likes. Schick einen neuen, wenn sich deine Liste ändert.',
+      linkHint: 'Er enthält {count|deinen|deine} {count} {count|Like|Likes}. Schick einen neuen, wenn sich deine Liste ändert.',
       shareText: '{name} hat Babynamen ausgesucht. Öffne den Link, swipe deine und sieh, wo ihr matcht:',
       shareTextAnon: 'Ich habe Babynamen ausgesucht. Öffne den Link, swipe deine und sieh, wo wir matchen:',
       partnerH: '{partner} hat dir {count} Namen geschickt',

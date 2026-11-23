@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { fromRow, type N, type Row } from '@/lib/model'
-import { actions, setState, useStore, EMPTY_FILTERS } from '@/lib/store'
+import { actions, getState, setState, useStore, EMPTY_FILTERS } from '@/lib/store'
 import { decodeInvite } from '@/lib/share'
 import { t } from '@/lib/t'
 import { SwipeStack, type CardData } from '../SwipeStack'
@@ -50,7 +50,10 @@ export function BabyApp(props: AppProps) {
     const m = url.hash.match(/^#p=([\w-]+)$/)
     if (m) {
       const inv = decodeInvite(m[1])
-      if (inv && inv.ids.length) setInvite(inv)
+      // Tapping your own link (to check it before sending) must not make you your own partner.
+      const mine = getState()
+      const own = !!inv && inv.name === mine.me.trim().slice(0, 30) && inv.ids.every(id => mine.likes[id])
+      if (inv && inv.ids.length && !own) setInvite(inv)
     }
     if (list || firstSlug.current || m) window.history.replaceState(null, '', url.pathname)
     setMounted(true)
@@ -123,7 +126,12 @@ export function BabyApp(props: AppProps) {
         </div>
         <div className="quiz-foot">
           <button type="button" className="btn" onClick={() => setInvite(null)}>{d.matches.importDecline}</button>
-          <button type="button" className="btn btn--primary" onClick={() => { setState({ partner: { name: invite.name, likes: invite.ids, at: Date.now() } }); setInvite(null) }}>{d.matches.importAccept}</button>
+          <button type="button" className="btn btn--primary" onClick={() => {
+            setState({ partner: { name: invite.name, likes: invite.ids, at: Date.now() } })
+            setInvite(null)
+            // Someone already swiping wants the answer first: which names both like. A newcomer gets the questions.
+            if (s.quiz || s.quizSkipped) setTab('matches')
+          }}>{d.matches.importAccept}</button>
         </div>
       </div>
     )

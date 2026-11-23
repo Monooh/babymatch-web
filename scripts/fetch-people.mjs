@@ -116,7 +116,7 @@ function save(path, data) {
   renameSync(path + '.tmp', path)
 }
 
-async function crawlNames(limit) {
+async function crawlPass(limit) {
   const master = JSON.parse(readFileSync(join(ROOT, 'src/data/master.json'), 'utf8'))
   const done = existsSync(PEOPLE) ? JSON.parse(readFileSync(PEOPLE, 'utf8')) : {}
   const todo = master.filter(e => !(e.slug in done)).sort((a, b) => b.p - a.p || a.slug.localeCompare(b.slug)).slice(0, limit)
@@ -132,8 +132,9 @@ async function crawlNames(limit) {
         done[e.slug] = people
         if (people.length) found++
       } catch (err) {
-        failed++ // left out of the file on purpose, so the next run tries again
+        failed++ // left out of the file on purpose, so the next pass tries again
         console.log(`  ! ${e.slug}: ${err.message}`)
+        await sleep(30000) // most failures are the network dropping: no point rushing through the next names
       }
       if (++n % 20 === 0) { save(PEOPLE, done); console.log(`${n} fetched · ${found} with people · ${failed} failed · last ${e.slug}`) }
       await sleep(300)
@@ -141,7 +142,18 @@ async function crawlNames(limit) {
   }
   await Promise.all([worker(), worker()])
   save(PEOPLE, done)
-  console.log(`finished: ${n} fetched · ${found} with people · ${failed} failed`)
+  console.log(`pass finished: ${n} fetched · ${found} with people · ${failed} failed`)
+  return failed
+}
+
+/** Every name still missing; whatever fails (a dropped connection, a throttled request) gets up to three more passes. */
+async function crawlNames(limit) {
+  for (let pass = 1; pass <= 4; pass++) {
+    const failed = await crawlPass(limit)
+    if (!failed) break
+    console.log(`${failed} names failed; waiting two minutes before trying them again`)
+    await sleep(120000)
+  }
 }
 
 async function crawlCreators(only) {

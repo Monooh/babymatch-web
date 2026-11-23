@@ -106,6 +106,17 @@ export default async function Home({ params }: Props) {
         </div>
       </section>
 
+      <section className="section" aria-labelledby="h-match">
+        <div className="container">
+          <div className="head"><h2 id="h-match">{d.home.matchH2}</h2></div>
+          <ol className="steps">
+            <li><Phone l={l} shot="swipe" alt={alt(d.home.row1T)} clip /><h3>{d.home.row1T}</h3><p>{d.home.row1D}</p></li>
+            <li><Phone l={l} shot="invite" alt={alt(d.home.row2T)} /><h3>{d.home.row2T}</h3><p>{d.home.row2D}</p></li>
+            <li><Phone l={l} shot="match" alt={alt(d.home.row3T)} clip /><h3>{d.home.row3T}</h3><p>{d.home.row3D}</p></li>
+          </ol>
+        </div>
+      </section>
+
       <section className="section" aria-labelledby="h-lists">
         <div className="container">
           <div className="head head--split">
@@ -124,6 +135,20 @@ export default async function Home({ params }: Props) {
         </div>
       </section>
 
+      <section className="section" aria-labelledby="h-inside">
+        <div className="container">
+          <div className="head head--split">
+            <h2 id="h-inside">{d.home.insideH2}</h2>
+            <p className="lead">{d.home.insideLead}</p>
+          </div>
+          <ul className="gallery">
+            {inside.map(([shot, caption]) => (
+              <li key={shot}><Phone l={l} shot={shot} alt={alt(caption)} /><p>{caption}</p></li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
       <section className="section section--tight" aria-labelledby="h-index">
         <div className="container index">
           <div className="head">
@@ -137,31 +162,6 @@ export default async function Home({ params }: Props) {
                   <b>{L}</b><small>{nf(list!.count)}</small>
                 </a>
               </li>
-            ))}
-          </ul>
-        </div>
-      </section>
-
-      <section className="section" aria-labelledby="h-match">
-        <div className="container">
-          <div className="head"><h2 id="h-match">{d.home.matchH2}</h2></div>
-          <ol className="steps">
-            <li><Phone l={l} shot="swipe" alt={alt(d.home.row1T)} clip /><h3>{d.home.row1T}</h3><p>{d.home.row1D}</p></li>
-            <li><Phone l={l} shot="invite" alt={alt(d.home.row2T)} /><h3>{d.home.row2T}</h3><p>{d.home.row2D}</p></li>
-            <li><Phone l={l} shot="match" alt={alt(d.home.row3T)} clip /><h3>{d.home.row3T}</h3><p>{d.home.row3D}</p></li>
-          </ol>
-        </div>
-      </section>
-
-      <section className="section" aria-labelledby="h-inside">
-        <div className="container">
-          <div className="head head--split">
-            <h2 id="h-inside">{d.home.insideH2}</h2>
-            <p className="lead">{d.home.insideLead}</p>
-          </div>
-          <ul className="gallery">
-            {inside.map(([shot, caption]) => (
-              <li key={shot}><Phone l={l} shot={shot} alt={alt(caption)} /><p>{caption}</p></li>
             ))}
           </ul>
         </div>

@@ -153,7 +153,7 @@ function InviteMaker({ ctx, title, text }: { ctx: Ctx; title: string; text: stri
         <>
           <div><strong>{M.linkReady}</strong><p>{t(M.linkHint, { count: ids.length })}</p></div>
           <div className="linkbox">{link}</div>
-          <div style={{ display: 'flex', gap: 'var(--space-sm)', flexWrap: 'wrap' }}>
+          <div className="share-row">
             <button type="button" className="btn btn--primary" onClick={share}><IconShare size={20} />{c.share}</button>
             <button type="button" className="btn" onClick={() => copy(link)}>{copied ? <IconCheck size={20} /> : <IconCopy size={20} />}{copied ? c.copied : c.copy}</button>
           </div>
