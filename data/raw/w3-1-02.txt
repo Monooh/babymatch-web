@@ -1,0 +1,86 @@
+Secundino|m|latin|spanish|2|saint,vintage|Segundo hijo|Second-born|Deuxième né|Zweitgeborener|Secondogenito|Segundo filho
+Maritza|f|hebrew|spanish|2|modern|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Margalida|f|greek|catalan,spanish|2|classic,gem|Perla|Pearl|Perle|Perle|Perla|Pérola
+Miguela|f|hebrew|spanish|2|vintage,biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Abrahán|m|hebrew|spanish|2|biblical|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Monika|f|other|german,polish,scandinavian|2|saint,classic|Consejera|Advisor|Conseillère|Beraterin|Consigliera|Conselheira
+Yulia|f|latin|russian|2|classic|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Enol|m|other|spanish|2|place,nature|Lago de Asturias|Lake in Asturias|Lac des Asturies|See in Asturien|Lago delle Asturie|Lago das Astúrias
+Adonay|m|hebrew|spanish|2|biblical|Mi Señor|My Lord|Mon Seigneur|Mein Herr|Mio Signore|Meu Senhor
+Touria|f|arabic|arabic,french|2|celestial|Las Pléyades|The Pleiades|Les Pléiades|Die Plejaden|Le Pleiadi|As Plêiades
+Yoana|f|hebrew|spanish|2|modern|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Abdelhadi|m|arabic|arabic|2|virtue|Siervo del Guía|Servant of the Guide|Serviteur du Guide|Diener des Rechtleitenden|Servo della Guida|Servo do Guia
+Marouane|m|arabic|arabic,french|2|strong|Piedra dura, sílex|Hard stone, flint|Pierre dure, silex|Harter Stein, Feuerstein|Pietra dura, selce|Pedra dura, sílex
+Eneritz|f|basque|basque,spanish|2|place|Pueblo de Navarra|Village in Navarre|Village de Navarre|Dorf in Navarra|Paese della Navarra|Aldeia de Navarra
+Melani|f|greek|spanish|2|modern|Oscura, morena|Dark|Sombre, brune|Die Dunkle|Scura, bruna|Escura, morena
+Argentina|f|latin|spanish|2|vintage,place|Plateada, de plata|Silvery|Argentée|Silbern|Argentea|Prateada
+Antolín|m|latin|spanish|2|saint,vintage|De la familia Antonia|Of the Antonius family|De la famille Antonia|Aus dem Geschlecht der Antonier|Della gens Antonia|Da família Antónia
+Idoya|f|basque|spanish,basque|2|saint,place|Estanque, charca|Pond, pool|Étang, mare|Teich, Weiher|Stagno, laghetto|Lagoa, charco
+Fadoua|f|arabic|arabic,french|2|virtue|Sacrificio de uno mismo|Self-sacrifice|Sacrifice de soi|Selbstaufopferung|Sacrificio di sé|Sacrifício de si
+Sabah|f|arabic|arabic|2|light|Mañana, amanecer|Morning|Matin|Morgen|Mattino|Manhã
+Sheyla|f|latin|spanish|2|modern|Ciega, de la familia Cecilia|Blind, of the Caecilius clan|Aveugle, de la famille Caecilia|Blind, aus dem Hause der Caecilier|Cieca, della gente Cecilia|Cega, da família Cecília
+Abdelhakim|m|arabic|arabic|2|virtue|Siervo del Sabio|Servant of the Wise|Serviteur du Sage|Diener des Weisen|Servo del Saggio|Servo do Sábio
+Luken|m|latin|basque,spanish|2|modern,light|Luminoso|Luminous|Lumineux|Leuchtend|Luminoso|Luminoso
+Dimas|m|greek|spanish,portuguese|2|saint|Ocaso, puesta de sol|Sunset|Coucher du soleil|Sonnenuntergang|Tramonto|Pôr do sol
+Redouane|m|arabic|arabic,french|2|virtue|Complacencia divina|Divine approval|Agrément divin|Göttliches Wohlgefallen|Compiacimento divino|Complacência divina
+Gal·la|f|latin|catalan,spanish|2|saint,vintage|De la Galia|From Gaul|De Gaule|Aus Gallien|Della Gallia|Da Gália
+Gil|m|greek|spanish,portuguese|2|saint,vintage|Joven cabrito|Young goat|Jeune chevreau|Junges Böckchen|Giovane capretto|Jovem cabrito
+Emérita|f|latin|spanish|2|saint,vintage|Merecedora|Deserving|Méritante|Die Verdiente|Meritevole|Merecedora
+Ainhara|f|basque|spanish|2|animal,modern|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Josune|f|hebrew|basque,spanish|2|biblical|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Modou|m|arabic|african|2|classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Resurrección|f|latin|spanish|2|saint,vintage|Resurrección|Resurrection|Résurrection|Auferstehung|Risurrezione|Ressurreição
+Liudmila|f|slavic|russian|2|classic|Amada por el pueblo|Beloved of the people|Aimée du peuple|Beim Volk beliebt|Amata dal popolo|Amada pelo povo
+Abdul|m|arabic|arabic|2|classic|Siervo (de Dios)|Servant (of God)|Serviteur (de Dieu)|Diener (Gottes)|Servo (di Dio)|Servo (de Deus)
+Abdelhafid|m|arabic|arabic|2|virtue|Siervo del Guardián|Servant of the Guardian|Serviteur du Gardien|Diener des Bewahrers|Servo del Custode|Servo do Guardião
+Fadma|f|arabic|arabic|2|classic|La que desteta|She who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Liubov|f|slavic|russian|2|love,virtue|Amor|Love|Amour|Liebe|Amore|Amor
+Angelines|f|greek|spanish|2|vintage,sweet|Los ángeles|The angels|Les anges|Die Engel|Gli angeli|Os anjos
+Eduvigis|f|germanic|spanish|2|saint,vintage|Lucha, combate|Battle, strife|Combat, lutte|Kampf, Streit|Battaglia, lotta|Batalha, luta
+Ainoha|f|basque|spanish|2|place,saint|Virgen de Ainhoa, pueblo vasco|Our Lady of Ainhoa, Basque village|Notre-Dame d'Ainhoa, village basque|Muttergottes von Ainhoa, baskisches Dorf|Madonna di Ainhoa, villaggio basco|Nossa Senhora de Ainhoa, vila basca
+Segunda|f|latin|spanish|2|vintage|Segunda hija|Second-born|Deuxième née|Zweitgeborene|Secondogenita|Segunda filha
+Misericordia|f|latin|spanish|2|virtue,saint|Misericordia, compasión|Mercy, compassion|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Petronila|f|latin|spanish|2|saint,vintage|De la familia Petronia|Of the Petronius family|De la famille Petronia|Aus dem Geschlecht der Petronier|Della gens Petronia|Da família Petrónia
+Andrey|m|greek|russian|2|classic|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Santiaga|f|hebrew|spanish|2|vintage,saint|Suplantadora|Supplanter|Celle qui supplante|Die Verdrängerin|Colei che soppianta|Aquela que suplanta
+Douae|f|arabic|arabic|2|virtue|Súplica, oración|Supplication, prayer|Invocation, prière|Bittgebet|Supplica, preghiera|Súplica, oração
+Luzdivina|f|latin|spanish|2|vintage,light|Luz divina|Divine light|Lumière divine|Göttliches Licht|Luce divina|Luz divina
+Sergey|m|latin|russian|2|classic|De la familia Sergia|Of the Sergian clan|De la famille Sergia|Aus dem Geschlecht der Sergier|Della gente Sergia|Da família Sérgia
+Maikel|m|hebrew|spanish,dutch|2|modern|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Seila|f|latin|spanish|2|modern|Ciega, de la familia Cecilia|Blind, of the Caecilius clan|Aveugle, de la famille Caecilia|Blind, aus dem Hause der Caecilier|Cieca, della gente Cecilia|Cega, da família Cecília
+Rafel|m|hebrew|catalan,spanish|2|biblical,saint|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Iraide|f|greek|basque,spanish|2|saint,mythology|Consagrada a Hera|Devoted to Hera|Consacrée à Héra|Der Hera geweiht|Consacrata a Era|Consagrada a Hera
+Cristhian|m|greek|spanish|2|modern|Seguidor de Cristo|Follower of Christ|Disciple du Christ|Anhänger Christi|Seguace di Cristo|Seguidor de Cristo
+Morad|m|arabic|arabic,french|2|virtue|Deseo, anhelo|Desire, wish|Désir, souhait|Wunsch, Verlangen|Desiderio, brama|Desejo, anseio
+Ginesa|f|greek|spanish|2|saint,vintage|Origen, nacimiento|Origin, birth|Origine, naissance|Ursprung, Geburt|Origine, nascita|Origem, nascimento
+Ivette|f|germanic|spanish,catalan|2|modern,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Larbi|m|arabic|arabic,french|2|classic|El árabe|The Arab|L'Arabe|Der Araber|L'arabo|O árabe
+Enma|f|germanic|spanish|2|classic|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Redouan|m|arabic|arabic|2|virtue|Complacencia divina|Divine approval|Agrément divin|Göttliches Wohlgefallen|Compiacimento divino|Complacência divina
+Saliha|f|arabic|arabic,turkish|2|virtue|Virtuosa, recta|Virtuous, righteous|Vertueuse, droite|Tugendhaft, rechtschaffen|Virtuosa, retta|Virtuosa, reta
+Aratz|m|basque|basque,spanish|2|nature,place|Limpio, puro (monte vasco)|Clean, pure (Basque mountain)|Propre, pur (mont basque)|Rein, lauter (baskischer Berg)|Pulito, puro (monte basco)|Limpo, puro (monte basco)
+Jhonatan|m|hebrew|spanish|2|biblical,modern|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Anderson|m|greek|portuguese,spanish,english|2|modern|Hijo de Andrés|Son of Andrew|Fils d'André|Sohn des Andreas|Figlio di Andrea|Filho de André
+Balbino|m|latin|spanish,portuguese|2|saint,vintage|Balbuciente|Stammering one|Bègue|Stotterer|Balbuziente|Gago
+Julita|f|latin|spanish|2|saint,vintage|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Hasnae|f|arabic|arabic|2|sweet|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Oualid|m|arabic|arabic,french|2|classic|Recién nacido|Newborn|Nouveau-né|Neugeborener|Neonato|Recém-nascido
+Zakariae|m|hebrew|arabic|2|biblical|Dios ha recordado|God has remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio si è ricordato|Deus lembrou-se
+Nikolay|m|greek|russian|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Xián|m|latin|galician,spanish|2|saint|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Fran|m|latin|spanish,galician|2|modern|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Babacar|m|arabic|african|2|classic|Padre del camello joven|Father of the young camel|Père du jeune chameau|Vater des jungen Kamels|Padre del giovane cammello|Pai do jovem camelo
+Miloud|m|arabic|arabic,french|2|classic|Recién nacido|Newborn|Nouveau-né|Neugeborener|Neonato|Recém-nascido
+Elna|f|greek|catalan,spanish,scandinavian|2|modern,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Arabia|f|arabic|spanish|2|place,modern|Tierra de los árabes|Land of the Arabs|Terre des Arabes|Land der Araber|Terra degli arabi|Terra dos árabes
+Gadea|f|greek|spanish|2|saint,vintage|Buena, virtuosa|Good, virtuous|Bonne, vertueuse|Gut, tugendhaft|Buona, virtuosa|Boa, virtuosa
+Abderrazak|m|arabic|arabic|2|virtue|Siervo del Proveedor|Servant of the Provider|Serviteur du Pourvoyeur|Diener des Versorgers|Servo del Provvidente|Servo do Provedor
+Constantina|f|latin|spanish|2|vintage,virtue|Constante, firme|Constant, steadfast|Constante, ferme|Standhaft, beständig|Costante, salda|Constante, firme
+Yuliya|f|latin|russian|2|classic|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Yanet|f|hebrew|spanish|2|modern|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Yuriy|m|greek|russian|2|classic|Agricultor|Farmer|Agriculteur|Landwirt|Agricoltore|Agricultor
+Mounia|f|arabic|arabic,french|2|sweet|Deseo, anhelo|Wish, desire|Souhait, désir|Wunsch, Sehnsucht|Desiderio, auspicio|Desejo, anseio
+Manex|m|hebrew|basque,french|2|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Hafid|m|arabic|arabic,french|2|virtue|Guardián, protector|Guardian, protector|Gardien, protecteur|Hüter, Beschützer|Custode, protettore|Guardião, protetor
+Zeus|m|greek|spanish|2|mythology,strong|Dios del cielo luminoso|God of the bright sky|Dieu du ciel lumineux|Gott des hellen Himmels|Dio del cielo luminoso|Deus do céu luminoso
+Domitila|f|latin|spanish,portuguese|2|saint,vintage|Domada, mansa|Tamed|Domptée|Die Gezähmte|Domata|Domada, mansa

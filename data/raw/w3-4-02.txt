@@ -1,0 +1,75 @@
+Nahyl|m|arabic|arabic,french|3|modern|El que alcanza, triunfador|One who attains, achiever|Celui qui obtient, gagnant|Der Erlangende, Erfolgreiche|Colui che ottiene, vincitore|Aquele que alcança, vencedor
+Lohan|m|celtic|french|3|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Tony|m|latin|french,english|3|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Nolann|m|celtic|french|3|modern|Descendiente del campeón|Descendant of the champion|Descendant du champion|Nachkomme des Meisters|Discendente del campione|Descendente do campeão
+Léonore|f|other|french|3|vintage,royal|Diminutivo de Éléonore, de sentido incierto|Short form of Éléonore, meaning uncertain|Diminutif d'Éléonore, sens incertain|Kurzform von Éléonore, Bedeutung ungewiss|Diminutivo di Éléonore, significato incerto|Diminutivo de Éléonore, de sentido incerto
+Athénaïs|f|greek|french|3|mythology,vintage,royal|De Atenea|Of Athena|D'Athéna|Der Athene zugehörig|Di Atena|De Atena
+Alyah|f|arabic|arabic,french|3|modern,virtue|Elevada, sublime|Exalted, sublime|Élevée, sublime|Erhaben, hoch|Elevata, sublime|Elevada, sublime
+Lexie|f|greek|english,french|3|modern,strong|Defensora de la humanidad|Defender of mankind|Défenseure des hommes|Beschützerin der Menschen|Difenditrice degli uomini|Defensora da humanidade
+Maëlan|m|celtic|french|3|modern,royal|Príncipe|Prince|Prince|Fürst|Principe|Príncipe
+Kénan|m|hebrew|french|3|biblical,modern|Posesión|Possession|Possession|Besitz|Possesso|Posse
+Matthieu|m|hebrew|french|3|biblical,saint,classic|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Evy|f|hebrew|french,dutch|3|sweet,modern|Vida|Life|Vie|Leben|Vita|Vida
+Lyah|f|hebrew|french|3|modern,biblical|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Youcef|m|hebrew|arabic,french|3|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Aboubacar|m|arabic|arabic,african,french|3|classic|Padre del camello joven|Father of the young camel|Père du jeune chameau|Vater des jungen Kamels|Padre del giovane cammello|Pai do jovem camelo
+Islem|m|arabic|arabic,french|3|virtue|Sumisión a Dios|Submission to God|Soumission à Dieu|Hingabe an Gott|Sottomissione a Dio|Submissão a Deus
+Ylan|m|hebrew|french|3|nature,modern|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Castille|f|latin|french|3|place,royal|Tierra de castillos|Land of castles|Terre de châteaux|Land der Burgen|Terra di castelli|Terra de castelos
+Amel|f|arabic|arabic,french|3|virtue,sweet|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Lylia|f|latin|french|3|flower,modern|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Maëlyne|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Maëly|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Lény|m|germanic|french|3|sweet,modern|León fuerte|Brave lion|Lion fort|Starker Löwe|Leone forte|Leão forte
+Leeroy|m|latin|french,english|2|royal,modern|El rey|The king|Le roi|Der König|Il re|O rei
+Layane|f|arabic|arabic,french|2|modern,sweet|Suavidad, ternura|Softness, gentleness|Douceur, tendresse|Sanftheit, Zartheit|Dolcezza, tenerezza|Suavidade, ternura
+Lahna|f|arabic|arabic,french|2|virtue,sweet|Paz, serenidad|Peace, serenity|Paix, sérénité|Frieden, Gelassenheit|Pace, serenità|Paz, serenidade
+Maddie|f|hebrew|english,french|2|modern,sweet|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Fanta|f|arabic|african,french|2|classic|La que desteta|One who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Bilel|m|arabic|arabic,french|2|classic|Agua que refresca|Refreshing water|Eau qui rafraîchit|Erfrischendes Wasser|Acqua rinfrescante|Água refrescante
+Lili|f|latin|french,german|2|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Abigaëlle|f|hebrew|french|2|biblical,sweet|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Amaël|m|celtic|french|2|modern,royal|Príncipe, jefe|Prince, chief|Prince, chef|Fürst, Anführer|Principe, capo|Príncipe, chefe
+Imany|f|african|french,african|2|virtue,modern,music|Fe|Faith|Foi|Glaube|Fede|Fé
+Marilou|f|hebrew|french|2|sweet,vintage|Unión de Marie y Louise|Blend of Marie and Louise|Union de Marie et Louise|Verbindung von Marie und Louise|Unione di Marie e Louise|União de Marie e Louise
+Mélya|f|greek|french|3|mythology,nature,modern|Fresno|Ash tree|Frêne|Esche|Frassino|Freixo
+Eymen|m|arabic|turkish|2|virtue|Afortunado, bendecido|Fortunate, blessed|Chanceux, béni|Glücklich, gesegnet|Fortunato, benedetto|Afortunado, abençoado
+Maëline|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Ayaz|m|turkish|turkish|2|nature|Helada, frío sereno|Frost, clear cold|Gelée, froid sec|Frost, klare Kälte|Gelo, freddo sereno|Geada, frio seco
+Charlize|f|germanic|french,english|2|modern|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Thibaut|m|germanic|french|2|classic,warrior|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Célian|m|latin|french|2|celestial,modern|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Maylon|m|celtic|french|2|modern|Devoto de san Juan|Devotee of Saint John|Dévot de saint Jean|Verehrer des heiligen Johannes|Devoto di san Giovanni|Devoto de são João
+Juliann|m|latin|french|2|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Ilhan|m|turkish|turkish|2|royal,strong|Soberano, kan|Ruler, khan|Souverain, khan|Herrscher, Khan|Sovrano, khan|Soberano, cã
+Tasnime|f|arabic|arabic,french|2|nature,sweet|Fuente del paraíso|Spring in Paradise|Source du paradis|Quelle im Paradies|Fonte del paradiso|Fonte do paraíso
+Maïmouna|f|arabic|arabic,african,french|3|virtue|Bendita, afortunada|Blessed, fortunate|Bénie, chanceuse|Gesegnet, glücklich|Benedetta, fortunata|Abençoada, afortunada
+Maëlie|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Lowen|m|celtic|french|2|virtue,modern|Alegre, feliz|Joyful, happy|Joyeux, heureux|Fröhlich, glücklich|Gioioso, felice|Alegre, feliz
+Layna|f|arabic|arabic,french|2|modern,sweet|Tierna, suave|Tender, gentle|Tendre, douce|Zart, sanft|Tenera, dolce|Terna, suave
+Chahine|m|persian|arabic,french|2|animal,strong|Halcón|Falcon|Faucon|Falke|Falco|Falcão
+Zakarya|m|hebrew|arabic,french|2|biblical|Dios ha recordado|God has remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio si è ricordato|Deus lembrou
+Pharell|m|celtic|french,english|2|modern,music|Hombre de valor|Man of valour|Homme de valeur|Mann von Tapferkeit|Uomo di valore|Homem de valor
+Amalya|f|germanic|french|2|modern|Trabajadora|Industrious|Travailleuse|Die Fleißige|Operosa|Trabalhadora
+Oumou|f|arabic|african,french|2|classic|Madre|Mother|Mère|Mutter|Madre|Mãe
+Nathaël|m|hebrew|french|2|biblical,modern|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Elouan|m|celtic|french|2|saint,light|Buena luz|Good light|Belle lumière|Gutes Licht|Buona luce|Boa luz
+Malonn|m|celtic|french|2|modern|Devoto de san Juan|Devotee of Saint John|Dévot de saint Jean|Verehrer des heiligen Johannes|Devoto di san Giovanni|Devoto de são João
+Aydan|m|celtic|french,english|2|modern,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Sidra|f|arabic|arabic|2|nature,celestial|Árbol sagrado del paraíso|Sacred tree of paradise|Arbre sacré du paradis|Heiliger Baum des Paradieses|Albero sacro del paradiso|Árvore sagrada do paraíso
+Maëlia|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Zayneb|f|arabic|arabic,french|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Inayah|f|arabic|arabic,french|2|virtue,modern|Cuidado, protección|Care, protection|Sollicitude, protection|Fürsorge, Schutz|Cura, protezione|Cuidado, proteção
+Émie|f|germanic|french|3|modern,sweet|Diminutivo de Emma: universal|Pet form of Emma: universal|Diminutif d'Emma : universelle|Koseform von Emma: allumfassend|Diminutivo di Emma: universale|Diminutivo de Emma: universal
+Alycia|f|germanic|french|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Mariame|f|hebrew|arabic,african,french|2|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Liham|m|germanic|french|2|modern|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Éléanore|f|other|french|3|vintage,royal|Variante de Éléonore, de sentido incierto|Variant of Éléonore, meaning uncertain|Variante d'Éléonore, sens incertain|Variante von Éléonore, Bedeutung ungewiss|Variante di Éléonore, significato incerto|Variante de Éléonore, de sentido incerto
+Suzie|f|hebrew|french|2|flower,vintage,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Leïna|f|arabic|arabic,french|2|modern,sweet|Tierna, suave|Tender, gentle|Tendre, douce|Zart, sanft|Tenera, dolce|Terna, suave
+Mylo|m|germanic|french|2|modern,sweet|Soldado, misericordioso|Soldier, merciful|Soldat, miséricordieux|Soldat, gnädig|Soldato, misericordioso|Soldado, misericordioso
+Evann|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Stan|m|slavic|french|2|vintage|Que alcance la gloria|May he become glorious|Qu'il atteigne la gloire|Möge er Ruhm erlangen|Che raggiunga la gloria|Que alcance a glória
+Maïssane|f|arabic|arabic,french|2|celestial,light|Estrella brillante|Bright star|Étoile brillante|Heller Stern|Stella luminosa|Estrela brilhante
+Elliott|m|hebrew|english,french|2|modern,classic|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Muhammed|m|arabic|turkish,arabic|2|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor

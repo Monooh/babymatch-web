@@ -1,0 +1,100 @@
+Borja|m|arabic|spanish|4|saint,place|Torre|Tower|Tour|Turm|Torre|Torre
+Asier|m|basque|basque,spanish|4|modern|Comienzo, principio|Beginning|Commencement|Anfang, Beginn|Inizio, principio|Começo, princípio
+Íñigo|m|basque|spanish,basque|4|classic,saint|Mi pequeño|My little one|Mon petit|Mein Kleiner|Mio piccolo|Meu pequeno
+Yaiza|f|other|spanish|3|place,modern|Pueblo de Lanzarote|Town in Lanzarote|Village de Lanzarote|Ort auf Lanzarote|Paese di Lanzarote|Vila de Lanzarote
+Saray|f|hebrew|spanish|3|biblical,royal|Mi princesa|My princess|Ma princesse|Meine Prinzessin|Mia principessa|Minha princesa
+Yeray|m|other|spanish|3|modern,strong|El grande|The great one|Le grand|Der Große|Il grande|O grande
+Mirian|f|hebrew|spanish|3|biblical|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Meritxell|f|latin|catalan,spanish|3|saint,place|Virgen de Meritxell, patrona de Andorra|Our Lady of Meritxell, patroness of Andorra|Notre-Dame de Meritxell, patronne d'Andorre|Muttergottes von Meritxell, Schutzpatronin Andorras|Madonna di Meritxell, patrona di Andorra|Nossa Senhora de Meritxell, padroeira de Andorra
+Nayara|f|basque|spanish|3|place,saint|Virgen de Nájera|Our Lady of Nájera|Notre-Dame de Nájera|Muttergottes von Nájera|Madonna di Nájera|Nossa Senhora de Nájera
+Jenifer|f|celtic|spanish|3|modern|Hada blanca|White fairy|Fée blanche|Weiße Fee|Fata bianca|Fada branca
+Estíbaliz|f|basque|basque,spanish|3|saint,place|Virgen de Estíbaliz, santuario alavés|Our Lady of Estíbaliz, shrine in Álava|Notre-Dame d'Estíbaliz, sanctuaire d'Alava|Muttergottes von Estíbaliz, Heiligtum in Álava|Madonna di Estíbaliz, santuario alavese|Nossa Senhora de Estíbaliz, santuário alavês
+Ion|m|hebrew|basque,spanish|3|biblical|Dios es misericordioso|God is merciful|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Jesica|f|hebrew|spanish|3|literary,modern|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Monserrat|f|latin|spanish|3|saint,place|Monte aserrado|Serrated mountain|Montagne dentelée|Gezackter Berg|Monte seghettato|Monte serrado
+Ainoa|f|basque|spanish|3|place,saint|Virgen de Ainhoa, pueblo vasco|Our Lady of Ainhoa, Basque village|Notre-Dame d'Ainhoa, village basque|Muttergottes von Ainhoa, baskisches Dorf|Madonna di Ainhoa, villaggio basco|Nossa Senhora de Ainhoa, vila basca
+Brais|m|latin|galician,spanish|3|saint|Balbuciente|Stammering one|Bègue|Stotterer|Balbuziente|Gago
+Abderrahim|m|arabic|arabic|3|virtue,classic|Siervo del Misericordioso|Servant of the Merciful|Serviteur du Miséricordieux|Diener des Barmherzigen|Servo del Misericordioso|Servo do Misericordioso
+Nagore|f|basque|basque,spanish|3|place,saint|Virgen de Nagore, pueblo navarro|Our Lady of Nagore, Navarrese village|Notre-Dame de Nagore, village navarrais|Muttergottes von Nagore, Dorf in Navarra|Madonna di Nagore, villaggio navarrese|Nossa Senhora de Nagore, aldeia navarra
+Rachida|f|arabic|arabic,french|3|virtue|Bien guiada|Rightly guided|Bien guidée|Die Rechtgeleitete|Ben guidata|Bem guiada
+Hanane|f|arabic|arabic,french|3|sweet,love|Ternura, compasión|Tenderness, compassion|Tendresse, compassion|Zärtlichkeit, Mitgefühl|Tenerezza, compassione|Ternura, compaixão
+Naroa|f|basque|basque,spanish|3|modern,nature|Abundante|Abundant, plentiful|Abondante|Reichlich, üppig|Abbondante|Abundante
+Saida|f|arabic|arabic|3|virtue|Feliz, afortunada|Happy, fortunate|Heureuse, chanceuse|Die Glückliche|Felice, fortunata|Feliz, afortunada
+Alain|m|celtic|french,basque,spanish|3|classic|Pequeña roca, armonía|Little rock, harmony|Petit rocher, harmonie|Kleiner Fels, Harmonie|Piccola roccia, armonia|Pequena rocha, harmonia
+Davinia|f|hebrew|spanish|3|modern|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Avelina|f|latin|spanish,portuguese|3|vintage,saint|De Avellino|From Avellino|D'Avellino|Aus Avellino|Di Avellino|De Avellino
+Alfonsa|f|germanic|spanish|2|vintage,royal|Noble y dispuesta|Noble and ready|Noble et prête|Edel und bereit|Nobile e pronta|Nobre e pronta
+Desamparados|f|latin|spanish|2|saint,vintage|Virgen de los Desamparados|Our Lady of the Forsaken|Notre-Dame des Délaissés|Muttergottes der Schutzlosen|Madonna degli Abbandonati|Nossa Senhora dos Desamparados
+Abdeslam|m|arabic|arabic|2|virtue|Siervo de la Paz|Servant of the Peace|Serviteur de la Paix|Diener des Friedens|Servo della Pace|Servo da Paz
+Hafida|f|arabic|arabic,french|2|virtue|Guardiana, protectora|Guardian, protector|Gardienne, protectrice|Hüterin, Beschützerin|Custode, protettrice|Guardiã, protetora
+Neizan|m|hebrew|spanish|2|modern,trendy|Él ha dado|He gave|Il a donné|Er hat gegeben|Egli ha dato|Ele deu
+Ivet|f|germanic|catalan,spanish|2|modern,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Unax|m|basque|basque,spanish|2|modern,nature|Pastor de vacas|Cowherd|Bouvier|Rinderhirt|Mandriano|Vaqueiro
+Rut|f|hebrew|spanish,catalan|2|biblical,virtue|Amiga, compañera|Friend, companion|Amie, compagne|Freundin, Gefährtin|Amica, compagna|Amiga, companheira
+Erick|m|norse|spanish|2|modern,royal|Gobernante eterno|Eternal ruler|Souverain éternel|Ewiger Herrscher|Sovrano eterno|Governante eterno
+Izaro|f|basque|basque,spanish|2|place,sea|Isla de la costa vizcaína|Island off the Biscayan coast|Île de la côte biscayenne|Insel vor der Küste Biskayas|Isola della costa biscaglina|Ilha da costa biscainha
+Saioa|f|basque|basque,spanish|2|place,nature|Monte de Navarra|Mountain in Navarre|Montagne de Navarre|Berg in Navarra|Monte della Navarra|Monte de Navarra
+Vicent|m|latin|catalan,spanish|2|saint,classic|Vencedor|Conquering|Vainqueur|Sieger|Vincitore|Vencedor
+Ibon|m|germanic|basque,spanish|2|saint,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Noureddine|m|arabic|arabic,french|2|light,virtue|Luz de la fe|Light of the faith|Lumière de la foi|Licht des Glaubens|Luce della fede|Luz da fé
+Nacho|m|latin|spanish|2|sweet|Ardiente, fogoso|Fiery, ardent|Ardent, fougueux|Feurig, glühend|Ardente, focoso|Ardente, fogoso
+Irune|f|basque|basque,spanish|2|saint|Trinidad|Trinity|Trinité|Dreifaltigkeit|Trinità|Trindade
+Dámaris|f|greek|spanish|2|biblical|Ternera, novilla|Calf, heifer|Génisse|Kalb, Färse|Vitella, giovenca|Vitela, novilha
+Gaizka|m|basque|basque,spanish|2|saint|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Abdelilah|m|arabic|arabic|2|virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Fatna|f|arabic|arabic|2|classic|La que desteta|She who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Mimoun|m|arabic|arabic,french|2|virtue|Afortunado, bendito|Fortunate, blessed|Chanceux, béni|Glücklicher, Gesegneter|Fortunato, benedetto|Afortunado, abençoado
+Balbina|f|latin|spanish,portuguese|2|saint,vintage|Balbuciente|Stammering one|Bègue|Die Stotternde|Balbuziente|Gaga
+Henar|f|latin|spanish|2|saint,nature|Campo de heno|Hayfield|Champ de foin|Heufeld|Campo di fieno|Campo de feno
+Yesica|f|hebrew|spanish|2|literary,modern|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Abdellatif|m|arabic|arabic|2|virtue|Siervo del Bondadoso|Servant of the Gentle One|Serviteur du Bienveillant|Diener des Gütigen|Servo del Benevolo|Servo do Bondoso
+Xavi|m|basque|catalan,spanish|2|modern|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Tarik|m|arabic|arabic,turkish|2|celestial|Estrella matutina|Morning star|Étoile du matin|Morgenstern|Stella del mattino|Estrela da manhã
+Mostafa|m|arabic|arabic,persian|2|virtue,classic|El elegido|The chosen one|L'élu|Der Auserwählte|L'eletto|O escolhido
+Aitziber|f|basque|basque,spanish|2|saint,place|Virgen de Aitziber, ermita navarra|Our Lady of Aitziber, Navarrese chapel|Notre-Dame d'Aitziber, ermitage navarrais|Muttergottes von Aitziber, Kapelle in Navarra|Madonna di Aitziber, eremo navarrese|Nossa Senhora de Aitziber, ermida navarra
+Yerai|m|other|spanish|2|modern,strong|El grande|The great one|Le grand|Der Große|Il grande|O grande
+Lahcen|m|arabic|arabic|2|virtue|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Aziza|f|arabic|arabic,french|2|love,sweet|Querida, preciada|Beloved, precious|Chérie, précieuse|Geliebte, Kostbare|Cara, preziosa|Querida, preciosa
+Sacramento|f|latin|spanish|2|saint,vintage|Santísimo Sacramento|Blessed Sacrament|Saint-Sacrement|Allerheiligstes Sakrament|Santissimo Sacramento|Santíssimo Sacramento
+Arkaitz|m|basque|basque,spanish|2|nature,strong|Roca, peña|Rock, crag|Roc, rocher|Fels|Roccia, rupe|Rocha, penedo
+Maravillas|f|latin|spanish|2|saint,vintage|Maravillas, prodigios|Wonders, marvels|Merveilles|Wunder|Meraviglie|Maravilhas
+Endika|m|germanic|basque,spanish|2|royal|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Urko|m|basque|basque,spanish|2|place,nature|Monte del País Vasco|Mountain in the Basque Country|Montagne du Pays basque|Berg im Baskenland|Monte dei Paesi Baschi|Monte do País Basco
+Asmae|f|arabic|arabic|2|virtue|Excelsa, sublime|Exalted, sublime|Élevée, sublime|Die Erhabene|Eccelsa, sublime|Excelsa, sublime
+Genís|m|greek|catalan,spanish|2|saint|Origen, nacimiento|Origin, birth|Origine, naissance|Ursprung, Geburt|Origine, nascita|Origem, nascimento
+Jaouad|m|arabic|arabic,french|2|virtue|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Sanae|f|arabic|arabic|2|light|Resplandor, brillo|Radiance, brilliance|Éclat, splendeur|Glanz, Strahlen|Splendore, luminosità|Resplendor, brilho
+Habiba|f|arabic|arabic,french|2|love|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Nataliya|f|latin|russian|2|classic|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Arancha|f|basque|spanish,basque|2|saint,nature|Espino|Thorn bush|Buisson d'épines|Dornbusch|Cespuglio di spine|Espinheiro
+Abdelali|m|arabic|arabic|2|virtue|Siervo del Altísimo|Servant of the Most High|Serviteur du Très-Haut|Diener des Höchsten|Servo dell'Altissimo|Servo do Altíssimo
+Sonsoles|f|latin|spanish|2|saint,place|Virgen de Sonsoles, santuario de Ávila|Our Lady of Sonsoles, shrine in Ávila|Notre-Dame de Sonsoles, sanctuaire d'Ávila|Muttergottes von Sonsoles, Heiligtum in Ávila|Madonna di Sonsoles, santuario di Ávila|Nossa Senhora de Sonsoles, santuário de Ávila
+Yessica|f|hebrew|spanish|2|literary,modern|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Abdessamad|m|arabic|arabic|2|virtue|Siervo del Eterno|Servant of the Eternal|Serviteur de l'Éternel|Diener des Ewigen|Servo dell'Eterno|Servo do Eterno
+Houda|f|arabic|arabic,french|2|virtue,light|Guía correcta|Right guidance|Bonne direction|Rechte Führung|Retta guida|Guia correta
+Abdelhak|m|arabic|arabic|2|virtue|Siervo de la Verdad|Servant of the Truth|Serviteur de la Vérité|Diener der Wahrheit|Servo della Verità|Servo da Verdade
+Abdelghani|m|arabic|arabic|2|virtue|Siervo del Autosuficiente|Servant of the Self-Sufficient|Serviteur de Celui qui se suffit|Diener des Selbstgenügsamen|Servo dell'Autosufficiente|Servo do Autossuficiente
+Artem|m|greek|russian|2|mythology|Consagrado a Artemisa|Devoted to Artemis|Consacré à Artémis|Der Artemis geweiht|Consacrato ad Artemide|Consagrado a Ártemis
+Mhamed|m|arabic|arabic|2|classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Pepe|m|hebrew|spanish|2|sweet,classic|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Saadia|f|arabic|arabic|2|virtue|Afortunada, dichosa|Fortunate, happy|Chanceuse, heureuse|Die Glückliche|Fortunata, felice|Afortunada, feliz
+Soumia|f|arabic|arabic,french|2|virtue|Elevada, excelsa|Exalted, lofty|Élevée, sublime|Erhaben, hoch|Elevata, eccelsa|Elevada, excelsa
+Hakima|f|arabic|arabic,french|2|virtue|Sabia|Wise|Sage|Die Weise|Saggia|Sábia
+Ghizlane|f|arabic|arabic,french|2|animal,sweet|Gacelas|Gazelles|Gazelles|Gazellen|Gazzelle|Gazelas
+Abdelmajid|m|arabic|arabic|2|virtue|Siervo del Glorioso|Servant of the Glorious|Serviteur du Glorieux|Diener des Ruhmreichen|Servo del Glorioso|Servo do Glorioso
+Fouzia|f|arabic|arabic,french|2|strong,virtue|Victoriosa|Victorious|Victorieuse|Siegreich|Vittoriosa|Vitoriosa
+Aleksandr|m|greek|russian|2|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Blai|m|latin|catalan,spanish|2|saint|Balbuciente|Stammering one|Bègue|Stotterer|Balbuziente|Gago
+Mouad|m|arabic|arabic,french|2|virtue|Protegido, amparado|Protected, sheltered|Protégé|Beschützter|Protetto|Protegido, amparado
+Encarnació|f|latin|catalan,spanish|2|saint,vintage|Encarnación|Incarnation|Incarnation|Menschwerdung|Incarnazione|Encarnação
+Milagrosa|f|latin|spanish|2|saint,vintage|Milagrosa|Miraculous|Miraculeuse|Die Wundertätige|Miracolosa|Milagrosa
+Itxaso|f|basque|basque,spanish|2|sea,nature|Mar|Sea|Mer|Meer|Mare|Mar
+Cristobalina|f|greek|spanish|2|saint,vintage|Portadora de Cristo|Christ-bearer|Celle qui porte le Christ|Christusträgerin|Portatrice di Cristo|Portadora de Cristo
+Ibtissam|f|arabic|arabic,french|2|sweet|Sonrisa|Smile|Sourire|Lächeln|Sorriso|Sorriso
+Mariola|f|hebrew|spanish|2|sweet|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Abdelkrim|m|arabic|arabic|2|virtue|Siervo del Generoso|Servant of the Generous|Serviteur du Généreux|Diener des Großzügigen|Servo del Generoso|Servo do Generoso
+Aldara|f|germanic|galician,spanish|2|vintage,warrior|Prudente en la batalla|Cautious in battle|Prudente au combat|Im Kampf umsichtig|Prudente in battaglia|Prudente na batalha
+Xiana|f|latin|galician,spanish|2|saint|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Egoitz|m|basque|basque,spanish|2|modern|Morada, residencia|Dwelling, abode|Demeure, résidence|Wohnsitz, Heim|Dimora, residenza|Morada, residência
+Angelita|f|greek|spanish|2|vintage,sweet|Pequeño ángel|Little angel|Petit ange|Kleiner Engel|Piccolo angelo|Pequeno anjo
+Naoual|f|arabic|arabic,french|2|sweet|Regalo, obsequio|Gift, present|Cadeau, présent|Geschenk, Gabe|Dono, regalo|Presente, dádiva

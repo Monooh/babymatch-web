@@ -1,0 +1,23 @@
+Cristopher|m|greek|spanish|2|modern|Portador de Cristo|Bearer of Christ|Porteur du Christ|Christusträger|Portatore di Cristo|Portador de Cristo
+Bayan|f|arabic|arabic|2|virtue|Claridad, elocuencia|Clarity, eloquence|Clarté, éloquence|Klarheit, Beredsamkeit|Chiarezza, eloquenza|Clareza, eloquência
+Alexandro|m|greek|spanish|2|strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Nikolas|m|greek|greek,german|2|classic|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Aiman|m|arabic|arabic,spanish|2|virtue|Afortunado, bendecido|Fortunate, blessed|Chanceux, béni|Glücklich, gesegnet|Fortunato, benedetto|Afortunado, abençoado
+Emili|u|latin|catalan,spanish|2|classic|Rival, emulador|Rival, striving|Rival, émule|Wetteifernd|Rivale, emulo|Rival, emulador
+Daiana|f|latin|spanish,italian|2|modern|Divina|Divine|Divine|Göttlich|Divina|Divina
+Almas|f|arabic|arabic|2|gem|Diamante|Diamond|Diamant|Diamant|Diamante|Diamante
+Niko|m|greek|spanish,german,scandinavian|2|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Río|m|latin|spanish|2|nature,modern,trendy|Río|River|Rivière|Fluss|Fiume|Rio
+Anuar|m|arabic|arabic,spanish|2|light|El más luminoso|Most luminous|Le plus lumineux|Der Leuchtendste|Il più luminoso|O mais luminoso
+Braian|m|celtic|spanish|2|modern|Alto, noble|High, noble|Haut, noble|Hoch, edel|Alto, nobile|Alto, nobre
+Asil|f|arabic|arabic|2|sweet|Suave, delicada|Smooth, delicate|Douce, délicate|Sanft, zart|Liscia, delicata|Suave, delicada
+Abrar|f|arabic|arabic|2|virtue|Los virtuosos, piadosos|The righteous, pious|Les vertueux, pieux|Die Rechtschaffenen, Frommen|I virtuosi, pii|Os virtuosos, piedosos
+Rihanna|f|arabic|english,arabic|2|nature,modern|Albahaca dulce|Sweet basil|Basilic doux|Süßes Basilikum|Basilico dolce|Manjericão doce
+Alisha|f|germanic|english|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Khloe|f|greek|english,spanish|2|modern,trendy|Brote verde|Green shoot|Jeune pousse verte|Grüner Spross|Germoglio verde|Broto verde
+Esraa|f|arabic|arabic|2|celestial|Viaje nocturno|Night journey|Voyage nocturne|Nachtreise|Viaggio notturno|Viagem noturna
+Yaakoub|m|hebrew|arabic,french|2|biblical|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Asiya|f|arabic|arabic|2|classic,virtue|La que cuida y consuela|She who heals and consoles|Celle qui soigne et console|Die Heilende, Tröstende|Colei che cura e consola|Aquela que cura e consola
+Mathys|m|hebrew|french|4|modern,trendy|Regalo de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dádiva de Deus
+Emmy|f|germanic|french,english|4|sweet,trendy|Universal|Universal|Universelle|Allumfassend|Universale|Universal
+Noham|m|hebrew|french|4|modern,trendy|Agradable, dulzura|Pleasantness|Agrément, douceur|Lieblichkeit|Piacevolezza, dolcezza|Agradabilidade, doçura

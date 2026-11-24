@@ -1,0 +1,75 @@
+Candice|f|african|french,english|4|biblical,royal|Reina madre|Queen mother|Reine mère|Königinmutter|Regina madre|Rainha-mãe
+Élya|f|hebrew|french|4|modern,trendy,biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Maïssa|f|arabic|arabic,french|4|sweet,modern|La que camina con gracia|One who walks gracefully|Celle qui marche avec grâce|Die anmutig Schreitende|Colei che cammina con grazia|Aquela que anda com graça
+Ulysse|m|greek|french|4|mythology,literary,vintage|Airado|Wrathful|Courroucé|Der Zürnende|Adirato|Irado
+Emna|f|arabic|arabic,french|4|virtue,classic|Segura, a salvo|Safe, secure|En sécurité, sereine|Sicher, geborgen|Sicura, al sicuro|Segura, a salvo
+Nélya|f|latin|french|4|modern,trendy|Diminutivo de Cornelia: cuerno|Short form of Cornelia: horn|Diminutif de Cornélia : corne|Kurzform von Cornelia: Horn|Diminutivo di Cornelia: corno|Diminutivo de Cornélia: corno
+Kassim|m|arabic|arabic,french|4|virtue,classic|El que reparte|One who shares out|Celui qui répartit|Der Verteilende|Colui che distribuisce|Aquele que reparte
+Aliya|f|arabic|arabic,french|4|virtue,modern|Elevada, sublime|Exalted, sublime|Élevée, sublime|Erhaben, hoch|Elevata, sublime|Elevada, sublime
+Mylan|m|slavic|french|4|modern,trendy|Querido, amable|Dear, gracious|Cher, aimable|Lieb, gütig|Caro, gentile|Querido, amável
+Timothé|m|greek|french|3|biblical,saint|Que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Che onora Dio|Que honra a Deus
+Anaé|f|hebrew|french|4|modern,trendy,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Myla|f|slavic|french,english|3|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Lieb, gütig|Cara, gentile|Querida, amável
+Milann|m|slavic|french|3|modern,trendy|Querido, amable|Dear, gracious|Cher, aimable|Lieb, gütig|Caro, gentile|Querido, amável
+Leyna|f|arabic|arabic,french|3|modern,sweet|Tierna, suave|Tender, gentle|Tendre, douce|Zart, sanft|Tenera, dolce|Terna, suave
+Mayron|m|greek|french|3|modern|Mirra, aceite perfumado|Myrrh, fragrant oil|Myrrhe, huile parfumée|Myrrhe, Duftöl|Mirra, olio profumato|Mirra, óleo perfumado
+Maddy|f|hebrew|french,english|3|modern,sweet|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Neyla|f|arabic|arabic,french|3|modern|La que alcanza, triunfadora|One who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Djibril|m|hebrew|arabic,african,french|3|biblical,strong|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Calie|f|greek|french|3|modern,sweet|Hermosa|Beautiful|Belle|Die Schöne|Bella|Bela
+Layana|f|arabic|arabic,french|3|modern,sweet|Suavidad, ternura|Softness, gentleness|Douceur, tendresse|Sanftheit, Zartheit|Dolcezza, tenerezza|Suavidade, ternura
+Louison|u|germanic|french|4|vintage,sweet|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Cléa|f|greek|french|3|modern,sweet|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Lilya|f|latin|french|3|flower,modern|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Swan|m|germanic|french|3|animal,literary,modern|Cisne|Swan|Cygne|Schwan|Cigno|Cisne
+Ayline|f|turkish|turkish,french|3|celestial,modern|Halo de luna|Moon halo|Halo de lune|Mondhof|Alone lunare|Halo da lua
+Assya|f|arabic|arabic,french|3|virtue,modern|La que cura y consuela|She who heals and comforts|Celle qui soigne et console|Die Heilende und Tröstende|Colei che cura e consola|Aquela que cura e consola
+Méline|f|greek|french|3|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Liya|f|hebrew|french|3|modern,biblical|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Souleyman|m|hebrew|arabic,african,french|3|biblical,royal|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Sirine|f|persian|arabic,french|3|sweet,modern|Dulce|Sweet|Douce|Die Süße|Dolce|Doce
+Swann|u|germanic|french|3|animal,literary|Cisne|Swan|Cygne|Schwan|Cigno|Cisne
+Cassandre|f|greek|french|3|mythology,classic|Que brilla entre los hombres|Shining upon men|Qui brille sur les hommes|Die unter Männern Strahlende|Colei che brilla sugli uomini|Que brilha entre os homens
+Élyna|f|greek|french|3|modern,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Nélia|f|latin|french|3|modern,sweet|Diminutivo de Cornelia: cuerno|Short form of Cornelia: horn|Diminutif de Cornélia : corne|Kurzform von Cornelia: Horn|Diminutivo di Cornelia: corno|Diminutivo de Cornélia: corno
+Maylone|m|celtic|french|3|modern|Devoto de san Juan|Devotee of Saint John|Dévot de saint Jean|Verehrer des heiligen Johannes|Devoto di san Giovanni|Devoto de são João
+Léya|f|hebrew|french|3|modern,biblical|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Aloïs|m|germanic|french|3|vintage,saint|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Maëlya|f|celtic|french|3|modern,royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Aliénor|f|other|french|3|royal,vintage|Nombre occitano de sentido incierto|Occitan name of uncertain meaning|Nom occitan de sens incertain|Okzitanischer Name ungewisser Bedeutung|Nome occitano di significato incerto|Nome occitano de sentido incerto
+Éléa|f|other|french|4|modern,sweet|Diminutivo de Éléonore, de sentido incierto|Short form of Éléonore, meaning uncertain|Diminutif d'Éléonore, sens incertain|Kurzform von Éléonore, Bedeutung ungewiss|Diminutivo di Éléonore, significato incerto|Diminutivo de Éléonore, de sentido incerto
+Naëlle|f|arabic|arabic,french|3|modern|La que alcanza, triunfadora|One who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Mayssa|f|arabic|arabic,french|3|sweet,modern|La que camina con gracia|One who walks gracefully|Celle qui marche avec grâce|Die anmutig Schreitende|Colei che cammina con grazia|Aquela que anda com graça
+Yacine|m|arabic|arabic,french|3|classic|Letras coránicas Ya Sin|Quranic letters Ya Sin|Lettres coraniques Ya Sin|Koranische Buchstaben Ya Sin|Lettere coraniche Ya Sin|Letras corânicas Ya Sin
+Naïl|m|arabic|arabic,french|3|modern|El que alcanza, triunfador|One who attains, achiever|Celui qui obtient, gagnant|Der Erlangende, Erfolgreiche|Colui che ottiene, vincitore|Aquele que alcança, vencedor
+Gauthier|m|germanic|french|3|classic,warrior|Jefe del ejército|Ruler of the army|Chef d'armée|Heerführer|Comandante dell'esercito|Chefe do exército
+Cassie|f|greek|english,french|3|sweet,modern|Que brilla entre los hombres|Shining upon men|Qui brille sur les hommes|Die unter Männern Strahlende|Colei che brilla sugli uomini|Que brilha entre os homens
+Élyne|f|greek|french|3|modern,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Qassim|m|arabic|arabic,french|3|virtue|El que reparte|One who shares out|Celui qui répartit|Der Verteilende|Colui che distribuisce|Aquele que reparte
+Tyméo|m|greek|french|3|modern|Que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Che onora Dio|Que honra a Deus
+Giulian|m|latin|french|3|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Mylann|m|slavic|french|3|modern|Querido, amable|Dear, gracious|Cher, aimable|Lieb, gütig|Caro, gentile|Querido, amável
+Solal|m|hebrew|french,hebrew|3|literary,modern|El que abre camino|He who paves the way|Celui qui ouvre la voie|Der Wegbereiter|Colui che apre la via|Aquele que abre caminho
+Nahël|m|arabic|arabic,french|3|modern,trendy|El que alcanza, triunfador|One who attains, achiever|Celui qui obtient, gagnant|Der Erlangende, Erfolgreiche|Colui che ottiene, vincitore|Aquele que alcança, vencedor
+Sofiane|m|arabic|arabic,french|3|classic|Del árabe Sufyan, quizá puro|From Arabic Sufyan, perhaps pure|De l'arabe Sufyan, peut-être pur|Vom arabischen Sufyan, vielleicht rein|Dall'arabo Sufyan, forse puro|Do árabe Sufyan, talvez puro
+Youssouf|m|hebrew|arabic,african,french|3|biblical,classic|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Tess|f|greek|english,french|3|literary,sweet|Cosechadora|Harvester|Moissonneuse|Die Erntende|Mietitrice|Ceifeira
+Naomie|f|hebrew|french|3|biblical,sweet|Dulzura, agrado|Pleasantness|Douceur, agrément|Lieblichkeit|Dolcezza, piacevolezza|Doçura, agrado
+Lylou|f|latin|french|3|modern,sweet,flower|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Mélia|f|greek|french|3|mythology,nature,modern|Fresno|Ash tree|Frêne|Esche|Frassino|Freixo
+Elyana|f|hebrew|french|3|modern|Dios ha respondido|God has answered|Dieu a répondu|Gott hat geantwortet|Dio ha risposto|Deus respondeu
+Milhan|m|slavic|french|3|modern|Querido, amable|Dear, gracious|Cher, aimable|Lieb, gütig|Caro, gentile|Querido, amável
+Lenzo|m|latin|french|3|modern|Coronado de laurel|Crowned with laurel|Couronné de laurier|Lorbeerbekränzt|Coronato d'alloro|Coroado de louros
+Alizée|f|other|french|3|nature,modern|Viento alisio|Trade wind|Vent alizé|Passatwind|Vento aliseo|Vento alísio
+Abdallah|m|arabic|arabic,french|3|virtue,classic|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Iyed|m|arabic|arabic,french|3|strong,virtue|Apoyo, fortaleza|Support, strength|Soutien, force|Stütze, Stärke|Sostegno, forza|Apoio, força
+Jassim|m|arabic|arabic,french|3|strong|Corpulento, robusto|Burly, strong|Corpulent, robuste|Stattlich, kräftig|Corpulento, robusto|Corpulento, robusto
+Manoé|m|hebrew|french|3|biblical,modern|Descanso, sosiego|Rest, quiet|Repos, quiétude|Ruhe, Stille|Riposo, quiete|Descanso, sossego
+Assiya|f|arabic|arabic,french|3|virtue|La que cura y consuela|She who heals and comforts|Celle qui soigne et console|Die Heilende und Tröstende|Colei che cura e consola|Aquela que cura e consola
+Esma|f|arabic|turkish,arabic|3|virtue,classic|La más excelsa|Most exalted|La plus élevée|Die Erhabenste|La più eccelsa|A mais elevada
+Jessim|m|arabic|arabic,french|3|strong,modern|Corpulento, robusto|Burly, strong|Corpulent, robuste|Stattlich, kräftig|Corpulento, robusto|Corpulento, robusto
+Nolhan|m|celtic|french|3|modern|Descendiente del campeón|Descendant of the champion|Descendant du champion|Nachkomme des Meisters|Discendente del campione|Descendente do campeão
+Ilona|f|greek|french,german,polish|3|classic,light|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Loann|m|celtic|french|3|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Tesnim|f|arabic|arabic,turkish,french|3|nature,sweet|Fuente del paraíso|Spring in Paradise|Source du paradis|Quelle im Paradies|Fonte del paradiso|Fonte do paraíso
+Milla|f|slavic|french|3|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Lieb, gütig|Cara, gentile|Querida, amável

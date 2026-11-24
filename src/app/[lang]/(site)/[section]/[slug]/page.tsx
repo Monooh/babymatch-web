@@ -5,7 +5,7 @@ import { getDict } from '@/i18n/dict'
 import { RANK_SOURCE, YEAR_NOW, countryName, cultureLabel, cultureListPhrase, genderAdj, rootAdj, tagLabel } from '@/i18n/taxonomy'
 import { allNames, getName, middleNames, namesByLetter, otherForms, siblingNames, similarNames } from '@/lib/names'
 import { statsFor, type NameStats } from '@/lib/stats'
-import { calendar, monthCount, monthFromSlug, monthName, monthSlug, nameDays } from '@/lib/saints'
+import { calendar, dayFromSlug, dayLabel, dayPages, daySlug, hasDayPage, monthCount, monthFromSlug, monthName, monthSlug, nameDays, namesOn, saintsOn } from '@/lib/saints'
 import { allLists, listBySlug, listByKey, listNames, listsForName, relatedLists } from '@/lib/lists'
 import { NEW_ENTRY, firstLetter, isFiction, nameLength, parseListKey, type Fame, type N } from '@/lib/model'
 import { famousNamed, fameExample, fameWeight, officialFor, ranksFor, type RankRow } from '@/lib/people'
@@ -28,14 +28,38 @@ export function generateStaticParams() {
     ...allLists(lang).map(x => ({ lang, section: SEGMENTS[lang].lists, slug: x.slug })),
     ...allNames(lang).filter(n => !quick || (n.pop >= 5 && n.home)).map(n => ({ lang, section: SEGMENTS[lang].names, slug: n.slug })),
     ...Array.from({ length: 12 }, (_, i) => ({ lang, section: SEGMENTS[lang].saints, slug: monthSlug(lang, i + 1) })),
+    ...dayPages(lang).map(x => ({ lang, section: SEGMENTS[lang].saints, slug: daySlug(lang, x.month, x.day) })),
   ])
 }
 
 function resolve(lang: Locale, section: string, slug: string) {
   if (section === SEGMENTS[lang].names) { const n = getName(lang, slug); return n ? { kind: 'name' as const, n } : null }
   if (section === SEGMENTS[lang].lists) { const list = listBySlug(lang, slug); return list ? { kind: 'list' as const, list } : null }
-  if (section === SEGMENTS[lang].saints) { const month = monthFromSlug(lang, slug); return month ? { kind: 'month' as const, month } : null }
+  if (section === SEGMENTS[lang].saints) {
+    const month = monthFromSlug(lang, slug)
+    if (month) return { kind: 'month' as const, month }
+    const date = dayFromSlug(lang, slug)
+    return date && hasDayPage(lang, date.month, date.day) ? { kind: 'day' as const, ...date } : null
+  }
   return null
+}
+
+/** What a day page says, shared by its metadata and its body. */
+function dayText(l: Locale, month: number, day: number) {
+  const d = getDict(l)
+  const names = namesOn(l, month, day)
+  const saints = saintsOn(l, month, day)
+  const and = new Intl.ListFormat(HREFLANG[l], { style: 'long', type: 'conjunction' })
+  const who = saints.map(x => x.saint.name)
+  return {
+    names, saints,
+    vars: {
+      date: dayLabel(l, month, day), count: names.length, names: and.format(names.map(x => x.n.name)),
+      // Up to four saints are all named; a longer day names the three best known and counts the rest.
+      saintNames: who.length <= 4 ? and.format(who) : t(d.saints.dayMore, { list: who.slice(0, 3).join(', '), n: who.length - 3 }),
+      v: [1, 8, 11].includes(day) ? 1 : 0, // Italian elides its article before these: l’8 marzo, dell’11 marzo
+    },
+  }
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -57,6 +81,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return pageMeta(lang, {
       title: t(d.saints.monthTitle, { month }), description: t(d.saints.monthDesc, { month, count: num(monthCount(lang, r.month), HREFLANG[lang]) }),
       path: l => paths.saintsMonth(l, monthSlug(l, r.month)),
+    })
+  }
+  if (r.kind === 'day') {
+    const { names, vars } = dayText(lang, r.month, r.day)
+    return pageMeta(lang, {
+      title: t(d.saints.dayTitle, vars), description: t(names.length ? d.saints.dayDesc : d.saints.dayDescNone, vars),
+      path: l => hasDayPage(l, r.month, r.day) ? paths.saintsDay(l, daySlug(l, r.month, r.day)) : null,
     })
   }
   const { list } = r
@@ -374,13 +405,80 @@ export default async function SlugPage({ params }: Props) {
         {days.map(x => (
           <section key={x.day} className="section section--tight" aria-labelledby={`d${x.day}`}>
             <div className="container">
-              <h2 id={`d${x.day}`} className="h-sm">{x.date}</h2>
+              <h2 id={`d${x.day}`} className="h-sm">{hasDayPage(l, r.month, x.day) ? <a href={paths.saintsDay(l, daySlug(l, r.month, x.day))}>{x.date}</a> : x.date}</h2>
               <ul className="grid-names">{x.names.map(({ n, saint }) => <li key={n.id}><NameLink n={n} l={l} gLabel={gLabel(n.g)} sub={saint.name} /></li>)}</ul>
             </div>
           </section>
         ))}
-        <section className="section section--tight">
-          <div className="container"><p className="muted note">{d.name.saintNote}</p></div>
+        {/* Every day of the month with a page, including the ones no name on the list falls on. */}
+        <section className="section section--tight" aria-labelledby="h-days">
+          <div className="container">
+            <h2 id="h-days" className="h-sm">{d.saints.days}</h2>
+            <div className="pills pills--letters">
+              {dayPages(l).filter(x => x.month === r.month).map(x => (
+                <a key={x.day} className="pill num" href={paths.saintsDay(l, daySlug(l, x.month, x.day))} aria-label={dayLabel(l, x.month, x.day)}>{x.day}</a>
+              ))}
+            </div>
+            <p className="muted note">{d.name.saintNote}</p>
+          </div>
+        </section>
+      </>
+    )
+  }
+
+  if (r.kind === 'day') {
+    const { names, saints, vars } = dayText(l, r.month, r.day)
+    const month = monthName(l, r.month)
+    const cap = (x: string) => x.charAt(0).toUpperCase() + x.slice(1)
+    const monthHref = paths.saintsMonth(l, monthSlug(l, r.month))
+    // The day before and the day after among the days that have a page; 31 December and 1 January meet.
+    const pages = dayPages(l)
+    const at = pages.findIndex(x => x.month === r.month && x.day === r.day)
+    const prev = pages[(at + pages.length - 1) % pages.length], next = pages[(at + 1) % pages.length]
+    // A saint is filed under every form of its name; show the forms used in this language, or failing that the first two.
+    const borne = (list: N[]) => { const own = list.filter(n => n.fit); return (own.length ? own : list.slice(0, 2)).slice(0, 3) }
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(breadcrumbLd([
+          { name: 'BabyMatch', path: paths.home(l) }, { name: d.saints.nav, path: paths.saints(l) }, { name: cap(month), path: monthHref }, { name: vars.date, path: paths.saintsDay(l, slug) },
+        ]))} />
+        <section className="page-hero">
+          <div className="container">
+            <Crumbs items={[{ name: 'BabyMatch', href: paths.home(l) }, { name: d.saints.nav, href: paths.saints(l) }, { name: cap(month), href: monthHref }, { name: vars.date }]} />
+            <h1>{t(d.saints.dayH1, vars)}</h1>
+            <p className="lead">{t(names.length ? d.saints.dayLead : d.saints.dayLeadNone, vars)}</p>
+            <nav className="pills" style={{ marginTop: 'var(--space-lg)' }} aria-label={d.saints.days}>
+              <a className="pill" rel="prev" href={paths.saintsDay(l, daySlug(l, prev.month, prev.day))}>{dayLabel(l, prev.month, prev.day)}</a>
+              <a className="pill" rel="next" href={paths.saintsDay(l, daySlug(l, next.month, next.day))}>{dayLabel(l, next.month, next.day)}</a>
+            </nav>
+          </div>
+        </section>
+        {names.length ? (
+          <section className="section section--tight" aria-labelledby="h-names">
+            <div className="container">
+              <h2 id="h-names" className="h-sm">{d.saints.dayNamesH2}</h2>
+              <ul className="grid-names">{names.map(({ n, saint }) => <li key={n.id}><NameLink n={n} l={l} gLabel={gLabel(n.g)} sub={saint.name} /></li>)}</ul>
+            </div>
+          </section>
+        ) : null}
+        <section className="section section--tight" aria-labelledby="h-saints">
+          <div className="container">
+            <h2 id="h-saints" className="h-sm">{t(d.saints.daySaintsH2, vars)}</h2>
+            <ul className="people">
+              {saints.map(({ saint, names: under }) => {
+                const shown = borne(under)
+                return (
+                  <li key={saint.id}>
+                    {saint.url ? <a href={saint.url} rel="noopener">{saint.name}</a> : <b>{saint.name}</b>}
+                    {saint.about ? <span>{saint.about}</span> : null}
+                    {shown.length ? <span className="named">{t(d.saints.dayBears, { count: shown.length })} {shown.map((n, i) => <span key={n.id}>{i ? ', ' : ''}<a href={paths.name(l, n.slug)}>{n.name}</a></span>)}</span> : null}
+                  </li>
+                )
+              })}
+            </ul>
+            <p className="note"><a className="link" href={names.length ? `${monthHref}#d${r.day}` : monthHref}>{t(d.name.saintMore, { month })}</a></p>
+            <p className="muted note">{d.saints.dayNote} {d.name.saintNote}</p>
+          </div>
         </section>
       </>
     )

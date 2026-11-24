@@ -1,0 +1,95 @@
+Oinatz|m|basque|basque,spanish|2|nature|Huella|Footprint|Empreinte|Fußspur|Orma|Pegada
+Firdaous|f|arabic|arabic,french|2|nature|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Ikhlas|f|arabic|arabic|2|virtue|Sinceridad, devoción|Sincerity, devotion|Sincérité, dévotion|Aufrichtigkeit, Hingabe|Sincerità, devozione|Sinceridade, devoção
+Siraj|m|arabic|arabic|2|light|Lámpara, luz|Lamp, light|Lampe, lumière|Lampe, Licht|Lampada, luce|Lâmpada, luz
+Omayma|f|arabic|arabic|2|sweet|Madrecita|Little mother|Petite mère|Kleine Mutter|Piccola madre|Mãezinha
+Siena|f|other|spanish|2|place,modern|Ciudad de Siena, en Toscana|City of Siena, in Tuscany|Ville de Sienne, en Toscane|Stadt Siena in der Toskana|Città di Siena, in Toscana|Cidade de Siena, na Toscana
+Bru|m|germanic|catalan,spanish|2|modern,strong|Marrón, oscuro|Brown|Brun|Braun|Bruno, scuro|Moreno, escuro
+Erea|f|greek|galician,spanish|2|virtue,modern|Paz|Peace|Paix|Frieden|Pace|Paz
+Ahinara|f|basque|spanish|2|animal,modern|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Guiu|m|germanic|catalan,spanish|2|nature|Bosque|Wood, forest|Bois, forêt|Wald|Bosco|Bosque
+Olmo|m|latin|spanish,italian|2|nature|Olmo, árbol|Elm tree|Orme, arbre|Ulme, Baum|Olmo, albero|Olmo, árvore
+Hegoi|m|basque|basque,spanish|2|nature|Viento del sur|South wind|Vent du sud|Südwind|Vento del sud|Vento do sul
+Angie|f|greek|spanish,english|2|modern,sweet|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Nor|f|arabic|arabic|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Xana|f|latin|spanish|2|mythology,nature|Ninfa asturiana de las aguas|Asturian water nymph|Nymphe asturienne des eaux|Asturische Wassernymphe|Ninfa asturiana delle acque|Ninfa asturiana das águas
+Riham|f|arabic|arabic|2|nature,sweet|Llovizna, lluvia fina|Drizzle, light rain|Bruine, pluie fine|Nieselregen, feiner Regen|Pioggerella, pioggia fine|Chuvisco, chuva miúda
+Yosra|f|arabic|arabic|2|virtue|Facilidad, prosperidad|Ease, prosperity|Aisance, prospérité|Leichtigkeit, Wohlstand|Agio, prosperità|Facilidade, prosperidade
+Izadi|f|basque|basque,spanish|2|nature,modern|Naturaleza|Nature|Nature|Natur|Natura|Natureza
+Iu|m|germanic|catalan,spanish|2|saint,nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Nikole|f|greek|basque,spanish|2|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Zayra|f|arabic|spanish|2|flower,modern|Flor, brillante|Flower, radiant|Fleur, rayonnante|Blume, strahlend|Fiore, radiosa|Flor, radiante
+Dikra|f|arabic|arabic|2|virtue|Recuerdo, memoria|Remembrance, memory|Souvenir, mémoire|Erinnerung, Gedenken|Ricordo, memoria|Recordação, memória
+Xuban|m|latin|basque,spanish|2|modern|De la ciudad|Of the city|De la ville|Aus der Stadt|Della città|Da cidade
+Haitam|m|arabic|arabic|2|animal,strong|Halcón joven|Young hawk|Jeune faucon|Junger Falke|Giovane falco|Jovem falcão
+Eizan|m|hebrew|spanish|2|modern|Firme, duradero|Firm, enduring|Ferme, durable|Fest, beständig|Fermo, duraturo|Firme, duradouro
+Eki|m|basque|basque,spanish|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Janat|f|arabic|arabic|2|nature|Jardines, paraíso|Gardens, paradise|Jardins, paradis|Gärten, Paradies|Giardini, paradiso|Jardins, paraíso
+Nikol|f|greek|spanish|2|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Sabrin|f|arabic|arabic|2|virtue|Paciente|Patient|Patiente|Geduldig|Paziente|Paciente
+Enya|f|celtic|irish,spanish|2|music,modern|Grano, semilla|Kernel, grain|Noyau, grain|Kern, Korn|Chicco, seme|Grão, semente
+Ekai|m|basque|basque,spanish|2|place|De Ekai, pueblo navarro|From Ekai, a village in Navarre|D'Ekai, village de Navarre|Aus Ekai, Dorf in Navarra|Di Ekai, villaggio della Navarra|De Ekai, aldeia de Navarra
+Moad|m|arabic|arabic|2|virtue|Protegido, amparado|Protected, sheltered|Protégé, abrité|Beschützt, behütet|Protetto, riparato|Protegido, amparado
+Unay|m|basque|spanish|2|nature|Pastor de vacas|Cowherd|Vacher|Kuhhirt|Mandriano|Vaqueiro
+Balma|f|other|catalan,spanish|2|saint,nature|Cueva, abrigo rocoso|Cave, rock shelter|Grotte, abri rocheux|Höhle, Felsüberhang|Grotta, riparo roccioso|Gruta, abrigo rochoso
+Timur|m|turkish|russian,turkish|2|strong,warrior|Hierro|Iron|Fer|Eisen|Ferro|Ferro
+Ferdaous|f|arabic|arabic,french|2|nature|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Yeva|f|hebrew|russian|2|biblical|Vida|Life|Vie|Leben|Vita|Vida
+Xabat|m|latin|basque,spanish|2|saint|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Aynara|f|basque|spanish|2|animal,modern|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Sabrine|f|arabic|arabic,french|2|virtue|Paciente|Patient|Patiente|Geduldig|Paziente|Paciente
+Llum|f|latin|catalan,spanish|2|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Doaa|f|arabic|arabic|2|virtue|Súplica, oración|Prayer, supplication|Prière, invocation|Gebet, Bittgebet|Preghiera, supplica|Súplica, oração
+Intza|f|basque|basque,spanish|2|nature|Rocío|Dew|Rosée|Tau|Rugiada|Orvalho
+Iyán|m|latin|spanish|2|modern|De la familia Julia|Of the Julian clan|De la gens Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Inhar|m|basque|basque,spanish|2|light|Chispa, centella|Spark|Étincelle|Funke|Scintilla|Faísca, centelha
+Kimetz|m|basque|basque,spanish|2|nature|Brote, retoño|Sprout, shoot|Pousse, bourgeon|Spross, Trieb|Germoglio|Rebento, broto
+Indhira|f|sanskrit|spanish|2|mythology|Belleza, esplendor|Beauty, splendor|Beauté, splendeur|Schönheit, Glanz|Bellezza, splendore|Beleza, esplendor
+Luján|f|other|spanish|2|saint,place|Virgen de Luján, Argentina|Our Lady of Luján, Argentina|Notre-Dame de Luján, Argentine|Muttergottes von Luján, Argentinien|Madonna di Luján, Argentina|Nossa Senhora de Luján, Argentina
+Yusra|f|arabic|arabic|2|virtue|Facilidad, prosperidad|Ease, prosperity|Aisance, prospérité|Leichtigkeit, Wohlstand|Agio, prosperità|Facilidade, prosperidade
+Nayma|f|arabic|arabic|2|sweet|Dichosa, serena|Content, serene|Heureuse, sereine|Zufrieden, heiter|Appagata, serena|Contente, serena
+Yunes|m|hebrew|arabic|2|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Adonai|m|hebrew|spanish|2|biblical|Mi Señor|My Lord|Mon Seigneur|Mein Herr|Mio Signore|Meu Senhor
+Inass|f|arabic|arabic|2|virtue,sweet|Cordialidad, afabilidad|Friendliness, warmth|Cordialité, affabilité|Freundlichkeit, Herzlichkeit|Cordialità, affabilità|Cordialidade, afabilidade
+Inar|m|basque|basque,spanish|2|light|Chispa, centella|Spark|Étincelle|Funke|Scintilla|Faísca, centelha
+Yaser|m|arabic|arabic|2|virtue|Fácil, acomodado|Easy, wealthy|Aisé, prospère|Mühelos, wohlhabend|Facile, agiato|Fácil, abastado
+Yassmin|f|persian|arabic|2|flower,sweet|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Ouiam|f|arabic|arabic|2|virtue|Armonía, concordia|Harmony, concord|Harmonie, concorde|Harmonie, Eintracht|Armonia, concordia|Harmonia, concórdia
+Alai|m|basque|basque,spanish|2|virtue,modern|Alegre|Cheerful|Joyeux|Fröhlich|Allegro|Alegre
+Joane|f|hebrew|basque,spanish|2|biblical,modern|Dios es misericordioso|God is gracious|Dieu est miséricordieux|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Gari|m|basque|basque,spanish|2|nature|Trigo|Wheat|Blé|Weizen|Grano|Trigo
+Blau|f|germanic|catalan,spanish|2|modern|Azul|Blue|Bleu|Blau|Blu|Azul
+Alisson|f|germanic|spanish|2|modern|De noble linaje|Noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Haytam|m|arabic|arabic|2|animal,strong|Halcón joven|Young hawk|Jeune faucon|Junger Falke|Giovane falco|Jovem falcão
+Roeya|f|arabic|arabic|2|sweet|Visión, sueño|Vision, dream|Vision, rêve|Vision, Traum|Visione, sogno|Visão, sonho
+Otger|m|germanic|catalan,spanish|2|warrior,literary|Lanza de la riqueza|Spear of wealth|Lance de la richesse|Speer des Reichtums|Lancia della ricchezza|Lança da riqueza
+Bruc|m|celtic|catalan,spanish|2|nature,place|Brezo|Heather|Bruyère|Heidekraut|Erica|Urze
+Ton|m|latin|catalan,spanish|2|modern|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Wisal|f|arabic|arabic|2|love|Unión, reencuentro|Union, reunion|Union, retrouvailles|Vereinigung, Wiedersehen|Unione, ricongiungimento|União, reencontro
+Kamar|f|arabic|arabic|2|celestial,light|Luna|Moon|Lune|Mond|Luna|Lua
+Doae|f|arabic|arabic|2|virtue|Súplica, oración|Prayer, supplication|Prière, invocation|Gebet, Bittgebet|Preghiera, supplica|Súplica, oração
+Firdaus|f|arabic|arabic|2|nature|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Afrika|f|latin|basque,spanish|2|place|El continente, por la Virgen de África|The continent, after Our Lady of Africa|Le continent, d'après Notre-Dame d'Afrique|Der Kontinent, nach Unserer Lieben Frau von Afrika|Il continente, dalla Madonna d'Africa|O continente, pela Virgem de África
+Yamiley|f|arabic|spanish|2|modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Ainet|f|other|catalan,spanish|2|place,modern|De Ainet, pueblo del Pirineo|From Ainet, a Pyrenean village|D'Ainet, village des Pyrénées|Aus Ainet, einem Pyrenäendorf|Di Ainet, villaggio dei Pirenei|De Ainet, aldeia dos Pirenéus
+Hossam|m|arabic|arabic|2|warrior,strong|Espada|Sword|Épée|Schwert|Spada|Espada
+Nermin|f|persian|turkish,arabic|2|sweet|Suave, delicada|Soft, delicate|Douce, délicate|Sanft, zart|Morbida, delicata|Suave, delicada
+Laro|m|other|spanish|2|warrior|Guerrero cántabro de la Antigüedad|Ancient Cantabrian warrior|Guerrier cantabre de l'Antiquité|Kantabrischer Krieger der Antike|Guerriero cantabro dell'antichità|Guerreiro cântabro da Antiguidade
+Javi|m|basque|spanish|2|modern|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Eydan|m|celtic|spanish|2|modern,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Jihan|f|persian|arabic|2|classic|Mundo, universo|World, universe|Monde, univers|Welt, Universum|Mondo, universo|Mundo, universo
+Mérida|f|latin|spanish|2|place|Emérita, digna de mérito|Emerita, deserving of merit|Émérite, digne de mérite|Emerita, die Verdiente|Emerita, degna di merito|Emérita, digna de mérito
+Yulen|m|latin|spanish,basque|2|modern|De la familia Julia|Of the Julian family|De la famille Julia|Aus dem Geschlecht der Julier|Della famiglia Giulia|Da família Júlia
+Alguer|m|latin|catalan,spanish|2|place,sea|Lugar de algas|Place of seaweed|Lieu d'algues|Ort der Algen|Luogo di alghe|Lugar de algas
+Etna|f|greek|spanish|2|nature,place|Volcán Etna, en Sicilia|Mount Etna, volcano in Sicily|Volcan Etna, en Sicile|Vulkan Ätna auf Sizilien|Vulcano Etna, in Sicilia|Vulcão Etna, na Sicília
+Indiana|f|latin|spanish,english|2|place,modern|Tierra de los indios|Land of the Indians|Terre des Indiens|Land der Indianer|Terra degli indiani|Terra dos índios
+Safouan|m|arabic|arabic,french|2|strong|Roca lisa|Smooth rock|Rocher lisse|Glatter Fels|Roccia liscia|Rocha lisa
+Bet|f|hebrew|catalan,spanish|2|biblical|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é o meu juramento
+Guillén|m|germanic|spanish|2|vintage,warrior|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Kaiet|m|latin|basque,spanish|2|saint,place|Natural de Gaeta|From Gaeta|De Gaète|Aus Gaeta|Di Gaeta|De Gaeta
+Souhaib|m|arabic|arabic,french|2|classic|De cabello rojizo|Reddish-haired|Aux cheveux roux|Mit rötlichem Haar|Dai capelli rossicci|De cabelo ruivo
+Alanna|f|celtic|spanish,english|2|modern|Femenino de Alan, quizá pequeña roca|Feminine of Alan, perhaps little rock|Féminin d'Alan, peut-être petit rocher|Weibliche Form von Alan, vielleicht kleiner Fels|Femminile di Alan, forse piccola roccia|Feminino de Alan, talvez pequena rocha
+Haitz|m|basque|basque,spanish|2|nature,strong|Roca, peña|Rock, crag|Rocher|Fels|Roccia, rupe|Rocha, penedo
+Egoi|m|basque|basque,spanish|2|nature|Viento del sur|South wind|Vent du sud|Südwind|Vento del sud|Vento do sul
+Kenya|f|african|spanish,english|2|place,modern|Kenia, país africano|Kenya, African country|Kenya, pays d'Afrique|Kenia, afrikanisches Land|Kenya, paese africano|Quénia, país africano
+Demian|m|greek|spanish,german|2|literary|Domador|Tamer|Dompteur|Bezwinger|Domatore|Domador

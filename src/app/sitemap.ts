@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next'
 import { LOCALES, HREFLANG, SITE_URL, paths, type Locale } from '@/i18n/config'
 import { allNames } from '@/lib/names'
 import { allLists, listByKey } from '@/lib/lists'
-import { monthSlug } from '@/lib/saints'
+import { dayPages, daySlug, hasDayPage, monthSlug } from '@/lib/saints'
 
 export const dynamic = 'force-static'
 
@@ -30,6 +30,10 @@ export default async function sitemap({ id }: { id: string }): Promise<MetadataR
     ...Array.from({ length: 12 }, (_, i) => ({
       url: u(paths.saintsMonth(l, monthSlug(l, i + 1))), lastModified: now, changeFrequency: 'monthly' as const, priority: 0.6,
       alternates: langs(o => paths.saintsMonth(o, monthSlug(o, i + 1))),
+    })),
+    ...dayPages(l).map(x => ({
+      url: u(paths.saintsDay(l, daySlug(l, x.month, x.day))), lastModified: now, changeFrequency: 'monthly' as const, priority: 0.5,
+      alternates: langs(o => hasDayPage(o, x.month, x.day) ? paths.saintsDay(o, daySlug(o, x.month, x.day)) : null),
     })),
     ...allLists(l).map(x => ({
       url: u(paths.list(l, x.slug)), lastModified: now, changeFrequency: 'weekly' as const, priority: 0.8,

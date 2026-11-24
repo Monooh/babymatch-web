@@ -1,0 +1,100 @@
+Duna|f|germanic|spanish,catalan|2|nature,modern|Duna de arena|Sand dune|Dune de sable|Sanddüne|Duna di sabbia|Duna de areia
+Rogelia|f|germanic|spanish|2|vintage|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Casimira|f|slavic|spanish|2|vintage|Que proclama la paz|Proclaimer of peace|Qui proclame la paix|Friedensverkünderin|Proclamatrice di pace|Proclamadora da paz
+Elizabet|f|hebrew|spanish|2|biblical,classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Schwur|Dio è il mio giuramento|Deus é o meu juramento
+Nathalia|f|latin|portuguese,spanish|2|modern|Nacida en Navidad|Born at Christmas|Née à Noël|An Weihnachten geboren|Nata a Natale|Nascida no Natal
+Olvido|f|latin|spanish|2|saint,vintage|Olvido, advocación mariana|Oblivion, a Marian title|Oubli, vocable marial|Vergessen, ein Marientitel|Oblio, titolo mariano|Esquecimento, título mariano
+Iosu|m|hebrew|basque,spanish|2|biblical|Dios salva|God saves|Dieu sauve|Gott rettet|Dio salva|Deus salva
+Ivanna|f|hebrew|spanish,russian|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Blasa|f|latin|spanish|2|saint,vintage|Balbuciente|Stammering one|Bègue|Stotternde|Balbuziente|Balbuciante
+Claudina|f|latin|spanish,portuguese|2|vintage|Coja, de la familia Claudia|Lame, of the Claudius clan|Boiteuse, de la famille Claudia|Hinkend, aus dem Haus der Claudier|Zoppa, della famiglia Claudia|Coxa, da família Cláudia
+Naziha|f|arabic|arabic|2|virtue|Honesta, íntegra|Honest, upright|Honnête, intègre|Ehrlich, rechtschaffen|Onesta, integra|Honesta, íntegra
+Perfecto|m|latin|spanish|2|saint,vintage,virtue|Perfecto, acabado|Perfect, complete|Parfait, accompli|Vollkommen, vollendet|Perfetto, compiuto|Perfeito, acabado
+Udane|f|basque|basque,spanish|2|nature,modern|Verano|Summer|Été|Sommer|Estate|Verão
+Generosa|f|latin|spanish|2|vintage,virtue,saint|Generosa, noble|Generous, noble|Généreuse, noble|Großzügig, edel|Generosa, nobile|Generosa, nobre
+Rkia|f|arabic|arabic|2|classic|Ascendente, gentil|Ascending, gentle|Ascendante, douce|Aufsteigend, sanft|Ascendente, gentile|Ascendente, gentil
+Taoufik|m|arabic|arabic,french|2|virtue|Éxito, guía divina|Success, divine guidance|Succès, guidance divine|Erfolg, göttliche Führung|Successo, guida divina|Sucesso, guia divina
+Alena|f|greek|russian,german|2|light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Fiaccola, luce brillante|Tocha, luz brilhante
+Cinthia|f|greek|spanish,portuguese|2|mythology,celestial|Del monte Cinto|From Mount Cynthus|Du mont Cynthe|Vom Berg Kynthos|Del monte Cinto|Do monte Cinto
+Candelas|f|latin|spanish|2|light,saint,vintage|Velas, luz|Candles, light|Chandelles, lumière|Kerzen, Licht|Candele, luce|Velas, luz
+Saloua|f|arabic|arabic,french|2|sweet,virtue|Consuelo, solaz|Solace, consolation|Consolation, réconfort|Trost|Conforto, consolazione|Consolo, conforto
+Hassane|m|arabic|arabic,french|2|virtue,classic|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Garikoitz|m|basque|basque,spanish|2|saint|Por san Miguel Garicoits|After Saint Michael Garicoits|D'après saint Michel Garicoïts|Nach dem heiligen Michael Garicoits|Da san Michele Garicoits|Por são Miguel Garicoits
+Amalio|m|germanic|spanish|2|vintage|Laborioso|Industrious|Travailleur|Arbeitsam|Operoso|Laborioso
+Nazareth|f|hebrew|spanish|2|biblical,place|Brote, renuevo|Shoot, sprout|Rejeton, pousse|Spross, Trieb|Germoglio, virgulto|Rebento, broto
+Nel|m|hebrew|spanish|2|biblical,modern|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Erundina|f|latin|spanish|2|vintage,animal|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Ayoze|m|other|spanish|2|royal,place|Rey aborigen de Fuerteventura|Aboriginal king of Fuerteventura|Roi aborigène de Fuerteventura|Ureinwohnerkönig von Fuerteventura|Re aborigeno di Fuerteventura|Rei aborígene de Fuerteventura
+Kenia|f|african|spanish|2|place,modern|Kenia, país africano|Kenya, African country|Kenya, pays d'Afrique|Kenia, afrikanisches Land|Kenya, paese africano|Quénia, país africano
+Yamna|f|arabic|arabic|2|virtue|Bendición, buena fortuna|Blessing, good fortune|Bénédiction, bonne fortune|Segen, Glück|Benedizione, buona fortuna|Bênção, boa sorte
+América|f|germanic|spanish|2|place,vintage|El continente americano|The American continent|Le continent américain|Der amerikanische Kontinent|Il continente americano|O continente americano
+Alexey|m|greek|russian|2|saint,classic|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Cesc|m|latin|catalan,spanish|2|modern|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Marinela|f|latin|spanish,portuguese|2|sea|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Ainhize|f|basque|basque,spanish|2|place|De Ainhize, pueblo vasco|From Ainhize, a Basque village|D'Ainhice, village basque|Aus Ainhize, einem baskischen Dorf|Di Ainhize, villaggio basco|De Ainhize, aldeia basca
+Josepa|f|hebrew|catalan,spanish|2|biblical,vintage|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Radouane|m|arabic|arabic,french|2|virtue|Complacencia divina|Divine approval|Agrément divin|Göttliches Wohlgefallen|Compiacimento divino|Complacência divina
+Raimon|m|germanic|catalan,spanish|2|saint,classic|Protector sabio|Wise protector|Protecteur avisé|Weiser Beschützer|Protettore saggio|Protetor sábio
+Natalio|m|latin|spanish|2|vintage,saint|Nacido en Navidad|Born at Christmas|Né à Noël|An Weihnachten geboren|Nato a Natale|Nascido no Natal
+Etelvina|f|germanic|spanish,portuguese|2|vintage|Amiga noble|Noble friend|Noble amie|Edle Freundin|Nobile amica|Amiga nobre
+Ebrima|m|hebrew|african|2|biblical|Padre de multitudes|Father of many|Père d'une multitude|Vater vieler|Padre di molti|Pai de multidões
+Ouafae|f|arabic|arabic|2|virtue|Lealtad, fidelidad|Loyalty, faithfulness|Loyauté, fidélité|Treue, Loyalität|Lealtà, fedeltà|Lealdade, fidelidade
+Juncal|f|latin|spanish,basque|2|nature,saint|Lugar de juncos|Place of rushes|Lieu de joncs|Ort der Binsen|Luogo di giunchi|Lugar de juncos
+Amadora|f|latin|spanish|2|love,vintage|La que ama|She who loves|Celle qui aime|Die Liebende|Colei che ama|Aquela que ama
+Pep|m|hebrew|catalan,spanish|2|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Houssam|m|arabic|arabic,french|2|warrior,strong|Espada|Sword|Épée|Schwert|Spada|Espada
+Faiza|f|arabic|arabic|2|virtue,strong|Victoriosa, triunfadora|Victorious, successful|Victorieuse, triomphante|Siegreich, erfolgreich|Vittoriosa, trionfante|Vitoriosa, triunfante
+Hermelinda|f|germanic|spanish,portuguese|2|vintage|Grande y tierna|Great and tender|Grande et tendre|Groß und sanft|Grande e tenera|Grande e terna
+Cesárea|f|latin|spanish|2|saint,vintage,royal|Perteneciente a César|Belonging to Caesar|Appartenant à César|Zu Cäsar gehörig|Appartenente a Cesare|Pertencente a César
+Athenea|f|greek|spanish|2|mythology,modern,strong|Diosa de la sabiduría|Goddess of wisdom|Déesse de la sagesse|Göttin der Weisheit|Dea della saggezza|Deusa da sabedoria
+Zouhair|m|arabic|arabic,french|2|flower|Flor brillante|Bright flower|Fleur éclatante|Strahlende Blume|Fiore luminoso|Flor brilhante
+Khaoula|f|arabic|arabic,french|2|animal,classic|Gacela|Gazelle|Gazelle|Gazelle|Gazzella|Gazela
+Chaimaa|f|arabic|arabic|2|classic|Con lunares de belleza|With beauty marks|Aux grains de beauté|Mit Schönheitsmalen|Con nei di bellezza|Com sinais de beleza
+Yenifer|f|celtic|spanish|2|modern|Blanca y suave|Fair and smooth|Blanche et douce|Hell und sanft|Bianca e liscia|Clara e suave
+Dmitrii|m|greek|russian|2|saint,classic|Devoto de Deméter|Devoted to Demeter|Dévoué à Déméter|Demeter geweiht|Devoto a Demetra|Devoto a Deméter
+Breixo|m|latin|galician,spanish|2|saint|Muy verdadero|Most true|Très véridique|Sehr wahrhaftig|Molto veritiero|Muito verdadeiro
+Aleksei|m|greek|russian|2|saint,classic|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Douaa|f|arabic|arabic|2|virtue|Súplica, oración|Prayer, supplication|Prière, invocation|Gebet, Bittgebet|Preghiera, supplica|Súplica, oração
+Aiala|f|basque|basque,spanish|2|place|Del valle de Aiala, Álava|From the Aiala valley, Álava|De la vallée d'Aiala, en Alava|Aus dem Aiala-Tal in Álava|Dalla valle di Aiala, Álava|Do vale de Aiala, Álava
+Mostapha|m|arabic|arabic,french|2|virtue,classic|El elegido|The chosen one|L'élu|Der Auserwählte|L'eletto|O escolhido
+Bahija|f|arabic|arabic|2|sweet,virtue|Alegre, radiante|Joyful, radiant|Joyeuse, radieuse|Fröhlich, strahlend|Gioiosa, radiosa|Alegre, radiante
+Rajae|f|arabic|arabic|2|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Nahikari|f|basque|basque,spanish|2|love,modern|Deseada|Desired|Désirée|Die Ersehnte|Desiderata|Desejada
+Lamin|m|arabic|african|2|virtue|Digno de confianza|Trustworthy|Digne de confiance|Vertrauenswürdig|Degno di fiducia|Digno de confiança
+Majda|f|arabic|arabic|2|virtue,royal|Gloriosa|Glorious|Glorieuse|Ruhmreiche|Gloriosa|Gloriosa
+Pino|f|latin|spanish|2|saint,nature|Pino, Virgen del Pino|Pine tree, Our Lady of the Pine|Pin, Notre-Dame du Pin|Kiefer, Muttergottes von der Kiefer|Pino, Madonna del Pino|Pinheiro, Nossa Senhora do Pinheiro
+Marouan|m|arabic|arabic|2|strong,classic|Piedra dura, sílex|Hard stone, flint|Pierre dure, silex|Harter Stein, Feuerstein|Pietra dura, selce|Pedra dura, sílex
+Oxana|f|greek|russian|2|classic|Hospitalaria|Hospitable|Hospitalière|Gastfreundlich|Ospitale|Hospitaleira
+Yasir|m|arabic|arabic|2|virtue|Fácil, acomodado|Easy, wealthy|Aisé, prospère|Mühelos, wohlhabend|Facile, agiato|Fácil, abastado
+Isona|f|other|catalan,spanish|2|place|De Isona, villa del Pallars|From Isona, a town in Pallars|D'Isona, bourg du Pallars|Aus Isona, Ort im Pallars|Di Isona, borgo del Pallars|De Isona, vila do Pallars
+Guiomar|f|germanic|spanish,portuguese|2|literary,vintage|Famosa en la batalla|Famous in battle|Célèbre au combat|Berühmt im Kampf|Famosa in battaglia|Famosa na batalha
+Mbarek|m|arabic|arabic|2|virtue|Bendecido|Blessed|Béni|Gesegnet|Benedetto|Abençoado
+Eidan|m|celtic|spanish|2|modern,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Bachir|m|arabic|arabic,french|2|virtue|Portador de buenas noticias|Bearer of good news|Porteur de bonnes nouvelles|Überbringer froher Botschaft|Portatore di buone notizie|Portador de boas notícias
+Erlantz|m|basque|basque,spanish|2|light|Destello, resplandor|Gleam, radiance|Éclat, lueur|Glanz, Schimmer|Bagliore, splendore|Brilho, resplendor
+Agurtzane|f|basque|basque,spanish|2|saint|Rosario|Rosary|Rosaire|Rosenkranz|Rosario|Rosário
+Enmanuel|m|hebrew|spanish|2|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Alfons|m|germanic|catalan,german,dutch|2|royal,classic|Noble y dispuesto|Noble and ready|Noble et prêt|Edel und bereit|Nobile e pronto|Nobre e pronto
+Mimount|f|arabic|arabic|2|virtue|Afortunada, bendita|Fortunate, blessed|Fortunée, bénie|Glücklich, gesegnet|Fortunata, benedetta|Afortunada, abençoada
+Nisrine|f|persian|arabic,french|2|flower|Rosa silvestre|Wild rose|Églantine|Heckenrose|Rosa selvatica|Rosa silvestre
+Curro|m|latin|spanish|2|classic|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Ixone|f|basque|basque,spanish|2|virtue|Tranquila, pacífica|Calm, peaceful|Calme, paisible|Ruhig, friedlich|Tranquilla, pacifica|Tranquila, pacífica
+Adei|m|basque|basque,spanish|2|virtue,modern|Respeto, deferencia|Respect, deference|Respect, déférence|Respekt, Ehrerbietung|Rispetto, deferenza|Respeito, deferência
+Eñaut|m|germanic|basque,spanish|2|strong,animal|Águila poderosa|Powerful eagle|Aigle puissant|Mächtiger Adler|Aquila potente|Águia poderosa
+Millán|m|latin|spanish|2|saint|De la familia Emilia|Of the Aemilian clan|De la famille Émilia|Aus dem Geschlecht der Aemilier|Della gente Emilia|Da família Emília
+Guim|m|germanic|catalan,spanish|2|modern|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Paule|f|latin|basque,spanish,french|2|saint|Pequeña, humilde|Small, humble|Petite, humble|Klein, bescheiden|Piccola, umile|Pequena, humilde
+Nahiara|f|basque|spanish,basque|2|place,modern|Virgen de Nájera|Our Lady of Nájera|Notre-Dame de Nájera|Muttergottes von Nájera|Madonna di Nájera|Nossa Senhora de Nájera
+Rihab|f|arabic|arabic|2|nature|Amplitud, espacios abiertos|Vastness, open spaces|Immensité, grands espaces|Weite, offene Räume|Vastità, spazi aperti|Vastidão, espaços abertos
+Lorién|m|latin|spanish|2|saint,modern|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Nisrin|f|persian|arabic|2|flower|Rosa silvestre|Wild rose|Églantine|Heckenrose|Rosa selvatica|Rosa silvestre
+Xabi|m|basque|basque,spanish|2|modern|Casa nueva|New house|Maison neuve|Neues Haus|Casa nuova|Casa nova
+Sohaib|m|arabic|arabic|2|classic|De cabello rojizo|Reddish-haired|Aux cheveux roux|Mit rötlichem Haar|Dai capelli rossicci|De cabelo ruivo
+Adur|m|basque|basque,spanish|2|mythology|Destino, suerte|Fate, luck|Destin, chance|Schicksal, Glück|Destino, sorte|Destino, sorte
+Eire|f|celtic|spanish|2|place,modern|Irlanda|Ireland|Irlande|Irland|Irlanda|Irlanda
+Briana|f|celtic|spanish,english|2|modern|Alta, noble|High, noble|Haute, noble|Hoch, edel|Alta, nobile|Alta, nobre
+Ot|m|germanic|catalan,spanish|2|saint|Riqueza, fortuna|Wealth, fortune|Richesse, fortune|Reichtum, Wohlstand|Ricchezza, fortuna|Riqueza, fortuna
+Suhaila|f|arabic|arabic|2|celestial|Estrella Canopo, suave|Canopus star, gentle|Étoile Canopus, douce|Stern Canopus, sanft|Stella Canopo, dolce|Estrela Canopus, suave
+Izarbe|f|basque|spanish|2|celestial,saint|Bajo la estrella|Beneath the star|Sous l'étoile|Unter dem Stern|Sotto la stella|Sob a estrela
+Icía|f|latin|galician,spanish|2|saint,music|Ciega, de la familia Cecilia|Blind, of the Caecilius clan|Aveugle, de la famille Caecilia|Blind, aus dem Hause der Caecilier|Cieca, della gente Cecilia|Cega, da família Cecília
+Tanit|f|other|catalan,spanish|2|mythology|Diosa púnica de Cartago|Punic goddess of Carthage|Déesse punique de Carthage|Punische Göttin von Karthago|Dea punica di Cartagine|Deusa púnica de Cartago

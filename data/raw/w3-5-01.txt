@@ -1,0 +1,100 @@
+Kayna|f|arabic|arabic,french|2|royal,strong|Sacerdotisa, adivina|Priestess, soothsayer|Prêtresse, devineresse|Priesterin, Seherin|Sacerdotessa, indovina|Sacerdotisa, adivinha
+Merlin|m|celtic|french,english|2|literary,mythology|Fortaleza del mar|Sea fortress|Forteresse de la mer|Meeresfestung|Fortezza del mare|Fortaleza do mar
+Jayson|m|greek|english,french|2|mythology,modern|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Ylann|m|hebrew|french|2|nature,modern|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Laurine|f|latin|french|2|nature,sweet|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Cassy|f|greek|french,english|2|mythology,sweet|La que brilla entre los hombres|Shining upon men|Qui brille sur les hommes|Die unter Männern Strahlende|Colei che brilla sugli uomini|Que brilha entre os homens
+Mayssane|f|arabic|arabic,french|2|celestial,light|Estrella brillante|Bright star|Étoile brillante|Heller Stern|Stella luminosa|Estrela brilhante
+Samaël|m|hebrew|french|2|mythology|Veneno de Dios|Venom of God|Venin de Dieu|Gift Gottes|Veleno di Dio|Veneno de Deus
+Aksil|m|african|african,french|2|animal,royal,strong|Guepardo|Cheetah|Guépard|Gepard|Ghepardo|Guepardo
+Coumba|f|african|african,french|2|classic|Segunda hija|Second daughter|Deuxième fille|Zweite Tochter|Seconda figlia|Segunda filha
+Ayah|f|arabic|arabic,french|2|virtue,modern|Signo, versículo|Sign, verse|Signe, verset|Zeichen, Vers|Segno, versetto|Sinal, versículo
+Lilwenn|f|celtic|french|2|flower,sweet|Lirio blanco|White lily|Lys blanc|Weiße Lilie|Giglio bianco|Lírio branco
+Jarod|m|hebrew|french,english|2|biblical,modern|Descendencia|Descent|Descendance|Abstammung|Discendenza|Descendência
+Eslem|f|arabic|turkish,french|2|virtue,modern|Muy segura, íntegra|Safest, most sound|Très sûre, intègre|Sehr sicher, unversehrt|Molto sicura, integra|Muito segura, íntegra
+Tyron|m|celtic|french,english|2|place|Tierra de Owen|Land of Owen|Terre d'Owen|Land des Owen|Terra di Owen|Terra de Owen
+Zaïna|f|arabic|arabic,french|2|sweet,virtue|Bella, hermosa|Beautiful|Belle|Schön|Bella|Bela, formosa
+Djena|f|arabic|arabic,french|2|virtue,modern|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Lélio|m|latin|french|2|literary,vintage|Nombre romano Laelius, de sentido incierto|Roman name Laelius, meaning uncertain|Nom romain Laelius, au sens incertain|Römischer Name Laelius, Bedeutung ungewiss|Nome romano Laelius, di significato incerto|Nome romano Laelius, de sentido incerto
+Souleymen|m|hebrew|arabic,french|2|biblical,royal|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Souhayl|m|arabic|arabic,french|2|celestial|Estrella Canopus|Canopus star|Étoile Canopus|Stern Canopus|Stella Canopo|Estrela Canopus
+Aïssatou|f|arabic|african,french|2|classic|Viva, llena de vida|Alive, living|Vivante, pleine de vie|Lebendig|Viva, piena di vita|Viva, cheia de vida
+Nisa|f|arabic|turkish,french|2|classic|Mujeres|Women|Femmes|Frauen|Donne|Mulheres
+Maïlys|f|latin|french|2|flower,place|Madre del lirio|Mother of the lily|Mère du lys|Mutter der Lilie|Madre del giglio|Mãe do lírio
+Anaël|m|hebrew|french|2|modern|Gracia de Dios|Grace of God|Grâce de Dieu|Gnade Gottes|Grazia di Dio|Graça de Deus
+Zyad|m|arabic|arabic,french|2|virtue|Aumento, abundancia|Increase, abundance|Accroissement, abondance|Zuwachs, Fülle|Aumento, abbondanza|Aumento, abundância
+Naïs|f|hebrew|french|2|literary,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Timoté|m|greek|french|2|biblical,modern|El que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Colui che onora Dio|Aquele que honra Deus
+Maylis|f|latin|french|2|flower,place|Madre del lirio|Mother of the lily|Mère du lys|Mutter der Lilie|Madre del giglio|Mãe do lírio
+Hedi|m|arabic|arabic,french|2|virtue|Guía|Guide|Guide|Wegweiser|Guida|Guia
+Eliam|m|hebrew|french,hebrew|2|biblical|Dios del pueblo|God of the people|Dieu du peuple|Gott des Volkes|Dio del popolo|Deus do povo
+Malick|m|arabic|african,french|2|royal|Rey, soberano|King, sovereign|Roi, souverain|König, Herrscher|Re, sovrano|Rei, soberano
+Lassana|m|arabic|african,french|2|virtue|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Soujoud|f|arabic|arabic,french|2|virtue|Postración en la oración|Prostration in prayer|Prosternation dans la prière|Niederwerfung im Gebet|Prostrazione nella preghiera|Prostração na oração
+Salimata|f|arabic|african,french|2|virtue|Sana y salva|Safe and sound|Saine et sauve|Heil und unversehrt|Sana e salva|Sã e salva
+Aly|m|arabic|arabic,african,french|2|classic,strong|Elevado, noble|Exalted, noble|Élevé, noble|Erhaben, edel|Elevato, nobile|Elevado, nobre
+Binta|f|arabic|african,french|2|classic|Hija|Daughter|Fille|Tochter|Figlia|Filha
+Khalis|m|arabic|arabic,french|2|virtue|Puro, sincero|Pure, sincere|Pur, sincère|Rein, aufrichtig|Puro, sincero|Puro, sincero
+Aimy|f|latin|french|2|love,sweet|Amada|Beloved|Aimée|Geliebte|Amata|Amada
+Zeyd|m|arabic|arabic,turkish,french|2|virtue|Crecimiento, abundancia|Growth, abundance|Croissance, abondance|Wachstum, Fülle|Crescita, abbondanza|Crescimento, abundância
+Aslan|m|turkish|turkish,french|2|animal,strong,literary|León|Lion|Lion|Löwe|Leone|Leão
+Médine|m|arabic|arabic,french|2|place|Medina, ciudad del Profeta|Medina, city of the Prophet|Médine, ville du Prophète|Medina, Stadt des Propheten|Medina, città del Profeta|Medina, cidade do Profeta
+Daryl|m|latin|english,french|2|place,modern|Originario de Airelle, en Normandía|From Airelle in Normandy|Originaire d'Airelle, en Normandie|Aus Airelle in der Normandie|Originario di Airelle, in Normandia|Originário de Airelle, na Normandia
+Zeynab|f|arabic|arabic,french|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Irys|f|greek|french|2|flower,mythology|Arcoíris|Rainbow|Arc-en-ciel|Regenbogen|Arcobaleno|Arco-íris
+Layanah|f|arabic|arabic,french|2|sweet,modern|Suavidad, ternura|Softness, gentleness|Douceur, tendresse|Sanftheit, Zartheit|Dolcezza, tenerezza|Suavidade, ternura
+Youri|m|greek|french,dutch|2|classic,nature|Agricultor|Farmer|Agriculteur|Landwirt|Agricoltore|Agricultor
+Allan|m|celtic|english,french|2|classic|Pequeña roca, armonía|Little rock, harmony|Petit rocher, harmonie|Kleiner Fels, Harmonie|Piccola roccia, armonia|Pequena rocha, harmonia
+Zaïm|m|arabic|arabic,french|2|strong|Líder, jefe|Leader, chief|Chef, meneur|Anführer, Oberhaupt|Capo, guida|Líder, chefe
+Kameron|m|celtic|english,french|2|modern|Nariz torcida|Crooked nose|Nez tordu|Krumme Nase|Naso storto|Nariz torto
+Yoni|m|hebrew|hebrew,french|2|biblical,sweet|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Mahault|f|germanic|french|2|vintage,royal,warrior|Fuerza en la batalla|Strength in battle|Force au combat|Kraft im Kampf|Forza in battaglia|Força na batalha
+Isao|m|japanese|japanese,french|2|virtue|Mérito, honor|Merit, honour|Mérite, honneur|Verdienst, Ehre|Merito, onore|Mérito, honra
+Alpha|m|african|african,french|2|virtue|Erudito, maestro religioso|Learned man, religious teacher|Érudit, maître religieux|Gelehrter, religiöser Lehrer|Erudito, maestro religioso|Erudito, mestre religioso
+Maloé|u|celtic|french|3|modern,trendy,light|Prenda luminosa|Bright pledge|Gage lumineux|Leuchtendes Pfand|Pegno luminoso|Penhor luminoso
+Youssra|f|arabic|arabic,french|2|virtue|Facilidad, prosperidad|Ease, prosperity|Facilité, prospérité|Leichtigkeit, Wohlstand|Facilità, prosperità|Facilidade, prosperidade
+Mouhammad|m|arabic|arabic,french|2|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Virgile|m|latin|french|2|literary,classic|Nombre romano Vergilius, de sentido incierto|Roman name Vergilius, meaning uncertain|Nom romain Vergilius, au sens incertain|Römischer Name Vergilius, Bedeutung ungewiss|Nome romano Vergilius, di significato incerto|Nome romano Vergilius, de sentido incerto
+Malek|u|arabic|arabic,french|2|royal|Rey o ángel|King or angel|Roi ou ange|König oder Engel|Re o angelo|Rei ou anjo
+Yoan|m|hebrew|french|2|biblical,modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Cléophée|f|greek|french|2|biblical,vintage|Gloria del padre|Glory of the father|Gloire du père|Ruhm des Vaters|Gloria del padre|Glória do pai
+Aboubakar|m|arabic|african,french|2|classic|Padre del camello joven|Father of the young camel|Père du jeune chameau|Vater des jungen Kamels|Padre del giovane cammello|Pai do jovem camelo
+Zayna|f|arabic|arabic,french|2|sweet,virtue|Bella, hermosa|Beautiful|Belle|Schön|Bella|Bela, formosa
+Marya|f|hebrew|arabic,french|2|biblical,classic|Amada, excelsa|Beloved, exalted|Bien-aimée, élevée|Geliebte, Erhabene|Amata, eccelsa|Amada, excelsa
+Wissem|m|arabic|arabic,french|2|virtue|Insignia, medalla de honor|Badge of honour, medal|Insigne, médaille d'honneur|Abzeichen, Ehrenmedaille|Insegna, medaglia d'onore|Insígnia, medalha de honra
+Lorys|m|latin|french|2|modern,nature|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer bekränzt|Coronato d'alloro|Coroado de louros
+Calypso|f|greek|french,english|2|mythology,sea,literary|La que oculta|She who conceals|Celle qui cache|Die Verbergende|Colei che nasconde|Aquela que oculta
+Layanna|f|arabic|arabic,french|2|sweet,modern|Suavidad, ternura|Softness, gentleness|Douceur, tendresse|Sanftheit, Zartheit|Dolcezza, tenerezza|Suavidade, ternura
+Ouways|m|arabic|arabic,french|2|animal|Lobezno|Little wolf|Petit loup|Kleiner Wolf|Piccolo lupo|Lobinho
+Cheick|m|arabic|african,french|2|classic|Anciano, jefe venerable|Elder, venerable chief|Ancien, chef vénérable|Ältester, ehrwürdiges Oberhaupt|Anziano, capo venerabile|Ancião, chefe venerável
+Antone|m|latin|french|2|classic,saint|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Janelle|f|hebrew|english,french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Adaline|f|germanic|english,french|2|vintage,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Azad|m|persian|persian,turkish,french|2|virtue,strong|Libre|Free|Libre|Frei|Libero|Livre
+Tesnime|f|arabic|arabic,french|2|nature,sweet|Fuente del paraíso|Spring of paradise|Source du paradis|Quelle des Paradieses|Fonte del paradiso|Fonte do paraíso
+Lilie|f|latin|french|2|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Guilhem|m|germanic|french|2|classic,warrior|Protector decidido|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Ethann|m|hebrew|french|2|biblical,modern|Firme, duradero|Strong, enduring|Fort, durable|Stark, beständig|Forte, duraturo|Forte, duradouro
+Kaïna|f|arabic|arabic,french|2|royal,strong|Sacerdotisa, adivina|Priestess, soothsayer|Prêtresse, devineresse|Priesterin, Seherin|Sacerdotessa, indovina|Sacerdotisa, adivinha
+Eliakim|m|hebrew|french,hebrew|2|biblical|Dios establecerá|God will establish|Dieu établira|Gott wird aufrichten|Dio stabilirà|Deus estabelecerá
+Mayson|m|latin|french,english|2|modern|Cantero, albañil|Stone worker|Tailleur de pierre|Steinmetz|Scalpellino|Pedreiro
+Ihsan|m|arabic|arabic,turkish,french|2|virtue|Bondad, excelencia|Goodness, excellence|Bonté, excellence|Güte, Vortrefflichkeit|Bontà, eccellenza|Bondade, excelência
+Yoann|m|hebrew|french|2|biblical,classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Alexie|f|greek|french|2|strong,modern|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Hilona|f|greek|french|2|light,modern|Antorcha, luz|Torch, light|Torche, lumière|Fackel, Licht|Fiaccola, luce|Tocha, luz
+Kahina|f|arabic|arabic,french|2|royal,strong|Sacerdotisa, adivina|Priestess, soothsayer|Prêtresse, devineresse|Priesterin, Seherin|Sacerdotessa, indovina|Sacerdotisa, adivinha
+Yamine|m|arabic|arabic,french|2|virtue|Diestra, afortunado|Right hand, fortunate|Main droite, fortuné|Rechte Hand, glücklich|Mano destra, fortunato|Mão direita, afortunado
+Célya|f|latin|french|2|celestial,modern|Celestial|Heavenly|Céleste|Himmlisch|Celeste|Celestial
+Kim|f|germanic|english,french|2|place,modern|Pradera real|Royal meadow|Prairie royale|Königliche Wiese|Prato reale|Prado real
+Mikaïl|m|hebrew|arabic,turkish,french|2|biblical|¿Quién es como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Nohlan|m|celtic|french|2|modern|Descendiente del campeón|Descendant of the champion|Descendant du champion|Nachkomme des Meisters|Discendente del campione|Descendente do campeão
+Manelle|f|arabic|arabic,french|2|virtue,modern|Logro, consecución|Attainment, achievement|Réussite, accomplissement|Erlangen, Erfolg|Conseguimento, successo|Conquista, realização
+Auxence|m|greek|french|2|saint,vintage|Crecimiento, aumento|Growth, increase|Croissance, accroissement|Wachstum, Zunahme|Crescita, aumento|Crescimento, aumento
+Vianney|m|other|french|2|saint|En honor a san Juan María Vianney|In honour of Saint John Vianney|En l'honneur de saint Jean-Marie Vianney|Zu Ehren des heiligen Johannes Vianney|In onore di san Giovanni Maria Vianney|Em honra de São João Maria Vianney
+Ilann|m|hebrew|french|2|nature,modern|Árbol|Tree|Arbre|Baum|Albero|Árvore
+Djennah|f|arabic|arabic,french|2|virtue,modern|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Hania|f|arabic|arabic,french|2|sweet,virtue|Feliz, dichosa|Happy, delighted|Heureuse, comblée|Glücklich, zufrieden|Felice, lieta|Feliz, ditosa
+Idrissa|m|arabic|african,french|2|classic|Estudioso, instruido|Studious, learned|Studieux, instruit|Lernbegierig, gelehrt|Studioso, istruito|Estudioso, instruído
+Isaak|m|hebrew|german,french,russian|2|biblical,classic|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Nawfel|m|arabic|arabic,french|2|virtue|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Gabryel|m|hebrew|french|2|biblical,modern|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força

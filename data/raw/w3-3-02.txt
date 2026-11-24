@@ -1,0 +1,100 @@
+Killian|m|celtic|french,irish,english|2|saint,modern|Iglesia pequeña|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Marwane|m|arabic|arabic,french|2|strong|Piedra dura, sílex|Hard stone, flint|Pierre dure, silex|Harter Stein, Feuerstein|Pietra dura, selce|Pedra dura, sílex
+Abdou|m|arabic|african,french|2|sweet|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Aliou|m|arabic|african,french|2|classic|Elevado, noble|Exalted, noble|Élevé, noble|Erhaben, edel|Elevato, nobile|Elevado, nobre
+Othmane|m|arabic|arabic,french|2|classic,animal|Cría de avutarda|Young bustard|Jeune outarde|Junge Trappe|Giovane otarda|Cria de abetarda
+Dani|m|hebrew|spanish|2|sweet|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Chayma|f|arabic|arabic,french|2|sweet|Con lunares de belleza|Having beauty marks|Aux grains de beauté|Mit Schönheitsflecken|Con nei di bellezza|Com sinais de beleza
+Mouna|f|arabic|arabic,french|2|sweet,love|Deseos, anhelos|Wishes, desires|Souhaits, désirs|Wünsche, Sehnsüchte|Desideri, auspici|Desejos, anseios
+Ranya|f|arabic|arabic|2|modern|Contemplativa|Gazing|Contemplative|Die Betrachtende|Contemplativa|Contemplativa
+Sinaí|f|hebrew|spanish|2|biblical,place|Monte Sinaí|Mount Sinai|Mont Sinaï|Berg Sinai|Monte Sinai|Monte Sinai
+Assia|f|arabic|arabic,french|4|classic,virtue|La que cuida y consuela|She who heals and consoles|Celle qui soigne et console|Die Heilende, Tröstende|Colei che cura e consola|Aquela que cura e consola
+Adem|m|hebrew|turkish,arabic,french|4|biblical,trendy|Tierra, hombre|Earth, man|Terre, homme|Erde, Mensch|Terra, uomo|Terra, homem
+Wassim|m|arabic|arabic,french|4|trendy|Apuesto, hermoso|Handsome|Beau, gracieux|Gutaussehend|Bello, avvenente|Belo, formoso
+Younès|m|hebrew|arabic,french|4|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Nassim|m|arabic|arabic,french|4|nature|Brisa|Breeze|Brise|Brise|Brezza|Brisa
+Kiara|f|latin|spanish,french,english|3|modern,light|Clara, luminosa|Clear, bright|Claire, lumineuse|Klar, leuchtend|Chiara, luminosa|Clara, luminosa
+Janna|f|arabic|arabic|3|nature,modern|Jardín, paraíso|Garden, paradise|Jardin, paradis|Garten, Paradies|Giardino, paradiso|Jardim, paraíso
+Marwa|f|arabic|arabic|3|place,nature|Piedra blanca, colina de La Meca|White stone, hill of Mecca|Pierre blanche, colline de La Mecque|Weißer Stein, Hügel in Mekka|Pietra bianca, colle della Mecca|Pedra branca, colina de Meca
+Jad|m|arabic|arabic,french|3|virtue,modern|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Rayane|m|arabic|arabic,french|3|virtue,modern|Puerta del paraíso, saciado|Gate of paradise, well-watered|Porte du paradis, rassasié|Tor zum Paradies, gesättigt|Porta del paradiso, saziato|Porta do paraíso, saciado
+Meryem|f|hebrew|turkish,arabic|3|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Isra|f|arabic|arabic|3|celestial|Viaje nocturno|Night journey|Voyage nocturne|Nachtreise|Viaggio notturno|Viagem noturna
+Hidaya|f|arabic|arabic|3|virtue|Guía, buen camino|Guidance|Guidance, bonne voie|Rechtleitung|Guida, retta via|Orientação, bom caminho
+Imane|f|arabic|arabic,french|3|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Abdoulaye|m|arabic|african,french|3|classic,virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Yousra|f|arabic|arabic,french|3|virtue|Facilidad, prosperidad|Ease, prosperity|Facilité, prospérité|Leichtigkeit, Wohlstand|Facilità, prosperità|Facilidade, prosperidade
+Safa|f|arabic|arabic|3|virtue|Pureza, claridad|Purity, clarity|Pureté, clarté|Reinheit, Klarheit|Purezza, chiarezza|Pureza, claridade
+Ibrahima|m|hebrew|african,french|3|biblical,classic|Padre de multitudes|Father of multitudes|Père d'une multitude|Vater der Vielen|Padre di moltitudini|Pai de multidões
+Laila|f|arabic|arabic,spanish|3|celestial,classic|Noche|Night|Nuit|Nacht|Notte|Noite
+Leyla|f|arabic|turkish,arabic|3|celestial,literary|Noche|Night|Nuit|Nacht|Notte|Noite
+Mouhamed|m|arabic|arabic,french|3|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Der Lobenswerte|Degno di lode|Digno de louvor
+Israa|f|arabic|arabic|3|celestial|Viaje nocturno|Night journey|Voyage nocturne|Nachtreise|Viaggio notturno|Viagem noturna
+Hajar|f|hebrew|arabic|3|biblical|Huida, extranjera|Flight, stranger|Fuite, étrangère|Flucht, Fremde|Fuga, straniera|Fuga, estrangeira
+Anya|f|hebrew|russian,english,french|2|sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Aron|m|hebrew|scandinavian,polish,italian,spanish|3|biblical|Exaltado|Exalted|Exalté|Erhabener|Esaltato|Exaltado
+Yazid|m|arabic|arabic|2|classic|Él aumentará|He will increase|Il augmentera|Er wird mehren|Egli accrescerà|Ele aumentará
+Luana|f|polynesian|italian,portuguese,spanish|3|modern,sweet|Disfrute, contento|Enjoyment, contentment|Plaisir, contentement|Vergnügen, Zufriedenheit|Diletto, contentezza|Prazer, contentamento
+Meriem|f|hebrew|arabic,french|2|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Oussama|m|arabic|arabic,french|3|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Ikram|u|arabic|arabic|2|virtue|Honor, hospitalidad|Honour, hospitality|Honneur, hospitalité|Ehre, Gastfreundschaft|Onore, ospitalità|Honra, hospitalidade
+Yassin|m|arabic|arabic|2|classic|Letras coránicas Ya Sin|Quranic letters Ya Sin|Lettres coraniques Ya Sin|Koranische Buchstaben Ya Sin|Lettere coraniche Ya Sin|Letras corânicas Ya Sin
+Haron|m|hebrew|arabic|2|biblical|Exaltado|Exalted|Exalté|Erhabener|Esaltato|Exaltado
+Firdaws|f|persian|arabic|2|nature,virtue|Paraíso|Paradise|Paradis|Paradies|Paradiso|Paraíso
+Saja|f|arabic|arabic|2|celestial,sweet|Quietud de la noche|Stillness of the night|Calme de la nuit|Stille der Nacht|Quiete della notte|Quietude da noite
+Safwan|m|arabic|arabic|2|virtue|Puro, roca lisa|Pure, smooth rock|Pur, roche lisse|Rein, glatter Fels|Puro, roccia liscia|Puro, rocha lisa
+Achraf|m|arabic|arabic,french|2|virtue|El más noble|Most noble|Le plus noble|Der Edelste|Il più nobile|O mais nobre
+Mohammad|m|arabic|arabic,persian|2|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Der Lobenswerte|Degno di lode|Digno de louvor
+Yassir|m|arabic|arabic,french|2|virtue|Próspero, fácil|Wealthy, easy|Aisé, facile|Wohlhabend, leicht|Agiato, facile|Próspero, fácil
+Jannat|f|arabic|arabic,indian|3|nature,modern|Jardines, paraíso|Gardens, paradise|Jardins, paradis|Gärten, Paradies|Giardini, paradiso|Jardins, paraíso
+Zineb|f|arabic|arabic,french|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Brayan|m|celtic|spanish,italian|3|modern|Alto, noble|High, noble|Haut, noble|Hoch, edel|Alto, nobile|Alto, nobre
+Amin|m|arabic|arabic,persian|2|virtue|Fiel, digno de confianza|Faithful, trustworthy|Fidèle, digne de confiance|Treu, vertrauenswürdig|Fedele, degno di fiducia|Fiel, digno de confiança
+Rim|f|arabic|arabic|2|animal,sweet|Gacela blanca|White gazelle|Gazelle blanche|Weiße Gazelle|Gazzella bianca|Gazela branca
+Anass|m|arabic|arabic,french|2|virtue|Afable, buena compañía|Friendly, good company|Affable, bonne compagnie|Freundlich, gesellig|Affabile, buona compagnia|Afável, boa companhia
+Anouar|m|arabic|arabic,french|2|light|El más luminoso|Most luminous|Le plus lumineux|Der Leuchtendste|Il più luminoso|O mais luminoso
+Ilias|m|hebrew|arabic,greek|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Taha|m|arabic|arabic|2|classic|Letras coránicas Ta Ha|Quranic letters Ta Ha|Lettres coraniques Ta Ha|Koranische Buchstaben Ta Ha|Lettere coraniche Ta Ha|Letras corânicas Ta Ha
+Reda|m|arabic|arabic|2|virtue|Satisfacción, contento|Contentment, satisfaction|Contentement, satisfaction|Zufriedenheit, Wohlgefallen|Contentezza, soddisfazione|Contentamento, satisfação
+Deva|f|celtic|spanish,italian,french|2|mythology,nature|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Sanad|m|arabic|arabic|2|strong|Apoyo, sostén|Support, mainstay|Soutien, appui|Stütze, Rückhalt|Sostegno, appoggio|Apoio, amparo
+Ritaj|f|arabic|arabic|2|modern|Gran puerta|Great gate|Grande porte|Großes Tor|Grande porta|Grande porta
+Kawtar|f|arabic|arabic|2|virtue|Abundancia|Abundance|Abondance|Fülle|Abbondanza|Abundância
+Safaa|f|arabic|arabic|2|virtue|Pureza, claridad|Purity, clarity|Pureté, clarté|Reinheit, Klarheit|Purezza, chiarezza|Pureza, claridade
+Ghali|m|arabic|arabic|2|sweet|Valioso, querido|Precious, dear|Précieux, cher|Kostbar, teuer|Prezioso, caro|Valioso, querido
+Riad|m|arabic|arabic|2|nature|Jardines, prados|Gardens, meadows|Jardins, prairies|Gärten, Wiesen|Giardini, prati|Jardins, prados
+Zainab|f|arabic|arabic|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Asmaa|f|arabic|arabic|2|classic,virtue|Más excelsa, superior|Most exalted|La plus élevée|Die Erhabenste|La più eccelsa|A mais elevada
+Nouh|m|hebrew|arabic,french|2|biblical|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Mariem|f|hebrew|arabic,french|2|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Firas|m|arabic|arabic|2|virtue|Perspicacia|Perspicacity|Perspicacité|Scharfsinn|Perspicacia|Perspicácia
+Ilyass|m|hebrew|arabic,french|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Aysha|f|arabic|arabic|2|classic|Viva, próspera|Alive, thriving|Vivante, prospère|Lebendig, gedeihend|Viva, prospera|Viva, próspera
+Eyad|m|arabic|arabic|2|strong|Apoyo, refuerzo|Support, reinforcement|Soutien, renfort|Stütze, Verstärkung|Sostegno, rinforzo|Apoio, reforço
+Razan|f|arabic|arabic|2|virtue|Serenidad, dignidad|Composure, dignity|Sérénité, dignité|Besonnenheit, Würde|Compostezza, dignità|Serenidade, dignidade
+Islam|u|arabic|arabic|2|virtue|Entrega a Dios|Submission to God|Soumission à Dieu|Hingabe an Gott|Sottomissione a Dio|Submissão a Deus
+Arij|f|arabic|arabic|2|flower,sweet|Fragancia|Fragrance|Parfum|Duft|Fragranza|Fragrância
+Eda|f|turkish|turkish|2|sweet|De modales elegantes|Well-mannered, graceful|Aux manières gracieuses|Anmutig, wohlerzogen|Dai modi garbati|De modos graciosos
+Karam|m|arabic|arabic|2|virtue|Generosidad|Generosity|Générosité|Großzügigkeit|Generosità|Generosidade
+Ayat|f|arabic|arabic|2|virtue|Señales, versículos|Signs, verses|Signes, versets|Zeichen, Verse|Segni, versetti|Sinais, versículos
+Yassmine|f|persian|arabic,french|2|flower|Jazmín|Jasmine|Jasmin|Jasmin|Gelsomino|Jasmim
+Asia|f|greek|italian,spanish|4|place,modern|Del continente Asia|From the continent of Asia|Du continent Asie|Vom Kontinent Asien|Dal continente Asia|Do continente Ásia
+Fatiha|f|arabic|arabic|3|classic|La que abre, comienzo|Opener, beginning|Celle qui ouvre, commencement|Die Eröffnende, Anfang|Colei che apre, inizio|Aquela que abre, começo
+Karima|f|arabic|arabic|3|virtue,classic|Generosa, noble|Generous, noble|Généreuse, noble|Großzügig, edel|Generosa, nobile|Generosa, nobre
+Toni|m|latin|spanish,catalan,italian|2|sweet|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Kaoutar|f|arabic|arabic,french|2|virtue|Abundancia|Abundance|Abondance|Fülle|Abbondanza|Abundância
+Nicol|f|greek|italian,spanish|3|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Oumaima|f|arabic|arabic,french|2|sweet|Madrecita|Little mother|Petite mère|Mütterchen|Piccola madre|Mãezinha
+Miryam|f|hebrew|spanish,italian|2|biblical|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Eiden|m|celtic|spanish|2|modern,trendy|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Inas|f|arabic|arabic|2|virtue,sweet|Afabilidad, grata compañía|Friendliness, pleasant company|Affabilité, compagnie agréable|Freundlichkeit, angenehme Gesellschaft|Affabilità, gradita compagnia|Afabilidade, boa companhia
+Wiam|f|arabic|arabic|2|virtue,love|Armonía, concordia|Harmony, concord|Harmonie, concorde|Harmonie, Eintracht|Armonia, concordia|Harmonia, concórdia
+Ileana|f|greek|spanish,italian|2|classic,light|Antorcha, luz brillante|Torch, bright light|Torche, lumière brillante|Fackel, helles Licht|Fiaccola, luce splendente|Tocha, luz brilhante
+Melany|f|greek|spanish|2|modern|Oscura|Dark|Sombre|Die Dunkle|Scura|Escura
+Manar|f|arabic|arabic|2|light|Faro, luz que guía|Beacon, guiding light|Phare, lumière qui guide|Leuchtturm, leitendes Licht|Faro, luce che guida|Farol, luz que guia
+Wissal|f|arabic|arabic,french|2|love|Unión, reencuentro|Union, reunion|Union, retrouvailles|Vereinigung, Wiedersehen|Unione, ricongiungimento|União, reencontro
+Santa|f|latin|spanish,italian|2|saint,vintage|Santa, sagrada|Holy, saintly|Sainte, sacrée|Die Heilige|Santa, sacra|Santa, sagrada
+Evelin|f|germanic|spanish,german|2|modern|Deseada|Wished-for|Désirée|Die Ersehnte|Desiderata|Desejada
+Yousef|m|hebrew|arabic|2|biblical|Dios añadirá|God will add|Dieu ajoutera|Gott wird hinzufügen|Dio aggiungerà|Deus acrescentará
+Omaima|f|arabic|arabic|2|sweet|Madrecita|Little mother|Petite mère|Mütterchen|Piccola madre|Mãezinha
+Dua|f|arabic|arabic,indian|2|virtue|Plegaria, súplica|Prayer, supplication|Prière, invocation|Gebet, Bittgebet|Preghiera, supplica|Prece, súplica

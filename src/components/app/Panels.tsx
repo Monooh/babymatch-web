@@ -1,11 +1,12 @@
 'use client'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { CULTURES, LETTERS, TAGS, fold, type Culture, type Gender, type N, type Tag } from '@/lib/model'
 import { actions, setState, useStore, EMPTY_FILTERS, type Filters } from '@/lib/store'
-import { createInvite, deviceKey, leavePartner, track, useSyncStatus } from '@/lib/sync'
+import { createInvite, deviceKey, leavePartner, loginEmail, removeEmail, saveEmail, syncNow, track, useSyncStatus } from '@/lib/sync'
 import { t } from '@/lib/t'
 import { IconCheck, IconCopy, IconShare, IconStar, IconTrash, IconX } from '../Icons'
 import { passes } from './deck'
+import { FinalCard } from './Final'
 import type { Ctx } from './types'
 
 function toggle<T>(arr: T[], v: T): T[] {
@@ -108,7 +109,7 @@ function useCopy(): [boolean, (text: string) => void] {
   }]
 }
 
-export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
+export function LikesTab({ ctx, onSwipe, onFinal }: { ctx: Ctx; onSwipe: () => void; onFinal: () => void }) {
   const { d, c, byId } = ctx
   const s = useStore()
   const [copied, copy] = useCopy()
@@ -134,6 +135,8 @@ export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
           {copied ? <IconCheck size={18} /> : <IconCopy size={18} />}{copied ? c.copied : d.likes.copyList}
         </button>
       </div>
+      {/* Alone, the final round is played with the person's own likes; with a partner it lives next to the matches. */}
+      {!s.partner && liked.length >= 2 ? <FinalCard ctx={ctx} onOpen={onFinal} /> : null}
       {stars.length ? (<div><h2 className="subhead">{d.likes.favourites}</h2><ul className="rowlist">{stars.map(n => <NameRow key={n.id} n={n} ctx={ctx} starred />)}</ul></div>) : null}
       {rest.length ? (<div>{stars.length ? <h2 className="subhead">{d.likes.others}</h2> : null}<ul className="rowlist">{rest.map(n => <NameRow key={n.id} n={n} ctx={ctx} starred={false} />)}</ul></div>) : null}
     </div>
@@ -141,7 +144,7 @@ export function LikesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
 }
 
 // ───────────────────────── Matches ─────────────────────────
-function ShareRow({ ctx, link, message, onShared }: { ctx: Ctx; link: string; message: string; onShared?: () => void }) {
+export function ShareRow({ ctx, link, message, onShared }: { ctx: Ctx; link: string; message: string; onShared?: () => void }) {
   const { c } = ctx
   const [copied, copy] = useCopy()
   const share = () => {
@@ -198,7 +201,7 @@ function InvitePanel({ ctx }: { ctx: Ctx }) {
   )
 }
 
-export function MatchesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) {
+export function MatchesTab({ ctx, onSwipe, onFinal }: { ctx: Ctx; onSwipe: () => void; onFinal: () => void }) {
   const { d, byId } = ctx
   const M = d.matches
   const s = useStore()
@@ -217,6 +220,7 @@ export function MatchesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) 
         <h1 className="app-h">{live ? t(M.liveH, { partner }) : M.h}</h1>
         <p className="muted">{live ? t(M.liveP, { count: matches.length }) : t(M.partnerH, { partner, count: p.likes.length })}</p>
       </div>
+      {matches.length >= 2 ? <FinalCard ctx={ctx} onOpen={onFinal} /> : null}
       {matches.length ? (
         <ul className="rowlist">{matches.map(n => <NameRow key={n.id} n={n} ctx={ctx} badge={badge(n.id)} />)}</ul>
       ) : (
@@ -235,6 +239,47 @@ export function MatchesTab({ ctx, onSwipe }: { ctx: Ctx; onSwipe: () => void }) 
         </>
       )}
     </div>
+  )
+}
+
+// ───────────────────────── My list under my email ─────────────────────────
+/** Shown only when the server can send email. Two uses: keep this list under an address, or ask for a list kept before. */
+function MailBox({ ctx }: { ctx: Ctx }) {
+  const M = ctx.d.menu
+  const s = useStore()
+  const [email, setEmail] = useState('')
+  const [state, setSt] = useState<'idle' | 'busy' | 'bad' | 'slow' | 'network' | 'found'>('idle')
+  const [finding, setFinding] = useState(false)
+  useEffect(() => { void syncNow() }, []) // an untouched device has not asked the server yet whether email is on
+  if (!s.mail) return null
+  const hasList = Object.keys(s.likes).length > 0
+  const find = finding || !hasList
+  const submit = async () => {
+    setSt('busy')
+    if (find) { const r = await loginEmail(email); setSt(r === 'sent' ? 'found' : r) }
+    else { const r = await saveEmail(email); setSt(r === 'sent' ? 'idle' : r); if (r === 'sent') { track('email_saved'); setEmail('') } }
+  }
+  const [address, confirmed] = s.email || ['', 0]
+  return (
+    <section className="panel panel--sugar">
+      <div><h3>{find ? M.mailFindH : M.mailH}</h3><p>{find ? M.mailFindP : M.mailP}</p></div>
+      {!find && address ? (
+        <p role="status" className={confirmed ? 'sync-note' : undefined}>{confirmed ? <IconCheck size={16} /> : null}{t(confirmed ? M.mailOk : M.mailSent, { email: address })}</p>
+      ) : null}
+      {state === 'found' ? <p role="status">{M.mailFindSent}</p> : !find && confirmed ? null : (
+        <form className="share-row" onSubmit={e => { e.preventDefault(); void submit() }}>
+          <div className="field">
+            <label htmlFor="mail">{M.mailLabel}</label>
+            <input id="mail" className="input" type="email" name="email" autoComplete="email" inputMode="email" maxLength={120} required placeholder={M.mailPh}
+              value={email} onChange={e => { setEmail(e.target.value); if (state !== 'busy') setSt('idle') }} />
+          </div>
+          <button type="submit" className="btn btn--primary" disabled={state === 'busy'}>{state === 'busy' ? ctx.d.matches.joining : find ? M.mailFind : M.mailSave}</button>
+          {state === 'bad' ? <p role="alert">{M.mailBad}</p> : state === 'slow' ? <p role="alert">{M.mailSlow}</p> : state === 'network' ? <p role="alert">{ctx.d.matches.linkError}</p> : null}
+        </form>
+      )}
+      {!find && address ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => void removeEmail()}>{M.mailRemove}</button> : null}
+      {hasList ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => { setFinding(v => !v); setSt('idle') }}>{finding ? M.mailH : M.mailFindH}</button> : null}
+    </section>
   )
 }
 
@@ -270,6 +315,7 @@ export function BackupSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void })
               {failed ? <p role="alert">{d.matches.linkError}</p> : null}
             </>
           )}
+          <MailBox ctx={ctx} />
         </div>
       </div>
     </div>

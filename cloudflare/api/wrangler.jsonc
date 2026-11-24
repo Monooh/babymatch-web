@@ -7,7 +7,13 @@
   "workers_dev": false,
   "routes": [{ "pattern": "babymatch.app/api/*", "zone_name": "babymatch.app" }],
   "d1_databases": [
-    { "binding": "DB", "database_name": "babymatch", "database_id": "933c1f5e-c797-4f84-bf7a-bd3aa53ed42a", "migrations_dir": "./migrations" }
+    { "binding": "DB", "database_name": "babymatch", "database_id": "933c1f5e-c797-4f84-bf7a-bd3aa53ed42a", "migrations_dir": "./migrations" },
+    // A second copy of the lists, refreshed by the scheduled job below (backup.js). Read it with `npm run backup`.
+    { "binding": "BACKUP", "database_name": "babymatch-backup", "database_id": "5340abf3-5939-4425-a954-5e63d4e0e344", "migrations_dir": "./migrations-backup" }
   ],
+  "triggers": { "crons": ["*/20 * * * *"] },
+  // Email is off until a provider is added: either the Cloudflare binding (Workers Paid)
+  //   "send_email": [{ "name": "EMAIL" }],
+  // or a Resend key: `npx wrangler secret put RESEND_API_KEY`. See mail.js.
   "observability": { "enabled": true }
 }

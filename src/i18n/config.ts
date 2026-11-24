@@ -44,6 +44,7 @@ export const LOCALE_CULTURES: Record<Locale, string[]> = {
 export const paths = {
   home: (l: Locale) => `/${l}`,
   app: (l: Locale) => `/${l}/app`,
+  vote: (l: Locale) => `/${l}/vote`,
   names: (l: Locale) => `/${l}/${SEGMENTS[l].names}`,
   name: (l: Locale, slug: string) => `/${l}/${SEGMENTS[l].names}/${slug}`,
   lists: (l: Locale) => `/${l}/${SEGMENTS[l].lists}`,
@@ -51,4 +52,5 @@ export const paths = {
   privacy: (l: Locale) => `/${l}/${SEGMENTS[l].privacy}`,
   saints: (l: Locale) => `/${l}/${SEGMENTS[l].saints}`,
   saintsMonth: (l: Locale, month: string) => `/${l}/${SEGMENTS[l].saints}/${month}`,
+  saintsDay: (l: Locale, day: string) => `/${l}/${SEGMENTS[l].saints}/${day}`,
 }

@@ -30,7 +30,7 @@ export default async function AppPage({ params }: Props) {
         pop={d.pop}
         labels={clientLabels(lang)}
         lists={allLists(lang).map(x => ({ key: x.key, title: x.title, count: x.count }))}
-        hrefs={{ home: paths.home(lang), names: paths.names(lang), app: paths.app(lang) }}
+        hrefs={{ home: paths.home(lang), names: paths.names(lang), app: paths.app(lang), vote: paths.vote(lang) }}
         nativeCultures={LOCALE_CULTURES[lang] as Culture[]}
       />
       <noscript><p style={{ padding: 24 }}>{d.meta.appDesc}</p></noscript>

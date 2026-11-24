@@ -33,13 +33,35 @@ No hay cuentas, correo ni contraseña, pero las listas ya no viven solo en el na
   «me gusta» del otro al sincronizar (cada 20 s con la app abierta). Si el enlace ya unió a dos personas, pregunta
   «¿eres tú?» y devuelve su lista: es la vía de recuperación cuando alguien lo ha perdido todo.
 - **Otro móvil**: el menú crea un enlace personal (`#k=…`) que abre la misma lista en otro dispositivo.
-- **Borrar todo** elimina la persona del servidor y del móvil.
+- **Borrar todo** elimina la persona del servidor y del móvil, sus votaciones y, en la siguiente pasada, su copia
+  de seguridad.
+- **La ronda final** (`src/components/app/Final.tsx`, `src/lib/final.ts`): de los nombres en común a uno solo.
+  Duelos de dos en dos (cada nombre lleva una puntuación tipo Elo por persona; el orden de la pareja es la suma),
+  los cinco finalistas junto a los apellidos, con «Escuchar» y avisos de rima, y «Es este»: cuando los dos marcan
+  el mismo, ya tienen nombre. Los duelos viajan como un bloque por persona (`users.final`), gana el más reciente.
+- **Votación de familia y amigos**: la pareja abre una votación con sus finalistas y comparte un enlace
+  (`/<idioma>/vote#v=…`, `src/components/VotePage.tsx`). Se vota sin cuenta, un voto por navegador; quien vota ve
+  el recuento solo después de votar y la pareja ve además quién votó qué. La página invita a probar la app: es la
+  segunda vía por la que entra gente nueva, después de la invitación a la pareja.
+- **Correo opcional** (`cloudflare/api/mail.js`): guarda la lista con una dirección, envía el enlace que la abre en
+  cualquier móvil y avisa cuando la pareja se une o hay matches nuevos (uno al día como mucho, y solo si la persona
+  no está usando la app). Está apagado hasta que el Worker tenga con qué enviar: la vinculación `send_email` de
+  Cloudflare (plan Workers Paid) o un secreto `RESEND_API_KEY`. Sin ninguno de los dos, la app no muestra nada de
+  correo.
+- **Copia de seguridad** (`cloudflare/api/backup.js`): cada 20 minutos el Worker copia a una segunda base D1
+  (`babymatch-backup`) las personas que han cambiado, y guarda cómo estaba cada una al final de cada día durante
+  30 días. `npm run backup` dice cómo va; `npm run backup -- restore <id> [día]` devuelve una persona y
+  `npm run backup -- restore-all` repone todo lo que falte. La copia vive en la misma cuenta de Cloudflare: protege
+  de errores y borrados, no de perder la cuenta.
+- **Vigilancia** (`.github/workflows/monitor.yml`): cada 15 minutos comprueba la web, la API y `/api/health` (base
+  de datos y antigüedad de la copia). Si falla dos veces seguidas, GitHub avisa por correo.
 - Los enlaces antiguos (`#p=…`, la lista entera dentro del enlace, `src/lib/share.ts`) se siguen abriendo.
 - Para cobrar más adelante: `users.plan` y `users.email` ya existen; el servidor media todo lo que ve la pareja,
   así que un límite de pago se aplica ahí, no en el cliente.
 
 Probarlo en local: `wrangler dev` en `cloudflare/api` (puerto 8787) y `npm run dev -- --port 3210`; después
-`npm run test:api` (33 comprobaciones del servidor) y `npm run test:app` (dos móviles simulados de principio a fin).
+`npm run test:api` (comprobaciones del servidor, incluidos correo y copia de seguridad en local), `npm run test:app`
+(dos móviles simulados de principio a fin) y `npm run test:final` (ronda final, votación y correo en cuatro móviles).
 Cómo se usa la app, en cifras: `npm run stats` y `docs/medicion.md`.
 
 ## La base de nombres

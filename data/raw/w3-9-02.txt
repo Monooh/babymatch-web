@@ -1,0 +1,83 @@
+Conner|m|celtic|english|2|modern|Amante de los perros|Lover of hounds|Ami des chiens|Freund der Hunde|Amante dei cani|Amante dos cães
+Princeton|m|latin|english|2|place,royal,modern|Ciudad del príncipe|Prince's town|Ville du prince|Stadt des Prinzen|Città del principe|Cidade do príncipe
+Saint|m|latin|english|2|virtue,modern|Santo|Saint, holy|Saint|Heiliger|Santo|Santo
+Allen|m|celtic|english|2|classic|Pequeña roca|Little rock|Petit rocher|Kleiner Fels|Piccola roccia|Pequena rocha
+Shawn|m|hebrew|english|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Shepherd|m|germanic|english|2|modern|Pastor|Shepherd|Berger|Hirte|Pastore|Pastor
+Kohen|m|hebrew|english|2|modern|Sacerdote|Priest|Prêtre|Priester|Sacerdote|Sacerdote
+Kolton|m|germanic|english|2|place,modern|Pueblo del carbón|Coal town|Ville du charbon|Kohlenstadt|Città del carbone|Povoado do carvão
+Bruce|m|other|english,scottish|2|classic,royal,place|De Brix, en Normandía|From Brix in Normandy|De Brix, en Normandie|Aus Brix in der Normandie|Da Brix, in Normandia|De Brix, na Normandia
+Memphis|m|other|english|2|place,modern|Duradera y bella|Enduring and beautiful|Durable et belle|Beständig und schön|Duratura e bella|Duradoura e bela
+Kamden|m|germanic|english|2|place,modern|Valle cercado|Enclosed valley|Vallée close|Umschlossenes Tal|Valle recintata|Vale cercado
+Callen|m|celtic|english|2|warrior,modern|Poderoso en la batalla|Mighty in battle|Puissant au combat|Mächtig im Kampf|Potente in battaglia|Poderoso na batalha
+Jalen|m|other|english|2|modern|Unión de James y Leonard|Blend of James and Leonard|Fusion de James et Leonard|Verbindung aus James und Leonard|Unione di James e Leonard|União de James e Leonard
+Rowen|m|celtic|english|2|nature,modern|Pequeño pelirrojo|Little red-haired one|Petit roux|Kleiner Rothaariger|Piccolo rosso|Pequeno ruivo
+Jamison|m|hebrew|english|2|modern|Hijo de James|Son of James|Fils de James|Sohn von James|Figlio di James|Filho de James
+Omari|m|arabic|english,african|2|modern|Longevo, floreciente|Long-lived, flourishing|De longue vie, florissant|Langlebig, blühend|Longevo, fiorente|Longevo, florescente
+Tripp|m|latin|english|2|modern|El tercero|The third|Le troisième|Der Dritte|Il terzo|O terceiro
+Wells|m|germanic|english|2|nature,modern|Manantiales|Springs|Sources|Quellen|Sorgenti|Nascentes
+Sylas|m|latin|english|2|biblical,modern|Del bosque|Of the forest|De la forêt|Aus dem Wald|Della foresta|Da floresta
+Banks|m|germanic|english|2|nature,modern|Ribera, ladera|Riverbank, hillside|Rive, coteau|Ufer, Böschung|Riva, pendio|Margem, encosta
+Makai|m|polynesian|english|2|sea,modern|Hacia el mar|Toward the sea|Vers la mer|Zum Meer hin|Verso il mare|Em direção ao mar
+Izaiah|m|hebrew|english|2|biblical,modern|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Zaire|m|african|english|2|place,modern|Río que engulle ríos|River that swallows rivers|Fleuve qui avale les fleuves|Fluss, der Flüsse verschlingt|Fiume che inghiotte i fiumi|Rio que engole os rios
+Callahan|m|celtic|english|2|modern|De cabeza brillante|Bright-headed|À la tête brillante|Mit hellem Haupt|Dalla testa luminosa|De cabeça brilhante
+Davis|m|hebrew|english|2|modern|Hijo de David|Son of David|Fils de David|Sohn von David|Figlio di David|Filho de David
+Derrick|m|germanic|english|2|classic|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Emmitt|m|germanic|english|2|vintage|Universal, entero|Universal, whole|Universel, entier|Allumfassend, ganz|Universale, intero|Universal, inteiro
+Denver|m|germanic|english|2|place,modern|Vado de los daneses|Ford of the Danes|Gué des Danois|Furt der Dänen|Guado dei Danesi|Vau dos dinamarqueses
+Landen|m|germanic|english|2|place,modern|Colina larga|Long hill|Longue colline|Langer Hügel|Lunga collina|Colina longa
+Cannon|m|greek|english|2|modern,strong|Canónigo|Canon, clergyman|Chanoine|Domherr|Canonico|Cónego
+Ryland|m|germanic|english|2|nature,place|Tierra de centeno|Rye land|Terre de seigle|Roggenland|Terra di segale|Terra de centeio
+Colby|m|norse|english|2|place,modern|Granja de Koli|Koli's farm|Ferme de Koli|Kolis Hof|Fattoria di Koli|Quinta de Koli
+Sincere|m|latin|english|2|virtue,modern|Sincero|Sincere|Sincère|Aufrichtig|Sincero|Sincero
+Boone|m|latin|english|2|modern|Bueno|Good|Bon|Gut|Buono|Bom
+Miller|m|germanic|english|2|modern|Molinero|Miller|Meunier|Müller|Mugnaio|Moleiro
+Trenton|m|celtic|english|2|place,modern|Ciudad de Trent|Trent's town|Ville de Trent|Trents Stadt|Città di Trent|Cidade de Trent
+Brycen|m|celtic|english|2|modern|Hijo de Brice|Son of Brice|Fils de Brice|Sohn von Brice|Figlio di Brice|Filho de Brice
+Boston|m|germanic|english|2|place,modern|Piedra de Botwulf|Botwulf's stone|Pierre de Botwulf|Botwulfs Stein|Pietra di Botwulf|Pedra de Botwulf
+Finnley|m|celtic|english|2|warrior,modern|Guerrero rubio|Fair warrior|Guerrier blond|Blonder Krieger|Guerriero biondo|Guerreiro loiro
+Layton|m|germanic|english|2|place,modern|Huerto de puerros|Leek garden|Jardin de poireaux|Lauchgarten|Orto di porri|Horta de alhos-porros
+Dillon|m|celtic|english|2|sea,modern|Gran marea|Great tide|Grande marée|Große Flut|Grande marea|Grande maré
+Nixon|m|greek|english|2|modern|Hijo de Nick|Son of Nick|Fils de Nick|Sohn von Nick|Figlio di Nick|Filho de Nick
+Edison|m|germanic|english|2|modern|Hijo de Eda o Adán|Son of Eda or Adam|Fils d'Eda ou d'Adam|Sohn von Eda oder Adam|Figlio di Eda o Adamo|Filho de Eda ou Adão
+Trey|m|latin|english|2|modern|Tres, el tercero|Three, the third|Trois, le troisième|Drei, der Dritte|Tre, il terzo|Três, o terceiro
+Huxley|m|germanic|english|2|literary,place|Prado de Hucc|Hucc's meadow|Pré de Hucc|Huccs Wiese|Prato di Hucc|Prado de Hucc
+Ledger|m|germanic|english|2|modern|Lanza del pueblo|Spear of the people|Lance du peuple|Speer des Volkes|Lancia del popolo|Lança do povo
+Landyn|m|germanic|english|2|place,modern|Colina larga|Long hill|Longue colline|Langer Hügel|Lunga collina|Colina longa
+Issac|m|hebrew|english|2|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Layne|m|germanic|english|2|modern|Sendero|Lane, path|Sentier|Pfad|Sentiero|Caminho
+Kareem|m|arabic|english,arabic|2|virtue,classic|Generoso, noble|Generous, noble|Généreux, noble|Großzügig, edel|Generoso, nobile|Generoso, nobre
+Kannon|m|greek|english|2|modern,strong|Canónigo|Canon, clergyman|Chanoine|Domherr|Canonico|Cónego
+Brendan|m|celtic|english,irish|2|saint,classic,royal|Príncipe|Prince|Prince|Fürst|Principe|Príncipe
+Brixton|m|germanic|english|2|place,modern|Piedra de Beorhtsige|Beorhtsige's stone|Pierre de Beorhtsige|Beorhtsiges Stein|Pietra di Beorhtsige|Pedra de Beorhtsige
+Santana|m|latin|english|2|saint,music|Santa Ana|Saint Anne|Sainte Anne|Heilige Anna|Sant'Anna|Santa Ana
+Mathew|m|hebrew|english|2|biblical,classic|Regalo de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Houston|m|germanic|english|2|place,modern|Pueblo de Hugo|Hugh's town|Village de Hugues|Hughs Siedlung|Villaggio di Ugo|Povoado de Hugo
+Rome|m|latin|english|2|place,modern|La ciudad de Roma|The city of Rome|La ville de Rome|Die Stadt Rom|La città di Roma|A cidade de Roma
+Madden|m|celtic|english|2|animal,modern|Pequeño sabueso|Little hound|Petit chien|Kleiner Hund|Piccolo segugio|Pequeno cão
+Jefferson|m|germanic|english|2|modern|Hijo de Jeffrey|Son of Jeffrey|Fils de Jeffrey|Sohn von Jeffrey|Figlio di Jeffrey|Filho de Jeffrey
+Atreus|m|greek|english|2|mythology,strong|Intrépido|Fearless|Intrépide|Furchtlos|Intrepido|Destemido
+Westin|m|germanic|english|2|place,modern|Pueblo del oeste|Western town|Village de l'ouest|Westliche Siedlung|Villaggio dell'ovest|Povoado do oeste
+Rayden|m|japanese|english|2|mythology,strong,modern|Trueno y relámpago|Thunder and lightning|Tonnerre et éclair|Donner und Blitz|Tuono e fulmine|Trovão e relâmpago
+Clyde|m|celtic|english,scottish|2|vintage,place,nature|El río Clyde|The River Clyde|Le fleuve Clyde|Der Fluss Clyde|Il fiume Clyde|O rio Clyde
+Krew|m|latin|english|2|modern|Tripulación, equipo|Crew, team|Équipage, équipe|Mannschaft|Equipaggio, squadra|Tripulação, equipa
+Westley|m|germanic|english|2|literary,nature|Prado del oeste|Western meadow|Prairie de l'ouest|Westliche Wiese|Prato occidentale|Prado do oeste
+Ricky|m|germanic|english|2|classic|Gobernante poderoso|Powerful ruler|Souverain puissant|Mächtiger Herrscher|Sovrano potente|Governante poderoso
+Jagger|m|germanic|english|2|music,modern|Carretero ambulante|Carter, peddler|Charretier, colporteur|Fuhrmann, Hausierer|Carrettiere ambulante|Carroceiro ambulante
+Lochlan|m|celtic|english|2|nature,modern|Tierra de lagos|Land of lakes|Pays des lacs|Land der Seen|Terra dei laghi|Terra de lagos
+Langston|m|germanic|english|2|literary,place|Piedra larga|Long stone|Longue pierre|Langer Stein|Pietra lunga|Pedra longa
+Creed|m|latin|english|2|virtue,strong,modern|Credo, creencia|Creed, belief|Credo, croyance|Glaubensbekenntnis|Credo, fede|Credo, crença
+Titan|m|greek|english|2|mythology,strong|Titán, gigante|Titan, giant|Titan, géant|Titan, Riese|Titano, gigante|Titã, gigante
+Brennan|m|celtic|english|2|nature,modern|Pequeña gota|Little drop|Petite goutte|Kleiner Tropfen|Piccola goccia|Pequena gota
+Zakai|m|hebrew|english,hebrew|2|biblical,virtue|Puro, inocente|Pure, innocent|Pur, innocent|Rein, unschuldig|Puro, innocente|Puro, inocente
+Colten|m|germanic|english|2|place,modern|Pueblo del carbón|Coal town|Ville du charbon|Kohlenstadt|Città del carbone|Povoado do carvão
+Korbin|m|latin|english|2|animal,modern|Cuervo|Raven|Corbeau|Rabe|Corvo|Corvo
+Mac|m|celtic|english|2|classic|Hijo|Son|Fils|Sohn|Figlio|Filho
+Watson|m|germanic|english|2|literary,modern|Hijo de Walter|Son of Walter|Fils de Walter|Sohn von Walter|Figlio di Walter|Filho de Walter
+Grey|m|germanic|english|2|modern|Gris|Grey|Gris|Grau|Grigio|Cinzento
+Tru|m|germanic|english|2|virtue,modern|Verdadero, fiel|True, faithful|Vrai, fidèle|Wahr, treu|Vero, fedele|Verdadeiro, fiel
+Joziah|m|hebrew|english|2|biblical,modern|Dios sostiene|God supports|Dieu soutient|Gott stützt|Dio sostiene|Deus sustenta
+Bryant|m|celtic|english|2|modern|Noble, elevado|Noble, high|Noble, élevé|Edel, erhaben|Nobile, elevato|Nobre, elevado
+Jaxxon|m|hebrew|english|2|modern|Hijo de Jack|Son of Jack|Fils de Jack|Sohn von Jack|Figlio di Jack|Filho de Jack
+Misael|m|hebrew|english,spanish|2|biblical|Quién es lo que Dios es|Who is what God is|Qui est ce que Dieu est|Wer ist, was Gott ist|Chi è ciò che Dio è|Quem é o que Deus é

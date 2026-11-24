@@ -147,5 +147,117 @@ ok(r.ok && r.partner === null, 'and their partner is simply unpaired', r)
 r = await a.call('/api/e', { ev: { app_open: 1, made_up: 3, match: 2 }, lang: 'es' })
 ok(r.ok === true, 'events are accepted', r)
 
+// 16. The final round: each person's ranking travels like the list, and the partner can read it.
+const x = device(), y = device()
+await x.call('/api/sync', { ops: [[1, 1, T], [2, 1, T], [3, 2, T]], name: 'Xena', lang: 'es' })
+const xcode = (await x.call('/api/invite', {})).invite
+await y.call('/api/join', { code: xcode, ops: [[2, 1, T], [3, 1, T]], name: 'Yago', lang: 'es' })
+const blob = JSON.stringify({ duel: { 2: [1016, 1], 3: [984, 1] } })
+r = await x.call('/api/sync', { final: { at: T + 10, data: blob } })
+ok(r.ok && r.rev > 0, 'a ranking is saved', r)
+r = await y.call('/api/sync', {})
+ok(r.partner && r.partner.final === blob, 'the partner receives it', r.partner)
+r = await x.call('/api/sync', { final: { at: T + 5, data: '{"duel":{}}' }, rev: 0 })
+ok(r.state && r.state.final === blob && r.state.finalAt === T + 10, 'an older ranking never replaces a newer one', r.state)
+
+// 17. Family and friends vote on the finalists.
+r = await x.call('/api/poll', { names: [[2, 'Lucía'], [3, 'Vega'], [2, 'again'], ['x', 'bad'], [4, '<b>Noa</b>']], lang: 'es' })
+const pcode = r.poll && r.poll.code
+ok(r.ok && pcode && r.poll.names.length === 3 && r.poll.names[2][1] === 'bNoa/b' && r.poll.who.join('+') === 'Xena+Yago', 'a poll is created with clean names and both partners on it', r)
+r = await y.call('/api/poll/mine', {})
+ok(r.poll && r.poll.code === pcode, 'the partner sees the same poll', r)
+const voter = { call: (path, body) => fetch(BASE + path, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }).then(async res => ({ status: res.status, ...(await res.json()) })) }
+r = await voter.call('/api/poll/get', { code: pcode, voter: 'voteraaaaaaaaaa1' })
+ok(r.ok && r.mine === null && r.poll.counts === undefined && r.poll.voters === undefined && r.poll.names.length === 3, 'a voter sees the names, not the tally', r)
+r = await voter.call('/api/vote', { code: pcode, voter: 'voteraaaaaaaaaa1', id: 2, name: 'Abuela Carmen' })
+ok(r.ok && r.mine === 2 && r.poll.counts[2] === 1 && r.poll.total === 1 && r.poll.voters === undefined, 'after voting they see the totals, never who voted', r)
+await voter.call('/api/vote', { code: pcode, voter: 'voteraaaaaaaaaa2', id: 3 })
+r = await voter.call('/api/vote', { code: pcode, voter: 'voteraaaaaaaaaa1', id: 3, name: 'Abuela Carmen' })
+ok(r.poll.counts[3] === 2 && !r.poll.counts[2] && r.poll.total === 2, 'a vote can be changed, not repeated', r)
+r = await voter.call('/api/vote', { code: pcode, voter: 'voteraaaaaaaaaa3', id: 99 })
+ok(r.status === 400, 'a name that is not on the poll cannot be voted', r)
+r = await voter.call('/api/vote', { code: pcode, voter: 'short', id: 2 })
+ok(r.status === 400, 'nor can a vote without a proper voter id', r)
+r = await x.call('/api/poll/mine', {})
+ok(r.poll.total === 2 && r.poll.voters.length === 1 && r.poll.voters[0][0] === 'Abuela Carmen' && r.poll.voters[0][1] === 3, 'the couple sees who voted what', r)
+r = await x.call('/api/poll', { names: [[2, 'Lucía'], [4, 'Noa']], lang: 'es' })
+ok(r.poll.code === pcode && r.poll.total === 0, 'changing the names keeps the link and drops votes for names taken off', r)
+r = await device().call('/api/poll', { names: [[2, 'Lucía'], [4, 'Noa']] })
+ok(r.status === 401, 'a poll needs a person', r)
+r = await x.call('/api/poll/close', {})
+r = await voter.call('/api/poll/get', { code: pcode })
+ok(r.status === 404, 'a closed poll is gone', r)
+
+// 18–19 need what only the local server has: the emails it would have sent, and a backup to run on demand.
+if (/localhost|127\.0\.0\.1/.test(BASE)) {
+  const outbox = async () => (await fetch(BASE + '/api/_outbox').then(res => res.json())).mail
+  const lastTo = async to => (await outbox()).filter(m => m.to === to).pop()
+  const mail = `x${Date.now()}@example.test`
+
+  // 18. Optional email.
+  r = await x.call('/api/email', { email: 'not an email' })
+  ok(r.ok === false && r.error === 'email', 'a bad address is refused', r)
+  r = await x.call('/api/email', { email: ' ' + mail.toUpperCase() + ' ' })
+  ok(r.ok && r.mail === true && r.email && r.email[0] === mail && r.email[1] === 0, 'an address is kept, unconfirmed', r)
+  let sent = await lastTo(mail)
+  const mtoken = sent && (sent.text.match(/#m=([\w-]+)/) || [])[1]
+  ok(sent && mtoken && /\/es\/app#m=/.test(sent.text) && /Xena/.test(sent.text), 'the confirmation email goes out in the person\'s language', sent)
+  // Opened on a new phone that already had a list of its own.
+  const phone = device()
+  await phone.call('/api/sync', { ops: [[50, 1, T]] })
+  const strayId = (await phone.call('/api/sync', {})).id
+  r = await phone.call('/api/email/confirm', { token: mtoken })
+  ok(r.ok && r.confirmed && r.email[1] === 1 && r.name !== '' && likesOf(r.state).join() === '1,2,3,50' && r.partner && r.partner.name === 'Yago', 'the link confirms the address and opens the list there, bringing along what the phone had', r)
+  r = await phone.call('/api/email/confirm', { token: mtoken })
+  ok(r.ok === false && r.error === 'expired', 'a link works once', r)
+  r = await device().call('/api/email/login', { email: 'nobody@example.test' })
+  ok(r.ok === true && !(await lastTo('nobody@example.test')), 'asking for an unknown address says nothing and sends nothing', r)
+  r = await device().call('/api/email/login', { email: mail, lang: 'en' })
+  sent = await lastTo(mail)
+  const ltoken = sent && (sent.text.match(/#m=([\w-]+)/) || [])[1]
+  ok(r.ok && ltoken && ltoken !== mtoken && /\/en\/app#m=/.test(sent.text), '"I lost my list" sends a link to the confirmed address', sent)
+  const lost = device()
+  r = await lost.call('/api/email/confirm', { token: ltoken })
+  ok(r.ok && likesOf(r.state).join() === '1,2,3,50' && lost.token, 'and that link brings the list back on an empty device', r)
+  // The partner likes something the person likes while the person is away: one email, not two.
+  r = await y.call('/api/sync', { ops: [[1, 1, T + 50]] }, { headers: { 'X-Test-Away': '1' } })
+  await new Promise(res => setTimeout(res, 300))
+  sent = await lastTo(mail)
+  ok(sent && /Yago/.test(sent.text) && /un nombre nuevo/.test(sent.subject) && /#u=[a-z0-9]{16,}/.test(sent.text), 'new matches are announced by email, with a way out', sent)
+  const before = (await outbox()).length
+  await y.call('/api/sync', { ops: [[50, 1, T + 60]] }, { headers: { 'X-Test-Away': '1' } })
+  await new Promise(res => setTimeout(res, 300))
+  ok((await outbox()).length === before, 'at most one such email a day', before)
+  // A partner joining is told to whoever invited them.
+  const host = device(), guest = device()
+  const hmail = `h${Date.now()}@example.test`
+  await host.call('/api/sync', { ops: [[7, 1, T]], name: 'Hugo', lang: 'fr' })
+  await host.call('/api/email', { email: hmail })
+  await host.call('/api/email/confirm', { token: ((await lastTo(hmail)).text.match(/#m=([\w-]+)/) || [])[1] })
+  await guest.call('/api/join', { code: (await host.call('/api/invite', {})).invite, name: 'Inès', ops: [[7, 1, T]] })
+  await new Promise(res => setTimeout(res, 300))
+  sent = await lastTo(hmail)
+  ok(sent && /Inès vous a rejoint/.test(sent.subject), 'the host hears by email that the partner joined', sent)
+  const offKey = (sent.text.match(/#u=([a-z0-9]+)/) || [])[1]
+  r = await device().call('/api/email/off', { key: offKey })
+  ok(r.ok === true, 'the link in the email turns it off', r)
+  r = await host.call('/api/sync', {})
+  ok(r.email === null, 'and the address is forgotten', r)
+
+  // 19. The backup copy.
+  const xid = (await x.call('/api/sync', {})).id
+  const run = async id => fetch(`${BASE}/api/_backup?id=${id}`).then(res => res.json())
+  r = await run(xid)
+  ok(r.ok && r.copy && r.copy.id === xid && r.copy.email === mail && likesOf({ swipes: Object.entries(JSON.parse(r.copy.swipes)).map(([id, v]) => [Number(id), v[0], v[1]]) }).join() === '1,2,3,50' && r.sessions >= 2,
+    'the backup holds the person, their list and their devices', r)
+  r = await run(strayId)
+  ok(r.copy === null, 'a person merged into another is not kept in the backup', r)
+  r = await fetch(BASE + '/api/health').then(res => res.json())
+  ok(r.ok && r.db && r.backup && r.backupAgeMinutes <= 1, 'health reports the database and a fresh backup', r)
+  await x.call('/api/forget', {})
+  r = await run(xid)
+  ok(r.ok && r.gone >= 1 && r.copy === null && r.sessions === 0, 'deleting everything deletes the backup copy too', r)
+}
+
 console.log(`${passed} passed, ${failed} failed`)
 process.exit(failed ? 1 : 0)

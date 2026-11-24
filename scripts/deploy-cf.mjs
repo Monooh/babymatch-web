@@ -15,7 +15,7 @@ const wrangler = (args, cwd) => spawnSync('npx', ['--yes', 'wrangler@4', ...args
 // Worker with a database: its migrations are applied before the code that needs them.
 if (!wanted.length || wanted.includes('api')) {
   console.log('\n── deploying api ──')
-  const done = wrangler(['d1', 'migrations', 'apply', 'babymatch', '--remote'], API) && wrangler(['deploy'], API)
+  const done = wrangler(['d1', 'migrations', 'apply', 'babymatch', '--remote'], API) && wrangler(['d1', 'migrations', 'apply', 'babymatch-backup', '--remote'], API) && wrangler(['deploy'], API)
   if (!done) {
     // The site must still go out: the app keeps working on the device alone and syncs when the API is back.
     console.error('::warning::The API (cloudflare/api) was not deployed. If this is CI, the Cloudflare token probably lacks the D1 permission; run `npm run deploy api` from a logged-in machine.')

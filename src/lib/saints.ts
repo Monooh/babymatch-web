@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { HREFLANG, type Locale } from '@/i18n/config'
 import type { N } from './model'
-import { allNames } from './names'
+import { allNames, getName } from './names'
 
 // Name days: for each name, the feast day of the best-known saints who go by it (scripts/fetch-saints.mjs, Wikidata).
 // Optional like the rest of the real-world data: a name without a saint simply has no name day.
@@ -31,13 +31,32 @@ function all() {
 }
 
 /** "13 de diciembre", "December 13", "13. Dezember"… (2024 is a leap year, so 29 February exists.) */
-export const dayLabel = (l: Locale, month: number, day: number) =>
-  new Intl.DateTimeFormat(HREFLANG[l], { day: 'numeric', month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2024, month - 1, day)))
+export const dayLabel = (l: Locale, month: number, day: number) => {
+  const label = new Intl.DateTimeFormat(HREFLANG[l], { day: 'numeric', month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2024, month - 1, day)))
+  return l === 'fr' && day === 1 ? label.replace(/^1 /, '1er ') : label // French writes the first of the month "1er mars"
+}
 export const monthName = (l: Locale, month: number) =>
   new Intl.DateTimeFormat(HREFLANG[l], { month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2024, month - 1, 1)))
 /** The month as it appears in a URL: "diciembre", "fevrier", "marz". */
 export const monthSlug = (l: Locale, month: number) => monthName(l, month).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z]+/g, '-')
 export const monthFromSlug = (l: Locale, slug: string) => { for (let m = 1; m <= 12; m++) if (monthSlug(l, m) === slug) return m; return 0 }
+/** The day as people type it in a search: "19-de-marzo", "march-19", "1er-mars", "19-maerz". German spells out its umlaut. */
+export const daySlug = (l: Locale, month: number, day: number) => {
+  const label = dayLabel(l, month, day).toLowerCase()
+  return (l === 'de' ? label.replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue') : label).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+}
+const daySlugs = new Map<Locale, Map<string, { month: number; day: number }>>()
+export function dayFromSlug(l: Locale, slug: string): { month: number; day: number } | null {
+  if (!daySlugs.has(l)) {
+    const map = new Map<string, { month: number; day: number }>()
+    for (let month = 1; month <= 12; month++) {
+      const last = new Date(Date.UTC(2024, month, 0)).getUTCDate()
+      for (let day = 1; day <= last; day++) map.set(daySlug(l, month, day), { month, day })
+    }
+    daySlugs.set(l, map)
+  }
+  return daySlugs.get(l)!.get(slug) || null
+}
 
 function show(p: Stored, l: Locale): Saint | null {
   const m = /^(\d\d)-(\d\d)$/.exec(p.day)
@@ -75,3 +94,40 @@ export function calendar(l: Locale): CalendarDay[][] {
   return calendars.get(l)!
 }
 export const monthCount = (l: Locale, month: number) => calendar(l)[month - 1].reduce((acc, d) => acc + d.names.length, 0)
+
+export type DaySaint = { saint: Saint; names: N[] }
+const byDay = new Map<Locale, Map<string, DaySaint[]>>()
+function dayIndex(l: Locale) {
+  if (!byDay.has(l)) {
+    const found = new Map<string, Map<string, DaySaint & { links: number }>>()
+    for (const [slug, rows] of Object.entries(all())) {
+      const n = getName(l, slug)
+      for (const p of rows) {
+        const saint = show(p, l)
+        if (!saint) continue
+        const key = `${saint.month}-${saint.day}`
+        if (!found.has(key)) found.set(key, new Map())
+        const day = found.get(key)!
+        if (!day.has(p.id)) day.set(p.id, { saint, names: [], links: p.links || 0 })
+        if (n) day.get(p.id)!.names.push(n)
+      }
+    }
+    const index = new Map<string, DaySaint[]>()
+    for (const [key, day] of found) {
+      index.set(key, [...day.values()].sort((a, b) => b.links - a.links || a.saint.name.localeCompare(b.saint.name, l)).map(({ saint, names }) => ({
+        saint, names: names.sort((a, b) => Number(b.fit) - Number(a.fit) || Number(b.home) - Number(a.home) || b.pop - a.pop || a.name.localeCompare(b.name, l)),
+      })))
+    }
+    byDay.set(l, index)
+  }
+  return byDay.get(l)!
+}
+/** Every saint in the data whose feast falls on this day, the best known first, each with the names it is filed under. */
+export const saintsOn = (l: Locale, month: number, day: number): DaySaint[] => dayIndex(l).get(`${month}-${day}`) || []
+/** The names whose own day this is: the same ones the month page lists under the date. */
+export const namesOn = (l: Locale, month: number, day: number) => calendar(l)[month - 1].find(x => x.day === day)?.names || []
+/** The days that have a page of their own, in calendar order: those with at least one saint in the data. */
+export function dayPages(l: Locale): { month: number; day: number }[] {
+  return [...dayIndex(l).keys()].map(k => { const [month, day] = k.split('-').map(Number); return { month, day } }).sort((a, b) => a.month - b.month || a.day - b.day)
+}
+export const hasDayPage = (l: Locale, month: number, day: number) => dayIndex(l).has(`${month}-${day}`)

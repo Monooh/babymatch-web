@@ -1,0 +1,100 @@
+Erwann|m|celtic|french|2|nature,saint|Tejo|Yew|If|Eibe|Tasso|Teixo
+Neela|f|sanskrit|indian,french|2|gem|Azul zafiro|Sapphire blue|Bleu saphir|Saphirblau|Blu zaffiro|Azul-safira
+Matisse|m|hebrew|french|2|modern|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Youna|f|celtic|french|2|nature|Tejo|Yew|If|Eibe|Tasso|Teixo
+Inaïa|f|arabic|arabic,french|2|virtue,sweet,modern|Cuidado, protección|Care, protection|Soin, protection|Fürsorge, Schutz|Cura, protezione|Cuidado, proteção
+Valérian|m|latin|french|2|strong,vintage|Fuerte, sano|Strong, healthy|Fort, vigoureux|Stark, gesund|Forte, sano|Forte, saudável
+Zeyna|f|arabic|arabic,french|2|sweet,virtue|Bella, hermosa|Beautiful|Belle|Schön|Bella|Bela, formosa
+Sihem|f|arabic|arabic,french|2|classic|Flechas|Arrows|Flèches|Pfeile|Frecce|Flechas
+Nohé|m|hebrew|french|2|biblical,modern|Descanso|Rest|Repos|Ruhe|Riposo|Descanso
+Loucia|f|latin|french|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Nihel|f|arabic|arabic,french|2|nature|La que sacia su sed|She who quenches her thirst|Celle qui étanche sa soif|Die ihren Durst stillt|Colei che placa la sete|Aquela que sacia a sede
+Liza|f|hebrew|french,english,russian|2|classic,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Demba|m|african|african,french|2|classic|Tercer hijo varón|Third son|Troisième fils|Dritter Sohn|Terzo figlio maschio|Terceiro filho
+Naomy|f|hebrew|french|2|biblical,sweet|Placer, dulzura|Pleasantness|Douceur|Lieblichkeit|Piacevolezza|Doçura
+Alassane|m|arabic|african,french|2|virtue|Hermoso, bueno|Handsome, good|Beau, bon|Schön, gut|Bello, buono|Belo, bom
+Souheyl|m|arabic|arabic,french|2|celestial|Estrella Canopus|Canopus star|Étoile Canopus|Stern Canopus|Stella Canopo|Estrela Canopus
+Abdel|m|arabic|arabic,french|2|classic|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Aedan|m|celtic|irish,english,french|2|saint,light|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Djulian|m|latin|french|2|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Nessim|m|arabic|arabic,french|2|nature,sweet|Brisa suave|Gentle breeze|Brise légère|Sanfte Brise|Brezza leggera|Brisa suave
+Jalil|m|arabic|arabic,french|2|virtue,strong|Majestuoso, ilustre|Majestic, exalted|Majestueux, illustre|Erhaben, majestätisch|Maestoso, illustre|Majestoso, ilustre
+Melih|m|arabic|turkish,french|2|sweet|Hermoso, encantador|Handsome, charming|Beau, charmant|Schön, anmutig|Bello, affascinante|Belo, encantador
+Ibtissem|f|arabic|arabic,french|2|sweet|Sonrisa|Smile|Sourire|Lächeln|Sorriso|Sorriso
+Abygaëlle|f|hebrew|french|2|biblical,modern|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Kaïss|m|arabic|arabic,french|2|modern,strong|Del árabe Qays, quizá firmeza|From Arabic Qays, perhaps firmness|De l'arabe Qays, peut-être fermeté|Vom arabischen Qays, vielleicht Festigkeit|Dall'arabo Qays, forse fermezza|Do árabe Qays, talvez firmeza
+Lyes|m|hebrew|arabic,french|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Kenzi|m|arabic|arabic,french|2|gem,modern|Mi tesoro|My treasure|Mon trésor|Mein Schatz|Il mio tesoro|Meu tesouro
+Julyan|m|latin|french|2|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Siloé|f|hebrew|french|2|biblical,place|Enviado|Sent|Envoyé|Gesandt|Inviato|Enviado
+Laël|m|hebrew|french|2|biblical,modern|Perteneciente a Dios|Belonging to God|Appartenant à Dieu|Gott gehörend|Appartenente a Dio|Pertencente a Deus
+Asel|f|arabic|turkish,french|2|sweet,nature|Miel|Honey|Miel|Honig|Miele|Mel
+Sybille|f|greek|french|2|vintage,mythology|Profetisa|Prophetess|Prophétesse|Prophetin|Profetessa|Profetisa
+Fatimata|f|arabic|african,french|2|classic|La que desteta|One who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|A que desmama
+Anouck|f|hebrew|french,dutch|2|sweet,modern|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Nayel|m|arabic|arabic,french|2|modern|El que alcanza, triunfador|One who attains, achiever|Celui qui atteint, gagnant|Der Erreichende, Erfolgreiche|Colui che ottiene, vincitore|Aquele que alcança, vencedor
+Méryl|f|celtic|french,english|2|sea|Mar brillante|Bright sea|Mer brillante|Glänzendes Meer|Mare splendente|Mar brilhante
+Hadja|f|arabic|african,french|2|virtue|Peregrina a La Meca|Pilgrim to Mecca|Pèlerine de La Mecque|Mekka-Pilgerin|Pellegrina alla Mecca|Peregrina a Meca
+Louve|f|latin|french|2|animal,nature,strong|Loba|She-wolf|Louve|Wölfin|Lupa|Loba
+Safya|f|arabic|arabic,french|2|virtue|Pura|Pure|Pure|Rein|Pura|Pura
+Kheira|f|arabic|arabic,french|2|virtue,vintage|Buena, la mejor|Good, the best|Bonne, la meilleure|Gut, die Beste|Buona, la migliore|Boa, a melhor
+Ritej|f|arabic|arabic,french|2|modern|Puerta de la Kaaba|Door of the Kaaba|Porte de la Kaaba|Tor der Kaaba|Porta della Kaaba|Porta da Caaba
+Charli|m|germanic|french|2|sweet,modern|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Moïse|m|hebrew|french|2|biblical,classic|Salvado de las aguas|Drawn out of the water|Sauvé des eaux|Aus dem Wasser gezogen|Salvato dalle acque|Salvo das águas
+Osman|m|arabic|turkish,french|2|royal,classic|Cría de avutarda|Baby bustard|Jeune outarde|Junge Trappe|Piccolo di otarda|Cria de abetarda
+Suzon|f|hebrew|french|2|flower,vintage,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Julya|f|latin|french|2|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Ghjulia|f|latin|french|2|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Domitille|f|latin|french|2|saint,vintage|Domada, apaciguada|Tamed|Domptée, apaisée|Gezähmt|Domata, placata|Domada, apaziguada
+Liyam|m|germanic|french|2|modern|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Matthéo|m|hebrew|french|2|biblical,modern|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Bleuenn|f|celtic|french|2|flower,sweet|Flor blanca|White flower|Fleur blanche|Weiße Blume|Fiore bianco|Flor branca
+Youmna|f|arabic|arabic,french|2|virtue,sweet|Bendición, buena fortuna|Blessing, good fortune|Bénédiction, bonne fortune|Segen, Glück|Benedizione, buona fortuna|Bênção, boa fortuna
+Lexy|f|greek|french,english|2|modern,strong|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Jinane|f|arabic|arabic,french|2|nature,sweet|Jardines del paraíso|Gardens of paradise|Jardins du paradis|Gärten des Paradieses|Giardini del paradiso|Jardins do paraíso
+Ambrine|f|arabic|arabic,french|2|gem,sweet|Ámbar|Amber|Ambre|Bernstein|Ambra|Âmbar
+Kassy|f|greek|french,english|2|mythology,modern|La que brilla entre los hombres|Shining upon men|Qui brille sur les hommes|Die unter Männern Strahlende|Colei che brilla sugli uomini|Que brilha entre os homens
+Mahir|m|arabic|arabic,turkish,french|2|virtue|Hábil, diestro|Skilled, expert|Habile, adroit|Geschickt, gewandt|Abile, esperto|Hábil, perito
+Izak|m|hebrew|french|2|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Tomy|m|hebrew|french|2|sweet|Gemelo|Twin|Jumeau|Zwilling|Gemello|Gémeo
+Donovan|m|celtic|english,french,irish|2|modern|Moreno oscuro|Dark brown|Brun foncé|Dunkelbraun|Bruno scuro|Castanho-escuro
+Bayane|f|arabic|arabic,french|2|virtue|Claridad, elocuencia|Clarity, eloquence|Clarté, éloquence|Klarheit, Beredsamkeit|Chiarezza, eloquenza|Clareza, eloquência
+Malaïka|f|arabic|african,arabic,french|2|sweet|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Ziyed|m|arabic|arabic,french|2|virtue|Aumento, abundancia|Increase, abundance|Accroissement, abondance|Zuwachs, Fülle|Aumento, abbondanza|Aumento, abundância
+Mouhamadou|m|arabic|african,french|2|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Andria|m|greek|french|2|classic,strong|Viril, valiente|Manly, brave|Viril, courageux|Männlich, tapfer|Virile, coraggioso|Viril, corajoso
+Safwane|m|arabic|arabic,french|2|virtue|Puro, roca lisa|Pure, smooth rock|Pur, roche lisse|Rein, glatter Fels|Puro, roccia liscia|Puro, rocha lisa
+Madina|f|arabic|arabic,african,french|2|place|Medina, ciudad del Profeta|Medina, city of the Prophet|Médine, ville du Prophète|Medina, Stadt des Propheten|Medina, città del Profeta|Medina, cidade do Profeta
+Lexa|f|greek|english,french|2|modern,strong|Defensora|Defender|Défenseure|Beschützerin|Difenditrice|Defensora
+Sahel|m|arabic|arabic,french|2|nature,place|Costa, orilla|Coast, shore|Côte, rivage|Küste, Ufer|Costa, riva|Costa, margem
+Sabri|m|arabic|arabic,turkish,french|2|virtue|Paciente|Patient|Patient|Geduldig|Paziente|Paciente
+Meva|f|arabic|turkish,french|2|virtue|Refugio|Refuge, shelter|Refuge|Zuflucht|Rifugio|Refúgio
+Alonzo|m|germanic|english,french|2|vintage|Noble y dispuesto|Noble and ready|Noble et prêt|Edel und bereit|Nobile e pronto|Nobre e pronto
+Thyago|m|hebrew|french,portuguese|2|modern|Suplantador|Supplanter|Celui qui supplante|Der Verdränger|Soppiantatore|Suplantador
+Kenzy|m|arabic|arabic,french|2|gem,modern|Mi tesoro|My treasure|Mon trésor|Mein Schatz|Il mio tesoro|Meu tesouro
+Hélia|f|greek|french|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Isayah|m|hebrew|french,english|2|biblical,modern|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Rettung|Yahweh è salvezza|Javé é salvação
+Manoah|m|hebrew|french|2|biblical|Descanso, reposo|Rest, quiet|Repos, tranquillité|Ruhe, Rast|Riposo, quiete|Descanso, repouso
+Aloys|m|germanic|french,german|2|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Kiyan|m|persian|persian,french|2|royal|Rey, majestuoso|King, majestic|Roi, majestueux|König, majestätisch|Re, maestoso|Rei, majestoso
+Yaniss|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Liliane|f|latin|french|2|flower,vintage|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Djamila|f|arabic|arabic,french|2|sweet,classic|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Shelsy|f|germanic|french|2|place,modern|Puerto de piedra caliza|Chalk landing place|Port de craie|Kreidelandeplatz|Approdo di gesso|Porto de giz
+Lévy|m|hebrew|french|2|biblical|Unido, adherido|Joined, attached|Uni, attaché|Verbunden, vereint|Unito, legato|Unido, ligado
+Ediz|m|turkish|turkish,french|2|strong|Elevado, sublime|High, exalted|Élevé, sublime|Hoch, erhaben|Elevato, sublime|Elevado, sublime
+Thibaud|m|germanic|french|2|classic,warrior|Pueblo audaz|Bold people|Peuple audacieux|Kühnes Volk|Popolo audace|Povo audaz
+Auriane|f|latin|french|2|light,sweet|Dorada|Golden|Dorée|Golden|Dorata|Dourada
+Chelsy|f|germanic|french|2|place,modern|Puerto de piedra caliza|Chalk landing place|Port de craie|Kreidelandeplatz|Approdo di gesso|Porto de giz
+Younous|m|hebrew|arabic,french|2|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Isac|m|hebrew|scandinavian,portuguese,french|2|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Wassil|m|arabic|arabic,french|2|virtue|El que une|One who connects|Celui qui unit|Der Verbindende|Colui che unisce|Aquele que une
+Ezyo|m|greek|french|2|animal,modern|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Zyed|m|arabic|arabic,french|2|virtue|Aumento, abundancia|Increase, abundance|Accroissement, abondance|Zuwachs, Fülle|Aumento, abbondanza|Aumento, abundância
+Djeneba|f|arabic|african,french|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Eliyah|f|hebrew|french|2|biblical,modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Loïse|f|germanic|french|2|vintage,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kämpferin|Guerriera famosa|Guerreira famosa
+Taïs|f|greek|french|2|literary,saint|Nombre griego antiguo de sentido incierto|Ancient Greek name of uncertain meaning|Prénom grec ancien au sens incertain|Altgriechischer Name ungewisser Bedeutung|Nome greco antico di significato incerto|Nome grego antigo de sentido incerto
+Asaël|m|hebrew|french|2|biblical|Dios ha hecho|God has made|Dieu a fait|Gott hat gemacht|Dio ha fatto|Deus fez
+Lyssandro|m|greek|french|2|warrior,modern|Libertador de hombres|Liberator of men|Libérateur des hommes|Befreier der Menschen|Liberatore di uomini|Libertador de homens
+Maïwen|f|celtic|french|2|modern,sweet|María bendita y blanca|Blessed white Mary|Marie blanche et bénie|Gesegnete weiße Maria|Maria bianca e benedetta|Maria abençoada e branca

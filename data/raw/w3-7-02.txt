@@ -1,0 +1,100 @@
+Luigia|f|germanic|italian|2|vintage,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Natascia|f|latin|italian|2|modern|Día de Navidad|Christmas Day|Jour de Noël|Weihnachtstag|Giorno di Natale|Dia de Natal
+Santhiago|m|hebrew|portuguese,spanish|2|saint,modern|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Gianvito|m|hebrew|italian|2|classic|Gracia de Dios, vida|God's grace, life|Grâce de Dieu, vie|Gottes Gnade, Leben|Grazia di Dio, vita|Graça de Deus, vida
+Gurbaaz|m|sanskrit|indian|2|animal,strong|Halcón del gurú|Falcon of the Guru|Faucon du gourou|Falke des Gurus|Falco del guru|Falcão do guru
+Dion|m|greek|english|2|mythology|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dem Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dionísio
+Patrik|m|latin|italian,scandinavian|2|saint,modern|Noble, patricio|Nobleman|Noble, patricien|Edelmann|Nobile, patrizio|Nobre, patrício
+Mariantonietta|f|hebrew|italian|2|royal,vintage|Amada, inestimable|Beloved, priceless|Bien-aimée, inestimable|Geliebte, Unschätzbare|Amata, inestimabile|Amada, inestimável
+Imma|f|latin|italian,catalan|2|saint,sweet|Inmaculada|Immaculate|Immaculée|Makellose|Immacolata|Imaculada
+Marialuisa|f|hebrew|italian|2|classic,royal|Amada, guerrera famosa|Beloved, famous warrior|Bien-aimée, guerrière célèbre|Geliebte, berühmte Kriegerin|Amata, guerriera famosa|Amada, guerreira famosa
+Devid|m|hebrew|italian|2|modern,biblical|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Rehmat|f|arabic|indian|2|virtue|Misericordia|Mercy|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Ossama|m|arabic|arabic,italian|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Neri|m|germanic|italian|2|vintage|Consejero del ejército|Army counsel|Conseiller de l'armée|Ratgeber des Heeres|Consigliere dell'esercito|Conselheiro do exército
+Rosamaria|f|latin|italian|2|classic,flower|Rosa, amada|Rose, beloved|Rose, bien-aimée|Rose, Geliebte|Rosa, amata|Rosa, amada
+Devis|m|hebrew|italian|2|modern|Hijo de David|Son of David|Fils de David|Sohn Davids|Figlio di Davide|Filho de David
+Mariacristina|f|hebrew|italian|2|classic,royal|Amada, seguidora de Cristo|Beloved, follower of Christ|Bien-aimée, disciple du Christ|Geliebte, Anhängerin Christi|Amata, seguace di Cristo|Amada, seguidora de Cristo
+Lodovica|f|germanic|italian|2|vintage,warrior|Guerrera famosa|Famous warrior|Guerrière célèbre|Berühmte Kriegerin|Guerriera famosa|Guerreira famosa
+Arham|m|arabic|arabic,indian|2|virtue|El más misericordioso|Most merciful|Le plus miséricordieux|Der Barmherzigste|Il più misericordioso|O mais misericordioso
+Tonia|f|latin|italian|2|sweet|Inestimable|Priceless|Inestimable|Unschätzbare|Inestimabile|Inestimável
+Demetra|f|greek|italian|2|mythology,nature|Madre tierra|Earth mother|Terre mère|Mutter Erde|Madre terra|Mãe terra
+Giampiero|m|hebrew|italian|2|classic|Gracia de Dios, roca|God's grace, rock|Grâce de Dieu, roc|Gottes Gnade, Fels|Grazia di Dio, roccia|Graça de Deus, rocha
+Lodovico|m|germanic|italian|2|vintage,warrior|Guerrero famoso|Famous warrior|Guerrier célèbre|Berühmter Krieger|Guerriero famoso|Guerreiro famoso
+Solei|f|latin|italian|2|celestial,modern|Sol|Sun|Soleil|Sonne|Sole|Sol
+Selenia|f|greek|italian|2|celestial|Luna|Moon|Lune|Mond|Luna|Lua
+Annapia|f|hebrew|italian|2|classic,virtue|Gracia, piadosa|Grace, pious|Grâce, pieuse|Gnade, Fromme|Grazia, pia|Graça, piedosa
+Noemy|f|hebrew|italian|2|biblical,modern|Mi dulzura|My pleasantness|Ma douceur|Meine Anmut|Mia dolcezza|Minha doçura
+Verdiana|f|latin|italian|2|saint,nature,vintage|Verde, lozana|Green, verdant|Verte, verdoyante|Grün, blühend|Verde, verdeggiante|Verde, viçosa
+Rosangela|f|latin|italian|2|classic,flower|Rosa, mensajera|Rose, messenger|Rose, messagère|Rose, Botin|Rosa, messaggera|Rosa, mensageira
+Mariarosa|f|hebrew|italian|2|classic,flower|Amada, rosa|Beloved, rose|Bien-aimée, rose|Geliebte, Rose|Amata, rosa|Amada, rosa
+Nicla|f|greek|italian|2|vintage|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Leda|f|greek|italian|2|mythology,vintage|Reina mítica de Esparta|Mythical queen of Sparta|Reine mythique de Sparte|Mythische Königin von Sparta|Mitica regina di Sparta|Rainha mítica de Esparta
+Kristel|f|greek|dutch,italian|2|modern|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Ulisse|m|greek|italian|2|mythology,literary|Héroe de la Odisea|Hero of the Odyssey|Héros de l'Odyssée|Held der Odyssee|Eroe dell'Odissea|Herói da Odisseia
+Licia|f|greek|italian|2|place,vintage|De Licia|From Lycia|De Lycie|Aus Lykien|Della Licia|Da Lícia
+Mariagiovanna|f|hebrew|italian|2|classic|Amada, gracia de Dios|Beloved, God's grace|Bien-aimée, grâce de Dieu|Geliebte, Gottes Gnade|Amata, grazia di Dio|Amada, graça de Deus
+Kloe|f|greek|italian|2|modern,nature|Brote verde|Young green shoot|Jeune pousse verte|Junger grüner Spross|Giovane germoglio verde|Broto verde
+Osaid|m|arabic|arabic,indian|2|animal,strong|Pequeño león|Little lion|Petit lion|Kleiner Löwe|Piccolo leone|Pequeno leão
+Marialaura|f|hebrew|italian|2|classic,nature|Amada, laurel|Beloved, laurel|Bien-aimée, laurier|Geliebte, Lorbeer|Amata, alloro|Amada, louro
+Marinella|f|latin|italian|2|sea,vintage|Del mar|Of the sea|De la mer|Vom Meer|Del mare|Do mar
+Cristel|f|greek|italian|2|modern|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Rajan|m|sanskrit|indian|2|royal|Rey|King|Roi|König|Re|Rei
+Giandomenico|m|hebrew|italian|2|classic|Gracia de Dios, del Señor|God's grace, of the Lord|Grâce de Dieu, du Seigneur|Gottes Gnade, des Herrn|Grazia di Dio, del Signore|Graça de Deus, do Senhor
+Manolo|m|hebrew|spanish,italian|2|classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Isotta|f|celtic|italian|2|literary,love,vintage|Amada de Tristán|Beloved of Tristan|Bien-aimée de Tristan|Tristans Geliebte|Amata di Tristano|Amada de Tristão
+Antea|f|greek|italian|2|mythology,flower|Flor, florida|Flower, blossom|Fleur, fleurie|Blume, Blüte|Fiore, fiorita|Flor, florida
+Marysol|f|latin|spanish,italian|2|sea,celestial|María y sol|Mary and sun|Marie et soleil|Maria und Sonne|Maria e sole|Maria e sol
+Marilù|f|hebrew|italian|2|sweet|Amada, guerrera famosa|Beloved, famous warrior|Bien-aimée, guerrière célèbre|Geliebte, berühmte Kriegerin|Amata, guerriera famosa|Amada, guerreira famosa
+Teresanna|f|greek|italian|2|classic|Cosechadora, gracia|Harvester, grace|Moissonneuse, grâce|Erntende, Gnade|Mietitrice, grazia|Ceifeira, graça
+Catello|m|latin|italian|2|saint,animal,vintage|Cachorro, perrito|Puppy, little dog|Chiot, petit chien|Welpe, Hündchen|Cagnolino|Cachorrinho
+Marko|m|latin|german|2|classic|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Pierangelo|m|greek|italian|2|classic|Roca, mensajero|Rock, messenger|Roc, messager|Fels, Bote|Roccia, messaggero|Rocha, mensageiro
+Giampaolo|m|hebrew|italian|2|classic|Gracia de Dios, pequeño|God's grace, small|Grâce de Dieu, petit|Gottes Gnade, klein|Grazia di Dio, piccolo|Graça de Deus, pequeno
+Mariaelena|f|hebrew|italian|2|classic|Amada, antorcha brillante|Beloved, shining torch|Bien-aimée, torche brillante|Geliebte, strahlende Fackel|Amata, torcia splendente|Amada, tocha brilhante
+Marilisa|f|hebrew|italian|2|classic|Amada, Dios es mi juramento|Beloved, God is my oath|Bien-aimée, Dieu est mon serment|Geliebte, Gott ist mein Schwur|Amata, Dio è il mio giuramento|Amada, Deus é meu juramento
+Nami|f|japanese|japanese|2|sea,nature|Ola|Wave|Vague|Welle|Onda|Onda
+Alesandro|m|greek|italian|2|modern|Defensor de los hombres|Defender of men|Défenseur des hommes|Beschützer der Menschen|Difensore degli uomini|Defensor dos homens
+Ruggiero|m|germanic|italian|2|vintage,warrior|Lanza famosa|Famous spear|Lance célèbre|Berühmter Speer|Lancia famosa|Lança famosa
+Domitilla|f|latin|italian|2|saint,vintage|Domada|Tamed|Domptée|Gezähmte|Domata|Domada
+Domiziana|f|latin|italian|2|vintage|Domada|Tamed|Domptée|Gezähmte|Domata|Domada
+Naike|f|greek|italian|2|mythology,modern|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Sandy|f|greek|english,french,italian|2|sweet|Defensora de la humanidad|Defender of mankind|Protectrice des hommes|Beschützerin der Menschen|Protettrice degli uomini|Defensora da humanidade
+Krystal|f|greek|english|2|gem,modern|Cristal|Crystal|Cristal|Kristall|Cristallo|Cristal
+Deon|m|greek|english|2|modern|Consagrado a Dioniso|Devoted to Dionysus|Consacré à Dionysos|Dem Dionysos geweiht|Consacrato a Dioniso|Consagrado a Dionísio
+Fateh|m|arabic|indian,arabic|2|strong|Victoria|Victory|Victoire|Sieg|Vittoria|Vitória
+Asees|f|sanskrit|indian|2|virtue|Bendición|Blessing|Bénédiction|Segen|Benedizione|Bênção
+Consiglia|f|latin|italian|2|saint,vintage,virtue|Buen consejo|Good counsel|Bon conseil|Guter Rat|Buon consiglio|Bom conselho
+Nicolina|f|greek|italian|2|vintage|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Alida|f|germanic|italian,dutch,german|2|vintage|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Raiyan|m|arabic|arabic,indian|2|virtue,modern|Puerta del paraíso, saciado|Gate of paradise, well-watered|Porte du paradis, rassasié|Tor zum Paradies, gesättigt|Porta del paradiso, saziato|Porta do paraíso, saciado
+Clizia|f|greek|italian|2|mythology,literary,flower|Famosa, gloriosa|Famous, glorious|Célèbre, glorieuse|Berühmte, Ruhmreiche|Famosa, gloriosa|Famosa, gloriosa
+Ossaid|m|arabic|arabic|2|animal,strong|Pequeño león|Little lion|Petit lion|Kleiner Löwe|Piccolo leone|Pequeno leão
+Gianmario|m|hebrew|italian|2|classic|Gracia de Dios, varonil|God's grace, manly|Grâce de Dieu, viril|Gottes Gnade, männlich|Grazia di Dio, virile|Graça de Deus, viril
+Sabato|m|hebrew|italian|2|vintage|Nacido en sábado|Born on Saturday|Né un samedi|Am Samstag geboren|Nato di sabato|Nascido no sábado
+Mariella|f|hebrew|italian|2|sweet,vintage|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Azlan|m|turkish|indian|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Zorawar|m|persian|indian|2|strong,warrior|Poderoso, fuerte|Powerful, strong|Puissant, fort|Mächtig, stark|Potente, forte|Poderoso, forte
+Purity|f|latin|english,african|2|virtue|Pureza|Purity|Pureté|Reinheit|Purezza|Pureza
+Rubens|m|hebrew|italian,portuguese|2|biblical|Mirad, un hijo|Behold, a son|Voyez, un fils|Seht, ein Sohn|Ecco, un figlio|Eis um filho
+Lion|m|greek|german,italian|2|animal,strong|León|Lion|Lion|Löwe|Leone|Leão
+Marialuce|f|hebrew|italian|2|light,modern|Amada, luz|Beloved, light|Bien-aimée, lumière|Geliebte, Licht|Amata, luce|Amada, luz
+Blu|f|germanic|italian|2|modern|Azul|Blue|Bleu|Blau|Blu|Azul
+Emmanuela|f|hebrew|italian|2|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Gaja|f|greek|italian|2|mythology,nature|Tierra|Earth|Terre|Erde|Terra|Terra
+Mariagiulia|f|hebrew|italian|2|classic|Amada, de la familia Julia|Beloved, of the Julian clan|Bien-aimée, de la famille Julia|Geliebte, aus dem Geschlecht der Julier|Amata, della gente Giulia|Amada, da família Júlia
+Maikol|m|hebrew|italian|2|modern,biblical|¿Quién es como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Laurin|m|latin|german|2|literary|De Laurento, laureado|From Laurentum, laurelled|De Laurentum, lauré|Aus Laurentum, Lorbeerbekränzter|Di Laurento, laureato|De Laurento, laureado
+Ersilia|f|latin|italian|2|mythology,vintage|Esposa de Rómulo|Wife of Romulus|Épouse de Romulus|Gattin des Romulus|Sposa di Romolo|Esposa de Rómulo
+Laerte|m|greek|italian|2|mythology,literary|Padre de Ulises|Father of Odysseus|Père d'Ulysse|Vater des Odysseus|Padre di Ulisse|Pai de Ulisses
+Levante|f|latin|italian|2|nature,modern|Oriente, donde nace el sol|East, where the sun rises|Levant, où naît le soleil|Osten, wo die Sonne aufgeht|Levante, dove sorge il sole|Oriente, onde nasce o sol
+Mannat|f|other|indian|2|virtue|Deseo, promesa sagrada|Wish, sacred vow|Vœu, promesse sacrée|Wunsch, Gelübde|Desiderio, voto sacro|Desejo, voto sagrado
+Giovanbattista|m|hebrew|italian|2|saint,biblical,vintage|Gracia de Dios, el que bautiza|God's grace, the baptizer|Grâce de Dieu, le baptiseur|Gottes Gnade, der Täufer|Grazia di Dio, il battezzatore|Graça de Deus, o batizador
+Alesia|f|greek|italian|2|modern|Defensora|Defender|Défenseuse|Beschützerin|Difenditrice|Defensora
+Elda|f|germanic|italian|2|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Mery|f|hebrew|italian|2|sweet|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Gurfateh|m|sanskrit|indian|2|strong|Victoria del gurú|Victory of the Guru|Victoire du gourou|Sieg des Gurus|Vittoria del guru|Vitória do guru
+Elisea|f|hebrew|italian|2|biblical|Dios es salvación|God is salvation|Dieu est salut|Gott ist Heil|Dio è salvezza|Deus é salvação
+Mariassunta|f|hebrew|italian|2|saint,vintage|Amada, elevada al cielo|Beloved, taken up to heaven|Bien-aimée, élevée au ciel|Geliebte, in den Himmel aufgenommen|Amata, innalzata al cielo|Amada, elevada ao céu
+Myrea|f|latin|italian|2|modern|Admirable|Admirable|Admirable|Bewundernswerte|Ammirevole|Admirável
+Fatema|f|arabic|arabic,indian|2|classic|La que desteta|One who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama

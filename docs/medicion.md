@@ -45,6 +45,13 @@ evento en Google Analytics con el nombre de la tabla.
 | Match | `match` | cada aviso de match |
 | Abre una lista en la app / usa filtros | `list_opened`, `filters_used` | cada vez |
 | Crea su enlace personal / recupera su lista | `backup_link`, `restored` | cada vez |
+| Abre la ronda final | `final_opened` | cada vez |
+| Resuelve un duelo / llega a 10 | `duel` / `duels_10` | cada vez / una vez |
+| Escribe sus apellidos en la ronda final | `surname_set` | una vez |
+| Abre una votación / la comparte | `poll_created` / `poll_shared` | cada vez |
+| Un familiar abre la votación / vota | `vote_opened` / `vote_cast` | cada vez / una vez por persona |
+| Llega a la app desde una votación | `from_vote` | cada visita |
+| Guarda su lista con el correo / lo confirma | `email_saved` / `email_confirmed` | cada vez |
 
 Además, de las listas guardadas salen los datos que no dependen de eventos: personas con lista, activas en 7 días,
 que **volvieron otro día**, emparejadas, matches por pareja y los nombres con más «me gusta».
@@ -77,6 +84,10 @@ esos tres sitios.
 3. **Invitación**: de quien da un «me gusta», cuántos crean el enlace. Es el motor de crecimiento gratis.
 4. **Unión**: de las invitaciones creadas, cuántas acaban con la pareja dentro.
 
+Desde el 24-11-2026 hay un segundo bucle, la votación de familia y amigos. Sus dos cifras: cuántos familiares
+votan por cada votación abierta (`vote_cast` / `poll_created`) y cuántos de los que la abren pasan a la app
+(`from_vote` / `vote_opened`). Si la segunda supera el 5 %, cada pareja que llega al final trae gente nueva.
+
 ## Cuándo está validado (y toca el muro de pago)
 
 No antes de tener, durante cuatro semanas seguidas:
@@ -94,6 +105,8 @@ cuenta cuánta gente lo toca (evento `premium_tap`) y explica que llegará pront
 
 - Cloudflare Web Analytics cuenta a todos los visitantes (23-11-2026).
 - En GA4, `first_like`, `invite_created`, `partner_joined` y `match` están creados como eventos clave (23-11-2026).
+
+- Copia de seguridad de las listas cada 20 minutos y vigilancia de la web cada 15 (24-11-2026): ver el README.
 
 ## Pendiente
 

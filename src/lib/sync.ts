@@ -1,6 +1,6 @@
 'use client'
 import { useSyncExternalStore } from 'react'
-import { actions, entryOf, getState, markAllDirty, mergeRemote, setState, subscribe, type Op, type Partner, type State } from './store'
+import { actions, entryOf, getState, markAllDirty, mergeRemote, setState, subscribe, EMPTY_FINAL, type Final, type Op, type Partner, type State } from './store'
 
 // Keeps this device's list in step with the copy on the server (cloudflare/api/worker.js), and through it with the
 // partner. The device is always the working copy: every swipe is saved here first and sent a moment later, and a
@@ -14,9 +14,24 @@ const POLL_MS = 20_000
 export type SyncStatus = 'idle' | 'saving' | 'saved' | 'offline'
 type Answer = {
   ok?: boolean; error?: string; anon?: boolean; id?: string; rev?: number; token?: string; key?: string; invite?: string | null
-  partner?: { id: string; name: string; rev: number; likes?: number[]; supers?: number[] } | null
-  state?: { swipes: Op[]; prefs: string; prefsAt: number; name: string }
-  own?: boolean; joined?: boolean; claimed?: boolean; host?: string
+  partner?: { id: string; name: string; rev: number; likes?: number[]; supers?: number[]; final?: string } | null
+  state?: { swipes: Op[]; prefs: string; prefsAt: number; final?: string; finalAt?: number; name: string }
+  own?: boolean; joined?: boolean; claimed?: boolean; confirmed?: boolean; host?: string
+  mail?: boolean; email?: [string, 0 | 1] | null; poll?: Poll | null
+}
+/** The vote a couple opened for family and friends. `counts` and `voters` only come once there is something to show. */
+export type Poll = { code: string; names: [number, string][]; who: string[]; lang: string; counts?: Record<number, number>; total?: number; voters?: [string, number][] }
+
+/** A final round as it travels: anything odd is dropped, so a bad blob can never break the app. */
+function parseFinal(text: string | undefined): Final {
+  try {
+    const v = JSON.parse(text || '{}')
+    const duel: Final['duel'] = {}
+    for (const [id, e] of Object.entries(v.duel || {})) {
+      if (Array.isArray(e) && Number.isFinite(e[0]) && Number.isFinite(e[1])) duel[Number(id)] = [Math.round(e[0] as number), e[1] as number]
+    }
+    return { duel, pick: Number.isInteger(v.pick) ? v.pick : null }
+  } catch { return EMPTY_FINAL }
 }
 
 let lang = ''
@@ -62,10 +77,12 @@ async function post(path: string, extra: Record<string, unknown> = {}): Promise<
   const s = getState()
   const ops = pendingOps(s)
   const sentPrefsAt = s.prefsDirty ? s.prefsAt : 0
+  const sentFinalAt = s.finalDirty ? s.finalAt : 0
   const token = read(TOKEN_KEY)
   const body = {
     rev: s.rev, prev: s.partner?.id ? [s.partner.id, s.partner.rev] : null, ops, lang, name: s.me.trim() || undefined,
-    prefs: sentPrefsAt ? { at: sentPrefsAt, data: prefsOf(s) } : undefined, needToken: !token || undefined, ...extra,
+    prefs: sentPrefsAt ? { at: sentPrefsAt, data: prefsOf(s) } : undefined,
+    final: sentFinalAt ? { at: sentFinalAt, data: JSON.stringify(s.final) } : undefined, needToken: !token || undefined, ...extra,
   }
   const res = await fetch(API + path, {
     method: 'POST', credentials: API ? 'include' : 'same-origin', keepalive: ops.length < 400,
@@ -75,7 +92,7 @@ async function post(path: string, extra: Record<string, unknown> = {}): Promise<
   const data = (await res.json().catch(() => ({ ok: false, error: 'json' }))) as Answer
   if (res.status >= 500) throw new Error(data.error || String(res.status))
   if (data.ok && !data.anon) {
-    take(data, ops, sentPrefsAt)
+    take(data, ops, sentPrefsAt, sentFinalAt)
     // Answered as a different person than last time (a new one was made, or a partner's list was reclaimed):
     // that person has only seen what this request carried, so queue the whole list for them.
     if (data.id && data.id !== s.uid && (s.uid || s.rev > 0)) { markAllDirty(); again = true }
@@ -84,7 +101,7 @@ async function post(path: string, extra: Record<string, unknown> = {}): Promise<
 }
 
 /** Fold a reply into the device's copy. */
-function take(data: Answer, sent: Op[], sentPrefsAt: number) {
+function take(data: Answer, sent: Op[], sentPrefsAt: number, sentFinalAt: number) {
   if (data.token) write(TOKEN_KEY, data.token)
   setState(s => {
     const stars = new Set(s.stars)
@@ -95,6 +112,9 @@ function take(data: Answer, sent: Op[], sentPrefsAt: number) {
     for (const id in dirty) if (!entryOf(s, Number(id), stars)) delete dirty[id] // nothing to send for it
     patch.dirty = dirty
     if (sentPrefsAt && sentPrefsAt === s.prefsAt) patch.prefsDirty = false
+    if (sentFinalAt && sentFinalAt === s.finalAt) patch.finalDirty = false
+    if (data.mail !== undefined) patch.mail = !!data.mail
+    if (data.email !== undefined) patch.email = data.email
     if (data.state) {
       patch = { ...patch, ...mergeRemote({ ...s, dirty }, data.state.swipes) }
       if (data.state.prefsAt > s.prefsAt && data.state.prefs) {
@@ -103,6 +123,7 @@ function take(data: Answer, sent: Op[], sentPrefsAt: number) {
           patch = { ...patch, quiz: p.quiz ?? null, quizSkipped: !!p.quizSkipped, filters: { ...s.filters, ...(p.filters || {}) }, surname: p.surname || '', me: p.me || s.me, prefsAt: data.state.prefsAt, prefsDirty: false }
         } catch { /* keep what is here */ }
       }
+      if ((data.state.finalAt || 0) > s.finalAt && data.state.final) patch = { ...patch, final: parseFinal(data.state.final), finalAt: data.state.finalAt, finalDirty: false }
     }
     if (typeof data.rev === 'number') patch.rev = data.rev
     if (data.id) patch.uid = data.id
@@ -114,6 +135,7 @@ function take(data: Answer, sent: Op[], sentPrefsAt: number) {
       const next: Partner = {
         id: p.id, name: p.name, rev: p.rev, at: same ? s.partner!.at : Date.now(),
         likes: p.likes ?? (same ? s.partner!.likes : []), supers: p.supers ?? (same ? s.partner!.supers || [] : []),
+        final: p.final !== undefined ? parseFinal(p.final) : same ? s.partner!.final : undefined,
       }
       // Without the list in the reply, the stored rev must not move on, or the next reply would skip it too.
       if (!p.likes && !same) next.rev = -1
@@ -135,7 +157,7 @@ export function syncNow(): Promise<boolean> {
   if (inflight) { again = true; return inflight }
   window.clearTimeout(timer); timer = undefined
   const s = getState()
-  const busy = Object.keys(s.dirty).length > 0 || s.prefsDirty
+  const busy = needsSend(s)
   if (busy) setStatus('saving')
   inflight = post('/api/sync')
     .then(data => {
@@ -144,6 +166,7 @@ export function syncNow(): Promise<boolean> {
         // The server does not know this device any more: introduce it again with everything it has.
         write(TOKEN_KEY, null); setState({ rev: 0, uid: null }, { remote: true }); markAllDirty(); again = true
       }
+      if (data.anon && data.mail !== undefined && data.mail !== getState().mail) setState({ mail: !!data.mail }, { remote: true })
       setStatus(data.anon ? 'idle' : 'saved')
       return true
     })
@@ -167,7 +190,7 @@ function schedule(ms = 1200) {
   window.clearTimeout(timer)
   timer = window.setTimeout(() => { timer = undefined; void syncNow() }, ms)
 }
-const needsSend = (s: State) => Object.keys(s.dirty).length > 0 || s.prefsDirty
+const needsSend = (s: State) => Object.keys(s.dirty).length > 0 || s.prefsDirty || s.finalDirty
 
 /** Called once when the app opens. */
 export function startSync(language: string) {
@@ -234,6 +257,46 @@ export async function adoptKey(key: string): Promise<boolean> {
   markAllDirty()
   return syncNow()
 }
+/** Open the list a link in an email points to, here. What this device already has is merged in. */
+export async function confirmEmail(token: string): Promise<boolean> {
+  const data = await ask('/api/email/confirm', { token })
+  if (data.ok) void syncNow()
+  return !!data.ok
+}
+/** Keep the list under an email address. The server sends a link that confirms it. */
+export async function saveEmail(email: string): Promise<'sent' | 'bad' | 'slow' | 'network'> {
+  const data = await ask('/api/email', { email })
+  return data.ok ? 'sent' : data.error === 'email' ? 'bad' : data.error === 'slow' ? 'slow' : 'network'
+}
+/** "Send me the link to my list": the answer is the same whether or not the address is known. */
+export async function loginEmail(email: string): Promise<'sent' | 'bad' | 'network'> {
+  try {
+    const res = await fetch(API + '/api/email/login', { method: 'POST', credentials: 'omit', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, lang }) })
+    const data = (await res.json()) as Answer
+    return data.ok ? 'sent' : data.error === 'email' ? 'bad' : 'network'
+  } catch { return 'network' }
+}
+/** Stop using the address: from the app (no key) or from the link at the foot of an email. */
+export async function removeEmail(key?: string): Promise<boolean> {
+  const data = await ask('/api/email/off', key ? { key } : {})
+  if (data.ok && !key) setState({ email: null }, { remote: true })
+  return !!data.ok
+}
+
+// ───────── the vote for family and friends ─────────
+export async function openPoll(names: [number, string][]): Promise<Poll | null> {
+  const data = await ask('/api/poll', { names })
+  return data.ok && data.poll ? data.poll : null
+}
+/** `undefined` means the server could not be reached; `null` that there is no poll. */
+export async function myPoll(): Promise<Poll | null | undefined> {
+  const data = await ask('/api/poll/mine')
+  return data.ok ? data.poll ?? null : undefined
+}
+export async function closePoll(): Promise<boolean> {
+  return !!(await ask('/api/poll/close')).ok
+}
+
 /** Delete everything: the copy on the server and what is on this device. */
 export async function forgetAll(): Promise<void> {
   if (inflight) await inflight

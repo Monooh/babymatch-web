@@ -47,6 +47,17 @@ line('Listas abiertas en la app', e('list_opened'))
 line('Usos de filtros', e('filters_used'))
 line('Enlaces personales creados', e('backup_link'))
 line('Listas recuperadas con enlace', e('restored'))
+line('Abren la ronda final', e('final_opened'))
+line('Duelos resueltos', e('duel'))
+line('Llegan a 10 duelos', e('duels_10'))
+line('Escriben sus apellidos en la ronda final', e('surname_set'))
+line('Votaciones abiertas', e('poll_created'))
+line('Votaciones compartidas o copiadas', e('poll_shared'))
+line('Familiares que abren una votación', e('vote_opened'))
+line('Familiares que votan', e('vote_cast'), pct(e('vote_cast'), e('vote_opened')) + ' de quienes la abren')
+line('Llegan a la app desde una votación', e('from_vote'), pct(e('from_vote'), e('vote_opened')) + ' de quienes la abren')
+line('Guardan su lista con el correo', e('email_saved'))
+line('Confirman el correo o abren su lista con él', e('email_confirmed'))
 
 // ── 2. The people behind it, from their saved lists ──
 const [u] = sql(`SELECT COUNT(*) AS total, SUM(likes > 0) AS liked, SUM(likes >= 10) AS liked10, SUM(supers > 0) AS supers, SUM(invite IS NOT NULL) AS invited,

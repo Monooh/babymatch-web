@@ -7,6 +7,9 @@ const isDev = process.env.NODE_ENV === 'development'
 const nextConfig = {
   poweredByHeader: false,
   outputFileTracingRoot: __dirname,
+  // Pages render in milliseconds, but 60,000 of them on a busy or small machine can stall a worker past the default
+  // minute; a longer limit keeps a slow build from failing when nothing is actually wrong.
+  staticPageGenerationTimeout: 300,
   ...(isDev
     ? { async redirects() { return [{ source: '/', destination: '/es', permanent: false }] } }
     : { output: 'export' }),

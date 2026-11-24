@@ -13,7 +13,9 @@
     "typecheck": "tsc --noEmit",
     "test:api": "node scripts/test-api.mjs",
     "test:app": "node scripts/test-app.mjs",
-    "stats": "node scripts/stats.mjs"
+    "test:final": "node scripts/test-final.mjs",
+    "stats": "node scripts/stats.mjs",
+    "backup": "node scripts/backup.mjs"
   },
   "dependencies": {
     "next": "^15.5.14",

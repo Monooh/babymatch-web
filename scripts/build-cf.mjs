@@ -38,7 +38,7 @@ const NEXT_SCRIPT = /<script\b(?![^>]*type="application\/ld\+json")(?![^>]*src="
 const SCRIPT_PRELOAD = /<link\b[^>]*\bas="script"[^>]*>/g
 const staticHtml = html => html.replace(NEXT_SCRIPT, '').replace(SCRIPT_PRELOAD, '')
 // These keep React: the home (live deck in the hero) and the app itself.
-const keepsScripts = rel => /^[a-z]{2}\.html$/.test(rel) || /^[a-z]{2}\/app\.html$/.test(rel) || rel === '404.html'
+const keepsScripts = rel => /^[a-z]{2}\.html$/.test(rel) || /^[a-z]{2}\/(app|vote)\.html$/.test(rel) || rel === '404.html'
 
 let stripped = 0
 function copy(from, to, rel = '') {

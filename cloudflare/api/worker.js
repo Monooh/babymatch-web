@@ -8,6 +8,9 @@
 // A list is a map {name id: [kind, time]} merged entry by entry, newest wins. Merging is idempotent, so a request
 // that is sent twice, arrives late or races another device can never drop a name.
 
+import { runBackup, health } from './backup.js'
+import { mailOn, cleanEmail, compose, send } from './mail.js'
+
 const KIND = { NO: 0, LIKE: 1, SUPER: 2, CLEARED: 3 }
 const COOKIE = 'bm_s'          // the secret (HttpOnly)
 const MARKER = 'bm_u'          // "this browser has a saved list", readable by the app
@@ -18,7 +21,12 @@ const MAX_ID = 200_000
 const ALPHABET = 'abcdefghjkmnpqrstuvwxyz23456789' // no look-alikes: codes get read out loud and retyped
 const EVENTS = new Set(['app_open', 'quiz_start', 'quiz_done', 'quiz_skip', 'first_swipe', 'swipes_10', 'swipes_50', 'first_like', 'likes_10',
   'superlike', 'invite_created', 'invite_shared', 'invite_opened', 'partner_joined', 'match', 'list_opened', 'filters_used', 'backup_link', 'restored',
-  'from_home', 'from_name', 'from_list', 'from_invite', 'from_other'])
+  'from_home', 'from_name', 'from_list', 'from_invite', 'from_other', 'from_vote',
+  'final_opened', 'duel', 'duels_10', 'surname_set', 'poll_created', 'poll_shared', 'vote_opened', 'vote_cast', 'email_saved', 'email_confirmed'])
+const TOKEN_AGE = 2 * 86400_000   // links sent by email
+const AWAY = 30 * 60_000          // no change for this long: the person is not in the app right now
+const MAIL_EVERY = 20 * 3600_000  // at most one "new matches" email in this time
+const MAX_VOTERS = 300
 
 const now = () => Date.now()
 
@@ -69,6 +77,7 @@ function mergeOps(map, ops) {
   }
   return changed
 }
+const isLike = kind => kind === KIND.LIKE || kind === KIND.SUPER
 function count(map) {
   let likes = 0, supers = 0
   for (const id in map) { const k = map[id][0]; if (k === KIND.LIKE) likes++; else if (k === KIND.SUPER) { likes++; supers++ } }
@@ -120,26 +129,32 @@ async function createUser(env, body) {
  * Write what the client sent on top of what is stored. The update only goes through if nobody else wrote in between
  * (the rev still matches); otherwise read again and merge again. Returns the stored person and the rev it started from.
  */
-async function save(env, user, { ops = [], prefs = null, name = null, lang = '' }) {
+async function save(env, user, { ops = [], prefs = null, final = null, name = null, lang = '' }) {
   for (let attempt = 0; attempt < 30; attempt++) {
     // Lost the race to another device: wait a moment (a different one each time, so they stop colliding) and redo it.
     if (attempt) await new Promise(r => setTimeout(r, 10 + Math.random() * 40 * Math.min(attempt, 6)))
     const map = parseSwipes(user.swipes)
+    // Names this request turns into a like for the first time (a list sent again in full must not count as news).
+    const gained = ops.filter(([id, kind, ms]) => isLike(kind) && newer(kind, ms, map[id]) && !(map[id] && isLike(map[id][0]))).map(op => op[0])
     let dirty = mergeOps(map, ops)
     let prefsText = user.prefs, prefsAt = user.prefs_at
     if (prefs && Number.isFinite(prefs.at) && prefs.at > prefsAt && typeof prefs.data === 'string' && prefs.data.length <= 8000) {
       prefsText = prefs.data; prefsAt = Math.min(Math.floor(prefs.at), now() + 60_000); dirty = true
     }
+    let finalText = user.final, finalAt = user.final_at
+    if (final && Number.isFinite(final.at) && final.at > finalAt && typeof final.data === 'string' && final.data.length <= 8000) {
+      finalText = final.data; finalAt = Math.min(Math.floor(final.at), now() + 60_000); dirty = true
+    }
     const nextName = name !== null && name !== user.name ? name : user.name
     const nextLang = lang && lang !== user.lang ? lang : user.lang
     if (nextName !== user.name || nextLang !== user.lang) dirty = true
-    if (!dirty) return { user, base: user.rev }
+    if (!dirty) return { user, base: user.rev, gained: [] }
     const swipes = JSON.stringify(map), c = count(map)
     const done = await env.DB.prepare(
-      'UPDATE users SET swipes = ?, prefs = ?, prefs_at = ?, name = ?, lang = ?, likes = ?, supers = ?, rev = rev + 1, updated_at = ? WHERE id = ? AND rev = ?',
-    ).bind(swipes, prefsText, prefsAt, nextName, nextLang, c.likes, c.supers, now(), user.id, user.rev).run()
+      'UPDATE users SET swipes = ?, prefs = ?, prefs_at = ?, final = ?, final_at = ?, name = ?, lang = ?, likes = ?, supers = ?, rev = rev + 1, updated_at = ? WHERE id = ? AND rev = ?',
+    ).bind(swipes, prefsText, prefsAt, finalText, finalAt, nextName, nextLang, c.likes, c.supers, now(), user.id, user.rev).run()
     if (done.meta.changes === 1) {
-      return { user: { ...user, swipes, prefs: prefsText, prefs_at: prefsAt, name: nextName, lang: nextLang, rev: user.rev + 1 }, base: user.rev }
+      return { user: { ...user, swipes, prefs: prefsText, prefs_at: prefsAt, final: finalText, final_at: finalAt, name: nextName, lang: nextLang, rev: user.rev + 1 }, base: user.rev, gained }
     }
     user = await getUser(env, user.id)
     if (!user) return null
@@ -147,10 +162,12 @@ async function save(env, user, { ops = [], prefs = null, name = null, lang = '' 
   return null
 }
 
-/** What a client needs to draw the partner: their name and what they like. The list is left out when it has not changed. */
-async function partnerOf(env, user, seen) {
-  if (!user.partner_id) return null
-  const p = await env.DB.prepare('SELECT id, name, swipes, rev FROM users WHERE id = ?').bind(user.partner_id).first()
+const partnerRow = (env, user) => (user.partner_id
+  ? env.DB.prepare('SELECT id, name, lang, swipes, rev, final, email, email_ok, mail_at, mail_key, updated_at FROM users WHERE id = ?').bind(user.partner_id).first()
+  : null)
+
+/** What a client needs to draw the partner: their name, what they like and how they ranked it. Left out when unchanged. */
+function partnerView(p, seen) {
   if (!p) return null
   const out = { id: p.id, name: p.name, rev: p.rev }
   if (!Array.isArray(seen) || seen[0] !== p.id || seen[1] !== p.rev) {
@@ -158,37 +175,61 @@ async function partnerOf(env, user, seen) {
     out.likes = []; out.supers = []
     for (const id in map) {
       const k = map[id][0]
-      if (k === KIND.LIKE || k === KIND.SUPER) out.likes.push(Number(id))
+      if (isLike(k)) out.likes.push(Number(id))
       if (k === KIND.SUPER) out.supers.push(Number(id))
     }
+    out.final = p.final || ''
   }
   return out
 }
 
 /** The answer to every call: where the server stands, and the full list whenever the client is behind. */
-async function snapshot(env, user, body, { full = false, base = user.rev, token = null } = {}) {
-  const out = { ok: true, id: user.id, rev: user.rev, plan: user.plan, invite: user.invite || null, partner: await partnerOf(env, user, full ? null : body.prev) }
+async function snapshot(env, user, body, { full = false, base = user.rev, token = null, prow } = {}) {
+  const p = prow !== undefined ? prow : await partnerRow(env, user)
+  const out = {
+    ok: true, id: user.id, rev: user.rev, plan: user.plan, invite: user.invite || null, partner: partnerView(p, full ? null : body.prev),
+    mail: mailOn(env), email: user.email ? [user.email, user.email_ok ? 1 : 0] : null,
+  }
   if (full || Number(body.rev) !== base) {
-    out.state = { swipes: asList(parseSwipes(user.swipes)), prefs: user.prefs, prefsAt: user.prefs_at, name: user.name }
+    out.state = { swipes: asList(parseSwipes(user.swipes)), prefs: user.prefs, prefsAt: user.prefs_at, final: user.final || '', finalAt: user.final_at || 0, name: user.name }
   }
   if (token) out.token = token
   return out
 }
 
-async function sync(env, body, auth) {
+const appLink = (meta, lang, hash = '') => `${meta.base}/${/^(es|en|fr|de|it|pt)$/.test(lang) ? lang : 'en'}/app${hash}`
+const offLink = (meta, person) => (person.mail_key ? appLink(meta, person.lang, '#u=' + person.mail_key) : '')
+
+/** The partner is away and this request gave the two of them new names in common: tell them, once a day at most. */
+async function tellMatches(env, meta, user, p, gained) {
+  if (!gained.length || !p || !p.email || !p.email_ok || !mailOn(env)) return
+  const t = now()
+  if (t - p.updated_at < (meta.away ?? AWAY) || t - p.mail_at < MAIL_EVERY) return
+  const theirs = parseSwipes(p.swipes)
+  const n = gained.filter(id => theirs[id] && isLike(theirs[id][0])).length
+  if (!n) return
+  // Whoever moves mail_at first sends; a second request racing this one finds it moved and stays quiet.
+  const won = await env.DB.prepare('UPDATE users SET mail_at = ? WHERE id = ? AND mail_at = ?').bind(t, p.id, p.mail_at).run()
+  if (won.meta.changes !== 1) return
+  meta.ctx.waitUntil(send(env, p.email, compose('matches', p.lang, { name: p.name, partner: user.name, count: n, link: appLink(meta, p.lang), off: offLink(meta, p) })))
+}
+
+async function sync(env, body, auth, meta) {
   const ops = cleanOps(body.ops, now())
   let { user } = auth, token = null
   if (!user) {
     // Someone just looking around has nothing to save: no person is created until there is.
-    if (!ops.length && !body.prefs) return { data: { ok: true, anon: true } };
+    if (!ops.length && !body.prefs && !body.final) return { data: { ok: true, anon: true, mail: mailOn(env) } };
     const made = await createUser(env, body)
     user = made.user; token = made.token
   } else if (body.needToken) {
     token = await newSession(env, user.id) // the app lost its copy of the secret but the cookie survived
   }
-  const saved = await save(env, user, { ops, prefs: body.prefs, name: cleanName(body.name), lang: cleanLang(body.lang) })
+  const saved = await save(env, user, { ops, prefs: body.prefs, final: body.final, name: cleanName(body.name), lang: cleanLang(body.lang) })
   if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
-  return { data: await snapshot(env, saved.user, body, { base: saved.base, token }), token: token || auth.token }
+  const prow = await partnerRow(env, saved.user)
+  await tellMatches(env, meta, saved.user, prow, saved.gained)
+  return { data: await snapshot(env, saved.user, body, { base: saved.base, token, prow }), token: token || auth.token }
 }
 
 async function invite(env, body, auth) {
@@ -200,7 +241,7 @@ async function invite(env, body, auth) {
   for (let i = 0; i < 5 && !user.invite; i++) {
     const code = pick(12)
     try {
-      await env.DB.prepare('UPDATE users SET invite = ?, rev = rev + 1 WHERE id = ? AND invite IS NULL').bind(code, user.id).run()
+      await env.DB.prepare('UPDATE users SET invite = ?, rev = rev + 1, updated_at = ? WHERE id = ? AND invite IS NULL').bind(code, now(), user.id).run()
     } catch { continue } // the code was taken: try another
     user = await getUser(env, user.id)
   }
@@ -208,9 +249,20 @@ async function invite(env, body, auth) {
   return { data: await snapshot(env, user, body, { full: true, token }), token: token || auth.token }
 }
 
+/** Everything about one person, gone; `gone` tells the backup to forget them too. */
+const erase = (env, id) => [
+  env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1, updated_at = ? WHERE partner_id = ?').bind(now(), id),
+  env.DB.prepare('DELETE FROM votes WHERE poll IN (SELECT code FROM polls WHERE user_id = ?)').bind(id),
+  env.DB.prepare('DELETE FROM polls WHERE user_id = ?').bind(id),
+  env.DB.prepare('DELETE FROM mail_tokens WHERE user_id = ?').bind(id),
+  env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(id),
+  env.DB.prepare('DELETE FROM users WHERE id = ?').bind(id),
+  env.DB.prepare('INSERT INTO gone (id, at) VALUES (?, ?) ON CONFLICT (id) DO NOTHING').bind(id, now()),
+]
+
 const link = (env, a, b) => env.DB.prepare('UPDATE users SET partner_id = ?, rev = rev + 1, updated_at = ? WHERE id = ?').bind(b, now(), a)
 
-async function join(env, body, auth) {
+async function join(env, body, auth, meta) {
   const code = typeof body.code === 'string' ? body.code.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 20) : ''
   const host = code ? await env.DB.prepare('SELECT * FROM users WHERE invite = ?').bind(code).first() : null
   if (!host) return { data: { ok: false, error: 'unknown' }, status: 404 }
@@ -229,7 +281,7 @@ async function join(env, body, auth) {
       if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
       token = await newSession(env, taken.id)
       if (user && !user.partner_id) {
-        await env.DB.batch([env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(user.id), env.DB.prepare('DELETE FROM users WHERE id = ?').bind(user.id)])
+        await env.DB.batch(erase(env, user.id))
       }
       return { data: { ...(await snapshot(env, saved.user, body, { full: true, token })), claimed: true }, token }
     }
@@ -241,9 +293,12 @@ async function join(env, body, auth) {
   user = saved.user
   if (user.partner_id !== host.id) {
     const steps = [link(env, user.id, host.id), link(env, host.id, user.id)]
-    if (user.partner_id) steps.push(env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1 WHERE id = ? AND partner_id = ?').bind(user.partner_id, user.id))
+    if (user.partner_id) steps.push(env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1, updated_at = ? WHERE id = ? AND partner_id = ?').bind(now(), user.partner_id, user.id))
     await env.DB.batch(steps)
     user = await getUser(env, user.id)
+    if (host.email && host.email_ok && mailOn(env)) {
+      meta.ctx.waitUntil(send(env, host.email, compose('joined', host.lang, { name: host.name, partner: user.name, link: appLink(meta, host.lang), off: offLink(meta, host) })))
+    }
   }
   return { data: { ...(await snapshot(env, user, body, { full: true, token })), joined: true }, token: token || auth.token }
 }
@@ -253,8 +308,8 @@ async function leave(env, body, auth) {
   if (!user) return { data: { ok: false, error: 'auth' }, status: 401 }
   if (user.partner_id) {
     await env.DB.batch([
-      env.DB.prepare('UPDATE users SET partner_id = NULL, invite = NULL, rev = rev + 1 WHERE id = ?').bind(user.id),
-      env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1 WHERE id = ? AND partner_id = ?').bind(user.partner_id, user.id),
+      env.DB.prepare('UPDATE users SET partner_id = NULL, invite = NULL, rev = rev + 1, updated_at = ? WHERE id = ?').bind(now(), user.id),
+      env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1, updated_at = ? WHERE id = ? AND partner_id = ?').bind(now(), user.partner_id, user.id),
     ])
   }
   return { data: await snapshot(env, await getUser(env, user.id), body, { full: true }) }
@@ -273,14 +328,175 @@ async function device(env, body, auth) {
 async function forget(env, body, auth) {
   const { user } = auth
   if (user) {
-    await env.DB.batch([
-      env.DB.prepare('UPDATE users SET partner_id = NULL, rev = rev + 1 WHERE partner_id = ?').bind(user.id),
-      env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(user.id),
-      env.DB.prepare('DELETE FROM users WHERE id = ?').bind(user.id),
-    ])
+    await env.DB.batch(erase(env, user.id))
   }
   return { data: { ok: true }, clear: true }
 }
+
+// ───────── optional email ─────────
+
+async function mailToken(env, user, address) {
+  const token = secret()
+  await env.DB.prepare('INSERT INTO mail_tokens (hash, user_id, email, created_at) VALUES (?, ?, ?, ?)').bind(await sha(token), user.id, address, now()).run()
+  return token
+}
+const tooMany = async (env, user) => (await env.DB.prepare('SELECT COUNT(*) AS n FROM mail_tokens WHERE user_id = ? AND created_at > ?').bind(user.id, now() - 3600_000).first()).n >= 4
+
+/** "Save my list with my email": keep the address and send the link that confirms it. */
+async function email(env, body, auth, meta) {
+  if (!mailOn(env)) return { data: { ok: false, error: 'off' } }
+  const address = cleanEmail(body.email)
+  if (!address) return { data: { ok: false, error: 'email' } }
+  let { user } = auth, token = null
+  if (!user) ({ user, token } = await createUser(env, body))
+  const saved = await save(env, user, { ops: cleanOps(body.ops, now()), prefs: body.prefs, final: body.final, name: cleanName(body.name), lang: cleanLang(body.lang) })
+  if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
+  user = saved.user
+  if (!(user.email === address && user.email_ok)) {
+    if (await tooMany(env, user)) return { data: { ok: false, error: 'slow' } }
+    await env.DB.prepare('UPDATE users SET email = ?, email_ok = 0, mail_key = COALESCE(mail_key, ?), updated_at = ? WHERE id = ?').bind(address, pick(20), now(), user.id).run()
+    user = await getUser(env, user.id)
+    const t = await mailToken(env, user, address)
+    meta.ctx.waitUntil(send(env, address, compose('confirm', user.lang, { name: user.name, link: appLink(meta, user.lang, '#m=' + t) })))
+  }
+  return { data: await snapshot(env, user, body, { base: saved.base, token }), token: token || auth.token }
+}
+
+/** The link in the email was opened: the address is confirmed and this device becomes one of that person's devices. */
+async function emailConfirm(env, body, auth) {
+  const raw = typeof body.token === 'string' && /^[\w-]{20,}$/.test(body.token) ? body.token : ''
+  const row = raw ? await env.DB.prepare('SELECT * FROM mail_tokens WHERE hash = ?').bind(await sha(raw)).first() : null
+  if (!row || now() - row.created_at > TOKEN_AGE) return { data: { ok: false, error: 'expired' } }
+  let user = await getUser(env, row.user_id)
+  if (!user) return { data: { ok: false, error: 'expired' } }
+  const steps = [env.DB.prepare('DELETE FROM mail_tokens WHERE hash = ?').bind(row.hash)]
+  if (user.email === row.email && !user.email_ok) steps.push(env.DB.prepare('UPDATE users SET email_ok = 1, updated_at = ? WHERE id = ?').bind(now(), user.id))
+  await env.DB.batch(steps)
+  user = await getUser(env, user.id)
+  // Whatever this device had as someone else comes along, as when a partner reclaims their list.
+  const other = auth.user && auth.user.id !== user.id ? auth.user : null
+  const ops = [...(other ? asList(parseSwipes(other.swipes)) : []), ...cleanOps(body.ops, now())]
+  const saved = await save(env, user, { ops, lang: cleanLang(body.lang) })
+  if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
+  const token = auth.user && !other ? null : await newSession(env, user.id)
+  if (other && !other.partner_id && !other.email_ok) await env.DB.batch(erase(env, other.id))
+  return { data: { ...(await snapshot(env, saved.user, body, { full: true, token })), confirmed: true }, token: token || auth.token }
+}
+
+/** "I lost my list": if a confirmed address matches, send the link that opens it. The answer never says whether it did. */
+async function emailLogin(env, body, auth, meta) {
+  if (!mailOn(env)) return { data: { ok: false, error: 'off' } }
+  const address = cleanEmail(body.email)
+  if (!address) return { data: { ok: false, error: 'email' } }
+  const user = await env.DB.prepare('SELECT * FROM users WHERE email = ? AND email_ok = 1 ORDER BY updated_at DESC LIMIT 1').bind(address).first()
+  if (user && !(await tooMany(env, user))) {
+    const t = await mailToken(env, user, address)
+    const lang = cleanLang(body.lang) || user.lang
+    meta.ctx.waitUntil(send(env, address, compose('login', lang, { name: user.name, link: appLink(meta, lang, '#m=' + t) })))
+  }
+  return { data: { ok: true } }
+}
+
+/** Forget the address: from the app, or from the link at the foot of an email. */
+async function emailOff(env, body, auth) {
+  const key = typeof body.key === 'string' && /^[a-z0-9]{16,40}$/.test(body.key) ? body.key : ''
+  const user = key ? await env.DB.prepare('SELECT * FROM users WHERE mail_key = ?').bind(key).first() : auth.user
+  if (!user) return { data: { ok: false, error: key ? 'unknown' : 'auth' }, status: key ? 404 : 401 }
+  await env.DB.batch([
+    env.DB.prepare('UPDATE users SET email = NULL, email_ok = 0, updated_at = ? WHERE id = ?').bind(now(), user.id),
+    env.DB.prepare('DELETE FROM mail_tokens WHERE user_id = ?').bind(user.id),
+  ])
+  if (auth.user && auth.user.id === user.id) return { data: await snapshot(env, await getUser(env, user.id), body) }
+  return { data: { ok: true } }
+}
+
+// ───────── family and friends vote on the finalists ─────────
+
+function cleanNames(raw) {
+  const out = [], seen = new Set()
+  for (const item of Array.isArray(raw) ? raw.slice(0, 8) : []) {
+    if (!Array.isArray(item)) continue
+    const id = item[0], name = cleanName(item[1])
+    if (!Number.isInteger(id) || id < 0 || id > MAX_ID || seen.has(id) || !name) continue
+    seen.add(id); out.push([id, name])
+  }
+  return out
+}
+const parseNames = text => { try { const v = JSON.parse(text); return Array.isArray(v) ? v : [] } catch { return [] } }
+const myPoll = (env, user) => env.DB.prepare('SELECT * FROM polls WHERE user_id = ? OR user_id = ? ORDER BY created_at DESC LIMIT 1').bind(user.id, user.partner_id || user.id).first()
+
+/** A poll as the couple sees it (with who voted what) or as a voter sees it (totals only, and only after voting). */
+async function pollView(env, row, { owner = false, counts = owner } = {}) {
+  const out = { code: row.code, names: parseNames(row.names), who: parseNames(row.who), lang: row.lang }
+  if (counts) {
+    const rows = (await env.DB.prepare('SELECT name_id, COUNT(*) AS n FROM votes WHERE poll = ? GROUP BY name_id').bind(row.code).all()).results
+    out.counts = Object.fromEntries(rows.map(r => [r.name_id, r.n]))
+    out.total = rows.reduce((a, r) => a + r.n, 0)
+  }
+  if (owner) {
+    out.voters = (await env.DB.prepare("SELECT name, name_id FROM votes WHERE poll = ? AND name <> '' ORDER BY at DESC LIMIT 60").bind(row.code).all()).results.map(r => [r.name, r.name_id])
+  }
+  return out
+}
+
+/** Open the vote, or change the names on it. A couple shares one poll; votes for a name that was taken off are dropped. */
+async function poll(env, body, auth) {
+  const { user } = auth
+  if (!user) return { data: { ok: false, error: 'auth' }, status: 401 }
+  const names = cleanNames(body.names)
+  if (names.length < 2) return { data: { ok: false, error: 'names' } }
+  const partner = user.partner_id ? await getUser(env, user.partner_id) : null
+  const who = JSON.stringify([cleanName(body.name) || user.name, partner ? partner.name : ''].filter(Boolean))
+  let row = await myPoll(env, user)
+  if (row) {
+    await env.DB.batch([
+      env.DB.prepare('UPDATE polls SET names = ?, who = ?, lang = ? WHERE code = ?').bind(JSON.stringify(names), who, cleanLang(body.lang) || row.lang, row.code),
+      env.DB.prepare(`DELETE FROM votes WHERE poll = ? AND name_id NOT IN (${names.map(() => '?').join(',')})`).bind(row.code, ...names.map(n => n[0])),
+    ])
+  } else {
+    await env.DB.prepare('INSERT INTO polls (code, user_id, names, who, lang, created_at) VALUES (?, ?, ?, ?, ?, ?)')
+      .bind(pick(10), user.id, JSON.stringify(names), who, cleanLang(body.lang) || user.lang, now()).run()
+  }
+  row = await myPoll(env, user)
+  return { data: { ok: true, poll: await pollView(env, row, { owner: true }) } }
+}
+async function pollMine(env, body, auth) {
+  const { user } = auth
+  if (!user) return { data: { ok: true, poll: null } }
+  const row = await myPoll(env, user)
+  return { data: { ok: true, poll: row ? await pollView(env, row, { owner: true }) : null } }
+}
+async function pollClose(env, body, auth) {
+  const { user } = auth
+  const row = user ? await myPoll(env, user) : null
+  if (row) await env.DB.batch([env.DB.prepare('DELETE FROM votes WHERE poll = ?').bind(row.code), env.DB.prepare('DELETE FROM polls WHERE code = ?').bind(row.code)])
+  return { data: { ok: true, poll: null } }
+}
+
+const cleanCode = v => (typeof v === 'string' ? v.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 20) : '')
+const cleanVoter = v => (typeof v === 'string' && /^[a-z0-9]{12,32}$/.test(v) ? v : '')
+
+/** What someone with the link sees. Totals stay hidden until they have voted, so nobody just follows the crowd. */
+async function pollGet(env, body) {
+  const code = cleanCode(body.code)
+  const row = code ? await env.DB.prepare('SELECT * FROM polls WHERE code = ?').bind(code).first() : null
+  if (!row) return { data: { ok: false, error: 'unknown' }, status: 404 }
+  const voter = cleanVoter(body.voter)
+  const mine = voter ? await env.DB.prepare('SELECT name_id FROM votes WHERE poll = ? AND voter = ?').bind(code, voter).first() : null
+  return { data: { ok: true, poll: await pollView(env, row, { counts: !!mine }), mine: mine ? mine.name_id : null } }
+}
+async function vote(env, body) {
+  const code = cleanCode(body.code), voter = cleanVoter(body.voter)
+  const row = code ? await env.DB.prepare('SELECT * FROM polls WHERE code = ?').bind(code).first() : null
+  if (!row) return { data: { ok: false, error: 'unknown' }, status: 404 }
+  if (!voter || !parseNames(row.names).some(n => n[0] === body.id)) return { data: { ok: false, error: 'vote' }, status: 400 }
+  const had = await env.DB.prepare('SELECT 1 AS one FROM votes WHERE poll = ? AND voter = ?').bind(code, voter).first()
+  if (!had && (await env.DB.prepare('SELECT COUNT(*) AS n FROM votes WHERE poll = ?').bind(code).first()).n >= MAX_VOTERS) return { data: { ok: false, error: 'full' } }
+  await env.DB.prepare('INSERT INTO votes (poll, voter, name_id, name, at) VALUES (?, ?, ?, ?, ?) ON CONFLICT (poll, voter) DO UPDATE SET name_id = excluded.name_id, name = excluded.name, at = excluded.at')
+    .bind(code, voter, body.id, cleanName(body.name) || '', now()).run()
+  return { data: { ok: true, poll: await pollView(env, row, { counts: true }), mine: body.id } }
+}
+
 
 async function track(env, body) {
   const lang = cleanLang(body.lang) || 'xx'
@@ -295,17 +511,35 @@ async function track(env, body) {
   return { data: { ok: true } }
 }
 
-const ROUTES = { '/api/sync': sync, '/api/invite': invite, '/api/join': join, '/api/leave': leave, '/api/device': device, '/api/forget': forget, '/api/e': track }
+const ROUTES = {
+  '/api/sync': sync, '/api/invite': invite, '/api/join': join, '/api/leave': leave, '/api/device': device, '/api/forget': forget, '/api/e': track,
+  '/api/email': email, '/api/email/confirm': emailConfirm, '/api/email/login': emailLogin, '/api/email/off': emailOff,
+  '/api/poll': poll, '/api/poll/mine': pollMine, '/api/poll/close': pollClose, '/api/poll/get': pollGet, '/api/vote': vote,
+}
+const PUBLIC = new Set([track, pollGet, vote]) // no person behind these: nothing to look up
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url)
+    if (url.pathname === '/api/health' && request.method === 'GET') {
+      const h = await health(env)
+      return reply(h, { status: h.ok ? 200 : 503 })
+    }
     // Only a local dev server on another port needs cross-origin access; in production the app and the API share a host.
     const origin = request.headers.get('Origin')
     const cors = env.DEV_ORIGIN && origin === env.DEV_ORIGIN
       ? { 'Access-Control-Allow-Origin': origin, 'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Headers': 'Content-Type, Authorization', Vary: 'Origin' }
       : null
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors || {} })
+    // Local development only: run the backup now, and read the emails that would have been sent.
+    if (env.DEV_ORIGIN && url.pathname === '/api/_backup') {
+      const done = await runBackup(env, Date.now() + 120_000)
+      const id = url.searchParams.get('id')
+      const copy = id ? await env.BACKUP.prepare('SELECT data FROM users_copy WHERE id = ?').bind(id).first() : null
+      const sessions = id ? (await env.BACKUP.prepare('SELECT COUNT(*) AS n FROM sessions_copy WHERE user_id = ?').bind(id).first()).n : 0
+      return reply({ ...done, copy: copy ? JSON.parse(copy.data) : null, sessions }, { cors })
+    }
+    if (env.DEV_ORIGIN && url.pathname === '/api/_outbox') return reply({ ok: true, mail: globalThis.__outbox || [] }, { cors })
     const handler = ROUTES[url.pathname]
     if (!handler) return reply({ ok: false, error: 'not_found' }, { status: 404, cors })
     if (request.method !== 'POST') return reply({ ok: false, error: 'method' }, { status: 405, cors })
@@ -319,13 +553,25 @@ export default {
     } catch { return reply({ ok: false, error: 'json' }, { status: 400, cors }) }
     if (!body || typeof body !== 'object') return reply({ ok: false, error: 'json' }, { status: 400, cors })
     try {
-      const auth = handler === track ? null : await whoIs(request, env)
-      const { data, status, token, clear } = await handler(env, body, auth)
+      const auth = PUBLIC.has(handler) ? null : await whoIs(request, env)
+      // Links in emails point at the app: the same host in production, the dev server's when run locally.
+      const { data, status, token, clear } = await handler(env, body, auth, { ctx, base: env.DEV_ORIGIN || url.origin, away: env.DEV_ORIGIN && request.headers.get('X-Test-Away') ? 0 : undefined })
       const secure = url.protocol === 'https:'
       return reply(data, { status, cors, cookies: clear ? cookiesFor('', secure, 0) : token ? cookiesFor(token, secure) : [] })
     } catch (e) {
       console.error(url.pathname, e && e.stack ? e.stack : e)
       return reply({ ok: false, error: 'server' }, { status: 500, cors })
     }
+  },
+
+  /** Every 20 minutes: refresh the backup copy and drop email links that have expired. */
+  async scheduled(event, env, ctx) {
+    ctx.waitUntil((async () => {
+      try {
+        await env.DB.prepare('DELETE FROM mail_tokens WHERE created_at < ?').bind(Date.now() - TOKEN_AGE).run()
+        const r = await runBackup(env)
+        if (!r.ok) console.error('backup', JSON.stringify(r))
+      } catch (e) { console.error('backup', e && e.stack ? e.stack : e) }
+    })())
   },
 }

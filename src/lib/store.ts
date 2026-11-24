@@ -14,7 +14,10 @@ export type Filters = {
   len: ('short' | 'medium' | 'long')[]; pop: ('popular' | 'middle' | 'rare')[]; nativeOnly: boolean
 }
 /** `id` is set when the partner is joined through the server (live); without it, it is a list imported from an old link. */
-export type Partner = { name: string; likes: number[]; supers?: number[]; at: number; id?: string; rev?: number }
+export type Partner = { name: string; likes: number[]; supers?: number[]; at: number; id?: string; rev?: number; final?: Final }
+/** The final round, one per person: how each name fared head to head ([rating, duels played]) and the one they would pick. */
+export type Final = { duel: Record<number, [number, number]>; pick: number | null }
+export const EMPTY_FINAL: Final = { duel: {}, pick: null }
 export type State = {
   v: 1
   quiz: Quiz | null
@@ -38,12 +41,18 @@ export type State = {
   pending: { code: string; name: string } | null // an invitation opened but not answered or not yet through
   seen: number[]                // matches already announced
   once: Record<string, 1>       // one-off usage events already counted
+  final: Final
+  finalAt: number               // when the final round last changed here
+  finalDirty: boolean
+  mail: boolean                 // the server can send email (otherwise the app does not mention it)
+  email: [address: string, confirmed: 0 | 1] | null
 }
 
 export const EMPTY_FILTERS: Filters = { g: [], cultures: [], tags: [], letters: [], len: [], pop: [], nativeOnly: true }
 const INITIAL: State = {
   v: 1, quiz: null, quizSkipped: false, likes: {}, nopes: {}, stars: [], filters: EMPTY_FILTERS, list: null, me: '', surname: '', partner: null,
   gone: {}, dirty: {}, rev: 0, prefsAt: 0, prefsDirty: false, uid: null, invite: null, pending: null, seen: [], once: {},
+  final: EMPTY_FINAL, finalAt: 0, finalDirty: false, mail: false, email: null,
 }
 const KEY = 'babymatch:v1'
 /** What travels to the server as "preferences": losing a device should not mean answering the questions again. */
@@ -78,7 +87,8 @@ export function setState(patch: Partial<State> | ((s: State) => Partial<State>),
   load()
   const p = typeof patch === 'function' ? patch(state) : patch
   const touchesPrefs = !opts?.remote && PREFS.some(k => k in p && p[k] !== state[k])
-  state = { ...state, ...p, ...(touchesPrefs ? { prefsAt: Date.now(), prefsDirty: true } : null) }
+  const touchesFinal = !opts?.remote && 'final' in p && p.final !== state.final
+  state = { ...state, ...p, ...(touchesPrefs ? { prefsAt: Date.now(), prefsDirty: true } : null), ...(touchesFinal ? { finalAt: Date.now(), finalDirty: true } : null) }
   persist()
   listeners.forEach(fn => fn())
 }
@@ -114,7 +124,7 @@ function allDirty(s: State): Record<number, 1> {
   for (const id in s.gone) d[id] = 1
   return d
 }
-export const markAllDirty = () => setState(s => ({ dirty: allDirty(s), prefsDirty: s.prefsAt > 0 }), { remote: true })
+export const markAllDirty = () => setState(s => ({ dirty: allDirty(s), prefsDirty: s.prefsAt > 0, finalDirty: s.finalAt > 0 }), { remote: true })
 
 /** Put answers into the four maps. Used for a person's own swipes and for what arrives from the server. */
 function withEntries(s: State, entries: Op[]): Pick<State, 'likes' | 'nopes' | 'stars' | 'gone'> {

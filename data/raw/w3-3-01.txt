@@ -1,0 +1,100 @@
+Yeremi|m|hebrew|spanish|2|biblical,modern|Dios exalta|God exalts|Dieu élève|Gott erhöht|Dio esalta|Deus exalta
+Sirin|f|persian|arabic|2|sweet|Dulce|Sweet|Douce|Die Süße|Dolce|Doce
+Fatumata|f|arabic|african|2|classic|La que desteta|She who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Quique|m|germanic|spanish|2|sweet|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Jakes|m|hebrew|basque,spanish|2|biblical,saint|Suplantador|Supplanter|Supplanteur|Verdränger|Soppiantatore|Suplantador
+Kautar|f|arabic|arabic,spanish|2|virtue|Abundancia|Abundance|Abondance|Fülle|Abbondanza|Abundância
+Xela|f|greek|galician,spanish|2|sweet|Mensajera, ángel|Messenger, angel|Messagère, ange|Botin, Engel|Messaggera, angelo|Mensageira, anjo
+Luar|m|latin|galician,spanish|2|celestial,nature,modern|Luz de luna|Moonlight|Clair de lune|Mondschein|Chiaro di luna|Luar
+Salva|m|latin|spanish|2|sweet|Salvador|Saviour|Sauveur|Retter|Salvatore|Salvador
+Barae|m|arabic|arabic,spanish|2|virtue|Inocente, libre de culpa|Innocent, free of guilt|Innocent, sans faute|Unschuldig, frei von Schuld|Innocente, senza colpa|Inocente, livre de culpa
+Grau|m|germanic|catalan,spanish|2|saint,warrior|Gobernante con lanza|Spear ruler|Souverain à la lance|Herrscher mit dem Speer|Sovrano con la lancia|Soberano da lança
+Eman|f|arabic|arabic|2|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Nadin|f|slavic|arabic,spanish|2|virtue|Esperanza|Hope|Espoir|Hoffnung|Speranza|Esperança
+Ayub|m|hebrew|arabic,spanish|2|biblical,virtue|Perseguido, paciente|Persecuted, patient|Persécuté, patient|Verfolgt, geduldig|Perseguitato, paziente|Perseguido, paciente
+Kike|m|germanic|spanish|2|sweet|Señor del hogar|Ruler of the home|Maître du foyer|Herr des Hauses|Signore della casa|Senhor do lar
+Niama|f|arabic|arabic|2|virtue|Bendición, gracia|Blessing, grace|Bénédiction, grâce|Segen, Gnade|Benedizione, grazia|Bênção, graça
+Maruan|m|arabic|arabic,spanish|2|strong|Piedra dura, sílex|Hard stone, flint|Pierre dure, silex|Harter Stein, Feuerstein|Pietra dura, selce|Pedra dura, sílex
+Anjana|f|other|spanish|2|mythology,nature|Hada buena de Cantabria|Good fairy of Cantabria|Bonne fée de Cantabrie|Gute Fee aus Kantabrien|Fata buona della Cantabria|Fada boa da Cantábria
+Nouha|f|arabic|arabic,french|2|virtue|Inteligencia, sensatez|Intelligence, good sense|Intelligence, sagesse|Verstand, Klugheit|Intelligenza, saggezza|Inteligência, sensatez
+Zacaria|m|hebrew|arabic,spanish|2|biblical|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus lembra
+Gia|f|hebrew|italian,english|2|modern,sweet|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Garoé|m|african|spanish|2|nature,place|Árbol sagrado de El Hierro|Sacred tree of El Hierro|Arbre sacré d'El Hierro|Heiliger Baum von El Hierro|Albero sacro di El Hierro|Árvore sagrada de El Hierro
+Izhan|m|hebrew|spanish|2|modern,strong|Firme, duradero|Firm, enduring|Ferme, durable|Fest, beständig|Fermo, duraturo|Firme, duradouro
+Leize|f|basque|basque,spanish|2|nature|Cueva, sima|Cave, chasm|Grotte, gouffre|Höhle, Schlucht|Grotta, abisso|Gruta, abismo
+Nura|f|arabic|arabic|2|light|Luz|Light|Lumière|Licht|Luce|Luz
+Tasio|m|greek|spanish,basque|2|vintage|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Chams|f|arabic|arabic,french|2|celestial,light|Sol|Sun|Soleil|Sonne|Sole|Sol
+Bassma|f|arabic|arabic,french|2|sweet|Sonrisa|Smile|Sourire|Lächeln|Sorriso|Sorriso
+Haytham|m|arabic|arabic|2|animal,strong|Halcón joven|Young hawk|Jeune faucon|Junger Falke|Giovane falco|Jovem falcão
+Solaiman|m|hebrew|arabic|2|biblical,royal|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Iradi|f|basque|basque,spanish|2|nature|Helechal|Fern field|Fougeraie|Farnfeld|Felceto|Campo de fetos
+Safouane|m|arabic|arabic,french|2|virtue|Puro, roca lisa|Pure, smooth rock|Pur, roche lisse|Rein, glatter Fels|Puro, roccia liscia|Puro, rocha lisa
+Celtia|f|celtic|galician,spanish|2|place|Tierra de los celtas|Land of the Celts|Terre des Celtes|Land der Kelten|Terra dei Celti|Terra dos celtas
+Wiame|f|arabic|arabic,french|2|virtue,love|Armonía, concordia|Harmony, concord|Harmonie, concorde|Harmonie, Eintracht|Armonia, concordia|Harmonia, concórdia
+Yared|m|hebrew|spanish|2|biblical|Descenso|Descent|Descente|Abstieg|Discesa|Descida
+Rachid|m|arabic|arabic,french|3|virtue,classic|Bien guiado|Rightly guided|Bien guidé|Rechtgeleitet|Ben guidato|Bem guiado
+Éliot|m|hebrew|french|3|modern,trendy|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Naïla|f|arabic|arabic,french|3|virtue|La que alcanza, triunfadora|She who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Mustapha|m|arabic|arabic,french|3|classic,virtue|El elegido|The chosen one|L'élu|Der Auserwählte|L'eletto|O escolhido
+Imrane|m|arabic|arabic,french|3|virtue|Prosperidad, larga vida|Prosperity, long life|Prospérité, longue vie|Wohlstand, langes Leben|Prosperità, lunga vita|Prosperidade, longa vida
+Soumaya|f|arabic|arabic,french|3|virtue|Elevada, sublime|Elevated, exalted|Élevée, sublime|Erhaben, hochstehend|Elevata, sublime|Elevada, sublime
+Nayla|f|arabic|arabic,french|3|virtue,modern|La que alcanza, triunfadora|She who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Issam|m|arabic|arabic,french|3|virtue,strong|Protección, salvaguarda|Protection, safeguard|Protection, sauvegarde|Schutz, Bewahrung|Protezione, salvaguardia|Proteção, salvaguarda
+Eyden|m|celtic|french|3|modern,trendy|Pequeño fuego|Little fire|Petit feu|Kleines Feuer|Piccolo fuoco|Pequeno fogo
+Hicham|m|arabic|arabic,french|3|virtue,classic|Generoso|Generous|Généreux|Großzügig|Generoso|Generoso
+Abdellah|m|arabic|arabic,french|3|classic,virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Brahim|m|hebrew|arabic,french|3|biblical,classic|Padre de multitudes|Father of multitudes|Père d'une multitude|Vater der Vielen|Padre di moltitudini|Pai de multidões
+Ishaq|m|hebrew|arabic|3|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Leïa|f|hebrew|french|3|modern,trendy|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Waël|m|arabic|arabic,french|3|virtue|El que busca refugio|Seeker of refuge|Celui qui cherche refuge|Der Zuflucht Suchende|Colui che cerca rifugio|Aquele que busca refúgio
+Zakariya|m|hebrew|arabic|3|biblical|Dios recuerda|God remembers|Dieu se souvient|Gott erinnert sich|Dio ricorda|Deus lembra
+Neïla|f|arabic|arabic,french|3|virtue|La que alcanza, triunfadora|She who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Bouchra|f|arabic|arabic,french|3|virtue|Buena noticia|Good news|Bonne nouvelle|Gute Nachricht|Buona notizia|Boa notícia
+Ela|f|turkish|turkish|2|nature|Color avellana|Hazel-coloured|Couleur noisette|Haselnussbraun|Color nocciola|Cor de avelã
+Andy|m|greek|english,french|2|modern|Viril, valiente|Manly, brave|Viril, courageux|Mannhaft, tapfer|Virile, coraggioso|Viril, corajoso
+Driss|m|arabic|arabic,french|2|classic,virtue|Estudioso, intérprete|Studious, interpreter|Studieux, interprète|Gelehrter, Ausleger|Studioso, interprete|Estudioso, intérprete
+Ania|f|hebrew|polish,french|2|sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Amadou|m|arabic|african,french|2|classic,virtue|El más digno de alabanza|Most praiseworthy|Le plus digne de louange|Der Lobenswerteste|Il più degno di lode|O mais digno de louvor
+Adil|m|arabic|arabic|2|virtue|Justo, equitativo|Just, fair|Juste, équitable|Gerecht, fair|Giusto, equo|Justo, equitativo
+Ishak|m|hebrew|arabic,turkish|2|biblical|Él reirá|He will laugh|Il rira|Er wird lachen|Egli riderà|Ele rirá
+Sanaa|f|arabic|arabic|2|light|Resplandor, esplendor|Radiance, splendour|Éclat, splendeur|Glanz, Pracht|Splendore, fulgore|Resplendor, esplendor
+Paco|m|latin|spanish,french|2|sweet,classic|Francés, hombre libre|Frenchman, free man|Français, homme libre|Franzose, freier Mann|Francese, uomo libero|Francês, homem livre
+Adama|u|hebrew|african,french|2|biblical|Tierra, hombre|Earth, man|Terre, homme|Erde, Mensch|Terra, uomo|Terra, homem
+Soulayman|m|hebrew|arabic,french|2|biblical,royal|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Siham|f|arabic|arabic|2|strong|Flechas|Arrows|Flèches|Pfeile|Frecce|Flechas
+Mariya|f|hebrew|russian,arabic|2|biblical,classic|Amada|Beloved|Bien-aimée|Geliebte|Amata|Amada
+Elaia|f|basque|basque,spanish,french|2|nature,animal,modern|Golondrina|Swallow|Hirondelle|Schwalbe|Rondine|Andorinha
+Zohra|f|arabic|arabic,french|2|flower,light,vintage|Flor, resplandor|Flower, radiance|Fleur, éclat|Blume, Glanz|Fiore, splendore|Flor, resplendor
+Dounia|f|arabic|arabic,french|2|classic|Mundo|World|Monde|Welt|Mondo|Mundo
+Mourad|m|arabic|arabic,french|2|classic|Deseado|Desired, wished for|Désiré|Der Ersehnte|Desiderato|Desejado
+Lamine|m|arabic|african,french|2|virtue,trendy|Digno de confianza|Trustworthy|Digne de confiance|Vertrauenswürdig|Degno di fiducia|Digno de confiança
+Illán|m|latin|spanish|2|saint,vintage|De la familia Julia|Of the Julian clan|De la gens Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Daniella|f|hebrew|spanish,english|2|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é meu juiz
+Moustapha|m|arabic|arabic,french|2|classic,virtue|El elegido|The chosen one|L'élu|Der Auserwählte|L'eletto|O escolhido
+Aymane|m|arabic|arabic,french|2|virtue|Afortunado, bendecido|Fortunate, blessed|Chanceux, béni|Glücklich, gesegnet|Fortunato, benedetto|Afortunado, abençoado
+Loubna|f|arabic|arabic,french|2|nature,sweet|Árbol del estoraque|Storax tree|Styrax|Storaxbaum|Storace|Estoraque
+Abderrahman|m|arabic|arabic|2|classic,virtue|Siervo del Misericordioso|Servant of the Merciful|Serviteur du Miséricordieux|Diener des Barmherzigen|Servo del Misericordioso|Servo do Misericordioso
+Cheikh|m|arabic|african,french|2|classic,strong|Anciano, jefe venerable|Elder, venerable chief|Ancien, chef vénérable|Ältester, ehrwürdiges Oberhaupt|Anziano, capo venerabile|Ancião, chefe venerável
+Waïl|m|arabic|arabic,french|2|virtue|El que busca refugio|Seeker of refuge|Celui qui cherche refuge|Der Zuflucht Suchende|Colui che cerca rifugio|Aquele que busca refúgio
+Youness|m|hebrew|arabic,french|2|biblical,animal|Paloma|Dove|Colombe|Taube|Colomba|Pomba
+Abderrahmane|m|arabic|arabic,french|2|classic,virtue|Siervo del Misericordioso|Servant of the Merciful|Serviteur du Miséricordieux|Diener des Barmherzigen|Servo del Misericordioso|Servo do Misericordioso
+Mahamadou|m|arabic|african,french|2|classic,virtue|Digno de alabanza|Praiseworthy|Digne de louange|Der Lobenswerte|Degno di lode|Digno de louvor
+Yasin|m|arabic|arabic,turkish|2|classic|Letras coránicas Ya Sin|Quranic letters Ya Sin|Lettres coraniques Ya Sin|Koranische Buchstaben Ya Sin|Lettere coraniche Ya Sin|Letras corânicas Ya Sin
+Fatma|f|arabic|arabic,turkish|2|classic|La que desteta|She who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|Aquela que desmama
+Yamina|f|arabic|arabic,french|2|vintage,virtue|Afortunada, bendecida|Fortunate, blessed|Chanceuse, bénie|Glücklich, gesegnet|Fortunata, benedetta|Afortunada, abençoada
+Soukaïna|f|arabic|arabic,french|2|virtue,sweet|Calma, serenidad|Calm, serenity|Calme, sérénité|Ruhe, Gelassenheit|Calma, serenità|Calma, serenidade
+Bosco|m|germanic|spanish|2|saint,nature|Bosque|Forest, woodland|Bois, forêt|Wald|Bosco|Bosque
+Insaf|f|arabic|arabic|2|virtue|Justicia, equidad|Justice, fairness|Justice, équité|Gerechtigkeit, Fairness|Giustizia, equità|Justiça, equidade
+Boubacar|m|arabic|african,french|2|classic|Padre del camello joven|Father of the young camel|Père du jeune chameau|Vater des jungen Kamels|Padre del giovane cammello|Pai do jovem camelo
+Samba|m|african|african,french|2|classic|Segundo hijo|Second son|Deuxième fils|Zweiter Sohn|Secondo figlio|Segundo filho
+Bakary|m|arabic|african,french|2|classic,animal|Camello joven|Young camel|Jeune chameau|Junges Kamel|Giovane cammello|Jovem camelo
+Daouda|m|hebrew|african,french|2|biblical,royal|Amado|Beloved|Bien-aimé|Geliebter|Amato|Amado
+Othman|m|arabic|arabic|2|classic,animal|Cría de avutarda|Young bustard|Jeune outarde|Junge Trappe|Giovane otarda|Cria de abetarda
+Safae|f|arabic|arabic,spanish|2|virtue|Pureza, claridad|Purity, clarity|Pureté, clarté|Reinheit, Klarheit|Purezza, chiarezza|Pureza, claridade
+Soulaymane|m|hebrew|arabic,french|2|biblical,royal|Pacífico|Peaceful|Pacifique|Friedlich|Pacifico|Pacífico
+Anir|m|african|african|2|sweet|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Salima|f|arabic|arabic|2|virtue|Sana y salva|Safe and sound|Saine et sauve|Heil, unversehrt|Sana e salva|Sã e salva
+Israe|f|arabic|arabic,spanish|2|celestial|Viaje nocturno|Night journey|Voyage nocturne|Nachtreise|Viaggio notturno|Viagem noturna
+Aurel|m|latin|german,french|2|classic|Dorado|Golden|Doré|Der Goldene|Dorato|Dourado
+Roma|f|latin|spanish,italian,french|2|place,modern|La ciudad de Roma|The city of Rome|La ville de Rome|Die Stadt Rom|La città di Roma|A cidade de Roma

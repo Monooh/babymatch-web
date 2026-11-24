@@ -1,0 +1,100 @@
+Imen|f|arabic|arabic,french|2|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Yahia|m|arabic|arabic,french|2|biblical,classic|Él vivirá|He will live|Il vivra|Er wird leben|Egli vivrà|Ele viverá
+Eddy|m|germanic|french,english|2|sweet|Guardián de la riqueza|Guardian of wealth|Gardien de la richesse|Hüter des Reichtums|Guardiano della ricchezza|Guardião da riqueza
+Médina|f|arabic|arabic,french|2|place|Ciudad|City|Ville|Stadt|Città|Cidade
+Alyson|f|germanic|french,english|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alissa|f|germanic|french,english,italian|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Zaïn|m|arabic|arabic,french|2|virtue,modern|Belleza, gracia|Beauty, grace|Beauté, grâce|Schönheit, Anmut|Bellezza, grazia|Beleza, graça
+Ennio|m|latin|italian|2|vintage|De la familia Ennia|Of the Ennius family|De la famille Ennia|Aus dem Geschlecht der Ennier|Della gente Ennia|Da família Énia
+Majd|m|arabic|arabic|2|virtue,strong|Gloria|Glory|Gloire|Ruhm|Gloria|Glória
+Divine|f|latin|french,english,african|2|virtue|Divina|Divine|Divine|Göttliche|Divina|Divina
+Tanya|f|latin|english,russian,french|2|classic|Del clan de Tacio|Of the Tatius clan|De la famille Tatius|Aus dem Geschlecht der Tatier|Della famiglia Tazia|Da família Tácia
+Marika|f|hebrew|italian,greek|4|sweet,modern|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Mirko|m|slavic|italian,german|4|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Miriana|f|hebrew|italian|4|modern|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Rossella|f|latin|italian|4|literary,classic|Pelirroja|Red-haired|Rousse|Rothaarige|Dai capelli rossi|Ruiva
+Soleil|f|latin|italian,french|3|celestial,light,modern|Sol|Sun|Soleil|Sonne|Sole|Sol
+Umberto|m|germanic|italian|3|royal,classic,warrior|Guerrero ilustre|Illustrious warrior|Guerrier illustre|Glänzender Krieger|Guerriero illustre|Guerreiro ilustre
+Mariasole|f|hebrew|italian|3|celestial,light,modern|Amada, sol|Beloved, sun|Bien-aimée, soleil|Geliebte, Sonne|Amata, sole|Amada, sol
+Giusy|f|hebrew|italian|3|sweet,biblical|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio accrescerà|Deus acrescentará
+Annamaria|f|hebrew|italian|3|classic,biblical|Gracia, amada|Grace, beloved|Grâce, bien-aimée|Gnade, Geliebte|Grazia, amata|Graça, amada
+Antonietta|f|latin|italian|3|vintage,classic|Inestimable|Priceless|Inestimable|Unschätzbare|Inestimabile|Inestimável
+Mirco|m|slavic|italian|3|classic|Paz|Peace|Paix|Frieden|Pace|Paz
+Marica|f|hebrew|italian|3|sweet|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Mariagrazia|f|hebrew|italian|3|classic,virtue|Amada, gracia|Beloved, grace|Bien-aimée, grâce|Geliebte, Gnade|Amata, grazia|Amada, graça
+Mariachiara|f|hebrew|italian|3|classic,light|Amada, luminosa|Beloved, bright|Bien-aimée, lumineuse|Geliebte, Leuchtende|Amata, luminosa|Amada, luminosa
+Biagio|m|latin|italian|3|saint,vintage|El que balbucea|Lisping, stammering|Celui qui bégaie|Der Stammelnde|Balbuziente|O que balbucia
+Guido|m|germanic|italian,german,dutch|3|classic,nature|Bosque|Wood, forest|Bois, forêt|Wald|Bosco, foresta|Bosque
+Siria|f|greek|italian|3|celestial,place,modern|De Siria o de la estrella Sirio|Of Syria or the star Sirius|De Syrie ou de l'étoile Sirius|Aus Syrien oder vom Stern Sirius|Della Siria o della stella Sirio|Da Síria ou da estrela Sírio
+Ilary|f|latin|italian|3|modern|Alegre|Cheerful|Joyeuse|Fröhliche|Allegra|Alegre
+Mariapia|f|hebrew|italian|3|classic,virtue|Amada, piadosa|Beloved, pious|Bien-aimée, pieuse|Geliebte, Fromme|Amata, pia|Amada, piedosa
+Gianluigi|m|hebrew|italian|3|classic,warrior|Gracia de Dios, guerrero famoso|God's grace, famous warrior|Grâce de Dieu, guerrier célèbre|Gottes Gnade, berühmter Krieger|Grazia di Dio, guerriero famoso|Graça de Deus, guerreiro famoso
+Annarita|f|hebrew|italian|3|classic,gem|Gracia, perla|Grace, pearl|Grâce, perle|Gnade, Perle|Grazia, perla|Graça, pérola
+Annachiara|f|hebrew|italian|3|classic,light|Gracia, luminosa|Grace, bright|Grâce, lumineuse|Gnade, Leuchtende|Grazia, luminosa|Graça, luminosa
+Atena|f|greek|italian|3|mythology,strong|Diosa griega de la sabiduría|Greek goddess of wisdom|Déesse grecque de la sagesse|Griechische Göttin der Weisheit|Dea greca della saggezza|Deusa grega da sabedoria
+Ascanio|m|greek|italian|3|mythology,literary,vintage|Hijo del héroe Eneas|Son of the hero Aeneas|Fils du héros Énée|Sohn des Helden Aeneas|Figlio dell'eroe Enea|Filho do herói Eneias
+Joele|m|hebrew|italian|2|biblical,modern|Yahvé es Dios|Yahweh is God|Yahvé est Dieu|Jahwe ist Gott|Il Signore è Dio|Javé é Deus
+Gianmaria|m|hebrew|italian|2|classic|Gracia de Dios y María|God's grace and Mary|Grâce de Dieu et Marie|Gottes Gnade und Maria|Grazia di Dio e Maria|Graça de Deus e Maria
+Ismaele|m|hebrew|italian|2|biblical|Dios escucha|God hears|Dieu entend|Gott hört|Dio ascolta|Deus ouve
+Mariarosaria|f|hebrew|italian|2|saint,vintage|Amada, rosario|Beloved, rosary|Bien-aimée, rosaire|Geliebte, Rosenkranz|Amata, rosario|Amada, rosário
+Mariateresa|f|hebrew|italian|2|classic|Amada, cosechadora|Beloved, harvester|Bien-aimée, moissonneuse|Geliebte, Erntende|Amata, mietitrice|Amada, ceifeira
+Sirio|m|greek|italian|2|celestial,light|Ardiente, brillante|Glowing, scorching|Ardent, brûlant|Glühend, brennend|Ardente, splendente|Ardente, brilhante
+Dea|f|latin|italian|2|mythology,modern|Diosa|Goddess|Déesse|Göttin|Dea|Deusa
+Iacopo|m|hebrew|italian|2|biblical,classic|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Mirea|f|latin|italian|2|modern|Admirable|Admirable|Admirable|Bewundernswerte|Ammirevole|Admirável
+Micol|f|hebrew|italian|2|biblical,literary|Arroyo|Brook|Ruisseau|Bach|Ruscello|Riacho
+Mariavittoria|f|hebrew|italian|2|classic,strong|Amada, victoria|Beloved, victory|Bien-aimée, victoire|Geliebte, Sieg|Amata, vittoria|Amada, vitória
+Giusi|f|hebrew|italian|2|sweet,biblical|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio accrescerà|Deus acrescentará
+Iside|f|other|italian|2|mythology|Trono|Throne|Trône|Thron|Trono|Trono
+Manuele|m|hebrew|italian|2|biblical|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Rosita|f|latin|spanish,italian|2|flower,sweet|Pequeña rosa|Little rose|Petite rose|Röschen|Piccola rosa|Pequena rosa
+Antonello|m|latin|italian|2|classic|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Maicol|m|hebrew|italian|2|modern,biblical|¿Quién es como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Gessica|f|hebrew|italian|2|modern,literary|Dios ve|God beholds|Dieu voit|Gott sieht|Dio vede|Deus vê
+Syria|f|greek|italian|2|celestial,place,modern|De Siria o de la estrella Sirio|Of Syria or the star Sirius|De Syrie ou de l'étoile Sirius|Aus Syrien oder vom Stern Sirius|Della Siria o della stella Sirio|Da Síria ou da estrela Sírio
+Gianfranco|m|hebrew|italian|2|vintage|Gracia de Dios, libre|God's grace, free|Grâce de Dieu, libre|Gottes Gnade, frei|Grazia di Dio, libero|Graça de Deus, livre
+Marilena|f|hebrew|italian|2|classic|Amada, antorcha brillante|Beloved, shining torch|Bien-aimée, torche brillante|Geliebte, strahlende Fackel|Amata, torcia splendente|Amada, tocha brilhante
+Alisia|f|germanic|italian|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Alysia|f|germanic|italian,english|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Pierfrancesco|m|greek|italian|2|classic|Roca, hombre libre|Rock, free man|Roc, homme libre|Fels, freier Mann|Roccia, uomo libero|Rocha, homem livre
+Emmanuele|m|hebrew|italian|2|biblical,classic|Dios con nosotros|God with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Paride|m|greek|italian|2|mythology,vintage|Príncipe de Troya|Prince of Troy|Prince de Troie|Prinz von Troja|Principe di Troia|Príncipe de Troia
+Futura|f|latin|italian|2|modern,music|La que será|She who will be|Celle qui sera|Die Zukünftige|Colei che sarà|Aquela que será
+Swami|f|sanskrit|italian|2|modern|Maestro, señor|Master, lord|Maître, seigneur|Meister, Herr|Maestro, signore|Mestre, senhor
+Elide|f|greek|italian|2|place,vintage|De la Élide|From Elis|De l'Élide|Aus Elis|Dell'Elide|Da Élida
+Ignazio|m|latin|italian|2|saint,vintage|Ardiente|Fiery|Ardent|Feuriger|Ardente|Ardente
+Antony|m|latin|italian,english|2|modern|Inestimable|Priceless|Inestimable|Unschätzbar|Inestimabile|Inestimável
+Lapo|m|hebrew|italian|2|vintage|El que suplanta|Supplanter|Celui qui supplante|Der Nachfolgende|Colui che soppianta|Aquele que suplanta
+Graziana|f|latin|italian|2|virtue|Agraciada|Gracious|Gracieuse|Anmutige|Graziosa|Agraciada
+Giordana|f|hebrew|italian|2|biblical,place|La que desciende|The one who flows down|Celle qui descend|Die Herabfließende|Colei che scende|Aquela que desce
+Giuseppa|f|hebrew|italian|2|biblical,vintage|Dios aumentará|God will increase|Dieu ajoutera|Gott wird mehren|Dio accrescerà|Deus acrescentará
+Giammarco|m|hebrew|italian|2|classic,warrior|Gracia de Dios, consagrado a Marte|God's grace, dedicated to Mars|Grâce de Dieu, consacré à Mars|Gottes Gnade, dem Mars geweiht|Grazia di Dio, consacrato a Marte|Graça de Deus, consagrado a Marte
+Nilde|f|germanic|italian|2|vintage,warrior|Batalla|Battle|Bataille|Kampf|Battaglia|Batalha
+Loredana|f|latin|italian|2|literary,nature|Bosque de laureles|Laurel grove|Bois de lauriers|Lorbeerhain|Bosco di allori|Bosque de loureiros
+Doriana|f|greek|italian|2|classic|De Dóride|From Doris|De Doride|Aus Doris|Dalla Doride|De Dóris
+Mariarca|f|hebrew|italian|2|saint,vintage|María del Arco|Mary of the Arch|Marie de l'Arc|Maria vom Bogen|Maria dell'Arco|Maria do Arco
+Raffaela|f|hebrew|italian|2|biblical,saint|Dios ha sanado|God has healed|Dieu a guéri|Gott hat geheilt|Dio ha guarito|Deus curou
+Samuela|f|hebrew|italian|2|biblical|Dios ha escuchado|God has heard|Dieu a entendu|Gott hat gehört|Dio ha ascoltato|Deus ouviu
+Alfio|m|greek|italian|2|saint,vintage|Blanco|White|Blanc|Weiß|Bianco|Branco
+Enza|f|latin|italian|2|vintage|Victoriosa|Victorious|Victorieuse|Siegreiche|Vittoriosa|Vitoriosa
+Alisya|f|germanic|italian|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Mattias|m|hebrew|italian,scandinavian|2|biblical|Don de Dios|Gift of God|Don de Dieu|Geschenk Gottes|Dono di Dio|Presente de Deus
+Rosy|f|latin|italian,english|2|flower,sweet|Rosa|Rose|Rose|Rose|Rosa|Rosa
+Allyson|f|germanic|english,italian|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Denny|m|greek|english,italian|2|modern|Seguidor de Dioniso|Follower of Dionysus|Disciple de Dionysos|Anhänger des Dionysos|Seguace di Dioniso|Seguidor de Dionísio
+Danila|f|hebrew|italian|2|biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+Attilio|m|latin|italian|2|vintage|De la familia Atilia|Of the Atilius family|De la famille Atilia|Aus dem Geschlecht der Atilier|Della gente Atilia|Da família Atília
+Moreno|m|latin|italian|2|vintage|Moreno, de pelo oscuro|Dark-haired|Brun, aux cheveux foncés|Dunkelhaarig|Bruno, scuro di capelli|Moreno, de cabelo escuro
+Annalaura|f|hebrew|italian|2|classic,nature|Gracia, laurel|Grace, laurel|Grâce, laurier|Gnade, Lorbeer|Grazia, alloro|Graça, louro
+Gilda|f|germanic|italian|2|vintage,music|Tributo, ofrenda|Tribute, offering|Tribut, offrande|Tribut, Opfergabe|Tributo, offerta|Tributo, oferenda
+Mariarita|f|hebrew|italian|2|classic,gem|Amada, perla|Beloved, pearl|Bien-aimée, perle|Geliebte, Perle|Amata, perla|Amada, pérola
+Meghan|f|greek|english,italian|2|royal,modern|Perla|Pearl|Perle|Perle|Perla|Pérola
+Diamante|f|greek|italian|2|gem|Diamante|Diamond|Diamant|Diamant|Diamante|Diamante
+Juri|m|greek|italian,german|2|modern|Agricultor|Farmer|Agriculteur|Landwirt|Agricoltore|Agricultor
+Ayesha|f|arabic|arabic,indian|2|classic|Viva, próspera|Alive, thriving|Vivante, prospère|Lebendig, gedeihend|Viva, prospera|Viva, próspera
+Gianpaolo|m|hebrew|italian|2|classic|Gracia de Dios, pequeño|God's grace, small|Grâce de Dieu, petit|Gottes Gnade, klein|Grazia di Dio, piccolo|Graça de Deus, pequeno
+Piergiorgio|m|greek|italian|2|classic|Roca, agricultor|Rock, farmer|Roc, agriculteur|Fels, Landwirt|Roccia, agricoltore|Rocha, agricultor
+Alisea|f|other|italian|2|nature,modern|Viento alisio|Trade wind|Vent alizé|Passatwind|Vento aliseo|Vento alísio
+Mariafrancesca|f|hebrew|italian|2|classic|Amada, libre|Beloved, free|Bien-aimée, libre|Geliebte, Freie|Amata, libera|Amada, livre
+Antimo|m|greek|italian|2|saint,vintage,flower|Florido|Flowery, blooming|Fleuri|Blühend|Fiorito|Florido
+Gianpiero|m|hebrew|italian|2|classic|Gracia de Dios, roca|God's grace, rock|Grâce de Dieu, roc|Gottes Gnade, Fels|Grazia di Dio, roccia|Graça de Deus, rocha

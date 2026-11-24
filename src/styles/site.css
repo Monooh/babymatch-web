@@ -254,6 +254,10 @@ h2.h-sm { margin-bottom: var(--space-xl); }
 .people a, .people b { font-weight: 600; }
 .people small { color: var(--color-muted); font-variant-numeric: tabular-nums; }
 .people span { grid-column: 1 / -1; color: var(--color-ink-2); }
+/* Santoral day page: the names a saint goes by, each a link with room for a thumb. */
+.people li:has(> .named) { align-content: start; }
+.people .named { margin-top: var(--space-2xs); }
+.people .named a { display: inline-block; padding-block: var(--space-2xs); }
 .note { margin-top: var(--space-md); font-size: var(--text-sm); }
 .ranks { margin: 0; padding: 0; list-style: none; max-width: 80ch; }
 .ranks li { padding: var(--space-sm) 0; border-top: var(--rule-hair) solid var(--color-rule); font-size: var(--text-lg); }
@@ -322,7 +326,7 @@ h2.h-sm { margin-bottom: var(--space-xl); }
 .sheet-panel { width: 100%; max-height: 88%; display: flex; flex-direction: column; border-radius: var(--radius-card) var(--radius-card) 0 0; background: var(--grain), var(--color-paper); box-shadow: var(--shadow-card); animation: sheet-up var(--dur-long) var(--ease-out); }
 .sheet-head { display: flex; align-items: center; justify-content: space-between; padding: var(--space-md) var(--space-md) var(--space-sm) var(--space-lg); }
 .sheet-head h2 { font-size: var(--text-xl); }
-.sheet-scroll { overflow-y: auto; padding: var(--space-xs) var(--space-lg) var(--space-lg); display: grid; gap: var(--space-lg); }
+.sheet-scroll { overflow-y: auto; padding: var(--space-xs) var(--space-lg) var(--space-lg); display: grid; gap: var(--space-lg); grid-auto-rows: max-content; align-content: start; }
 .sheet-foot { display: flex; gap: var(--space-sm); padding: var(--space-md) var(--space-lg) calc(var(--space-md) + env(safe-area-inset-bottom)); border-top: var(--rule-hair) solid var(--color-rule); }
 .sheet-foot .btn--primary { flex: 1; }
 @keyframes sheet-up { from { transform: translateY(40px); opacity: 0; } to { transform: none; opacity: 1; } }
@@ -376,6 +380,36 @@ h2.h-sm { margin-bottom: var(--space-xl); }
 .listlinks button:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 2px; }
 .listlinks small { color: var(--color-muted); font-weight: 500; font-variant-numeric: tabular-nums; flex-shrink: 0; }
 
+/* The final round: duels, finalists, vote */
+.sheet-panel--full { max-height: 100%; height: 100%; border-radius: 0; }
+.seg { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: var(--space-2xs); margin: 0 var(--space-lg) var(--space-sm); padding: var(--space-2xs); border-radius: var(--radius-input); background: var(--color-paper-3); }
+.seg button { min-height: 44px; border: 0; border-radius: var(--radius-input); background: transparent; color: var(--color-ink-2); font: inherit; font-weight: 600; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--color-card); color: var(--color-ink); box-shadow: 0 1px 0 var(--color-rule); }
+.seg button:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 2px; }
+.duel { display: grid; gap: var(--space-md); }
+.duel-card { display: grid; gap: var(--space-2xs); justify-items: center; align-content: center; min-height: 9.5rem; padding: var(--space-lg) var(--space-md); border: 0; border-radius: var(--radius-card); background: var(--grain), var(--color-card); box-shadow: inset 0 0 0 1px var(--color-rule), 0 4px 0 0 var(--color-rule); color: var(--color-ink); font: inherit; text-align: center; cursor: pointer; }
+.duel-card:active { translate: 0 3px; box-shadow: inset 0 0 0 1px var(--color-rule), 0 1px 0 0 var(--color-rule); }
+.duel-card:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+.duel-card b { font-size: clamp(2rem, 11vw, 3rem); font-weight: 600; line-height: 1.05; letter-spacing: var(--tracking-display); overflow-wrap: anywhere; }
+.duel-card i { font-style: normal; font-size: var(--text-lg); color: var(--color-ink-2); }
+.duel-card span { font-size: var(--text-sm); color: var(--color-muted); }
+.duel-foot { display: flex; align-items: center; justify-content: space-between; gap: var(--space-sm); }
+.finalists { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--space-sm); }
+.finalists li { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: var(--space-sm) var(--space-md); padding: var(--space-md); border-radius: var(--radius-card); background: var(--grain), var(--color-card); box-shadow: inset 0 0 0 1px var(--color-rule); }
+.finalists .rank { font-size: var(--text-2xl); font-weight: 600; line-height: 1.1; color: var(--color-muted); font-variant-numeric: tabular-nums; }
+.finalists .who { display: grid; gap: var(--space-2xs); min-width: 0; }
+.finalists .who b { font-size: var(--text-xl); font-weight: 600; line-height: 1.15; overflow-wrap: anywhere; }
+.finalists .who span { font-size: var(--text-sm); color: var(--color-muted); }
+.finalists .acts { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: var(--space-sm); }
+.duel-card--row { min-height: 72px; padding: var(--space-sm) var(--space-md); }
+.duel-card--row b { font-size: var(--text-2xl); }
+.duel-card--row[aria-pressed="true"] { background: var(--color-ink); color: var(--color-paper); box-shadow: none; }
+.vote-list { display: grid; gap: var(--space-sm); }
+.vote .lead { color: var(--color-ink-2); }
+.bars--vote { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--space-sm); }
+.bars--vote li { grid-template-columns: minmax(0, 7rem) minmax(0, 1fr) 2.5rem; gap: var(--space-sm); }
+.bars--vote li span { color: var(--color-ink); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bars--vote li i { background: var(--color-accent); }
 .overlay { position: absolute; inset: 0; z-index: var(--z-modal); display: grid; align-content: center; justify-items: center; gap: var(--space-lg); padding: var(--space-xl) var(--space-lg); text-align: center; background: var(--grain), var(--fibre), var(--color-mint); animation: pop-in var(--dur-long) var(--ease-out); }
 .overlay h2 { font-size: var(--text-3xl); }
 .overlay .big { font-size: clamp(3rem, 16vw, 5.5rem); font-weight: 600; letter-spacing: var(--tracking-display); line-height: 1; overflow-wrap: break-word; min-width: 0; max-width: 100%; }

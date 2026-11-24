@@ -54,7 +54,7 @@ export default async function SectionPage({ params }: Props) {
         <div className="container">
           <h1>{d.privacy.h1}</h1>
           <div className="prose" style={{ marginTop: 'var(--space-xl)' }}>
-            <p>{d.privacy.p1}</p><p>{d.privacy.p2}</p><p>{d.privacy.p3}</p><p>{d.privacy.p4}</p>
+            <p>{d.privacy.p1}</p><p>{d.privacy.p2}</p><p>{d.privacy.p3}</p><p>{d.privacy.p5}</p><p>{d.privacy.p4}</p>
             <p><button type="button" className="btn btn--small" data-consent-reset>{d.privacy.change}</button></p>
           </div>
         </div>

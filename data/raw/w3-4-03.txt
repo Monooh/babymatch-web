@@ -1,0 +1,74 @@
+Laïna|f|arabic|arabic,french|2|modern,sweet|Tierna, suave|Tender, gentle|Tendre, douce|Zart, sanft|Tenera, dolce|Terna, suave
+Bintou|f|arabic|african,french|2|classic|Hija|Daughter|Fille|Tochter|Figlia|Filha
+Syrine|f|persian|arabic,french|2|sweet,modern|Dulce|Sweet|Douce|Die Süße|Dolce|Doce
+Eloan|m|celtic|french|2|light,modern|Buena luz|Good light|Belle lumière|Gutes Licht|Buona luce|Boa luz
+Thiméo|m|greek|french|2|modern|Que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Che onora Dio|Que honra a Deus
+Mélyna|f|greek|french|3|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Yaëlle|f|hebrew|french|2|biblical,animal|Cabra montés|Ibex|Bouquetin|Steinbock|Stambecco|Íbex
+Louca|m|latin|french|2|modern|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Di Lucania|Da Lucânia
+Romie|f|latin|french|2|modern,sweet|Diminutivo de Rosemarie: rosa y María|Pet form of Rosemarie: rose and Mary|Diminutif de Rosemarie : rose et Marie|Koseform von Rosemarie: Rose und Maria|Diminutivo di Rosemarie: rosa e Maria|Diminutivo de Rosemarie: rosa e Maria
+Kays|m|arabic|arabic,french|2|literary,modern|Del árabe Qays, quizá firmeza|From Arabic Qays, perhaps firmness|De l'arabe Qays, peut-être fermeté|Vom arabischen Qays, vielleicht Festigkeit|Dall'arabo Qays, forse fermezza|Do árabe Qays, talvez firmeza
+Mellina|f|greek|french|2|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Djenna|f|arabic|arabic,french|2|nature,modern|Paraíso, jardín|Paradise, garden|Paradis, jardin|Paradies, Garten|Paradiso, giardino|Paraíso, jardim
+Ewenn|m|celtic|french|2|nature|Nacido del tejo|Born of the yew|Né de l'if|Eibengeboren|Nato dal tasso|Nascido do teixo
+Prune|f|latin|french|2|nature,sweet|Ciruela|Plum|Prune|Pflaume|Prugna|Ameixa
+Orso|m|latin|italian,french|2|animal,strong|Oso|Bear|Ours|Bär|Orso|Urso
+Marylou|f|hebrew|french|2|sweet,vintage|Unión de Marie y Louise|Blend of Marie and Louise|Union de Marie et Louise|Verbindung von Marie und Louise|Unione di Marie e Louise|União de Marie e Louise
+Lyham|m|germanic|french|2|modern|Protector resuelto|Resolute protector|Protecteur résolu|Entschlossener Beschützer|Protettore risoluto|Protetor resoluto
+Thyméo|m|greek|french|2|modern|Que honra a Dios|Honouring God|Qui honore Dieu|Der Gott ehrt|Che onora Dio|Que honra a Deus
+Matis|m|hebrew|french|2|modern,biblical|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Lyvia|f|latin|french|2|modern|De color azulado|Bluish|Bleuâtre|Bläulich|Azzurrognola|Azulada
+Thalya|f|greek|french|2|mythology,modern|Floreciente|Blooming|Florissante|Die Blühende|Fiorente|Florescente
+Laly|f|greek|french|2|sweet,modern|Bien hablada|Well-spoken|Qui parle bien|Die Wohlredende|Ben parlante|Bem-falante
+Loukas|m|latin|greek,french|2|biblical,saint|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Di Lucania|Da Lucânia
+Abigaël|f|hebrew|french|2|biblical,sweet|Alegría del padre|Father's joy|Joie du père|Freude des Vaters|Gioia del padre|Alegria do pai
+Shayna|f|germanic|hebrew,english,french|2|sweet|Hermosa|Beautiful|Belle|Die Schöne|Bella|Bela
+Yannis|m|hebrew|greek,french|2|classic,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Shaïna|f|germanic|french|2|modern,sweet|Hermosa|Beautiful|Belle|Die Schöne|Bella|Bela
+Mélyne|f|greek|french|2|sweet,modern|Miel|Honey|Miel|Honig|Miele|Mel
+Priam|m|greek|french|2|mythology,royal,literary|Rescatado|Redeemed|Racheté|Der Losgekaufte|Riscattato|Resgatado
+Tayron|m|celtic|french|2|modern,place|Tierra de Eoghan|Land of Eoghan|Terre d'Eoghan|Land des Eoghan|Terra di Eoghan|Terra de Eoghan
+Yohan|m|hebrew|french|2|modern,biblical|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Cali|f|greek|french|2|modern,sweet|Hermosa|Beautiful|Belle|Die Schöne|Bella|Bela
+Lyse|f|hebrew|french|2|classic,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é meu juramento
+Emmie|f|germanic|french,english|2|sweet,modern|Diminutivo de Emma: universal|Pet form of Emma: universal|Diminutif d'Emma : universelle|Koseform von Emma: allumfassend|Diminutivo di Emma: universale|Diminutivo de Emma: universal
+Aëlys|f|germanic|french|2|vintage,modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Annaëlle|f|hebrew|french|2|modern,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Anes|m|arabic|arabic,french|2|sweet,virtue|Compañero amable|Friendly companion|Compagnon aimable|Freundlicher Gefährte|Compagno amichevole|Companheiro amável
+Razane|f|arabic|arabic,french|2|virtue|Serenidad, dignidad|Composure, dignity|Sérénité, dignité|Besonnenheit, Würde|Serenità, dignità|Serenidade, dignidade
+Elyes|m|hebrew|arabic,french|2|biblical|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
+Ryad|m|arabic|arabic,french|2|nature,place|Jardines|Gardens|Jardins|Gärten|Giardini|Jardins
+Gaby|u|hebrew|french,spanish,german|2|sweet,biblical|Dios es mi fuerza|God is my strength|Dieu est ma force|Gott ist meine Stärke|Dio è la mia forza|Deus é a minha força
+Pacôme|m|other|french|2|saint,vintage,animal|Águila, halcón|Eagle, falcon|Aigle, faucon|Adler, Falke|Aquila, falco|Águia, falcão
+Kyllian|m|celtic|french|2|modern,saint|Iglesia pequeña|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Abdoul|m|arabic|african,arabic,french|2|virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Alec|m|greek|english,french|2|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Lyvio|m|latin|french|2|modern|De color azulado|Bluish|Bleuâtre|Bläulich|Azzurrognolo|Azulado
+Jessy|m|hebrew|french|2|biblical,modern|Don, regalo|Gift|Don, cadeau|Gabe, Geschenk|Dono, regalo|Dádiva, presente
+Rahim|m|arabic|arabic|2|virtue,classic|Misericordioso, compasivo|Merciful, compassionate|Miséricordieux, compatissant|Barmherzig, mitfühlend|Misericordioso, compassionevole|Misericordioso, compassivo
+Chaïma|f|arabic|arabic,french|2|sweet|Con lunar de belleza|Having a beauty mark|Au grain de beauté|Mit Schönheitsmal|Con un neo di bellezza|Com sinal de beleza
+Ombeline|f|germanic|french|2|saint,vintage|Guerrera brillante|Bright warrior|Guerrière brillante|Glänzende Kriegerin|Guerriera splendente|Guerreira brilhante
+Juline|f|latin|french|2|modern,sweet|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Jihane|f|persian|arabic,french|2|classic|Mundo|World|Monde|Welt|Mondo|Mundo
+Zeyneb|f|arabic|arabic,french|2|classic,flower|Árbol fragante|Fragrant tree|Arbre parfumé|Duftender Baum|Albero profumato|Árvore perfumada
+Kenny|m|celtic|english,french|2|modern|Nacido del fuego|Born of fire|Né du feu|Aus dem Feuer geboren|Nato dal fuoco|Nascido do fogo
+Nélio|m|latin|french,portuguese|2|modern|Diminutivo de Cornelio: cuerno|Short form of Cornelius: horn|Diminutif de Cornélius : corne|Kurzform von Cornelius: Horn|Diminutivo di Cornelio: corno|Diminutivo de Cornélio: corno
+Dany|m|hebrew|french|2|classic,biblical|Dios es mi juez|God is my judge|Dieu est mon juge|Gott ist mein Richter|Dio è il mio giudice|Deus é o meu juiz
+Oriane|f|latin|french|2|literary,vintage|Dorada|Golden|Dorée|Die Goldene|Dorata|Dourada
+Noéline|f|latin|french|2|sweet|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Maëlo|m|celtic|french|2|modern,royal|Príncipe|Prince|Prince|Fürst|Principe|Príncipe
+Lehna|f|arabic|arabic,french|2|virtue,sweet|Paz, serenidad|Peace, serenity|Paix, sérénité|Frieden, Gelassenheit|Pace, serenità|Paz, serenidade
+Khadidja|f|arabic|arabic,french|2|classic|Nacida prematura|Born prematurely|Née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Loane|f|celtic|french|2|light,modern|Luz|Light|Lumière|Licht|Luce|Luz
+Matys|m|hebrew|french|2|modern,biblical|Don de Dios|Gift of God|Don de Dieu|Gabe Gottes|Dono di Dio|Dom de Deus
+Maylonn|m|celtic|french|2|modern|Devoto de san Juan|Devotee of Saint John|Dévot de saint Jean|Verehrer des heiligen Johannes|Devoto di san Giovanni|Devoto de são João
+Amélya|f|germanic|french|2|modern|Trabajadora|Industrious|Travailleuse|Die Fleißige|Operosa|Trabalhadora
+Dayan|m|hebrew|french,hebrew|2|strong,modern|Juez|Judge|Juge|Richter|Giudice|Juiz
+Junayd|m|arabic|arabic|2|warrior,classic|Pequeño soldado|Little soldier|Petit soldat|Kleiner Soldat|Piccolo soldato|Pequeno soldado
+Loucas|m|latin|french|2|modern|De Lucania|From Lucania|De Lucanie|Aus Lukanien|Di Lucania|Da Lucânia
+Aïssata|f|arabic|african,french|2|classic|Viva, llena de vida|Alive, full of life|Vivante, pleine de vie|Lebendig, voller Leben|Viva, piena di vita|Viva, cheia de vida
+Eya|f|arabic|arabic,french|2|modern,sweet|Señal, versículo|Sign, verse|Signe, verset|Zeichen, Vers|Segno, versetto|Sinal, versículo
+Alyssia|f|germanic|french|2|modern|De noble linaje|Of noble kind|De noble lignée|Von edler Art|Di nobile stirpe|De nobre linhagem
+Tyago|m|hebrew|french|2|modern,biblical|El que sujeta el talón|He who holds the heel|Celui qui tient le talon|Der die Ferse hält|Colui che tiene il calcagno|Aquele que segura o calcanhar
+Naëlya|f|arabic|arabic,french|2|modern|La que alcanza, triunfadora|One who attains, achiever|Celle qui obtient, gagnante|Die Erlangende, Erfolgreiche|Colei che ottiene, vincitrice|Aquela que alcança, vencedora
+Zina|f|arabic|arabic,french|2|sweet|Adorno, belleza|Adornment, beauty|Parure, beauté|Schmuck, Schönheit|Ornamento, bellezza|Adorno, beleza

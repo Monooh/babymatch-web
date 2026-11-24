@@ -1,0 +1,88 @@
+Addilyn|f|germanic|english|2|modern,sweet|Noble|Noble|Noble|Edel|Nobile|Nobre
+Emelia|f|germanic|english|2|vintage,classic|Laboriosa|Industrious|Travailleuse|Fleißig|Laboriosa|Trabalhadora
+Bristol|f|germanic|english|2|place,modern|Lugar junto al puente|Place by the bridge|Lieu près du pont|Ort an der Brücke|Luogo presso il ponte|Lugar junto à ponte
+Kora|f|greek|english,german|2|mythology,vintage|Doncella|Maiden|Jeune fille|Mädchen|Fanciulla|Donzela
+Kennedi|f|celtic|english|2|modern,strong|Cabeza con yelmo|Helmeted head|Tête casquée|Behelmter Kopf|Testa con elmo|Cabeça com elmo
+Saige|f|latin|english|2|nature,modern,virtue|Salvia, sabia|Sage herb, wise|Sauge, sage|Salbei, weise|Salvia, saggia|Sálvia, sábia
+Kelsey|f|germanic|english|2|modern,place|Isla de Cenel|Cenel's island|Île de Cenel|Insel des Cenel|Isola di Cenel|Ilha de Cenel
+Charleigh|f|germanic|english|2|modern,sweet|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Kylee|f|other|english|2|modern|Bumerán|Boomerang|Boomerang|Bumerang|Boomerang|Bumerangue
+Mikayla|f|hebrew|english|2|modern,biblical|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Adrianna|f|latin|english,polish|2|classic,place|De Hadria|From Hadria|De Hadria|Aus Hadria|Di Adria|De Hadria
+McKinley|f|celtic|english|2|modern,warrior|Hijo del guerrero rubio|Son of the fair warrior|Fils du guerrier blond|Sohn des blonden Kriegers|Figlio del guerriero biondo|Filho do guerreiro loiro
+Cecelia|f|latin|english|2|saint,music,vintage|Ciega|Blind|Aveugle|Blind|Cieca|Cega
+Armani|u|germanic|english|3|modern,trendy|Hijo de Armano, hombre del ejército|Son of Armano, army man|Fils d'Armano, homme d'armée|Sohn des Armano, Heeresmann|Figlio di Armano, uomo d'esercito|Filho de Armano, homem do exército
+Navy|f|latin|english|2|modern,sea|Armada, azul marino|Navy, navy blue|Marine, bleu marine|Marine, Marineblau|Marina, blu marino|Marinha, azul-marinho
+Amirah|f|arabic|english,arabic|2|royal,modern|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Ariya|f|latin|english|2|modern,music|Melodía, aria|Melody, air|Mélodie, air|Melodie, Arie|Melodia, aria|Melodia, ária
+Cheyenne|f|native|english|2|place,modern|El pueblo cheyene|The Cheyenne people|Le peuple cheyenne|Das Volk der Cheyenne|Il popolo cheyenne|O povo cheyenne
+Scottie|f|celtic|english|2|modern,sweet,place|Escocesa|Scot, from Scotland|Écossaise|Schottin|Scozzese|Escocesa
+Madilynn|f|hebrew|english|2|modern,biblical|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Jada|f|other|english|2|gem,modern|Piedra de jade|Jade stone|Pierre de jade|Jadestein|Pietra di giada|Pedra de jade
+Reyna|f|latin|english,spanish|2|royal|Reina|Queen|Reine|Königin|Regina|Rainha
+Malaysia|f|other|english|2|place,modern|El país de Malasia|The country of Malaysia|Le pays de Malaisie|Das Land Malaysia|Il paese della Malesia|O país da Malásia
+Carly|f|germanic|english|2|modern,sweet|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Lylah|f|arabic|english|2|modern,sweet,celestial|Noche|Night|Nuit|Nacht|Notte|Noite
+Oaklyn|f|germanic|english|2|modern,trendy,nature|Roble|Oak tree|Chêne|Eiche|Quercia|Carvalho
+Charley|f|germanic|english|2|modern,sweet|Hombre libre|Free man|Homme libre|Freier Mann|Uomo libero|Homem livre
+Miley|f|germanic|english|2|modern,music,sweet|Sonriente|Smiley, one who smiles|Souriante|Die Lächelnde|Sorridente|Sorridente
+Legacy|f|latin|english|2|modern,virtue|Legado|Legacy|Héritage|Vermächtnis|Eredità|Legado
+Emerie|f|germanic|english|2|modern,strong|Gobernante laborioso|Industrious ruler|Souverain travailleur|Fleißiger Herrscher|Sovrano operoso|Governante laborioso
+Oaklee|f|germanic|english|2|modern,trendy,nature|Claro de robles|Oak clearing|Clairière de chênes|Eichenlichtung|Radura di querce|Clareira de carvalhos
+Blaire|f|celtic|english|2|modern,place,nature|Llanura, campo|Plain, field|Plaine, champ|Ebene, Feld|Pianura, campo|Planície, campo
+Faye|f|latin|english|2|vintage,mythology,sweet|Hada|Fairy|Fée|Fee|Fata|Fada
+Katelyn|f|greek|english|2|modern,classic|Pura|Pure|Pure|Rein|Pura|Pura
+Emberly|f|germanic|english|2|modern,trendy,light|Brasa, ascua|Ember, glowing coal|Braise|Glut|Brace|Brasa
+Ashlyn|f|germanic|english|2|modern,nature|Prado de fresnos|Ash tree meadow|Prairie de frênes|Eschenwiese|Prato di frassini|Prado de freixos
+Jemma|f|latin|english|2|gem,modern|Gema, piedra preciosa|Gem, precious stone|Gemme, pierre précieuse|Edelstein|Gemma, pietra preziosa|Gema, pedra preciosa
+Coraline|f|greek|english,french|2|literary,sea|Coral|Coral|Corail|Koralle|Corallo|Coral
+Khaleesi|f|other|english|2|literary,royal,modern|Reina en lengua dothraki|Queen in the Dothraki language|Reine en langue dothraki|Königin auf Dothrakisch|Regina in lingua dothraki|Rainha em língua dothraki
+Ashlynn|f|germanic|english|2|modern,nature|Prado de fresnos|Ash tree meadow|Prairie de frênes|Eschenwiese|Prato di frassini|Prado de freixos
+Savanna|f|native|english|2|nature,place|Llanura sin árboles|Treeless plain|Plaine sans arbres|Baumlose Ebene|Pianura senza alberi|Planície sem árvores
+Holland|f|germanic|english|2|place,modern|Tierra boscosa|Wooded land|Terre boisée|Waldland|Terra boscosa|Terra arborizada
+Kaydence|f|latin|english|2|music,modern|Ritmo, cadencia|Rhythm, cadence|Rythme, cadence|Rhythmus, Kadenz|Ritmo, cadenza|Ritmo, cadência
+Laney|f|greek|english|2|modern,sweet,light|Luz brillante|Bright light|Lumière brillante|Helles Licht|Luce splendente|Luz brilhante
+Lillie|f|latin|english|2|flower,vintage,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Kassidy|f|celtic|english|2|modern|De pelo rizado|Curly-haired|Aux cheveux bouclés|Mit lockigem Haar|Dai capelli ricci|De cabelo encaracolado
+Emmalyn|f|germanic|english|2|modern,sweet|Universal, entera|Whole, universal|Entière, universelle|Ganz, allumfassend|Universale, intera|Universal, inteira
+Kimber|f|germanic|english|2|modern,place|Prado de la fortaleza real|Meadow of the royal fortress|Prairie de la forteresse royale|Wiese der Königsburg|Prato della fortezza reale|Prado da fortaleza real
+Kenna|f|celtic|english|2|modern|Apuesta, nacida del fuego|Handsome, born of fire|Belle, née du feu|Schön, aus dem Feuer geboren|Bella, nata dal fuoco|Bela, nascida do fogo
+Vienna|f|celtic|english|2|place,modern,music|La ciudad de Viena|The city of Vienna|La ville de Vienne|Die Stadt Wien|La città di Vienna|A cidade de Viena
+Baylee|f|latin|english|2|modern|Alguacil, administrador|Bailiff, steward|Bailli, intendant|Vogt, Verwalter|Balivo, amministratore|Bailio, administrador
+Analia|f|hebrew|english|2|modern,sweet|Combinación de Ana y Lía|Blend of Ana and Lía|Combinaison d'Ana et Lía|Verbindung von Ana und Lía|Unione di Ana e Lía|Combinação de Ana e Lía
+Jayda|f|other|english|2|gem,modern|Piedra de jade|Jade stone|Pierre de jade|Jadestein|Pietra di giada|Pedra de jade
+Malaya|f|other|english|2|modern,virtue|Libre, independiente|Free, independent|Libre, indépendante|Frei, unabhängig|Libera, indipendente|Livre, independente
+Ellianna|f|hebrew|english|2|modern,sweet|Mi Dios ha respondido|My God has answered|Mon Dieu a répondu|Mein Gott hat geantwortet|Il mio Dio ha risposto|O meu Deus respondeu
+Jazmine|f|persian|english|2|flower,modern|Flor de jazmín|Jasmine flower|Fleur de jasmin|Jasminblüte|Fiore di gelsomino|Flor de jasmim
+Journi|f|latin|english|2|modern,trendy|Viaje|Journey|Voyage|Reise|Viaggio|Viagem
+Aubrie|f|germanic|english|2|modern,trendy|Gobernante de los elfos|Elf ruler|Souverain des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Halle|f|germanic|english|2|modern|Salón, casa señorial|Hall, manor house|Grande salle, manoir|Halle, Herrenhaus|Sala, casa signorile|Salão, casa senhorial
+Oakleigh|f|germanic|english|2|modern,trendy,nature|Claro de robles|Oak clearing|Clairière de chênes|Eichenlichtung|Radura di querce|Clareira de carvalhos
+Murphy|f|celtic|english|2|modern,sea,warrior|Guerrero del mar|Sea warrior|Guerrier de la mer|Meereskrieger|Guerriero del mare|Guerreiro do mar
+Mikaela|f|hebrew|english,scandinavian|2|biblical,classic|¿Quién como Dios?|Who is like God?|Qui est comme Dieu ?|Wer ist wie Gott?|Chi è come Dio?|Quem é como Deus?
+Annabella|f|latin|english,italian|2|vintage,sweet,love|Amable, digna de amor|Lovable|Aimable, digne d'amour|Liebenswert|Amabile, degna d'amore|Amável, digna de amor
+Avah|f|hebrew|english|2|modern,sweet|Vida|Life|Vie|Leben|Vita|Vida
+Bailee|f|latin|english|2|modern|Alguacil, administrador|Bailiff, steward|Bailli, intendant|Vogt, Verwalter|Balivo, amministratore|Bailio, administrador
+Kinslee|f|germanic|english|2|modern,trendy,royal|Claro real|Royal clearing|Clairière royale|Königliche Lichtung|Radura reale|Clareira real
+Sevyn|f|germanic|english|2|modern|Siete|Seven|Sept|Sieben|Sette|Sete
+Harlee|f|germanic|english|2|modern,animal,nature|Prado de liebres|Hare meadow|Prairie de lièvres|Hasenwiese|Prato di lepri|Prado de lebres
+Capri|f|latin|english|2|place,sea,modern|La isla de Capri|The island of Capri|L'île de Capri|Die Insel Capri|L'isola di Capri|A ilha de Capri
+Lauryn|f|latin|english|2|modern,nature|Laurel, de Laurentum|Laurel, from Laurentum|Laurier, de Laurentum|Lorbeer, aus Laurentum|Alloro, da Laurento|Louro, de Laurento
+Madisyn|f|germanic|english|2|modern|Hijo de Maud|Son of Maud|Fils de Maud|Sohn der Maud|Figlio di Maud|Filho de Maud
+Roselyn|f|germanic|english|2|vintage,flower,sweet|Caballo dócil, rosa hermosa|Gentle horse, beautiful rose|Cheval doux, belle rose|Sanftes Pferd, schöne Rose|Cavallo mite, bella rosa|Cavalo dócil, bela rosa
+Andi|f|greek|english|2|modern,strong|Valiente, fuerte|Brave, strong|Courageuse, forte|Tapfer, stark|Coraggiosa, forte|Corajosa, forte
+Jovie|f|latin|english|2|modern,trendy,sweet|Jovial, alegre|Jovial, cheerful|Joviale, joyeuse|Fröhlich, heiter|Gioviale, allegra|Jovial, alegre
+Halo|f|greek|english|2|modern,light,celestial|Halo, aureola de luz|Halo, ring of light|Halo, auréole de lumière|Heiligenschein, Lichtkranz|Alone, aureola di luce|Halo, auréola de luz
+Addyson|f|germanic|english|2|modern|Hijo de Adam|Son of Adam|Fils d'Adam|Sohn Adams|Figlio di Adamo|Filho de Adão
+Treasure|f|greek|english|2|modern,sweet|Tesoro|Treasure|Trésor|Schatz|Tesoro|Tesouro
+Elowyn|f|celtic|english|2|nature,modern|Olmo|Elm tree|Orme|Ulme|Olmo|Olmo
+Kyleigh|f|other|english|2|modern|Bumerán|Boomerang|Boomerang|Bumerang|Boomerang|Bumerangue
+Madalyn|f|hebrew|english|2|modern,biblical|De Magdala|Of Magdala|De Magdala|Aus Magdala|Di Magdala|De Magdala
+Julissa|f|latin|english,spanish|2|modern|Joven, de la familia Julia|Youthful, of the Julii|Jeune, de la gens Julia|Jugendlich, aus der Familie Julia|Giovane, della gens Giulia|Jovem, da família Júlia
+Lilianna|f|latin|english,polish|2|flower,sweet|Lirio|Lily|Lys|Lilie|Giglio|Lírio
+Bria|f|celtic|english|2|modern,strong|Alta, noble|High, noble|Élevée, noble|Hoch, edel|Alta, nobile|Alta, nobre
+Amayah|f|basque|english|2|modern|Fin, final|End, ending|Fin, terme|Ende, Schluss|Fine, termine|Fim, final
+Novalee|f|other|english|2|modern,literary|Combinación de Nova y Lee|Blend of Nova and Lee|Combinaison de Nova et Lee|Verbindung von Nova und Lee|Unione di Nova e Lee|Combinação de Nova e Lee
+Jenesis|f|greek|english|2|biblical,modern|Origen, principio|Origin, beginning|Origine, commencement|Ursprung, Anfang|Origine, inizio|Origem, princípio
+Haylee|f|germanic|english|2|modern,nature|Claro de heno|Hay clearing|Clairière de foin|Heuwiese|Radura di fieno|Clareira de feno
+Kynlee|f|celtic|english|2|modern,trendy,warrior|Hijo del guerrero rubio|Son of the fair warrior|Fils du guerrier blond|Sohn des blonden Kriegers|Figlio del guerriero biondo|Filho do guerreiro loiro

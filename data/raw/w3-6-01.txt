@@ -1,0 +1,100 @@
+Aras|m|turkish|turkish|2|place,nature|Río Aras|Aras river|Fleuve Araxe|Fluss Aras|Fiume Aras|Rio Aras
+Izac|m|hebrew|french|2|biblical,modern|Él ríe|He laughs|Il rit|Er lacht|Egli ride|Ele ri
+Yani|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Lounis|m|arabic|arabic,french|2|virtue|Compañero afable|Friendly companion|Compagnon affable|Freundlicher Gefährte|Compagno affabile|Companheiro afável
+Fatim|f|arabic|arabic,african,french|2|classic|La que desteta|One who weans|Celle qui sèvre|Die Entwöhnende|Colei che svezza|A que desmama
+Kara|f|latin|english|2|love,sweet|Querida, amiga|Beloved, friend|Chérie, amie|Geliebte, Freundin|Cara, amica|Querida, amiga
+Liséa|f|hebrew|french|2|modern,sweet|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Elza|f|hebrew|french,portuguese|2|vintage|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Thierno|m|african|african,french|2|virtue|Maestro, guía religioso|Teacher, religious guide|Maître, guide religieux|Lehrer, religiöser Führer|Maestro, guida religiosa|Mestre, guia religioso
+Emin|m|arabic|turkish|2|virtue|Digno de confianza|Trustworthy|Digne de confiance|Vertrauenswürdig|Degno di fiducia|Digno de confiança
+Yvan|m|hebrew|french|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Alexy|m|greek|french|2|strong|Defensor|Defender|Défenseur|Verteidiger|Difensore|Defensor
+Sofya|f|greek|russian,french|2|classic,virtue|Sabiduría|Wisdom|Sagesse|Weisheit|Saggezza|Sabedoria
+Hanaa|f|arabic|arabic|2|virtue,sweet|Felicidad, dicha|Happiness, bliss|Bonheur, félicité|Glück, Wonne|Felicità, beatitudine|Felicidade, ventura
+Izaac|m|hebrew|french|2|biblical,modern|Él ríe|He laughs|Il rit|Er lacht|Egli ride|Ele ri
+Ilyess|m|hebrew|arabic,french|2|biblical,modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Berat|m|arabic|turkish|2|virtue|Absolución, inocencia|Absolution, innocence|Absolution, innocence|Freispruch, Unschuld|Assoluzione, innocenza|Absolvição, inocência
+Jed|m|hebrew|english,french|2|biblical|Amado de Dios|Beloved of God|Bien-aimé de Dieu|Von Gott geliebt|Amato da Dio|Amado de Deus
+Noëlya|f|latin|french|2|modern|Navidad|Christmas|Noël|Weihnachten|Natale|Natal
+Appoline|f|greek|french|2|mythology,light|Consagrada a Apolo|Devoted to Apollo|Consacrée à Apollon|Apollo geweiht|Consacrata ad Apollo|Consagrada a Apolo
+Lysandro|m|greek|french|2|modern,strong|Liberador de hombres|Liberator of men|Libérateur des hommes|Befreier der Menschen|Liberatore degli uomini|Libertador dos homens
+Aëla|f|celtic|french|2|modern,sweet|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Charlyne|f|germanic|french|2|modern|Mujer libre|Free woman|Femme libre|Freie Frau|Donna libera|Mulher livre
+Myléna|f|slavic|french|2|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Anmutige|Cara, graziosa|Querida, graciosa
+Erine|f|celtic|french|2|place,modern|Irlanda|Ireland|Irlande|Irland|Irlanda|Irlanda
+Lysa|f|hebrew|french|2|modern|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Harouna|m|hebrew|arabic,african,french|2|biblical|Exaltado, elevado|Exalted, lofty|Exalté, élevé|Erhaben, hoch|Esaltato, elevato|Exaltado, elevado
+Owenn|m|celtic|french|2|modern|Bien nacido|Well-born|Bien né|Wohlgeboren|Ben nato|Bem-nascido
+Taym|m|arabic|arabic|2|virtue|Siervo, devoto|Servant, devotee|Serviteur, dévoué|Diener, Ergebener|Servo, devoto|Servo, devoto
+Abou|m|arabic|arabic,african,french|2|classic|Padre|Father|Père|Vater|Padre|Pai
+Isaaq|m|hebrew|french,arabic|2|biblical|Él ríe|He laughs|Il rit|Er lacht|Egli ride|Ele ri
+Danya|f|arabic|arabic,french|2|sweet|Cercana, al alcance|Near, within reach|Proche, à portée|Nah, in Reichweite|Vicina, a portata|Próxima, ao alcance
+Ohana|f|polynesian|french|2|modern,love|Familia|Family|Famille|Familie|Famiglia|Família
+Meryam|f|hebrew|arabic,french|2|biblical,classic|Forma árabe de María, quizá amada|Arabic form of Mary, perhaps beloved|Forme arabe de Marie, peut-être bien-aimée|Arabische Form von Maria, vielleicht Geliebte|Forma araba di Maria, forse amata|Forma árabe de Maria, talvez amada
+Mélinda|f|latin|french|2|sweet,literary|Dulce como la miel|Sweet as honey|Douce comme le miel|Süß wie Honig|Dolce come il miele|Doce como o mel
+Seydina|m|arabic|arabic,african,french|2|virtue|Nuestro señor|Our master|Notre seigneur|Unser Herr|Nostro signore|Nosso senhor
+Marty|m|latin|english,french|2|vintage|Dedicado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Dedicado a Marte
+Yaya|m|arabic|arabic,african,french|2|biblical|Él vivirá|He will live|Il vivra|Er wird leben|Egli vivrà|Ele viverá
+Lisandru|m|greek|french|2|classic,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Arthus|m|celtic|french|2|vintage,royal,animal|Oso|Bear|Ours|Bär|Orso|Urso
+Rokia|f|arabic|arabic,african,french|2|classic|Elevación, ascenso|Rise, ascent|Élévation, ascension|Aufstieg, Erhebung|Elevazione, ascesa|Elevação, ascensão
+Julianna|f|latin|english,polish|2|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Imène|f|arabic|arabic,french|2|virtue|Fe|Faith|Foi|Glaube|Fede|Fé
+Brieuc|m|celtic|french|2|saint,strong|Alto, poderoso|High, mighty|Élevé, puissant|Hoch, mächtig|Alto, potente|Alto, poderoso
+Nyno|m|hebrew|french|2|modern,sweet|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Keziah|m|hebrew|french,english|2|biblical,nature|Casia, árbol aromático|Cassia, fragrant tree|Casse, arbre aromatique|Kassia, duftender Baum|Cassia, albero aromatico|Cássia, árvore aromática
+Ysé|f|celtic|french|2|literary|Hermosa a la vista|Fair to look at|Belle à voir|Schön anzusehen|Bella da vedere|Bela de se ver
+Johanne|f|hebrew|french,scandinavian|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Khalissa|f|arabic|arabic,french|2|virtue|Pura, sincera|Pure, sincere|Pure, sincère|Rein, aufrichtig|Pura, sincera|Pura, sincera
+Wassila|f|arabic|arabic,french|2|virtue|Vínculo, medio de acercarse|Bond, means of approach|Lien, moyen de se rapprocher|Bindung, Weg der Annäherung|Legame, mezzo per avvicinarsi|Vínculo, meio de aproximação
+Leyah|f|hebrew|french|2|biblical,modern|Cansada|Weary|Lasse|Die Müde|Stanca|Cansada
+Enaya|f|arabic|arabic,french|2|virtue,sweet|Cuidado, protección|Care, protection|Soin, protection|Fürsorge, Schutz|Cura, protezione|Cuidado, proteção
+Soundous|f|arabic|arabic,french|2|classic|Seda fina|Fine silk|Soie fine|Feine Seide|Seta fine|Seda fina
+Soumeya|f|arabic|arabic,french|2|classic,virtue|Elevada, sublime|Elevated, exalted|Élevée, sublime|Erhaben, hochstehend|Elevata, sublime|Elevada, sublime
+Kimberley|f|germanic|english|2|place|Pradera real|Royal meadow|Prairie royale|Königliche Wiese|Prato reale|Prado real
+Eliel|m|hebrew|hebrew,french|2|biblical|Mi Dios es Dios|My God is God|Mon Dieu est Dieu|Mein Gott ist Gott|Il mio Dio è Dio|O meu Deus é Deus
+Joakim|m|hebrew|scandinavian,french|2|biblical,saint|Yahvé establece|Yahweh establishes|Yahvé établit|Jahwe richtet auf|Yahweh stabilisce|Javé estabelece
+Yvann|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Yohann|m|hebrew|french|2|classic|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Kalvin|m|latin|french,english|2|modern|Calvo|Bald|Chauve|Kahl|Calvo|Calvo
+Kilyan|m|celtic|french|2|modern,saint|Iglesia pequeña|Little church|Petite église|Kleine Kirche|Piccola chiesa|Pequena igreja
+Ilhem|f|arabic|arabic,french|2|virtue|Inspiración|Inspiration|Inspiration|Eingebung|Ispirazione|Inspiração
+Louanne|f|germanic|french|2|modern|Guerrera famosa|Famous warrior|Guerrière illustre|Berühmte Kriegerin|Guerriera illustre|Guerreira ilustre
+Stacy|f|greek|english,french|2|modern|Resurrección|Resurrection|Résurrection|Auferstehung|Resurrezione|Ressurreição
+Ezel|m|arabic|turkish|2|modern|Eternidad sin principio|Eternity without beginning|Éternité sans commencement|Ewigkeit ohne Anfang|Eternità senza inizio|Eternidade sem princípio
+Ilyann|m|hebrew|french|2|modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Abdoullah|m|arabic|arabic,french|2|classic,virtue|Siervo de Dios|Servant of God|Serviteur de Dieu|Diener Gottes|Servo di Dio|Servo de Deus
+Miraç|m|arabic|turkish|2|modern|Ascensión al cielo|Ascension to heaven|Ascension au ciel|Himmelfahrt|Ascensione al cielo|Ascensão ao céu
+Ramata|f|arabic|arabic,african,french|2|virtue|Misericordia|Mercy|Miséricorde|Barmherzigkeit|Misericordia|Misericórdia
+Armance|f|germanic|french|2|literary,vintage,warrior|Mujer del ejército|Army woman|Femme de l'armée|Frau des Heeres|Donna dell'esercito|Mulher do exército
+Loona|f|latin|french|2|celestial,modern|Luna|Moon|Lune|Mond|Luna|Lua
+Chahinez|f|persian|arabic,french|2|royal|Orgullo del rey|Pride of the king|Fierté du roi|Stolz des Königs|Orgoglio del re|Orgulho do rei
+Fantine|f|latin|french|2|literary,sweet|Niña, infantil|Childlike|Enfantine|Kindlich|Infantile, bambina|Infantil, menina
+Siméo|m|hebrew|french|2|biblical,modern|Él ha escuchado|He has heard|Il a entendu|Er hat gehört|Egli ha ascoltato|Ele ouviu
+Sulayman|m|hebrew|arabic|2|biblical,royal|Hombre de paz|Man of peace|Homme de paix|Mann des Friedens|Uomo di pace|Homem de paz
+Maëlann|m|celtic|french|2|royal,modern|Príncipe|Prince|Prince|Fürst|Principe|Príncipe
+Mouhamad|m|arabic|arabic,african,french|2|classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Kamel|m|arabic|arabic,french|2|virtue,classic|Perfecto, completo|Perfect, complete|Parfait, complet|Vollkommen|Perfetto, completo|Perfeito, completo
+Salmane|m|arabic|arabic,french|2|virtue|Seguro, pacífico|Safe, peaceful|Sûr, paisible|Sicher, friedlich|Sicuro, pacifico|Seguro, pacífico
+Dwayne|m|celtic|english|2|modern|Pequeño moreno|Little dark one|Petit brun|Kleiner Dunkler|Piccolo scuro|Pequeno moreno
+Ilef|f|arabic|arabic,french|2|virtue|Armonía, concordia|Harmony, concord|Harmonie, concorde|Harmonie, Eintracht|Armonia, concordia|Harmonia, concórdia
+Adja|f|arabic|arabic,african,french|2|virtue|Peregrina a La Meca|Pilgrim to Mecca|Pèlerine de La Mecque|Mekka-Pilgerin|Pellegrina alla Mecca|Peregrina a Meca
+Nyna|f|hebrew|french|2|modern,sweet|Gracia|Grace|Grâce|Gnade|Grazia|Graça
+Cassidy|f|celtic|english|2|modern|De cabello rizado|Curly-haired|Aux cheveux bouclés|Lockenkopf|Dai capelli ricci|De cabelo encaracolado
+Faustin|m|latin|french|2|saint,vintage|Afortunado, dichoso|Fortunate, lucky|Heureux, fortuné|Glücklich, begünstigt|Fortunato, felice|Afortunado, ditoso
+Issra|f|arabic|arabic,french|2|classic|Viaje nocturno|Night journey|Voyage nocturne|Nächtliche Reise|Viaggio notturno|Viagem noturna
+Alyna|f|germanic|french|2|modern|Noble|Noble|Noble|Edel|Nobile|Nobre
+Roch|m|germanic|french,polish|2|saint,vintage|Descanso|Rest|Repos|Ruhe|Riposo|Descanso
+Mathéïs|m|hebrew|french|2|modern,biblical|Don de Dios|Gift of God|Don de Dieu|Gottesgeschenk|Dono di Dio|Dom de Deus
+Foucauld|m|germanic|french|2|saint,vintage|Gobernante del pueblo|Ruler of the people|Souverain du peuple|Herrscher des Volkes|Sovrano del popolo|Governante do povo
+Zackary|m|hebrew|english,french|2|biblical,modern|Dios ha recordado|God remembered|Dieu s'est souvenu|Gott hat sich erinnert|Dio ha ricordato|Deus lembrou
+Harone|m|hebrew|arabic,french|2|biblical|Exaltado, elevado|Exalted, lofty|Exalté, élevé|Erhaben, hoch|Esaltato, elevato|Exaltado, elevado
+Heyden|m|germanic|french|2|modern,place|Valle de heno|Hay valley|Vallée de foin|Heutal|Valle di fieno|Vale de feno
+Meliha|f|arabic|turkish|2|sweet|Bella, encantadora|Beautiful, charming|Belle, charmante|Schön, anmutig|Bella, incantevole|Bela, encantadora
+Mylla|f|slavic|french|2|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Gnädige|Cara, graziosa|Querida, graciosa
+Isaïe|m|hebrew|french|2|biblical|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Rettung|Yahweh è salvezza|Javé é salvação
+Briac|m|celtic|french|2|saint|Estimado, noble|Esteemed, noble|Estimé, noble|Geachtet, edel|Stimato, nobile|Estimado, nobre
+Heaven|m|germanic|english,french|2|modern,celestial|Cielo, paraíso|Heaven, paradise|Ciel, paradis|Himmel, Paradies|Cielo, paradiso|Céu, paraíso
+Zinedine|m|arabic|arabic,french|2|virtue|Belleza de la fe|Beauty of the faith|Beauté de la foi|Schönheit des Glaubens|Bellezza della fede|Beleza da fé
+Youenn|m|germanic|french|2|saint,nature|Tejo|Yew|If|Eibe|Tasso|Teixo

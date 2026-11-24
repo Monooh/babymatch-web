@@ -1,0 +1,28 @@
+Hussain|m|arabic|arabic,indian|2|classic,virtue|Pequeño hermoso|Little handsome one|Petit beau|Kleiner Schöner|Piccolo bello|Pequeno belo
+Harun|m|hebrew|turkish,arabic|2|biblical,classic|Elevado, exaltado|Exalted|Élevé, exalté|Erhabener|Elevato, esaltato|Elevado, exaltado
+Lilith|f|hebrew|english,german|2|mythology|De la noche|Of the night|De la nuit|Die Nächtliche|Della notte|Da noite
+Muntaha|f|arabic|arabic,indian|2|virtue|El límite más alto|The utmost limit|La limite ultime|Das höchste Ziel|Il limite estremo|O limite supremo
+Markus|m|latin|german,scandinavian|2|classic|Consagrado a Marte|Dedicated to Mars|Consacré à Mars|Dem Mars geweiht|Consacrato a Marte|Consagrado a Marte
+Nazareno|m|hebrew|italian,spanish|2|biblical,vintage|De Nazaret|From Nazareth|De Nazareth|Aus Nazareth|Di Nazaret|De Nazaré
+Pierluca|m|greek|italian|2|classic|Roca, luminoso|Rock, bringer of light|Roc, lumineux|Fels, Lichtvoller|Roccia, luminoso|Rocha, luminoso
+Remo|m|latin|italian|2|mythology,vintage|Hermano gemelo de Rómulo|Twin brother of Romulus|Frère jumeau de Romulus|Zwillingsbruder des Romulus|Fratello gemello di Romolo|Irmão gémeo de Rómulo
+Ermes|m|greek|italian|2|mythology|Mensajero de los dioses|Messenger of the gods|Messager des dieux|Götterbote|Messaggero degli dei|Mensageiro dos deuses
+Stiven|m|greek|italian,spanish|2|modern|Corona|Crown|Couronne|Krone|Corona|Coroa
+Desy|f|latin|italian|2|sweet,love|Deseada|Desired|Désirée|Ersehnte|Desiderata|Desejada
+Felisia|f|latin|italian|2|virtue|Afortunada|Fortunate|Fortunée|Glückliche|Fortunata|Afortunada
+Gaya|f|greek|italian,french|2|nature,modern|Tierra|Earth|Terre|Erde|Terra|Terra
+Meriam|f|hebrew|arabic,french|2|biblical|Amada, deseada|Beloved, wished-for|Bien-aimée, désirée|Geliebte, Ersehnte|Amata, desiderata|Amada, desejada
+Kristal|f|greek|italian|2|gem,modern|Cristal|Crystal|Cristal|Kristall|Cristallo|Cristal
+Medea|f|greek|italian|2|mythology,literary|Astuta, la que medita|Cunning, she who ponders|Rusée, celle qui médite|Die Kluge, Sinnende|Astuta, colei che medita|Astuta, a que medita
+Christel|f|greek|german,french|2|vintage|Seguidora de Cristo|Follower of Christ|Disciple du Christ|Anhängerin Christi|Seguace di Cristo|Seguidora de Cristo
+Swamy|f|sanskrit|italian|2|modern|Maestro, señor|Master, lord|Maître, seigneur|Meister, Herr|Maestro, signore|Mestre, senhor
+Inara|f|arabic|arabic|2|light|Iluminación|Illumination|Illumination|Erleuchtung|Illuminazione|Iluminação
+Piergiuseppe|m|greek|italian|2|classic|Roca, Dios aumentará|Rock, God will increase|Roc, Dieu ajoutera|Fels, Gott wird mehren|Roccia, Dio accrescerà|Rocha, Deus acrescentará
+Lupo|m|latin|italian|2|animal,vintage|Lobo|Wolf|Loup|Wolf|Lupo|Lobo
+Shayan|m|persian|persian,indian|2|virtue|Digno, merecedor|Worthy, deserving|Digne, méritant|Würdig, verdient|Degno, meritevole|Digno, merecedor
+Lorella|f|latin|italian|2|vintage|Laurel|Laurel|Laurier|Lorbeer|Alloro|Louro
+Marialucia|f|hebrew|italian|2|classic,light|Amada, luz|Beloved, light|Bien-aimée, lumière|Geliebte, Licht|Amata, luce|Amada, luz
+Mariapaola|f|hebrew|italian|2|classic|Amada, pequeña|Beloved, small|Bien-aimée, petite|Geliebte, Kleine|Amata, piccola|Amada, pequena
+Miracle|f|latin|english,african|2|virtue|Milagro|Miracle|Miracle|Wunder|Miracolo|Milagre
+Jouri|f|arabic|arabic|2|flower|Rosa de Damasco|Damask rose|Rose de Damas|Damaszener-Rose|Rosa damascena|Rosa-de-damasco
+Yakout|f|arabic|arabic,french|2|gem|Rubí, piedra preciosa|Ruby, precious stone|Rubis, pierre précieuse|Rubin, Edelstein|Rubino, pietra preziosa|Rubi, pedra preciosa

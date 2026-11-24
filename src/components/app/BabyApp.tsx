@@ -2,13 +2,14 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { fromRow, type N, type Row } from '@/lib/model'
 import { actions, getState, setState, useStore, EMPTY_FILTERS } from '@/lib/store'
-import { adoptKey, forgetAll, joinInvite, startSync, track, useRestoring } from '@/lib/sync'
+import { adoptKey, confirmEmail, forgetAll, joinInvite, removeEmail, startSync, track, useRestoring } from '@/lib/sync'
 import { decodeInvite } from '@/lib/share'
 import { t } from '@/lib/t'
 import { SwipeStack, type CardData, type Swipe } from '../SwipeStack'
 import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconTrash, IconUsers, IconX } from '../Icons'
 import { activeCount, buildDeck } from './deck'
 import { Quiz } from './Quiz'
+import { FinalSheet } from './Final'
 import { BackupSheet, FiltersSheet, LikesTab, ListsTab, MatchesTab } from './Panels'
 import type { AppProps, Ctx } from './types'
 
@@ -28,6 +29,9 @@ export function BabyApp(props: AppProps) {
   const [news, setNews] = useState(0) // several new matches at once: announced as a number
   const [invite, setInvite] = useState<{ name: string; ids: number[] } | null>(null) // a list inside an old-style link
   const [key, setKey] = useState<string | null>(null) // a "my list on another phone" link was opened
+  const [mailKey, setMailKey] = useState(false) // …and it came by email: it confirms the address too, and works once
+  const [mailOff, setMailOff] = useState<string | 'done' | null>(null) // the "stop writing to me" link of an email
+  const [showFinal, setShowFinal] = useState(false)
   const [join, setJoin] = useState<'ask' | 'busy' | 'taken' | 'unknown' | 'network'>('ask')
   const [takenBy, setTakenBy] = useState('')
   const [showBackup, setShowBackup] = useState(false)
@@ -58,6 +62,8 @@ export function BabyApp(props: AppProps) {
     const joinLink = url.hash.match(/^#j=([a-z0-9]{6,20})(?:&n=([^&]*))?$/)
     const keyLink = url.hash.match(/^#k=([\w-]{20,})$/)
     const oldLink = url.hash.match(/^#p=([\w-]+)$/)
+    const mailLink = url.hash.match(/^#m=([\w-]{20,})$/)
+    const offLink = url.hash.match(/^#u=([a-z0-9]{16,40})$/)
     if (joinLink) {
       // Tapping your own link (to check it before sending) must not do anything.
       if (joinLink[1] !== mine.invite) {
@@ -68,19 +74,23 @@ export function BabyApp(props: AppProps) {
       }
     } else if (keyLink) {
       setKey(keyLink[1])
+    } else if (mailLink) {
+      setKey(mailLink[1]); setMailKey(true)
+    } else if (offLink) {
+      setMailOff(offLink[1])
     } else if (oldLink) {
       const inv = decodeInvite(oldLink[1])
       const own = !!inv && inv.name === mine.me.trim().slice(0, 30) && inv.ids.every(id => mine.likes[id])
       if (inv && inv.ids.length && !own) setInvite(inv)
     }
     // The address must not keep a code or a key: it would end up in the history and in screenshots.
-    if (list || firstSlug.current || joinLink || keyLink || oldLink) window.history.replaceState(null, '', url.pathname)
+    if (list || firstSlug.current || joinLink || keyLink || oldLink || mailLink || offLink || url.searchParams.has('from')) window.history.replaceState(null, '', url.pathname)
     startSync(lang)
     track('app_open')
     // Where this visit to the app came from: a name page, a list, the home, a partner's link, or somewhere else.
     let fromHome = false
     try { fromHome = new URL(document.referrer).pathname.replace(/\/$/, '') === hrefs.home.replace(/\/$/, '') && new URL(document.referrer).origin === url.origin } catch { /* no referrer */ }
-    track(joinLink ? 'from_invite' : list ? 'from_list' : firstSlug.current ? 'from_name' : fromHome ? 'from_home' : 'from_other')
+    track(url.searchParams.get('from') === 'vote' ? 'from_vote' : joinLink ? 'from_invite' : list ? 'from_list' : firstSlug.current ? 'from_name' : fromHome ? 'from_home' : 'from_other')
     setMounted(true)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
@@ -160,8 +170,8 @@ export function BabyApp(props: AppProps) {
   async function openKey() {
     if (!key) return
     setJoin('busy')
-    const done = await adoptKey(key)
-    if (done) { setKey(null); setJoin('ask'); track('restored'); setTab('likes') } else setJoin('network')
+    const done = mailKey ? await confirmEmail(key) : await adoptKey(key)
+    if (done) { setKey(null); setJoin('ask'); track(mailKey ? 'email_confirmed' : 'restored'); setTab('likes') } else setJoin('network')
   }
   function undo() {
     const id = p.hist[p.hist.length - 1]
@@ -193,12 +203,27 @@ export function BabyApp(props: AppProps) {
       <div className="quiz">
         <div className="welcome">
           <img src="/logo.png" alt="" width={96} height={96} />
-          <h1>{failed ? d.matches.networkH : d.menu.keyH}</h1>
-          <p className="lead">{failed ? d.matches.networkP : d.menu.keyP}</p>
+          <h1>{failed ? (mailKey ? d.menu.mailLinkBadH : d.matches.networkH) : d.menu.keyH}</h1>
+          <p className="lead">{failed ? (mailKey ? d.menu.mailLinkBadP : d.matches.networkP) : d.menu.keyP}</p>
         </div>
         <div className="quiz-foot">
           <button type="button" className="btn" onClick={() => { setKey(null); setJoin('ask') }}>{d.matches.importDecline}</button>
           <button type="button" className="btn btn--primary" onClick={openKey}>{failed ? d.retry : d.menu.keyAccept}</button>
+        </div>
+      </div>
+    )
+  } else if (mailOff) {
+    const done = mailOff === 'done'
+    body = (
+      <div className="quiz">
+        <div className="welcome">
+          <img src="/logo.png" alt="" width={96} height={96} />
+          <h1>{done ? d.menu.mailOffDone : d.menu.mailOffH}</h1>
+          {done ? null : <p className="lead">{d.menu.mailOffP}</p>}
+        </div>
+        <div className="quiz-foot">
+          <button type="button" className={done ? 'btn btn--primary' : 'btn'} onClick={() => setMailOff(null)}>{done ? c.close : d.matches.importDecline}</button>
+          {done ? null : <button type="button" className="btn btn--primary" onClick={() => { void removeEmail(mailOff).then(() => setMailOff('done')) }}>{d.menu.mailOffYes}</button>}
         </div>
       </div>
     )
@@ -283,12 +308,12 @@ export function BabyApp(props: AppProps) {
   } else if (tab === 'lists') {
     body = <ListsTab ctx={ctx} onPick={key => { setState({ list: key }); track('list_opened'); setTab('swipe') }} />
   } else if (tab === 'likes') {
-    body = <LikesTab ctx={ctx} onSwipe={() => setTab('swipe')} />
+    body = <LikesTab ctx={ctx} onSwipe={() => setTab('swipe')} onFinal={() => setShowFinal(true)} />
   } else {
-    body = <MatchesTab ctx={ctx} onSwipe={() => setTab('swipe')} />
+    body = <MatchesTab ctx={ctx} onSwipe={() => setTab('swipe')} onFinal={() => setShowFinal(true)} />
   }
 
-  const showTabs = !!ctx && mounted && !invite && !key && !s.pending && join === 'ask' && !restoring && !needsQuiz && !failed
+  const showTabs = !!ctx && mounted && !invite && !key && !mailOff && !s.pending && join === 'ask' && !restoring && !needsQuiz && !failed
   const tabs: [Tab, string, React.ReactNode, number][] = [
     ['swipe', d.tabSwipe, <IconCards key="i" size={22} />, 0],
     ['lists', d.tabLists, <IconLayers key="i" size={22} />, 0],
@@ -334,6 +359,7 @@ export function BabyApp(props: AppProps) {
 
       {showFilters && ctx ? <FiltersSheet ctx={ctx} onClose={() => setShowFilters(false)} /> : null}
       {showBackup && ctx ? <BackupSheet ctx={ctx} onClose={() => setShowBackup(false)} /> : null}
+      {showFinal && ctx ? <FinalSheet ctx={ctx} onClose={() => setShowFinal(false)} /> : null}
 
       {match || news ? (
         <div className="overlay" role="dialog" aria-modal="true" aria-labelledby="match-h">

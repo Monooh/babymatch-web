@@ -1,0 +1,78 @@
+Haylie|f|germanic|english|2|modern,place|Claro de heno|Hay clearing|Clairière de foin|Heuwiese|Radura di fieno|Clareira de feno
+Roukaya|f|arabic|arabic,french|2|classic|Elevación, ascenso|Rise, ascent|Élévation, ascension|Aufstieg, Erhebung|Elevazione, ascesa|Elevação, ascensão
+Dalil|m|arabic|arabic,french|2|virtue|Guía, prueba|Guide, proof|Guide, preuve|Führer, Beweis|Guida, prova|Guia, prova
+Nazim|m|arabic|arabic,french|2|classic|Organizador, poeta|Organiser, poet|Organisateur, poète|Ordner, Dichter|Organizzatore, poeta|Organizador, poeta
+Jassem|m|arabic|arabic,french|2|strong|Corpulento, fuerte|Stout, strong|Corpulent, fort|Stattlich, stark|Corpulento, forte|Corpulento, forte
+Innaya|f|arabic|arabic,french|2|virtue,sweet|Cuidado, protección|Care, protection|Soin, protection|Fürsorge, Schutz|Cura, protezione|Cuidado, proteção
+Ylona|f|greek|french|2|modern,light|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Aël|m|celtic|french|2|modern|Ángel|Angel|Ange|Engel|Angelo|Anjo
+Adame|m|hebrew|french|2|biblical|Hombre de la tierra|Man of the earth|Homme de la terre|Mensch der Erde|Uomo della terra|Homem da terra
+Ylian|m|hebrew|french|2|modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Yéléna|f|greek|french|2|light,classic|Antorcha brillante|Shining torch|Torche brillante|Strahlende Fackel|Torcia splendente|Tocha brilhante
+Maëlly|f|celtic|french|2|royal,modern|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Mohamad|m|arabic|arabic|2|classic|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Elohim|m|hebrew|french|2|biblical|Dios|God|Dieu|Gott|Dio|Deus
+Chahid|m|arabic|arabic,french|2|virtue|Testigo|Witness|Témoin|Zeuge|Testimone|Testemunha
+Giulya|f|latin|french|2|modern|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Nejma|f|arabic|arabic,french|2|celestial,light|Estrella|Star|Étoile|Stern|Stella|Estrela
+Sokhna|f|african|african,french|2|virtue|Dama respetable|Respected lady|Dame respectée|Geachtete Dame|Dama rispettata|Senhora respeitada
+Solyne|f|latin|french|2|modern,sweet|Solemne|Solemn|Solennelle|Feierlich|Solenne|Solene
+Izaak|m|hebrew|french,polish|2|biblical|Él ríe|He laughs|Il rit|Er lacht|Egli ride|Ele ri
+Elhadj|m|arabic|arabic,african,french|2|virtue|El peregrino|The pilgrim|Le pèlerin|Der Pilger|Il pellegrino|O peregrino
+Sidy|m|arabic|arabic,african,french|2|virtue|Mi señor|My lord|Mon seigneur|Mein Herr|Mio signore|Meu senhor
+Hamidou|m|arabic|arabic,african,french|2|virtue|Digno de alabanza|Praiseworthy|Digne de louange|Lobenswert|Degno di lode|Digno de louvor
+Marcelin|m|latin|french|2|saint,vintage|Pequeño Marcos|Little Marcus|Petit Marc|Kleiner Marcus|Piccolo Marco|Pequeno Marcos
+Jodie|f|hebrew|english|2|modern|Alabada|Praised|Louée|Die Gepriesene|Lodata|Louvada
+Maryem|f|hebrew|arabic,french|2|biblical,classic|Forma árabe de María, quizá amada|Arabic form of Mary, perhaps beloved|Forme arabe de Marie, peut-être bien-aimée|Arabische Form von Maria, vielleicht Geliebte|Forma araba di Maria, forse amata|Forma árabe de Maria, talvez amada
+Emmanuella|f|hebrew|french,english|2|biblical|Dios con nosotros|God is with us|Dieu avec nous|Gott mit uns|Dio con noi|Deus conosco
+Assile|f|arabic|arabic,french|2|virtue|De origen noble, auténtica|Of noble origin, authentic|D'origine noble, authentique|Von edler Herkunft, echt|Di nobile origine, autentica|De origem nobre, autêntica
+Oussayd|m|arabic|arabic,french|2|animal,strong|Pequeño león|Little lion|Petit lion|Kleiner Löwe|Piccolo leone|Pequeno leão
+Sajed|m|arabic|arabic,french|2|virtue|El que se postra en oración|One who prostrates in prayer|Celui qui se prosterne en prière|Der sich im Gebet Niederwerfende|Colui che si prostra in preghiera|O que se prostra em oração
+Wayatt|m|germanic|french|2|modern,warrior|Valiente en la guerra|Brave in war|Courageux à la guerre|Kühn im Krieg|Valoroso in guerra|Valente na guerra
+Racim|m|arabic|arabic,french|2|classic|Dibujante, el que traza|Draughtsman, one who designs|Dessinateur, celui qui trace|Zeichner, Gestalter|Disegnatore, colui che traccia|Desenhador, o que traça
+Katalina|f|greek|french,basque|2|classic|Pura|Pure|Pure|Rein|Pura|Pura
+Meïssa|f|arabic|arabic,french|2|sweet|De andar elegante|Graceful in her walk|À la démarche gracieuse|Mit anmutigem Gang|Dall'andatura elegante|De andar elegante
+Sherine|f|persian|arabic,french|2|sweet|Dulce|Sweet|Douce|Süß|Dolce|Doce
+Mylana|f|slavic|french|2|modern,sweet|Querida, amable|Dear, gracious|Chère, aimable|Liebe, Gnädige|Cara, graziosa|Querida, graciosa
+Yamin|m|arabic|arabic,french|2|virtue|Mano derecha, bendito|Right hand, blessed|Main droite, béni|Rechte Hand, gesegnet|Mano destra, benedetto|Mão direita, abençoado
+Gianny|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Joulia|f|latin|french|2|classic|De la familia Julia|Of the Julius clan|De la famille Julia|Aus dem Geschlecht der Julier|Della gens Giulia|Da família Júlia
+Kadidja|f|arabic|arabic,african,french|2|classic|Nacida antes de tiempo|Born prematurely|Née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Eliya|f|hebrew|french,hebrew|2|biblical,modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Khady|f|arabic|arabic,african,french|2|sweet|Nacida antes de tiempo|Born prematurely|Née avant terme|Frühgeborene|Nata prematura|Nascida prematura
+Nourhane|f|arabic|arabic,french|2|light,royal|Luz del soberano|Light of the ruler|Lumière du souverain|Licht des Herrschers|Luce del sovrano|Luz do soberano
+Harmonie|f|greek|french|2|virtue,music|Armonía|Harmony|Harmonie|Harmonie|Armonia|Harmonia
+Haley|f|germanic|english|2|modern,place|Claro de heno|Hay clearing|Clairière de foin|Heuwiese|Radura di fieno|Clareira de feno
+Mayane|f|hebrew|french|2|nature,modern|Manantial, fuente|Spring, fountain|Source, fontaine|Quelle, Brunnen|Sorgente, fonte|Nascente, fonte
+Timéa|f|greek|french|2|literary,modern|Buen ánimo, alegría|Good spirits, cheerfulness|Bonne humeur, gaieté|Frohsinn, Heiterkeit|Buon umore, allegria|Bom ânimo, alegria
+Esaïe|m|hebrew|french|2|biblical|Yahvé es salvación|Yahweh is salvation|Yahvé est salut|Jahwe ist Rettung|Yahweh è salvezza|Javé é salvação
+Giani|m|hebrew|french|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Freyja|f|norse|scandinavian|2|mythology,love|Señora|Lady|Dame|Herrin|Signora|Senhora
+Katalyna|f|greek|french|2|modern|Pura|Pure|Pure|Rein|Pura|Pura
+Shaïma|f|arabic|arabic,french|2|classic|Con lunar de belleza|With a beauty mark|Au grain de beauté|Mit Schönheitsmal|Con un neo di bellezza|Com sinal de beleza
+Maëla|f|celtic|french|2|royal|Princesa|Princess|Princesse|Fürstin|Principessa|Princesa
+Alessyo|m|greek|french|2|modern,strong|Defensor|Defender|Défenseur|Beschützer|Difensore|Defensor
+Khalys|m|arabic|arabic,french|2|modern,virtue|Puro, sincero|Pure, sincere|Pur, sincère|Rein, aufrichtig|Puro, sincero|Puro, sincero
+Ezzio|m|greek|french|2|modern,animal|Águila|Eagle|Aigle|Adler|Aquila|Águia
+Martial|m|latin|french|2|saint,vintage,warrior|Consagrado a Marte, guerrero|Of Mars, warlike|Consacré à Mars, guerrier|Dem Mars geweiht, kriegerisch|Consacrato a Marte, guerriero|Consagrado a Marte, guerreiro
+Lounès|m|arabic|arabic,french|2|virtue|Compañero afable|Friendly companion|Compagnon affable|Freundlicher Gefährte|Compagno affabile|Companheiro afável
+Eythan|m|hebrew|french|2|modern,strong|Firme, duradero|Strong, enduring|Fort, durable|Stark, beständig|Forte, duraturo|Forte, duradouro
+Djamil|m|arabic|arabic,french|2|classic|Hermoso|Beautiful|Beau|Schön|Bello|Belo
+Sila|f|arabic|turkish,french|2|love|Reencuentro con la tierra natal|Reunion with one's homeland|Retrouvailles avec la terre natale|Wiedersehen mit der Heimat|Ricongiungimento con la terra natale|Reencontro com a terra natal
+Noée|f|hebrew|french|2|biblical,modern|Descanso, consuelo|Rest, comfort|Repos, réconfort|Ruhe, Trost|Riposo, conforto|Descanso, conforto
+Elyse|f|hebrew|french,english|2|classic|Dios es mi juramento|God is my oath|Dieu est mon serment|Gott ist mein Eid|Dio è il mio giuramento|Deus é o meu juramento
+Auxane|f|greek|french|2|saint|La que crece, prospera|She who grows, thrives|Celle qui croît, prospère|Die Wachsende, Gedeihende|Colei che cresce, prospera|A que cresce, prospera
+Ilyan|m|hebrew|french|4|modern,trendy|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|O meu Deus é Javé
+Loris|m|latin|french,italian|3|modern|Coronado de laurel|Crowned with laurel|Couronné de laurier|Mit Lorbeer gekrönt|Incoronato d'alloro|Coroado de louro
+Liana|f|latin|french,italian,portuguese|3|sweet|Forma corta de Juliana o Liliana|Short form of Juliana or Liliana|Forme courte de Juliana ou Liliana|Kurzform von Juliana oder Liliana|Forma breve di Giuliana o Liliana|Forma curta de Juliana ou Liliana
+Joud|u|arabic|arabic,french|3|virtue|Generosidad|Generosity|Générosité|Großzügigkeit|Generosità|Generosidade
+Kataleya|f|other|french|2|flower,modern|Orquídea cattleya|Cattleya orchid|Orchidée cattleya|Cattleya-Orchidee|Orchidea cattleya|Orquídea cattleya
+Tina|f|latin|french,english,german,italian|2|classic,sweet|Forma corta de Cristina o Martina|Short form of Christina or Martina|Forme courte de Christina ou Martina|Kurzform von Christina oder Martina|Forma breve di Cristina o Martina|Forma curta de Cristina ou Martina
+Asya|f|greek|turkish,italian,french|3|place,modern|Asia, oriente|Asia, the East|Asie, orient|Asien, Morgenland|Asia, oriente|Ásia, oriente
+Zayan|m|arabic|arabic,french|2|modern|Hermoso, que embellece|Beautiful, one who adorns|Beau, celui qui embellit|Schön, der Schmückende|Bello, colui che abbellisce|Belo, o que embeleza
+Clélia|f|latin|french|3|classic,literary|Ilustre, gloriosa|Illustrious, renowned|Illustre, glorieuse|Berühmt, ruhmreich|Illustre, gloriosa|Ilustre, gloriosa
+Chanel|f|latin|french,english,italian|3|modern|Canal de agua|Water channel|Canal d'eau|Wasserkanal|Canale d'acqua|Canal de água
+Gino|m|germanic|italian,french|2|vintage|Diminutivo de Luigi: guerrero famoso|Short for Luigi: famous warrior|Diminutif de Luigi : guerrier célèbre|Kurzform von Luigi: berühmter Krieger|Diminutivo di Luigi: guerriero famoso|Diminutivo de Luigi: guerreiro famoso
+Sajid|m|arabic|arabic|2|virtue|El que se postra en oración|One who prostrates in prayer|Celui qui se prosterne en prière|Der sich im Gebet Niederwerfende|Colui che si prostra in preghiera|O que se prostra em oração
+Yacoub|m|hebrew|arabic,french|2|biblical|El que suplanta|Supplanter, holder of the heel|Celui qui supplante|Der Fersenhalter|Colui che soppianta|O que suplanta
+Joudia|f|arabic|arabic,french|2|virtue|Generosa|Generous|Généreuse|Großzügig|Generosa|Generosa

@@ -1,0 +1,90 @@
+Ila|f|sanskrit|english,indian|2|mythology,vintage|Tierra|Earth|Terre|Erde|Terra|Terra
+Rayne|f|germanic|english|2|nature,modern|Lluvia|Rain|Pluie|Regen|Pioggia|Chuva
+Fallon|f|celtic|english|2|modern,strong|Líder|Leader|Chef|Anführer|Capo|Líder
+Hadlee|f|germanic|english|2|nature,modern|Prado de brezo|Heather meadow|Prairie de bruyère|Heidewiese|Prato di erica|Prado de urze
+Kallie|f|greek|english|2|sweet,modern|Hermosa|Beautiful|Belle|Schön|Bella|Bela
+Promise|f|latin|english|2|virtue,modern|Promesa|Promise|Promesse|Versprechen|Promessa|Promessa
+Kairi|f|japanese|english|2|sea,modern|Mar|Sea|Mer|Meer|Mare|Mar
+Karter|u|germanic|english|3|modern,trendy|Transportista|Cart driver|Charretier|Fuhrmann|Carrettiere|Carroceiro
+Marleigh|f|germanic|english|2|nature,modern|Bosque agradable|Pleasant wood|Bois agréable|Lieblicher Wald|Bosco ameno|Bosque agradável
+Harmoni|f|greek|english|2|music,virtue,modern|Armonía|Harmony|Harmonie|Harmonie|Armonia|Harmonia
+Novah|f|latin|english|2|celestial,modern|Nueva|New|Nouvelle|Die Neue|Nuova|Nova
+Loretta|f|latin|english,italian|2|vintage,classic|Laurel|Laurel|Laurier|Lorbeer|Alloro|Loureiro
+Clare|f|latin|english,irish|2|classic,saint,light|Clara, brillante|Clear, bright|Claire, brillante|Klar, hell|Chiara, luminosa|Clara, brilhante
+Laylah|f|arabic|english|2|celestial,modern|Noche|Night|Nuit|Nacht|Notte|Noite
+Princess|f|latin|english|2|royal,modern|Princesa|Princess|Princesse|Prinzessin|Principessa|Princesa
+Giana|f|hebrew|english|2|modern|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Leilany|f|polynesian|english|2|flower,celestial,modern|Flor celestial|Heavenly flower|Fleur céleste|Himmlische Blume|Fiore celeste|Flor celestial
+Amoura|f|latin|english|2|love,modern|Amor|Love|Amour|Liebe|Amore|Amor
+Azaria|f|hebrew|english|2|biblical,modern|Dios ha ayudado|God has helped|Dieu a aidé|Gott hat geholfen|Dio ha aiutato|Deus ajudou
+Waverly|f|germanic|english|2|literary,nature,place|Prado de álamos temblones|Meadow of quivering aspens|Prairie des trembles|Wiese der Zitterpappeln|Prato dei pioppi tremuli|Prado dos álamos trémulos
+Averi|f|germanic|english|2|modern|Gobernante de los elfos|Elf ruler|Souverain des elfes|Elfenherrscher|Sovrano degli elfi|Governante dos elfos
+Ryann|f|celtic|english|2|royal,modern|Pequeño rey|Little king|Petit roi|Kleiner König|Piccolo re|Pequeno rei
+Jaxon|m|hebrew|english|4|modern,trendy|Hijo de Jack|Son of Jack|Fils de Jack|Sohn von Jack|Figlio di Jack|Filho de Jack
+Greyson|m|germanic|english|4|modern,trendy|Hijo del administrador|Son of the steward|Fils de l'intendant|Sohn des Verwalters|Figlio dell'amministratore|Filho do administrador
+Jace|m|greek|english|4|modern,trendy|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Jaxson|m|hebrew|english|4|modern,trendy|Hijo de Jack|Son of Jack|Fils de Jack|Sohn von Jack|Figlio di Jack|Filho de Jack
+Brayden|m|celtic|english|4|modern,animal|Salmón|Salmon|Saumon|Lachs|Salmone|Salmão
+Bryson|m|celtic|english|4|modern|Hijo de Brice|Son of Brice|Fils de Brice|Sohn von Brice|Figlio di Brice|Filho de Brice
+Cole|m|germanic|english|3|classic,strong|Negro como el carbón|Coal black|Noir comme le charbon|Kohlschwarz|Nero come il carbone|Negro como o carvão
+Braxton|m|germanic|english|3|place,modern|Pueblo de Bracca|Bracca's town|Village de Bracca|Braccas Siedlung|Villaggio di Bracca|Povoado de Bracca
+Ryker|m|germanic|english|3|modern,strong|Rico|Rich|Riche|Reich|Ricco|Rico
+Jayce|m|greek|english|3|modern,trendy|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Maddox|m|celtic|english|3|modern,strong|Hijo de Madoc|Son of Madoc|Fils de Madoc|Sohn von Madoc|Figlio di Madoc|Filho de Madoc
+Legend|m|latin|english|3|modern,strong|Leyenda|Legend|Légende|Legende|Leggenda|Lenda
+Rhett|m|germanic|english|3|literary,classic|Consejo|Counsel|Conseil|Rat|Consiglio|Conselho
+Brody|m|celtic|english|3|place,modern|Zanja|Ditch|Fossé|Graben|Fossato|Vala
+Dawson|m|hebrew|english|3|modern|Hijo de David|Son of David|Fils de David|Sohn von David|Figlio di David|Filho de David
+Messiah|m|hebrew|english|3|biblical,modern|El ungido|Anointed one|L'oint|Der Gesalbte|L'unto|O ungido
+Beckett|m|germanic|english|3|literary,modern|Arroyo pequeño|Little brook|Petit ruisseau|Kleiner Bach|Piccolo ruscello|Pequeno riacho
+Ace|m|latin|english|3|modern,strong|As, número uno|Ace, number one|As, numéro un|Ass, Nummer eins|Asso, numero uno|Ás, número um
+Barrett|m|other|english|3|modern,strong|Contienda, disputa|Strife, quarrel|Querelle, dispute|Streit, Zwist|Contesa, lite|Contenda, disputa
+Bryce|m|celtic|english|3|saint,modern|Moteado|Speckled|Tacheté|Gesprenkelt|Screziato|Sarapintado
+Caden|m|celtic|english|3|modern|Hijo de Cadán|Son of Cadán|Fils de Cadán|Sohn von Cadán|Figlio di Cadán|Filho de Cadán
+Kaleb|m|hebrew|english|3|biblical,modern|Fiel, de todo corazón|Faithful, whole-hearted|Fidèle, de tout cœur|Treu, von ganzem Herzen|Fedele, di tutto cuore|Fiel, de todo o coração
+Beckham|m|germanic|english|3|place,modern|Hogar de Becca|Becca's homestead|Domaine de Becca|Beccas Heimstätte|Dimora di Becca|Casa de Becca
+Kyrie|m|greek|english|3|modern|Señor|Lord|Seigneur|Herr|Signore|Senhor
+Brantley|m|germanic|english|3|modern|Fuego|Fire|Feu|Feuer|Fuoco|Fogo
+Hayes|m|germanic|english|3|modern,place|Terreno cercado|Hedged enclosure|Enclos de haies|Umzäuntes Land|Recinto di siepi|Terreno cercado
+Kaden|m|celtic|english|3|modern|Hijo de Cadán|Son of Cadán|Fils de Cadán|Sohn von Cadán|Figlio di Cadán|Filho de Cadán
+Holden|m|germanic|english|3|literary,place|Valle profundo|Deep valley|Vallée profonde|Tiefes Tal|Valle profonda|Vale profundo
+Brady|m|celtic|english|3|modern|Descendiente de Brádach|Descendant of Brádach|Descendant de Brádach|Nachkomme von Brádach|Discendente di Brádach|Descendente de Brádach
+Cash|m|latin|english|3|modern,music|Fabricante de cajas|Box maker|Fabricant de coffres|Kistenmacher|Fabbricante di casse|Fabricante de caixas
+Malakai|m|hebrew|english|3|biblical,modern|Mi mensajero|My messenger|Mon messager|Mein Bote|Il mio messaggero|Meu mensageiro
+Kash|m|latin|english|3|modern|Fabricante de cajas|Box maker|Fabricant de coffres|Kistenmacher|Fabbricante di casse|Fabricante de caixas
+Zander|m|greek|english|3|modern,strong|Defensor de los hombres|Defender of men|Défenseur des hommes|Verteidiger der Menschen|Difensore degli uomini|Defensor dos homens
+Stetson|m|germanic|english|3|place,modern|Pueblo de Stithweard|Stithweard's town|Village de Stithweard|Stithweards Siedlung|Villaggio di Stithweard|Povoado de Stithweard
+Reid|m|germanic|english,scottish|3|classic|Pelirrojo|Red-haired|Roux|Rothaarig|Dai capelli rossi|Ruivo
+Jensen|m|hebrew|english|3|modern|Hijo de Jens|Son of Jens|Fils de Jens|Sohn von Jens|Figlio di Jens|Filho de Jens
+Hendrix|m|germanic|english|3|music,modern|Hijo de Hendrik|Son of Hendrik|Fils de Hendrik|Sohn von Hendrik|Figlio di Hendrik|Filho de Hendrik
+Chance|m|latin|english|3|modern|Suerte, fortuna|Luck, fortune|Chance, fortune|Glück, Schicksal|Fortuna, sorte|Sorte, fortuna
+Kairo|m|arabic|english|3|place,modern|La victoriosa|The victorious|La victorieuse|Die Siegreiche|La vittoriosa|A vitoriosa
+Jaylen|m|other|english|3|modern|Unión de James y Leonard|Blend of James and Leonard|Fusion de James et Leonard|Verbindung aus James und Leonard|Unione di James e Leonard|União de James e Leonard
+Gunner|m|norse|english|3|warrior,strong|Guerrero|Warrior|Guerrier|Krieger|Guerriero|Guerreiro
+Crew|m|latin|english|3|modern|Tripulación, equipo|Crew, team|Équipage, équipe|Mannschaft|Equipaggio, squadra|Tripulação, equipa
+Titus|m|latin|english,german|3|biblical,saint,classic|Título de honor|Title of honour|Titre d'honneur|Ehrentitel|Titolo d'onore|Título de honra
+Travis|m|latin|english|2|classic|Cobrador de peaje|Toll collector|Percepteur de péage|Zolleinnehmer|Esattore di pedaggi|Cobrador de portagem
+Kade|m|germanic|english|2|modern|Redondo|Round|Rond|Rund|Rotondo|Redondo
+Tyson|m|latin|english|2|strong,modern|Tizón ardiente|Firebrand|Tison ardent|Feuerbrand|Tizzone ardente|Tição ardente
+Callan|m|celtic|english|2|warrior,modern|Poderoso en la batalla|Mighty in battle|Puissant au combat|Mächtig im Kampf|Potente in battaglia|Poderoso na batalha
+Devin|m|celtic|english|2|animal,modern|Pequeño ciervo|Little stag|Petit cerf|Kleiner Hirsch|Piccolo cervo|Pequeno veado
+Grady|m|celtic|english|2|modern|Noble|Noble|Noble|Edel|Nobile|Nobre
+Cairo|m|arabic|english|2|place,modern|La victoriosa|The victorious|La victorieuse|Die Siegreiche|La vittoriosa|A vitoriosa
+Aziel|m|hebrew|english|2|biblical,modern|Dios fortalece|God strengthens|Dieu fortifie|Gott stärkt|Dio fortifica|Deus fortalece
+Jeffrey|m|germanic|english|2|classic|Tierra de paz|Peaceful land|Terre de paix|Friedliches Land|Terra di pace|Terra de paz
+Caiden|m|celtic|english|2|modern|Hijo de Cadán|Son of Cadán|Fils de Cadán|Sohn von Cadán|Figlio di Cadán|Filho de Cadán
+Raiden|m|japanese|english|2|mythology,strong,modern|Trueno y relámpago|Thunder and lightning|Tonnerre et éclair|Donner und Blitz|Tuono e fulmine|Trovão e relâmpago
+Collin|m|greek|english|2|modern|Victoria del pueblo|Victory of the people|Victoire du peuple|Sieg des Volkes|Vittoria del popolo|Vitória do povo
+Major|m|latin|english|2|strong,modern|Mayor, más grande|Greater|Plus grand|Der Größere|Maggiore|Maior
+Colson|m|greek|english|2|modern|Hijo de Nicolás|Son of Nicholas|Fils de Nicolas|Sohn von Nikolaus|Figlio di Nicola|Filho de Nicolau
+Johnathan|m|hebrew|english|2|biblical,classic|Dios ha dado|God has given|Dieu a donné|Gott hat gegeben|Dio ha dato|Deus deu
+Jase|m|greek|english|2|modern|Sanador|Healer|Guérisseur|Heiler|Guaritore|Curador
+Finnegan|m|celtic|english|2|literary,modern|De cabello claro|Fair-haired|Aux cheveux clairs|Hellhaarig|Dai capelli chiari|De cabelo claro
+Briggs|m|norse|english|2|modern|Junto al puente|By the bridge|Près du pont|An der Brücke|Presso il ponte|Junto à ponte
+Colter|m|germanic|english|2|animal,modern|Cuidador de potros|Colt keeper|Gardien de poulains|Fohlenhüter|Custode di puledri|Tratador de potros
+Zyaire|m|african|english|2|place,modern|Río que engulle ríos|River that swallows rivers|Fleuve qui avale les fleuves|Fluss, der Flüsse verschlingt|Fiume che inghiotte i fiumi|Rio que engole os rios
+Hank|m|hebrew|english|2|vintage|Dios es misericordioso|God is gracious|Dieu fait grâce|Gott ist gnädig|Dio è misericordioso|Deus é misericordioso
+Dominick|m|latin|english|2|saint,classic|Del Señor|Of the Lord|Du Seigneur|Dem Herrn gehörig|Del Signore|Do Senhor
+Baker|m|germanic|english|2|modern|Panadero|Baker|Boulanger|Bäcker|Fornaio|Padeiro
+Ronin|m|japanese|english|2|warrior,modern|Samurái sin señor|Masterless samurai|Samouraï sans maître|Herrenloser Samurai|Samurai senza padrone|Samurai sem mestre
+Alijah|m|hebrew|english|2|biblical,modern|Mi Dios es Yahvé|My God is Yahweh|Mon Dieu est Yahvé|Mein Gott ist Jahwe|Il mio Dio è Yahweh|Meu Deus é Javé
