@@ -253,6 +253,7 @@ h2.h-sm { margin-bottom: var(--space-xl); }
 .people li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 0 var(--space-md); align-items: baseline; padding: var(--space-sm) 0; border-top: var(--rule-hair) solid var(--color-rule); }
 .people a, .people b { font-weight: 600; }
 .people small { color: var(--color-muted); font-variant-numeric: tabular-nums; }
+.people small a { font-weight: 500; color: inherit; }
 .people span { grid-column: 1 / -1; color: var(--color-ink-2); }
 /* Santoral day page: the names a saint goes by, each a link with room for a thumb. */
 .people li:has(> .named) { align-content: start; }

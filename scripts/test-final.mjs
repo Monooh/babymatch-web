@@ -157,6 +157,13 @@ if (LOCAL) {
 }
 
 const errs = phones.flatMap(p => p.errors)
+// Leave nothing behind: each phone erases its person on the server, as "erase everything" in the menu does.
+for (const p of phones) {
+  await p.page.evaluate(async api => {
+    const token = localStorage.getItem('babymatch:k')
+    if (token) await fetch(api + '/api/forget', { method: 'POST', credentials: api ? 'include' : 'same-origin', body: '{}', headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + token } }).catch(() => {})
+  }, LOCAL ? API : '').catch(() => {})
+}
 ok(errs.length === 0, 'no errors in any browser console', errs.slice(0, 5))
 console.log(`${passed} passed, ${failed} failed`)
 await browser.close()

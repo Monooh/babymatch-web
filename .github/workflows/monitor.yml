@@ -1,0 +1,36 @@
+name: Monitor
+
+# Every 15 minutes: is the site up, does the API answer, did the backup of the lists run lately?
+# When a check fails the run fails, and GitHub emails whoever last edited this schedule.
+# (GitHub may delay scheduled runs, and pauses them after 60 days without activity in the repository.)
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: monitor
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Site, API and backup
+        run: |
+          # One retry after a pause, so a single slow answer does not send an alert.
+          attempt() {
+            for path in /es /en/names/olivia /es/app /data/names.es.json; do
+              code=$(curl -s -o /dev/null -m 30 -w '%{http_code}' "https://babymatch.app$path")
+              [ "$code" = "200" ] || { echo "https://babymatch.app$path answered $code"; return 1; }
+            done
+            body=$(curl -s -m 30 -X POST -H 'Content-Type: application/json' -d '{}' https://babymatch.app/api/sync)
+            echo "$body" | grep -q '"anon":true' || { echo "/api/sync answered: $body"; return 1; }
+            health=$(curl -s -m 30 https://babymatch.app/api/health)
+            echo "/api/health -> $health"
+            echo "$health" | grep -q '"ok":true' || { echo "the database or the backup is not well: $health"; return 1; }
+          }
+          attempt || { sleep 60; attempt; } || { echo "::error::BabyMatch check failed twice in a row"; exit 1; }

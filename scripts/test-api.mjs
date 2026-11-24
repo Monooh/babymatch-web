@@ -7,8 +7,10 @@ let passed = 0, failed = 0
 const ok = (cond, what, extra) => { if (cond) passed++; else { failed++; console.log('  ✗ ' + what, extra === undefined ? '' : JSON.stringify(extra).slice(0, 400)) } }
 
 /** One browser: remembers its secret (as the app does) and, separately, its cookie. */
+const devices = []
 function device() {
   const d = { token: null, cookie: null, rev: 0, prev: null }
+  devices.push(d)
   d.call = async (path, body = {}, { bearer = true, cookie = false, headers = {} } = {}) => {
     const h = { 'Content-Type': 'application/json', ...headers }
     if (bearer && d.token) h.Authorization = 'Bearer ' + d.token
@@ -258,6 +260,9 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
   r = await run(xid)
   ok(r.ok && r.gone >= 1 && r.copy === null && r.sessions === 0, 'deleting everything deletes the backup copy too', r)
 }
+
+// Leave nothing behind: every person this run created deletes themselves, the way the app's "erase everything" does.
+for (const d of devices) if (d.token) await d.call('/api/forget', {}).catch(() => {})
 
 console.log(`${passed} passed, ${failed} failed`)
 process.exit(failed ? 1 : 0)

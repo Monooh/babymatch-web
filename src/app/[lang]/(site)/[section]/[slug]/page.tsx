@@ -238,7 +238,7 @@ export default async function SlugPage({ params }: Props) {
                 {feast.map(p => (
                   <li key={p.id}>
                     {p.url ? <a href={p.url} rel="noopener">{p.name}</a> : <b>{p.name}</b>}
-                    <small>{p.date}</small>
+                    <small>{hasDayPage(l, p.month, p.day) ? <a className="link" href={paths.saintsDay(l, daySlug(l, p.month, p.day))}>{p.date}</a> : p.date}</small>
                     {p.about ? <span>{p.about}</span> : null}
                   </li>
                 ))}
