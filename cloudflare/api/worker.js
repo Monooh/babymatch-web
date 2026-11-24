@@ -357,7 +357,9 @@ async function email(env, body, auth, meta) {
     await env.DB.prepare('UPDATE users SET email = ?, email_ok = 0, mail_key = COALESCE(mail_key, ?), updated_at = ? WHERE id = ?').bind(address, pick(20), now(), user.id).run()
     user = await getUser(env, user.id)
     const t = await mailToken(env, user, address)
-    meta.ctx.waitUntil(send(env, address, compose('confirm', user.lang, { name: user.name, link: appLink(meta, user.lang, '#m=' + t) })))
+    // Waited for, unlike the notes: "we have sent you a link" must not be said when the provider refused the email.
+    const sent = await send(env, address, compose('confirm', user.lang, { name: user.name, link: appLink(meta, user.lang, '#m=' + t) }))
+    if (!sent) return { data: { ...(await snapshot(env, user, body, { base: saved.base, token })), ok: false, error: 'mail' }, token: token || auth.token }
   }
   return { data: await snapshot(env, user, body, { base: saved.base, token }), token: token || auth.token }
 }
