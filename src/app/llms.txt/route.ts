@@ -4,6 +4,7 @@ import { nameCount } from '@/lib/names'
 import { monthCount } from '@/lib/saints'
 import { allLists, listByKey } from '@/lib/lists'
 import { t } from '@/lib/t'
+import { STUDY, study } from '@/lib/study'
 
 export const dynamic = 'force-static'
 
@@ -36,6 +37,7 @@ export function GET() {
       `- [${d.meta.namesTitle}](${url(paths.names(l))}): ${t(d.meta.namesDesc, { count: total })}`,
       `- [${d.meta.listsTitle}](${url(paths.lists(l))}): ${t(d.meta.listsDesc, { count: allLists(l).length })}`,
       `- [${d.saints.title}](${url(paths.saints(l))}): ${t(d.saints.desc, { count: Array.from({ length: 12 }, (_, m) => monthCount(l, m + 1)).reduce((a, b) => a + b, 0) })}`)
+    if (l === 'es') lines.push(`- [${study().title}](${url(STUDY.path)}): estudio con datos del INE a 1 de enero de 2025. Nombres por edad media y década de nacimiento, el nombre más característico de cada una de las 52 provincias, metodología y tablas en CSV.`)
     for (const key of ['y:now:f', 'y:now:m', 'y:next', 'fame:influencer', 'fame:youtuber', 'fame:singer', 'pop:top:f', 'pop:top:m', 'g:u', 'len:short', 'pop:rare', 't:biblical', 't:nature', 't:mythology']) {
       const x = listByKey(l, key)
       if (x) lines.push(`- [${x.title}](${url(paths.list(l, x.slug))}): ${x.count}`)

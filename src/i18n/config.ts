@@ -54,3 +54,12 @@ export const paths = {
   saintsMonth: (l: Locale, month: string) => `/${l}/${SEGMENTS[l].saints}/${month}`,
   saintsDay: (l: Locale, day: string) => `/${l}/${SEGMENTS[l].saints}/${day}`,
 }
+
+/** The INE study page. Spanish only: see src/lib/study.tsx. `files` is where its CSV tables are served from. */
+export const STUDY = {
+  path: '/es/datos/nombres-ine',
+  files: '/datos/nombres-ine',
+  nav: 'Estudio: nombres y edad (INE)',
+  crumb: 'Datos del INE',
+  published: '2026-11-24',
+} as const

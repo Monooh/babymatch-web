@@ -1,0 +1,193 @@
+﻿posicion;nombre;nombre_ine;sexo;personas;puesto_en_su_sexo;edad_media;desglose_por_decadas;nacidos_antes_1930;nacidos_1930_1939;nacidos_1940_1949;nacidos_1950_1959;nacidos_1960_1969;nacidos_1970_1979;nacidos_1980_1989;nacidos_1990_1999;nacidos_2000_2009;nacidos_2010_2019;nacidos_2020_2024;nacidos_desde_2010;pct_nacidos_desde_2010;ficha_babymatch
+1;Felisa;FELISA;Mujer;20590;188;74,7;sí;710;4225;5962;5097;3162;991;249;80;58;40;16;56;0,27;https://babymatch.app/es/nombres/felisa
+2;Vicenta;VICENTA;Mujer;25401;165;73,9;sí;607;4669;7405;6542;4308;1411;339;62;31;19;8;27;0,11;https://babymatch.app/es/nombres/vicenta
+3;Josefa;JOSEFA;Mujer;225853;13;71,6;sí;3721;31730;59696;61972;47482;16090;3205;936;539;326;156;482;0,21;https://babymatch.app/es/nombres/josefa
+4;Josefina;JOSEFINA;Mujer;36842;120;70,6;sí;588;5077;9856;9767;7118;2632;821;468;266;202;47;249;0,68;https://babymatch.app/es/nombres/josefina
+5;Dolores;DOLORES;Mujer;159919;23;70,1;sí;2654;22839;40302;39299;32354;14250;4345;1743;1173;710;250;960;0,6;https://babymatch.app/es/nombres/dolores
+6;Consuelo;CONSUELO;Mujer;43289;105;70,1;sí;836;6001;10511;10944;8975;3922;1171;475;261;146;47;193;0,45;https://babymatch.app/es/nombres/consuelo
+7;Asunción;ASUNCION;Mujer;26859;159;69,5;sí;573;3755;6145;6574;5561;2668;891;375;185;101;31;132;0,49;https://babymatch.app/es/nombres/asuncion
+8;Concepción;CONCEPCION;Mujer;123055;32;69,4;sí;1824;14535;28380;32829;28351;12401;3081;983;461;165;45;210;0,17;https://babymatch.app/es/nombres/concepcion
+9;Ascensión;ASCENSION;Mujer;24106;169;69,4;sí;423;2964;5501;6214;5456;2548;671;194;92;34;9;43;0,18;https://babymatch.app/es/nombres/ascension
+10;Ángeles;ANGELES;Mujer;56113;84;69,1;sí;903;7365;13526;13843;11671;5303;1754;830;520;311;87;398;0,71;https://babymatch.app/es/nombres/angeles
+11;Juana;JUANA;Mujer;101137;44;68,9;sí;1476;12805;23442;25836;22387;9532;2744;1096;771;731;317;1048;1,04;https://babymatch.app/es/nombres/juana
+12;Purificación;PURIFICACION;Mujer;34656;126;68,7;sí;544;3889;7520;9149;8211;3749;1058;323;142;54;17;71;0,2;https://babymatch.app/es/nombres/purificacion
+13;Francisca;FRANCISCA;Mujer;180314;18;68,6;sí;2419;20487;39797;45657;43300;20279;5554;1638;720;331;132;463;0,26;https://babymatch.app/es/nombres/francisca
+14;Trinidad;TRINIDAD;Mujer;26150;161;68,4;sí;456;3388;6044;6421;5429;2445;885;430;333;243;76;319;1,22;https://babymatch.app/es/nombres/trinidad
+15;Antonia;ANTONIA;Mujer;175294;21;68,2;sí;2151;19837;38653;43888;42599;18898;5145;1908;1083;784;348;1132;0,65;https://babymatch.app/es/nombres/antonia
+16;Amparo;AMPARO;Mujer;50715;92;67,6;sí;767;6172;11557;11994;10442;5430;2123;993;726;391;120;511;1,01;https://babymatch.app/es/nombres/amparo
+17;Luisa;LUISA;Mujer;39170;116;67,6;sí;808;5941;9026;8693;7163;3369;1366;852;864;752;336;1088;2,78;https://babymatch.app/es/nombres/luisa
+18;Matilde;MATILDE;Mujer;28108;150;67,6;sí;575;3560;6370;6828;5684;2747;800;380;439;504;221;725;2,58;https://babymatch.app/es/nombres/matilde
+19;Rafaela;RAFAELA;Mujer;23251;172;67,5;sí;303;2670;4989;6025;5266;2341;683;385;255;232;102;334;1,44;https://babymatch.app/es/nombres/rafaela
+20;Rosario;ROSARIO;Mujer;102875;43;67,3;sí;1326;10822;21927;25634;24200;11821;3830;1544;957;594;220;814;0,79;https://babymatch.app/es/nombres/rosario
+21;Rosa;ROSA;Mujer;86111;59;67,2;sí;1558;12249;20154;19554;14892;7463;3655;2576;2224;1341;445;1786;2,07;https://babymatch.app/es/nombres/rosa
+22;Remedios;REMEDIOS;Mujer;27537;153;67,2;sí;385;3084;5922;6730;6046;3189;1115;500;300;182;84;266;0,97;https://babymatch.app/es/nombres/remedios
+23;Natividad;NATIVIDAD;Mujer;25928;164;67,2;sí;513;3117;5262;5896;5480;3501;1340;437;247;102;33;135;0,52;https://babymatch.app/es/nombres/natividad
+24;Encarnación;ENCARNACION;Mujer;99567;48;67,1;sí;1109;9830;20037;24861;25100;12722;3850;1219;541;240;58;298;0,3;https://babymatch.app/es/nombres/encarnacion
+25;María Josefa;MARIA JOSEFA;Mujer;79819;62;67;no;;;;;;;;;;;;;;
+26;Emilia;EMILIA;Mujer;41245;109;66,7;sí;778;5491;9308;9738;7784;3683;1380;671;636;1030;746;1776;4,31;https://babymatch.app/es/nombres/emilia
+27;María Concepción;MARIA CONCEPCION;Mujer;56069;85;66,6;no;;;;;;;;;;;;;;
+28;Milagros;MILAGROS;Mujer;38509;118;66,6;sí;462;4008;7932;9517;8835;4485;1670;832;459;212;97;309;0,8;https://babymatch.app/es/nombres/milagros
+29;Pilar;PILAR;Mujer;123094;31;66,2;sí;2089;16070;27843;26482;23114;11793;5565;4065;3326;2074;673;2747;2,23;https://babymatch.app/es/nombres/pilar
+30;María Rosa;MARIA ROSA;Mujer;57497;83;66,1;sí;360;3795;11917;15549;14727;7495;2287;792;395;140;40;180;0,31;https://babymatch.app/es/nombres/maria-rosa
+31;María Luisa;MARIA LUISA;Mujer;145185;25;65,5;sí;1201;10367;28253;36598;37231;20463;6704;2611;1178;456;123;579;0,4;https://babymatch.app/es/nombres/maria-luisa
+32;María Asunción;MARIA ASUNCION;Mujer;33041;134;65,1;no;;;;;;;;;;;;;;
+33;Mercedes;MERCEDES;Mujer;120557;34;64,7;sí;1460;10898;22148;27175;29696;16528;6348;2815;2040;1110;339;1449;1,2;https://babymatch.app/es/nombres/mercedes
+34;Magdalena;MAGDALENA;Mujer;30167;144;64,7;sí;427;3081;5837;6593;6415;3966;1838;1024;563;336;87;423;1,4;https://babymatch.app/es/nombres/magdalena
+35;María Antonia;MARIA ANTONIA;Mujer;52316;89;64,3;sí;318;2747;8760;14257;14904;7223;2286;929;452;343;97;440;0,84;https://babymatch.app/es/nombres/maria-antonia
+36;María Cruz;MARIA CRUZ;Mujer;27130;157;64,1;no;;;;;;;;;;;;;;
+37;Margarita;MARGARITA;Mujer;80835;61;63,9;sí;774;6205;13339;18492;20416;13427;4893;1694;885;524;186;710;0,88;https://babymatch.app/es/nombres/margarita
+38;María Rosario;MARIA ROSARIO;Mujer;75060;67;63,8;sí;453;3344;11446;20234;21901;11842;3702;1457;471;168;42;210;0,28;https://babymatch.app/es/nombres/maria-del-rosario
+39;Teresa;TERESA;Mujer;99940;46;63,4;sí;1827;12891;20575;20592;16681;8645;5220;4420;4757;3163;1169;4332;4,33;https://babymatch.app/es/nombres/teresa
+40;Nieves;NIEVES;Mujer;22970;175;63,4;sí;379;2757;4199;4797;4544;2390;1268;1044;889;528;175;703;3,06;https://babymatch.app/es/nombres/nieves
+41;María Luz;MARIA LUZ;Mujer;40141;111;63,2;no;;;;;;;;;;;;;;
+42;Soledad;SOLEDAD;Mujer;27508;154;63;sí;310;2665;4861;5643;5534;4357;1978;1074;669;328;89;417;1,52;https://babymatch.app/es/nombres/soledad
+43;Esperanza;ESPERANZA;Mujer;39959;112;62,9;sí;535;3824;7032;9083;8519;4518;2311;1760;1298;805;274;1079;2,7;https://babymatch.app/es/nombres/esperanza
+44;María Begoña;MARIA BEGOÑA;Mujer;35367;124;62,7;no;;;;;;;;;;;;;;
+45;María Carmen;MARIA CARMEN;Mujer;618622;1;62,6;sí;2107;23580;100136;151943;173841;103006;38565;16185;6609;2115;535;2650;0,43;https://babymatch.app/es/nombres/maria-del-carmen
+46;María Pilar;MARIA PILAR;Mujer;249947;6;62,5;sí;1040;11093;38655;56416;72398;45209;15595;5971;2519;852;199;1051;0,42;https://babymatch.app/es/nombres/maria-pilar
+47;María Teresa;MARIA TERESA;Mujer;236393;10;62,4;sí;1098;10638;37523;53826;64458;43656;15745;6160;2416;732;141;873;0,37;https://babymatch.app/es/nombres/maria-teresa
+48;Elvira;ELVIRA;Mujer;27897;152;62,1;sí;451;3136;5288;5546;4936;3107;1721;1239;1276;897;300;1197;4,29;https://babymatch.app/es/nombres/elvira
+49;Adela;ADELA;Mujer;23159;173;62,1;sí;308;2443;4292;4759;4574;2613;1347;856;823;848;296;1144;4,94;https://babymatch.app/es/nombres/adela
+50;María Dolores;MARIA DOLORES;Mujer;242138;7;62;sí;1043;9251;32955;58893;71031;44047;15580;5668;2475;918;277;1195;0,49;https://babymatch.app/es/nombres/maria-dolores
+51;María Nieves;MARIA NIEVES;Mujer;49453;97;61,7;no;;;;;;;;;;;;;;
+52;María Soledad;MARIA SOLEDAD;Mujer;45449;101;61,5;no;;;;;;;;;;;;;;
+53;María Paz;MARIA PAZ;Mujer;32308;135;61,4;sí;235;2284;4446;6019;9279;5793;2105;1142;568;349;88;437;1,35;https://babymatch.app/es/nombres/maria-paz
+54;Araceli;ARACELI;Mujer;30634;140;61;sí;311;2517;5134;5974;6227;4757;2508;1538;1035;476;157;633;2,07;https://babymatch.app/es/nombres/araceli
+55;Manuela;MANUELA;Mujer;132788;27;60,9;sí;1340;12390;24459;29683;28887;13768;4152;2501;3588;7087;4933;12020;9,05;https://babymatch.app/es/nombres/manuela
+56;María Jesús;MARIA JESUS;Mujer;131205;28;60,9;sí;426;4274;15622;30562;40468;24009;9828;4022;1436;443;115;558;0,43;https://babymatch.app/es/nombres/maria-jesus
+57;María Ángeles;MARIA ANGELES;Mujer;215092;15;60,7;sí;861;7497;27179;48949;61824;41042;16467;7099;3027;947;200;1147;0,53;https://babymatch.app/es/nombres/maria-angeles
+58;Catalina;CATALINA;Mujer;49790;95;60,6;sí;662;4731;8854;9766;10137;6301;2882;1577;1424;1971;1485;3456;6,94;https://babymatch.app/es/nombres/catalina
+59;Carmen;CARMEN;Mujer;333187;3;60,4;sí;5457;44362;70681;62505;46904;21859;12827;15193;22855;22371;8173;30544;9,17;https://babymatch.app/es/nombres/carmen
+60;María Mercedes;MARIA MERCEDES;Mujer;75777;66;60,4;sí;307;2213;7846;16216;26086;14707;4850;2260;929;293;70;363;0,48;https://babymatch.app/es/nombres/maria-mercedes
+61;Isabel;ISABEL;Mujer;237075;8;60,3;sí;2258;19356;39780;49274;47983;29928;16832;11867;10671;6857;2269;9126;3,85;https://babymatch.app/es/nombres/isabel
+62;María Lourdes;MARIA LOURDES;Mujer;34055;128;60,3;no;;;;;;;;;;;;;;
+63;Amalia;AMALIA;Mujer;22174;179;60,1;sí;336;2333;4089;4413;3809;2409;1179;808;1059;1179;560;1739;7,84;https://babymatch.app/es/nombres/amalia
+64;María Amparo;MARIA AMPARO;Mujer;27080;158;59,4;no;;;;;;;;;;;;;;
+65;Montserrat;MONTSERRAT;Mujer;103244;42;59,3;sí;632;4006;9164;17857;32090;28013;7597;2253;1105;378;149;527;0,51;https://babymatch.app/es/nombres/montserrat
+66;Leonor;LEONOR;Mujer;20105;192;59,1;sí;318;2191;3600;3850;3366;2248;1002;535;788;1594;613;2207;10,98;https://babymatch.app/es/nombres/leonor
+67;María Isabel;MARIA ISABEL;Mujer;200536;17;58,9;sí;157;3002;20958;43654;58968;46653;15975;6695;3201;1025;248;1273;0,63;https://babymatch.app/es/nombres/maria-isabel
+68;Aurora;AURORA;Mujer;42269;107;58,7;sí;577;4557;7155;7914;7280;4586;2545;1903;1930;2266;1556;3822;9,04;https://babymatch.app/es/nombres/aurora
+69;Rosa María;ROSA MARIA;Mujer;144464;26;58,5;sí;68;1204;12514;30206;49088;33239;11534;4090;1733;614;174;788;0,55;https://babymatch.app/es/nombres/rosa-maria
+70;María Esther;MARIA ESTHER;Mujer;33048;133;58,5;no;;;;;;;;;;;;;;
+71;Amelia;AMELIA;Mujer;22951;176;58,5;sí;391;2821;4248;4308;3500;2145;961;543;807;1947;1280;3227;14,06;https://babymatch.app/es/nombres/amelia
+72;Juana María;JUANA MARIA;Mujer;23962;170;57,9;no;;;;;;;;;;;;;;
+73;Gloria;GLORIA;Mujer;44473;104;57,2;sí;400;3121;6465;7938;7767;6662;4725;3437;2378;1184;396;1580;3,55;https://babymatch.app/es/nombres/gloria
+74;María Victoria;MARIA VICTORIA;Mujer;62875;77;57;sí;160;1687;6401;12471;17297;11970;5812;3797;1953;987;340;1327;2,11;https://babymatch.app/es/nombres/maria-victoria
+75;Ana María;ANA MARIA;Mujer;264987;4;56,7;sí;576;7299;23997;44125;75961;61061;27564;14257;7006;2549;592;3141;1,19;https://babymatch.app/es/nombres/ana-maria
+76;María Elena;MARIA ELENA;Mujer;61175;79;55,6;sí;54;625;3561;9007;19747;17833;6294;2479;1069;399;107;506;0,83;https://babymatch.app/es/nombres/maria-elena
+77;María Inmaculada;MARIA INMACULADA;Mujer;30289;143;55,3;no;;;;;;;;;;;;;;
+78;María Cristina;MARIA CRISTINA;Mujer;47280;100;54,9;sí;89;682;3700;6125;13096;13193;6206;2904;926;299;60;359;0,76;https://babymatch.app/es/nombres/maria-cristina
+79;María Eugenia;MARIA EUGENIA;Mujer;28854;148;54,5;sí;35;348;1664;4030;7734;8841;3778;1685;547;158;34;192;0,67;https://babymatch.app/es/nombres/maria-eugenia
+80;Begoña;BEGOÑA;Mujer;36293;122;53,9;sí;44;625;1885;4334;9591;12353;4466;1703;837;359;96;455;1,25;https://babymatch.app/es/nombres/begona
+81;Lourdes;LOURDES;Mujer;39275;115;52,3;sí;121;944;2226;5259;9042;9816;6097;3141;1635;761;233;994;2,53;https://babymatch.app/es/nombres/lourdes
+82;María Belén;MARIA BELEN;Mujer;39940;113;52,2;sí;19;159;717;2913;13335;15005;4016;2553;954;215;54;269;0,67;https://babymatch.app/es/nombres/maria-belen
+83;María José;MARIA JOSE;Mujer;203376;16;51,9;sí;26;706;5018;20284;64060;64199;26758;12903;6557;2464;401;2865;1,41;https://babymatch.app/es/nombres/maria-jose
+84;Inmaculada;INMACULADA;Mujer;76016;65;50,5;sí;19;313;1674;6635;19956;25087;13228;5808;2458;701;137;838;1,1;https://babymatch.app/es/nombres/inmaculada
+85;Olga;OLGA;Mujer;50605;93;50,5;sí;90;1293;2015;3930;10735;17885;7147;3496;2653;1155;206;1361;2,69;https://babymatch.app/es/nombres/olga
+86;María Mar;MARIA MAR;Mujer;98812;50;50;sí;;72;508;4344;32200;36618;13669;6870;3277;1019;231;1250;1,27;https://babymatch.app/es/nombres/maria-del-mar
+87;Ana Isabel;ANA ISABEL;Mujer;76205;64;49,9;sí;;40;205;3724;23020;28286;12923;5479;1946;470;109;579;0,76;https://babymatch.app/es/nombres/ana-isabel
+88;Yolanda;YOLANDA;Mujer;91325;56;49,3;sí;6;179;563;2872;19612;46489;13143;5562;2140;617;142;759;0,83;https://babymatch.app/es/nombres/yolanda
+89;Elisa;ELISA;Mujer;34778;125;48,9;sí;377;2512;4084;4109;3934;4345;4074;3498;3414;3267;1164;4431;12,74;https://babymatch.app/es/nombres/elisa
+90;Isabel María;ISABEL MARIA;Mujer;38067;119;48,7;no;;;;;;;;;;;;;;
+91;Susana;SUSANA;Mujer;95034;54;48,5;sí;51;292;712;2345;17193;50882;14119;4839;3033;1307;261;1568;1,65;https://babymatch.app/es/nombres/susana
+92;María;MARIA;Mujer;543083;2;48,3;sí;7157;50669;70086;57089;41968;41423;61161;73963;81111;45975;12481;58456;10,76;https://babymatch.app/es/nombres/maria
+93;Eva María;EVA MARIA;Mujer;63280;76;47,8;no;;;;;;;;;;;;;;
+94;María Rocío;MARIA ROCIO;Mujer;25332;166;47,3;no;;;;;;;;;;;;;;
+95;Esther;ESTHER;Mujer;71876;70;46,5;sí;195;1617;2937;4511;10708;20353;14424;8362;5976;2352;441;2793;3,89;https://babymatch.app/es/nombres/esther
+96;Ana;ANA;Mujer;236862;9;46,2;sí;1284;11189;21650;25238;28891;29795;31776;34345;30052;17566;5076;22642;9,56;https://babymatch.app/es/nombres/ana
+97;Ángela;ANGELA;Mujer;92478;55;45,7;sí;898;6228;11113;10886;9063;5762;8065;11090;16601;10463;2309;12772;13,81;https://babymatch.app/es/nombres/angela
+98;Mariana;MARIANA;Mujer;23370;171;45,7;sí;112;885;1642;2275;3460;3812;3525;2635;2567;1862;595;2457;10,51;https://babymatch.app/es/nombres/mariana
+99;Virginia;VIRGINIA;Mujer;43146;106;45,5;sí;127;865;1474;2301;4135;12160;12317;6347;2315;944;161;1105;2,56;https://babymatch.app/es/nombres/virginia
+100;Ana Belén;ANA BELEN;Mujer;60618;80;44,5;sí;;;14;130;2426;32144;18359;5002;2002;457;83;540;0,89;https://babymatch.app/es/nombres/ana-belen
+101;Paloma;PALOMA;Mujer;30944;138;44,3;sí;;122;552;3004;6589;5775;4463;5323;3333;1388;392;1780;5,75;https://babymatch.app/es/nombres/paloma
+102;Mónica;MONICA;Mujer;103427;41;44,1;sí;25;172;349;578;6847;55560;20010;11080;6346;2065;395;2460;2,38;https://babymatch.app/es/nombres/monica
+103;Sonia;SONIA;Mujer;98076;52;43,9;sí;;75;165;484;5881;51377;22782;10248;4947;1795;320;2115;2,16;https://babymatch.app/es/nombres/sonia
+104;Victoria;VICTORIA;Mujer;60024;81;43,9;sí;686;4779;6817;6549;5690;4071;4028;5822;7889;9245;4448;13693;22,81;https://babymatch.app/es/nombres/victoria
+105;Gemma;GEMMA;Mujer;30784;139;43,9;sí;;29;268;805;4350;11795;5960;4126;2450;850;150;1000;3,25;https://babymatch.app/es/nombres/gemma
+106;Ester;ESTER;Mujer;21133;184;43,7;sí;18;178;272;546;2450;6519;5995;3641;994;396;124;520;2,46;https://babymatch.app/es/nombres/ester
+107;Núria;NURIA;Mujer;118882;36;43,3;sí;253;2114;2634;5403;16506;34453;21198;13981;15181;6067;1092;7159;6,02;https://babymatch.app/es/nombres/nuria
+108;Bárbara;BARBARA;Mujer;21224;183;43,3;sí;83;595;1057;1336;1644;4008;5020;4333;2021;898;229;1127;5,31;https://babymatch.app/es/nombres/barbara
+109;Beatriz;BEATRIZ;Mujer;122329;33;43,1;sí;154;1181;2413;4009;12155;33670;36491;20477;8313;2823;643;3466;2,83;https://babymatch.app/es/nombres/beatriz
+110;Carmen María;CARMEN MARIA;Mujer;24767;167;42,8;no;;;;;;;;;;;;;;
+111;Raquel;RAQUEL;Mujer;147129;24;42,4;sí;67;942;2039;3372;10064;53954;36785;23713;12144;3433;616;4049;2,75;https://babymatch.app/es/nombres/raquel
+112;Silvia;SILVIA;Mujer;120455;35;42,3;sí;27;247;743;1956;12783;46153;27959;15028;10676;4152;731;4883;4,05;https://babymatch.app/es/nombres/silvia
+113;Alicia;ALICIA;Mujer;101069;45;41,9;sí;273;2592;4977;7012;12407;19990;15137;12662;12358;10364;3297;13661;13,52;https://babymatch.app/es/nombres/alicia
+114;Elisabet;ELISABET;Mujer;22456;178;41,2;sí;;16;122;402;1431;5137;9876;4023;940;396;110;506;2,25;https://babymatch.app/es/nombres/elisabet
+115;Gema;GEMA;Mujer;36343;121;41,1;sí;;18;155;526;3354;13894;8233;4233;3676;1867;386;2253;6,2;https://babymatch.app/es/nombres/gema
+116;Fátima;FATIMA;Mujer;54240;86;40,7;sí;15;192;1033;3568;6915;11072;12166;8491;5419;3898;1471;5369;9,9;https://babymatch.app/es/nombres/fatima
+117;Vanesa;VANESA;Mujer;44785;102;40,4;sí;;;;;15;10697;26203;5511;1754;499;102;601;1,34;https://babymatch.app/es/nombres/vanesa
+118;Almudena;ALMUDENA;Mujer;30575;141;40,4;sí;;47;207;701;2556;8824;8705;5131;2658;1333;409;1742;5,7;https://babymatch.app/es/nombres/almudena
+119;Elena;ELENA;Mujer;161702;22;40,1;sí;536;3751;7274;10521;16036;28399;26254;22691;24381;17197;4662;21859;13,52;https://babymatch.app/es/nombres/elena
+120;Vanessa;VANESSA;Mujer;30544;142;40;sí;;;;12;48;8330;15906;3979;1616;542;107;649;2,12;https://babymatch.app/es/nombres/vanessa
+121;Cristina;CRISTINA;Mujer;226072;12;39,9;sí;136;1057;2573;4386;18359;54224;63279;51609;22283;6936;1230;8166;3,61;https://babymatch.app/es/nombres/cristina
+122;Verónica;VERONICA;Mujer;72422;69;39,8;sí;13;70;176;429;1838;18246;34935;10166;4700;1551;298;1849;2,55;https://babymatch.app/es/nombres/veronica
+123;Lidia;LIDIA;Mujer;53100;88;39,3;sí;106;705;1396;2175;4368;9457;12872;10427;7877;3069;648;3717;7;https://babymatch.app/es/nombres/lidia
+124;Belén;BELEN;Mujer;34039;129;39;sí;34;239;628;1253;3502;6856;6404;8286;4729;1610;498;2108;6,19;https://babymatch.app/es/nombres/belen
+125;Patricia;PATRICIA;Mujer;112460;38;38,2;sí;24;216;483;967;4170;25178;39824;25091;12734;3368;405;3773;3,35;https://babymatch.app/es/nombres/patricia
+126;Leticia;LETICIA;Mujer;22171;180;37,8;sí;;34;96;172;469;3630;9946;5501;1498;655;166;821;3,7;https://babymatch.app/es/nombres/leticia
+127;Carolina;CAROLINA;Mujer;69667;72;37,7;sí;97;626;946;1236;3938;17307;18270;10873;9011;5977;1386;7363;10,57;https://babymatch.app/es/nombres/carolina
+128;Julia;JULIA;Mujer;129527;29;37,6;sí;1099;7532;12475;13237;10625;5431;4774;10040;22294;30643;11377;42020;32,44;https://babymatch.app/es/nombres/julia
+129;Eva;EVA;Mujer;83289;60;37,4;sí;27;253;500;1420;6356;27077;15033;10101;11162;8590;2770;11360;13,64;https://babymatch.app/es/nombres/eva
+130;Estefanía;ESTEFANIA;Mujer;38586;117;37,3;sí;47;205;313;290;828;4409;17190;11881;2411;849;163;1012;2,62;https://babymatch.app/es/nombres/estefania
+131;Rebeca;REBECA;Mujer;31785;136;36;sí;;15;59;143;484;7098;11493;6100;4160;1785;446;2231;7,02;https://babymatch.app/es/nombres/rebeca
+132;Sandra;SANDRA;Mujer;98381;51;35,9;sí;;6;162;219;1468;21919;30055;26476;13891;3708;477;4185;4,25;https://babymatch.app/es/nombres/sandra
+133;Tamara;TAMARA;Mujer;33862;130;35,8;sí;;41;148;418;435;1934;16518;11548;1701;778;341;1119;3,3;https://babymatch.app/es/nombres/tamara
+134;Noemí;NOEMI;Mujer;30125;145;35,7;sí;7;69;83;174;742;7278;8992;6231;3906;2058;585;2643;8,77;https://babymatch.app/es/nombres/noemi
+135;Inés;INES;Mujer;64874;74;35,3;sí;357;2425;4367;5221;5128;4974;4056;6302;13566;14000;4478;18478;28,48;https://babymatch.app/es/nombres/ines
+136;Anna;ANNA;Mujer;48063;98;35,3;sí;43;290;668;1367;3052;7075;11305;10639;8184;4384;1056;5440;11,32;https://babymatch.app/es/nombres/anna
+137;Marina;MARINA;Mujer;99167;49;35,2;sí;388;2900;4954;5463;6587;6577;10735;22557;22489;12540;3977;16517;16,66;https://babymatch.app/es/nombres/marina
+138;Marta;MARTA;Mujer;229080;11;35,1;sí;67;678;1979;4077;16327;46093;43349;46607;45795;20419;3689;24108;10,52;https://babymatch.app/es/nombres/marta
+139;Lorena;LORENA;Mujer;62508;78;34,8;sí;;;;64;465;8412;25189;16396;9740;1969;266;2235;3,58;https://babymatch.app/es/nombres/lorena
+140;Celia;CELIA;Mujer;53557;87;34,8;sí;248;2172;3196;3253;3197;4163;4150;8417;12241;9548;2972;12520;23,38;https://babymatch.app/es/nombres/celia
+141;Jessica;JESSICA;Mujer;26643;160;34,7;sí;;;;8;53;1336;13717;8218;2433;732;144;876;3,29;https://babymatch.app/es/nombres/jessica
+142;Laura;LAURA;Mujer;259183;5;34,2;sí;204;1498;2632;3943;8256;39625;66325;62919;51867;18822;3092;21914;8,46;https://babymatch.app/es/nombres/laura
+143;Noelia;NOELIA;Mujer;74409;68;34,2;sí;;11;19;35;60;16274;22353;18267;12025;4712;650;5362;7,21;https://babymatch.app/es/nombres/noelia
+144;Rocío;ROCIO;Mujer;110760;39;34,1;sí;21;368;674;1532;5319;19117;30183;21239;17320;11428;3559;14987;13,53;https://babymatch.app/es/nombres/rocio
+145;Natalia;NATALIA;Mujer;98075;53;33,8;sí;81;545;888;1304;4221;19349;18823;18725;23563;9285;1291;10576;10,78;https://babymatch.app/es/nombres/natalia
+146;Miriam;MIRIAM;Mujer;64208;75;33,2;sí;;13;110;358;1573;8504;18915;18078;11261;4474;921;5395;8,4;https://babymatch.app/es/nombres/miriam
+147;Tania;TANIA;Mujer;28420;149;32,9;sí;;;18;61;394;1907;10825;9174;4264;1493;284;1777;6,25;https://babymatch.app/es/nombres/tania
+148;Jennifer;JENNIFER;Mujer;20371;190;32,8;sí;;6;105;91;105;612;7027;9163;2602;555;105;660;3,24;https://babymatch.app/es/nombres/jennifer
+149;Diana;DIANA;Mujer;30019;146;31,2;sí;;29;114;187;824;4023;9602;4507;4667;4352;1714;6066;20,21;https://babymatch.app/es/nombres/diana
+150;Mireia;MIREIA;Mujer;31361;137;31,1;sí;;7;20;84;1023;4635;7416;6417;7346;3745;668;4413;14,07;https://babymatch.app/es/nombres/mireia
+151;Irene;IRENE;Mujer;118193;37;30,7;sí;302;1752;2981;3068;4156;9515;17870;24795;30695;19953;3106;23059;19,51;https://babymatch.app/es/nombres/irene
+152;Clara;CLARA;Mujer;50093;94;30,6;sí;131;1116;2046;2612;2386;2626;4620;8983;12160;9767;3646;13413;26,78;https://babymatch.app/es/nombres/clara
+153;Alexandra;ALEXANDRA;Mujer;20902;186;30,3;sí;;11;42;110;435;2486;6801;3389;3577;3215;836;4051;19,38;https://babymatch.app/es/nombres/alexandra
+154;Berta;BERTA;Mujer;20618;187;30,1;sí;32;426;555;707;1170;2042;2101;2567;5256;4537;1225;5762;27,95;https://babymatch.app/es/nombres/berta
+155;Judith;JUDITH;Mujer;21127;185;29,7;sí;;30;107;231;1047;2358;2937;4823;6470;2658;464;3122;14,78;https://babymatch.app/es/nombres/judith
+156;Blanca;BLANCA;Mujer;44550;103;29,5;sí;108;822;1561;2270;2570;3171;3760;6140;9674;10282;4192;14474;32,49;https://babymatch.app/es/nombres/blanca
+157;Sheila;SHEILA;Mujer;20114;191;29,2;sí;;38;114;74;54;609;5787;6102;4903;2085;347;2432;12,09;https://babymatch.app/es/nombres/sheila
+158;Sara;SARA;Mujer;179954;19;28,9;sí;210;1384;2118;2735;4490;14642;34125;39851;40083;32617;7699;40316;22,4;https://babymatch.app/es/nombres/sara
+159;Gabriela;GABRIELA;Mujer;24463;168;28,9;sí;68;527;818;980;1578;2021;2010;2415;5411;6147;2488;8635;35,3;https://babymatch.app/es/nombres/gabriela
+160;Andrea;ANDREA;Mujer;110011;40;27,7;sí;151;1032;1632;1725;1823;2656;9599;39184;39136;10911;2162;13073;11,88;https://babymatch.app/es/nombres/andrea
+161;Lucía;LUCIA;Mujer;222807;14;25,9;sí;494;3120;5719;7053;8140;9970;16625;23933;79551;51512;16690;68202;30,61;https://babymatch.app/es/nombres/lucia
+162;Alejandra;ALEJANDRA;Mujer;59274;82;25,8;sí;122;729;1031;969;1198;6383;5906;7103;15120;15565;5148;20713;34,94;https://babymatch.app/es/nombres/alejandra
+163;Valentina;VALENTINA;Mujer;39666;114;24,9;sí;161;1221;1899;1912;1618;1245;1598;3345;4883;15019;6765;21784;54,92;https://babymatch.app/es/nombres/valentina
+164;Helena;HELENA;Mujer;20589;189;24,5;sí;;40;123;276;629;1302;2257;3739;5756;4900;1563;6463;31,39;https://babymatch.app/es/nombres/helena
+165;Nerea;NEREA;Mujer;68489;73;24,3;sí;;10;30;109;735;4004;6576;15239;28134;11860;1791;13651;19,93;https://babymatch.app/es/nombres/nerea
+166;Paula;PAULA;Mujer;179475;20;24;sí;266;1556;2597;2682;2593;6752;12913;33242;66798;40659;9417;50076;27,9;https://babymatch.app/es/nombres/paula
+167;Ainhoa;AINHOA;Mujer;51853;90;23,5;sí;;;;;316;5998;4441;7147;18254;13676;2020;15696;30,27;https://babymatch.app/es/nombres/ainhoa
+168;Adriana;ADRIANA;Mujer;49568;96;22,4;sí;25;215;450;575;1646;3173;4875;4764;11680;17635;4530;22165;44,72;https://babymatch.app/es/nombres/adriana
+169;Alba;ALBA;Mujer;126045;30;21,6;sí;;50;86;105;307;931;12458;32962;42235;29680;7228;36908;29,28;https://babymatch.app/es/nombres/alba
+170;Aroa;AROA;Mujer;22536;177;21,2;sí;;;;;;723;3171;3324;7544;6373;1399;7772;34,49;https://babymatch.app/es/nombres/aroa
+171;Leire;LEIRE;Mujer;29832;147;21;sí;;;;5;99;2805;3220;3430;7001;10566;2706;13272;44,49;https://babymatch.app/es/nombres/leire
+172;Claudia;CLAUDIA;Mujer;90099;57;20,6;sí;63;385;595;677;1345;2541;3597;13450;35828;25131;6487;31618;35,09;https://babymatch.app/es/nombres/claudia
+173;Sofía;SOFIA;Mujer;99913;47;19,5;sí;149;973;1342;1419;2295;5307;3919;7684;23193;37920;15712;53632;53,68;https://babymatch.app/es/nombres/sofia
+174;Carlota;CARLOTA;Mujer;33331;131;19,4;sí;39;193;358;400;584;954;1430;3721;9796;11598;4258;15856;47,57;https://babymatch.app/es/nombres/carlota
+175;Ainara;AINARA;Mujer;27446;155;19,2;sí;;;;;6;1780;2631;1947;8414;10603;2064;12667;46,15;https://babymatch.app/es/nombres/ainara
+176;Laia;LAIA;Mujer;41365;108;18,9;sí;;;;15;44;1661;4018;5863;11187;13322;5254;18576;44,91;https://babymatch.app/es/nombres/laia
+177;Lara;LARA;Mujer;33232;132;18,1;sí;;;;5;41;1051;4228;5107;6284;9019;7495;16514;49,69;https://babymatch.app/es/nombres/lara
+178;Ariadna;ARIADNA;Mujer;34462;127;18;sí;;;6;9;90;606;2056;5346;10640;12699;3009;15708;45,58;https://babymatch.app/es/nombres/ariadna
+179;Carla;CARLA;Mujer;87268;58;17,5;sí;;9;50;75;185;855;4249;11938;31412;30246;8249;38495;44,11;https://babymatch.app/es/nombres/carla
+180;Daniela;DANIELA;Mujer;76272;63;17,5;sí;46;306;449;519;1423;2655;2682;5907;18370;35454;8461;43915;57,58;https://babymatch.app/es/nombres/daniela
+181;Nora;NORA;Mujer;23045;174;16,4;sí;;21;58;119;216;904;1378;1514;5029;10094;3710;13804;59,9;https://babymatch.app/es/nombres/nora
+182;Martina;MARTINA;Mujer;71107;71;16,1;sí;178;1073;1436;1441;1149;1119;1041;1537;10702;37737;13694;51431;72,33;https://babymatch.app/es/nombres/martina
+183;Emma;EMMA;Mujer;47562;99;16,1;sí;19;257;377;527;862;2336;1836;1710;7644;22387;9607;31994;67,27;https://babymatch.app/es/nombres/emma
+184;Aitana;AITANA;Mujer;36021;123;13,5;sí;;;;;;137;314;1760;12660;15567;5579;21146;58,7;https://babymatch.app/es/nombres/aitana
+185;Olivia;OLIVIA;Mujer;25934;163;13,4;sí;13;85;185;287;420;1293;916;482;2015;11288;8950;20238;78,04;https://babymatch.app/es/nombres/olivia
+186;Candela;CANDELA;Mujer;28070;151;13,3;sí;;37;64;79;63;32;362;1182;9058;12161;5028;17189;61,24;https://babymatch.app/es/nombres/candela
+187;Valeria;VALERIA;Mujer;50854;91;12,1;sí;5;38;66;165;313;611;728;2278;7633;27949;11068;39017;76,72;https://babymatch.app/es/nombres/valeria
+188;Lola;LOLA;Mujer;27191;156;11,5;sí;;31;59;158;237;203;158;577;5390;13186;7189;20375;74,93;https://babymatch.app/es/nombres/lola
+189;Jimena;JIMENA;Mujer;25958;162;11,3;sí;;5;11;14;29;248;422;651;5577;12212;6787;18999;73,19;https://babymatch.app/es/nombres/jimena
+190;Noa;NOA;Mujer;40682;110;10,9;sí;;;;;;106;317;290;8510;24267;7190;31457;77,32;https://babymatch.app/es/nombres/noa
+191;Alma;ALMA;Mujer;21802;181;8,5;sí;;5;6;18;65;186;249;401;1492;11123;8257;19380;88,89;https://babymatch.app/es/nombres/alma
+192;Vega;VEGA;Mujer;21739;182;7,6;sí;;13;23;32;26;34;58;133;1404;11257;8756;20013;92,06;https://babymatch.app/es/nombres/vega

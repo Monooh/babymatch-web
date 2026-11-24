@@ -1,0 +1,153 @@
+﻿posicion;nombre;nombre_ine;sexo;personas;puesto_en_su_sexo;edad_media;desglose_por_decadas;nacidos_antes_1930;nacidos_1930_1939;nacidos_1940_1949;nacidos_1950_1959;nacidos_1960_1969;nacidos_1970_1979;nacidos_1980_1989;nacidos_1990_1999;nacidos_2000_2009;nacidos_2010_2019;nacidos_2020_2024;nacidos_desde_2010;pct_nacidos_desde_2010;ficha_babymatch
+1;Gregorio;GREGORIO;Hombre;28139;118;64,5;sí;207;2104;5405;6853;6785;3875;1501;682;434;235;58;293;1,04;https://babymatch.app/es/nombres/gregorio
+2;Domingo;DOMINGO;Hombre;37028;97;64,3;sí;241;2805;6941;9092;9090;5003;1892;911;614;336;103;439;1,19;https://babymatch.app/es/nombres/domingo
+3;José;JOSE;Hombre;487678;3;63,2;sí;3277;41566;103355;116631;96664;49962;26969;17067;15710;11789;4688;16477;3,38;https://babymatch.app/es/nombres/jose
+4;Eugenio;EUGENIO;Hombre;23436;138;63,2;sí;160;1784;4190;5416;5311;3530;1570;731;426;257;61;318;1,36;https://babymatch.app/es/nombres/eugenio
+5;Mariano;MARIANO;Hombre;38416;93;63,1;sí;250;2873;7019;8957;8504;5724;2495;1231;744;456;163;619;1,61;https://babymatch.app/es/nombres/mariano
+6;Vicente;VICENTE;Hombre;101275;47;61,6;sí;536;6692;17843;22315;22074;15567;7763;3823;2603;1581;478;2059;2,03;https://babymatch.app/es/nombres/vicente
+7;Francisco;FRANCISCO;Hombre;426675;4;60,3;sí;1891;25349;72099;97806;93230;56139;30300;20153;16491;10101;3116;13217;3,1;https://babymatch.app/es/nombres/francisco
+8;Ramón;RAMON;Hombre;106318;44;60,3;sí;536;6565;17353;22847;23497;16347;7787;4748;3577;2252;809;3061;2,88;https://babymatch.app/es/nombres/ramon
+9;Félix;FELIX;Hombre;48739;82;60;sí;293;3351;8323;10276;10138;6968;3531;2012;1760;1456;631;2087;4,28;https://babymatch.app/es/nombres/felix
+10;Jesús María;JESUS MARIA;Hombre;24846;129;59,9;no;;;;;;;;;;;;;;
+11;Emilio;EMILIO;Hombre;63904;67;59,3;sí;314;3792;10035;13621;14300;9331;4314;3029;2737;1800;631;2431;3,8;https://babymatch.app/es/nombres/emilio
+12;Antonio;ANTONIO;Hombre;590938;1;58,7;sí;2241;31443;92595;123661;128199;88592;47625;30071;24282;16268;5961;22229;3,76;https://babymatch.app/es/nombres/antonio
+13;Julián;JULIAN;Hombre;59313;71;58,7;sí;272;3615;9419;12219;12284;8333;4816;3447;2580;1688;640;2328;3,92;https://babymatch.app/es/nombres/julian
+14;Agustín;AGUSTIN;Hombre;56152;74;58,7;sí;222;2866;8081;11460;12831;9168;4798;3196;2034;1124;372;1496;2,66;https://babymatch.app/es/nombres/agustin
+15;José Luis;JOSE LUIS;Hombre;273470;13;58,2;sí;289;5858;32541;57459;73910;55188;24784;12745;7109;2899;688;3587;1,31;https://babymatch.app/es/nombres/jose-luis
+16;José María;JOSE MARIA;Hombre;188301;25;58,2;sí;489;6300;25120;38613;44572;35401;18222;10162;6121;2622;679;3301;1,75;https://babymatch.app/es/nombres/jose-maria
+17;José Ramón;JOSE RAMON;Hombre;55170;75;57,6;sí;60;969;5244;11193;15866;12544;5083;2395;1186;492;138;630;1,14;https://babymatch.app/es/nombres/jose-ramon
+18;Juan;JUAN;Hombre;298933;8;57,1;sí;1448;19182;50390;60360;54746;34926;21958;16028;19883;14759;5253;20012;6,69;https://babymatch.app/es/nombres/juan
+19;Julio;JULIO;Hombre;60324;69;56,6;sí;280;3291;8418;11577;12614;9244;4904;3196;3195;2702;903;3605;5,98;https://babymatch.app/es/nombres/julio
+20;Manuel;MANUEL;Hombre;525628;2;56,5;sí;2075;28355;79854;105976;107179;69792;39768;27414;27750;25306;12159;37465;7,13;https://babymatch.app/es/nombres/manuel
+21;Alfredo;ALFREDO;Hombre;39937;91;56,5;sí;106;1554;4465;6628;9419;8968;4143;2316;1451;687;200;887;2,22;https://babymatch.app/es/nombres/alfredo
+22;Joaquín;JOAQUIN;Hombre;100775;48;56,4;sí;366;4806;13347;18773;21863;16665;9207;5934;5080;3491;1243;4734;4,7;https://babymatch.app/es/nombres/joaquin
+23;Salvador;SALVADOR;Hombre;72713;62;56,3;sí;218;2942;9209;13346;16251;13159;7134;4248;3403;1991;812;2803;3,85;https://babymatch.app/es/nombres/salvador
+24;Valentín;VALENTIN;Hombre;21773;148;56,3;sí;100;1188;2930;3939;4613;3627;1930;1066;1067;885;428;1313;6,03;https://babymatch.app/es/nombres/valentin
+25;Josep;JOSEP;Hombre;40371;90;56,1;sí;186;2020;5810;8158;7715;4724;3957;3420;2782;1338;261;1599;3,96;https://babymatch.app/es/nombres/josep
+26;Cristóbal;CRISTOBAL;Hombre;27239;121;56;sí;63;1073;3124;5004;6288;4833;2913;1874;1183;690;194;884;3,25;https://babymatch.app/es/nombres/cristobal
+27;Pedro;PEDRO;Hombre;199883;22;55,8;sí;778;10077;28123;38024;40921;29113;15639;11877;12896;9677;2758;12435;6,22;https://babymatch.app/es/nombres/pedro
+28;José Vicente;JOSE VICENTE;Hombre;22891;141;55,5;no;;;;;;;;;;;;;;
+29;José Antonio;JOSE ANTONIO;Hombre;293422;9;54,9;sí;191;5443;22221;49119;80847;68860;31876;18327;10745;4671;1122;5793;1,97;https://babymatch.app/es/nombres/jose-antonio
+30;José Ignacio;JOSE IGNACIO;Hombre;38564;92;54,9;sí;13;268;2465;6716;11432;9941;3630;2213;1252;521;113;634;1,64;https://babymatch.app/es/nombres/jose-ignacio
+31;Juan Ramón;JUAN RAMON;Hombre;21373;149;54,9;no;;;;;;;;;;;;;;
+32;Felipe;FELIPE;Hombre;37771;95;54,6;sí;159;2117;5103;6586;6736;5885;3873;2403;2150;1883;876;2759;7,3;https://babymatch.app/es/nombres/felipe
+33;Tomás;TOMAS;Hombre;59774;70;54,4;sí;277;3042;8203;11105;11417;8342;4530;3775;4063;3559;1461;5020;8,4;https://babymatch.app/es/nombres/tomas
+34;Lorenzo;LORENZO;Hombre;29498;113;54,4;sí;147;1628;4078;5374;5725;4057;2270;1832;1583;1809;995;2804;9,51;https://babymatch.app/es/nombres/lorenzo
+35;Alfonso;ALFONSO;Hombre;77574;57;54,2;sí;236;2498;8233;12792;17115;15550;8185;5341;4213;2552;859;3411;4,4;https://babymatch.app/es/nombres/alfonso
+36;Luis;LUIS;Hombre;173748;27;54,1;sí;690;9306;24016;28923;31370;25648;16006;13008;12927;8848;3006;11854;6,82;https://babymatch.app/es/nombres/luis
+37;Rafael;RAFAEL;Hombre;217304;19;53,9;sí;490;7154;22959;36307;48543;41044;22797;14625;11957;8534;2894;11428;5,26;https://babymatch.app/es/nombres/rafael
+38;Juan Antonio;JUAN ANTONIO;Hombre;126411;36;53,9;sí;112;2018;9634;20522;32106;29810;15045;8482;5368;2595;719;3314;2,62;https://babymatch.app/es/nombres/juan-antonio
+39;José Francisco;JOSE FRANCISCO;Hombre;33755;102;53,4;sí;13;166;1868;5658;9348;8092;4327;2412;1268;480;123;603;1,79;https://babymatch.app/es/nombres/jose-francisco
+40;Enrique;ENRIQUE;Hombre;118311;38;52,9;sí;301;4441;12839;18392;23043;21508;13629;9822;8324;4712;1300;6012;5,08;https://babymatch.app/es/nombres/enrique
+41;Fernando;FERNANDO;Hombre;191965;24;52,7;sí;289;4791;17620;29366;42648;40188;22115;14730;11282;6857;2079;8936;4,66;https://babymatch.app/es/nombres/fernando
+42;José Manuel;JOSE MANUEL;Hombre;233530;15;52,6;sí;129;1930;13647;35489;60578;58438;29575;17610;10447;4603;1084;5687;2,44;https://babymatch.app/es/nombres/jose-manuel
+43;Juan José;JUAN JOSE;Hombre;148426;32;52,6;sí;166;2358;11656;23967;34994;32214;18048;11130;8241;4560;1092;5652;3,81;https://babymatch.app/es/nombres/juan-jose
+44;Ricardo;RICARDO;Hombre;76720;58;52,5;sí;147;2205;6810;10504;15327;18441;10057;6199;4188;2193;649;2842;3,7;https://babymatch.app/es/nombres/ricardo
+45;Juan Luis;JUAN LUIS;Hombre;33057;105;52,2;sí;13;304;2079;4820;8255;8147;4425;2518;1582;731;183;914;2,76;https://babymatch.app/es/nombres/juan-luis
+46;Esteban;ESTEBAN;Hombre;28434;116;52,1;sí;134;1242;3106;4259;4872;4860;3536;2617;2194;1258;356;1614;5,68;https://babymatch.app/es/nombres/esteban
+47;Jesús;JESUS;Hombre;256545;14;51,9;sí;635;8369;26413;39894;49277;42474;32737;24957;18154;10504;3131;13635;5,31;https://babymatch.app/es/nombres/jesus
+48;Ángel;ANGEL;Hombre;202742;21;51,9;sí;640;8668;26228;34831;35426;27214;18544;14177;17263;14849;4902;19751;9,74;https://babymatch.app/es/nombres/angel
+49;Juan Pedro;JUAN PEDRO;Hombre;20524;151;51,8;sí;19;292;1211;2884;5217;4747;2696;1691;1145;481;141;622;3,03;https://babymatch.app/es/nombres/juan-pedro
+50;Juan Carlos;JUAN CARLOS;Hombre;162004;30;51,6;sí;;128;1735;13294;59787;50818;16882;11314;5888;1782;374;2156;1,33;https://babymatch.app/es/nombres/juan-carlos
+51;José Javier;JOSE JAVIER;Hombre;27363;120;51,2;no;;;;;;;;;;;;;;
+52;Francisco Javier;FRANCISCO JAVIER;Hombre;282045;10;50,9;sí;33;848;7715;29072;78170;87567;41340;20731;11559;4146;864;5010;1,78;https://babymatch.app/es/nombres/francisco-javier
+53;Juan Manuel;JUAN MANUEL;Hombre;111054;40;50,7;sí;65;1120;6363;14839;25780;26763;15632;9863;6772;3050;807;3857;3,47;https://babymatch.app/es/nombres/juan-manuel
+54;Juan Francisco;JUAN FRANCISCO;Hombre;45992;83;50,7;sí;43;489;2514;6168;10744;10876;6850;4123;2715;1200;270;1470;3,2;https://babymatch.app/es/nombres/juan-francisco
+55;Pedro José;PEDRO JOSE;Hombre;23746;135;50,4;no;;;;;;;;;;;;;;
+56;José Miguel;JOSE MIGUEL;Hombre;64303;66;50,2;sí;18;394;3238;8395;14794;16137;9245;5843;4080;1805;354;2159;3,36;https://babymatch.app/es/nombres/jose-miguel
+57;Juan Miguel;JUAN MIGUEL;Hombre;26470;124;49,7;sí;7;209;1471;3593;5955;6101;3696;2357;1808;1005;268;1273;4,81;https://babymatch.app/es/nombres/juan-miguel
+58;Andrés;ANDRES;Hombre;109000;42;49,6;sí;278;3906;10773;15629;18697;16445;12343;11551;10621;6844;1913;8757;8,03;https://babymatch.app/es/nombres/andres
+59;José Ángel;JOSE ANGEL;Hombre;40604;88;49,5;sí;5;176;1545;4956;9821;10544;5865;3729;2426;1236;301;1537;3,79;https://babymatch.app/es/nombres/jose-angel
+60;Miguel Ángel;MIGUEL ANGEL;Hombre;228402;17;49,2;sí;16;481;7076;24049;55065;68495;33163;18661;13823;6219;1354;7573;3,32;https://babymatch.app/es/nombres/miguel-angel
+61;José Carlos;JOSE CARLOS;Hombre;44744;84;49;sí;;138;1273;4541;11188;11896;7159;4916;2535;887;207;1094;2,45;https://babymatch.app/es/nombres/jose-carlos
+62;Sebastián;SEBASTIAN;Hombre;44158;86;49;sí;105;1625;4404;6401;7634;6412;4212;4808;4178;3116;1263;4379;9,92;https://babymatch.app/es/nombres/sebastian
+63;Luis Miguel;LUIS MIGUEL;Hombre;37685;96;48,8;sí;;36;825;4719;8945;9564;5961;4288;2423;756;166;922;2,45;https://babymatch.app/es/nombres/luis-miguel
+64;Santiago;SANTIAGO;Hombre;110532;41;48,7;sí;226;3164;9519;15038;20227;20399;11197;9378;10805;7372;3207;10579;9,57;https://babymatch.app/es/nombres/santiago
+65;Eduardo;EDUARDO;Hombre;101317;46;48,5;sí;188;2272;7099;11448;16817;21550;17089;11322;8039;4441;1052;5493;5,42;https://babymatch.app/es/nombres/eduardo
+66;Jaume;JAUME;Hombre;24224;133;48,3;sí;66;706;2255;3439;4114;3375;2737;2702;2693;1695;442;2137;8,82;https://babymatch.app/es/nombres/jaume
+67;Miguel;MIGUEL;Hombre;230734;16;48,2;sí;646;8460;24813;32310;34918;30200;26119;23254;26384;17608;6022;23630;10,24;https://babymatch.app/es/nombres/miguel
+68;Francisco José;FRANCISCO JOSE;Hombre;94529;52;47,8;no;;;;;;;;;;;;;;
+69;Antonio José;ANTONIO JOSE;Hombre;30775;108;47,6;no;;;;;;;;;;;;;;
+70;Francisco Manuel;FRANCISCO MANUEL;Hombre;25990;125;47;no;;;;;;;;;;;;;;
+71;Germán;GERMAN;Hombre;24059;134;46,9;sí;63;793;1824;2327;3439;5006;3610;2534;2464;1577;422;1999;8,31;https://babymatch.app/es/nombres/german
+72;Víctor Manuel;VICTOR MANUEL;Hombre;40499;89;45,7;no;;;;;;;;;;;;;;
+73;Roberto;ROBERTO;Hombre;96809;50;45,5;sí;38;841;2996;5946;14369;30334;20252;9613;7616;4101;703;4804;4,96;https://babymatch.app/es/nombres/roberto
+74;Arturo;ARTURO;Hombre;28874;115;45,2;sí;82;900;2430;3309;4287;4462;2978;3029;3324;3152;921;4073;14,11;https://babymatch.app/es/nombres/arturo
+75;Manuel Jesús;MANUEL JESUS;Hombre;21124;150;45,1;no;;;;;;;;;;;;;;
+76;Jordi;JORDI;Hombre;81617;55;44,7;sí;40;621;2044;6037;13201;22439;15725;9164;7409;4084;853;4937;6,05;https://babymatch.app/es/nombres/jordi
+77;Ahmed;AHMED;Hombre;27516;119;44;sí;5;110;605;2431;4759;6633;4867;3603;2244;1650;609;2259;8,21;https://babymatch.app/es/nombres/ahmed
+78;Joan;JOAN;Hombre;52993;79;43,7;sí;135;1470;4565;6768;6809;5171;5629;6610;9294;5275;1267;6542;12,35;https://babymatch.app/es/nombres/joan
+79;César;CESAR;Hombre;42697;87;43,7;sí;54;614;1595;2585;6016;12858;6311;3779;4379;3594;912;4506;10,55;https://babymatch.app/es/nombres/cesar
+80;Carlos;CARLOS;Hombre;273546;11;43,3;sí;213;3114;12587;23322;39810;53315;45676;39619;33083;17976;4831;22807;8,34;https://babymatch.app/es/nombres/carlos
+81;Ignacio;IGNACIO;Hombre;88252;53;43;sí;130;1610;4202;7012;12184;17905;12774;12580;11969;6081;1805;7886;8,94;https://babymatch.app/es/nombres/ignacio
+82;Jaime;JAIME;Hombre;95004;51;42,8;sí;205;2594;7164;9399;11986;14193;10824;11003;14540;9512;3584;13096;13,78;https://babymatch.app/es/nombres/jaime
+83;Antonio Jesús;ANTONIO JESUS;Hombre;26679;123;42,6;no;;;;;;;;;;;;;;
+84;Alberto;ALBERTO;Hombre;177437;26;42;sí;99;1691;5303;9417;20202;39653;42111;28252;19084;9474;2151;11625;6,55;https://babymatch.app/es/nombres/alberto
+85;Moisés;MOISES;Hombre;22785;142;41,2;sí;38;345;822;1028;2127;5069;5564;3213;2524;1515;540;2055;9,02;https://babymatch.app/es/nombres/moises
+86;Oscar;OSCAR;Hombre;123663;37;40,1;sí;10;210;446;1267;8611;50827;23590;14582;15765;7066;1289;8355;6,76;https://babymatch.app/es/nombres/oscar
+87;Xavier;XAVIER;Hombre;33915;101;40;sí;;52;340;1243;4240;8186;7435;5293;4772;2067;285;2352;6,93;https://babymatch.app/es/nombres/xavier
+88;Jorge;JORGE;Hombre;194253;23;39,1;sí;63;1054;3395;9403;22128;46158;33391;27857;29352;17542;3910;21452;11,04;https://babymatch.app/es/nombres/jorge
+89;Albert;ALBERT;Hombre;33666;104;38,9;sí;14;210;638;1279;2940;5933;8607;7380;4546;1726;393;2119;6,29;https://babymatch.app/es/nombres/albert
+90;Javier;JAVIER;Hombre;309708;7;38,4;sí;49;891;3867;10886;33575;68074;67691;48699;45393;24717;5866;30583;9,87;https://babymatch.app/es/nombres/javier
+91;Mohammed;MOHAMMED;Hombre;37933;94;38,3;sí;5;50;333;1739;3875;7195;8493;8075;5066;2549;553;3102;8,18;https://babymatch.app/es/nombres/mohammed
+92;Raúl;RAUL;Hombre;142040;33;37,1;sí;18;473;1017;1868;7656;43086;31454;17744;25390;11265;2069;13334;9,39;https://babymatch.app/es/nombres/raul
+93;Gabriel;GABRIEL;Hombre;74511;60;37,1;sí;123;1488;4153;6054;8430;8969;7047;8068;12503;12653;5023;17676;23,72;https://babymatch.app/es/nombres/gabriel
+94;Mohamed;MOHAMED;Hombre;85553;54;36,3;sí;18;210;1217;4532;8742;14175;15512;15082;13400;9550;3115;12665;14,8;https://babymatch.app/es/nombres/mohamed
+95;Guillermo;GUILLERMO;Hombre;73808;61;36,3;sí;98;1190;3272;4821;6945;8688;9171;12067;13611;10687;3258;13945;18,89;https://babymatch.app/es/nombres/guillermo
+96;David;DAVID;Hombre;372975;5;36,1;sí;54;694;1955;3076;12604;105064;95397;58644;56755;31785;6947;38732;10,38;https://babymatch.app/es/nombres/david
+97;Íñigo;IÑIGO;Hombre;22083;145;36,1;sí;;12;42;291;2066;5831;3456;4197;3565;1916;707;2623;11,88;https://babymatch.app/es/nombres/inigo
+98;Israel;ISRAEL;Hombre;20176;152;35,9;sí;;30;52;100;288;5981;6161;2367;2902;1710;584;2294;11,37;https://babymatch.app/es/nombres/israel
+99;Abel;ABEL;Hombre;25208;127;35,4;sí;20;269;667;1017;1554;4086;5431;3892;3801;3533;938;4471;17,74;https://babymatch.app/es/nombres/abel
+100;Diego;DIEGO;Hombre;157540;31;34,5;sí;139;2041;6081;9656;12192;18720;21465;21561;30706;27473;7506;34979;22,2;https://babymatch.app/es/nombres/diego
+101;Víctor;VICTOR;Hombre;106489;43;34,1;sí;109;1210;2970;4098;5283;11749;21520;22161;21574;12907;2908;15815;14,85;https://babymatch.app/es/nombres/victor
+102;Sergio;SERGIO;Hombre;210727;20;33,9;sí;29;339;899;1880;6857;45948;47781;45230;37657;20269;3838;24107;11,44;https://babymatch.app/es/nombres/sergio
+103;Ismael;ISMAEL;Hombre;56869;72;33,3;sí;38;562;1224;1645;2384;8565;9905;10443;13327;6892;1884;8776;15,43;https://babymatch.app/es/nombres/ismael
+104;Rubén;RUBEN;Hombre;131134;35;33;sí;;69;252;658;2553;23347;39607;25297;23199;13489;2660;16149;12,31;https://babymatch.app/es/nombres/ruben
+105;Jonathan;JONATHAN;Hombre;24786;130;32,2;sí;;;5;31;98;1896;9646;6997;4188;1434;490;1924;7,76;https://babymatch.app/es/nombres/jonathan
+106;Isaac;ISAAC;Hombre;29097;114;32;sí;40;351;661;908;1228;4092;6042;3673;4717;5257;2128;7385;25,38;https://babymatch.app/es/nombres/isaac
+107;Gonzalo;GONZALO;Hombre;72628;63;31,7;sí;82;1030;2655;4038;6048;7160;7493;8742;13136;15584;6660;22244;30,63;https://babymatch.app/es/nombres/gonzalo
+108;Daniel;DANIEL;Hombre;310188;6;31,5;sí;113;1544;4089;5804;9832;44604;64228;58974;63136;46483;11381;57864;18,65;https://babymatch.app/es/nombres/daniel
+109;Borja;BORJA;Hombre;30694;109;31,2;sí;;;;24;122;2139;9758;11210;4550;2258;630;2888;9,41;https://babymatch.app/es/nombres/borja
+110;Iván;IVAN;Hombre;138979;34;31;sí;;29;130;513;1519;20963;36485;28295;32006;16387;2651;19038;13,7;https://babymatch.app/es/nombres/ivan
+111;Mikel;MIKEL;Hombre;24425;131;30,7;sí;;21;48;258;938;3072;5652;5348;4731;3409;946;4355;17,83;https://babymatch.app/es/nombres/mikel
+112;Pablo;PABLO;Hombre;227981;18;30,4;sí;154;2156;5807;8068;12613;22036;28202;36645;59075;41875;11350;53225;23,35;https://babymatch.app/es/nombres/pablo
+113;Alejandro;ALEJANDRO;Hombre;273491;12;29,7;sí;143;1774;4669;6649;10914;24569;37785;59410;73012;42954;11612;54566;19,95;https://babymatch.app/es/nombres/alejandro
+114;Omar;OMAR;Hombre;25890;126;29,7;sí;;20;103;475;1233;2831;5131;5606;4519;4452;1518;5970;23,06;https://babymatch.app/es/nombres/omar
+115;Sergi;SERGI;Hombre;23273;140;29,6;sí;;;20;84;620;2759;3794;6915;6191;2490;398;2888;12,41;https://babymatch.app/es/nombres/sergi
+116;Cristian;CRISTIAN;Hombre;56400;73;29,2;sí;;;9;61;429;3291;13426;20912;11153;5870;1245;7115;12,62;https://babymatch.app/es/nombres/cristian
+117;Nicolás;NICOLAS;Hombre;65659;65;28,9;sí;109;1149;2889;3744;4234;4114;3958;5483;15356;18624;5999;24623;37,5;https://babymatch.app/es/nombres/nicolas
+118;Jon;JON;Hombre;22618;144;28,5;sí;;20;46;240;935;2544;4245;4541;4586;4048;1413;5461;24,14;https://babymatch.app/es/nombres/jon
+119;Christian;CHRISTIAN;Hombre;23330;139;28,4;sí;;6;56;143;391;1427;4450;7653;6227;2478;498;2976;12,76;https://babymatch.app/es/nombres/christian
+120;Marcos;MARCOS;Hombre;99544;49;28,2;sí;52;503;1263;1691;3644;15045;12882;10835;25461;21839;6329;28168;28,3;https://babymatch.app/es/nombres/marcos
+121;Aitor;AITOR;Hombre;53446;77;27,6;sí;;6;7;118;1924;7296;7672;10750;11562;12138;1973;14111;26,4;https://babymatch.app/es/nombres/aitor
+122;Mario;MARIO;Hombre;112534;39;27,5;sí;49;552;1518;2784;6453;11761;11912;14783;27624;27052;8046;35098;31,19;https://babymatch.app/es/nombres/mario
+123;Álvaro;ALVARO;Hombre;171341;28;26,3;sí;36;450;1344;2367;4913;12495;22707;35652;46275;35276;9826;45102;26,32;https://babymatch.app/es/nombres/alvaro
+124;Youssef;YOUSSEF;Hombre;22761;143;26,3;sí;;;13;104;686;2254;3822;4982;4007;5368;1524;6892;30,28;https://babymatch.app/es/nombres/youssef
+125;Gerard;GERARD;Hombre;22069;146;25,5;sí;;19;78;158;319;1466;3337;4597;6135;5108;851;5959;27;https://babymatch.app/es/nombres/gerard
+126;Héctor;HECTOR;Hombre;52829;80;25,3;sí;;91;164;333;930;4801;9482;7769;12748;13071;3438;16509;31,25;https://babymatch.app/es/nombres/hector
+127;Rodrigo;RODRIGO;Hombre;44429;85;25,3;sí;15;204;541;929;1437;3768;5194;5594;11599;10956;4192;15148;34,09;https://babymatch.app/es/nombres/rodrigo
+128;Asier;ASIER;Hombre;28293;117;25;sí;;;;;339;4213;3438;4300;6805;7351;1841;9192;32,49;https://babymatch.app/es/nombres/asier
+129;Marc;MARC;Hombre;76001;59;24,5;sí;;16;66;164;878;6654;10566;15653;19833;17159;5011;22170;29,17;https://babymatch.app/es/nombres/marc
+130;Martín;MARTIN;Hombre;79496;56;24,3;sí;107;1320;3166;4198;4933;4478;3405;4392;8270;29645;15582;45227;56,89;https://babymatch.app/es/nombres/martin
+131;Samuel;SAMUEL;Hombre;61517;68;24,2;sí;19;189;420;551;885;3927;8051;10819;17536;15167;3953;19120;31,08;https://babymatch.app/es/nombres/samuel
+132;Adrián;ADRIAN;Hombre;164750;29;23,9;sí;14;232;571;863;1494;3497;22231;43307;49913;34303;8325;42628;25,87;https://babymatch.app/es/nombres/adrian
+133;Unai;UNAI;Hombre;26996;122;20,9;sí;;5;;5;80;2468;2544;3042;7664;8469;2718;11187;41,44;https://babymatch.app/es/nombres/unai
+134;Pau;PAU;Hombre;35499;99;20,2;sí;;31;100;174;324;1057;2530;5273;13121;9507;3378;12885;36,3;https://babymatch.app/es/nombres/pau
+135;Joel;JOEL;Hombre;29713;111;19,5;sí;;6;19;53;192;801;1808;4738;10780;9112;2203;11315;38,08;https://babymatch.app/es/nombres/joel
+136;Darío;DARIO;Hombre;29614;112;19,5;sí;16;183;342;443;621;1340;1832;2712;5997;11666;4462;16128;54,46;https://babymatch.app/es/nombres/dario
+137;Iker;IKER;Hombre;50224;81;19,1;sí;;;;6;84;2970;3542;3603;19152;17570;3297;20867;41,55;https://babymatch.app/es/nombres/iker
+138;Arnau;ARNAU;Hombre;21804;147;19,1;sí;;;8;12;40;322;1205;3898;8437;6102;1778;7880;36,14;https://babymatch.app/es/nombres/arnau
+139;Aarón;AARON;Hombre;33716;103;18,7;sí;;;6;11;26;352;2875;5291;11328;10777;3050;13827;41,01;https://babymatch.app/es/nombres/aaron
+140;Pol;POL;Hombre;23717;136;18;sí;;;;;18;176;1101;3964;9150;6943;2361;9304;39,23;https://babymatch.app/es/nombres/pol
+141;Eric;ERIC;Hombre;33000;106;17,9;sí;;15;50;75;265;499;1957;5534;8378;12600;3627;16227;49,17;https://babymatch.app/es/nombres/eric
+142;Bruno;BRUNO;Hombre;31853;107;17,7;sí;9;109;245;290;552;1818;2550;2118;4770;12406;6986;19392;60,88;https://babymatch.app/es/nombres/bruno
+143;Álex;ALEX;Hombre;53051;78;17,4;sí;;;10;44;241;1287;1854;7214;18244;17629;6528;24157;45,54;https://babymatch.app/es/nombres/alex
+144;Marco;MARCO;Hombre;30125;110;16,4;sí;;12;22;132;677;1563;1757;1917;5669;12162;6214;18376;61;https://babymatch.app/es/nombres/marco
+145;Lucas;LUCAS;Hombre;66041;64;15,6;sí;26;292;675;901;1003;1569;2042;3438;13149;29817;13129;42946;65,03;https://babymatch.app/es/nombres/lucas
+146;Mateo;MATEO;Hombre;54981;76;15,5;sí;47;494;1089;1454;1565;1066;797;1731;6385;24121;16232;40353;73,39;https://babymatch.app/es/nombres/mateo
+147;Oliver;OLIVER;Hombre;24392;132;14,7;sí;;;7;27;151;1547;2212;1088;1905;10471;6982;17453;71,55;https://babymatch.app/es/nombres/oliver
+148;Hugo;HUGO;Hombre;102296;45;14,1;sí;;18;55;126;337;2095;3216;2724;30464;47655;15604;63259;61,84;https://babymatch.app/es/nombres/hugo
+149;Adam;ADAM;Hombre;25015;128;12,5;sí;;;9;22;93;251;409;672;5924;13339;4293;17632;70,49;https://babymatch.app/es/nombres/adam
+150;Izan;IZAN;Hombre;35213;100;11,4;sí;;;;;;6;16;453;10015;18746;5977;24723;70,21;https://babymatch.app/es/nombres/izan
+151;Leo;LEO;Hombre;36280;98;7,2;sí;;;7;24;25;40;48;86;1690;20750;13607;34357;94,7;https://babymatch.app/es/nombres/leo
+152;Enzo;ENZO;Hombre;23691;137;6,8;sí;;;17;22;32;41;55;144;897;12650;9830;22480;94,89;https://babymatch.app/es/nombres/enzo

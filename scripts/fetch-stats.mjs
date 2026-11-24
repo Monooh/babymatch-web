@@ -144,6 +144,8 @@ const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ß/g, 'ss'
   .toUpperCase().replace(/[’`´]/g, "'").replace(/[-·.]/g, ' ').replace(/\s+/g, ' ').trim()
 /** INE drops accents but keeps Ñ and Ç as letters of their own, so Toni must not match TOÑI. */
 const foldEs = s => fold(s.normalize('NFC').replace(/[ñÑ]/g, '\u0001').replace(/[çÇ]/g, '\u0002')).replace(/\u0001/g, 'Ñ').replace(/\u0002/g, 'Ç')
+/** How INE files a name: compounds lose their particles (María del Carmen is MARIA CARMEN, María de los Ángeles is MARIA ANGELES). */
+const keyEs = s => foldEs(s).replace(/ (DE LOS|DE LAS|DE LA|DEL|DE) /g, ' ')
 
 /** names[slug] from a per-sex lookup: a gendered name gets its own sex only, a unisex one whatever exists. */
 function assemble(lang, key, lookup) {
@@ -234,7 +236,7 @@ async function spain() {
 
   // Decades and provinces are per-name lookups; the journal is tied to the reference date so a new edition starts afresh.
   const detail = journal(`es-detail-${asOf}.jsonl`)
-  const build = () => assemble('es', foldEs, (k, sex) => {
+  const build = () => assemble('es', keyEs, (k, sex) => {
     const base = national[sex].get(k)
     if (!base) return null
     const out = { n: base.n }
@@ -261,7 +263,7 @@ async function spain() {
 
   const wanted = new Set()
   for (const e of master) {
-    const k = foldEs(spelling(e, 'es')), g = genderOf(e, 'es')
+    const k = keyEs(spelling(e, 'es')), g = genderOf(e, 'es')
     for (const sex of g === 'u' ? ['f', 'm'] : [g]) if (national[sex].has(k)) wanted.add(`${k}|${sex}`)
   }
   for (let pass = 1; pass <= 4; pass++) {

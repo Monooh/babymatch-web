@@ -1,4 +1,4 @@
-import { LOCALES, LOCALE_NAMES, SITE_NAME, paths, type Locale } from '@/i18n/config'
+import { LOCALES, LOCALE_NAMES, SITE_NAME, STUDY, paths, type Locale } from '@/i18n/config'
 import type { Dict } from '@/i18n/dict'
 import { IconSearch } from './Icons'
 
@@ -42,6 +42,7 @@ export function SiteFooter({ lang, d }: { lang: Locale; d: Dict }) {
               <li><a href={paths.names(lang)}>{d.nav.names}</a></li>
               <li><a href={paths.lists(lang)}>{d.nav.lists}</a></li>
               <li><a href={paths.saints(lang)}>{d.saints.nav}</a></li>
+              {lang === 'es' ? <li><a href={STUDY.path}>{STUDY.nav}</a></li> : null}
               <li><a href={paths.app(lang)}>{d.nav.openApp}</a></li>
               <li><a href={paths.privacy(lang)}>{d.footer.privacy}</a></li>
             </ul>

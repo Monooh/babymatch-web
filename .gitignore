@@ -48,3 +48,8 @@ next-env.d.ts
 
 # raw downloads kept by scripts/fetch-stats.mjs so a run can resume
 /data/stats/cache/
+
+# press outreach: the plan and the contact lists stay on this machine (the repository is public)
+/docs/prensa/difusion.md
+/docs/prensa/medios/
+/docs/prensa/envios.mjs

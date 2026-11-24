@@ -1,0 +1,289 @@
+﻿clave;valor;descripcion
+fecha_referencia;2025-01-01;fecha de referencia del fichero del INE
+fecha_referencia_texto;1 de enero de 2025;la misma fecha, como la escribe la nota
+periodos_de_nacimiento;antes de 1930, 1930-1939, 1940-1949, 1950-1959, 1960-1969, 1970-1979, 1980-1989, 1990-1999, 2000-2009, 2010-2019, 2020-2024;décadas de nacimiento del desglose
+minimo_personas_ine;20;personas que lleva el nombre menos frecuente del fichero
+minimo_celda_ine;5;la celda más pequeña que publica el INE por década o por provincia
+decimales_tasas_ine;3;decimales con que el INE publica las tasas por mil
+provincias_por_nombre;5;provincias con mayor tasa que se conservan de cada nombre
+umbral_ranking;20.000;personas mínimas para entrar en las tablas 1 a 3
+umbral_listado;1.000;personas mínimas para entrar en el CSV completo
+umbral_provincia_personas;100;tabla 4: personas mínimas con el nombre en la provincia
+umbral_provincia_por_mil;1;tabla 4: tasa mínima por mil en la provincia
+umbral_segundo_cerca;5;tabla 4: % por debajo del cual el segundo nombre se considera cerca del primero
+umbral_pocas_personas;200;tabla 4: se cuentan aparte los ganadores con menos personas que estas en la provincia
+umbrales_edad;10, 60, 65, 70;edades medias que la nota usa como referencia
+filas_por_tabla;10;filas de las tablas 1 a 3, y nombres más frecuentes de cada sexo que se comparan
+nombres_ine_mujer;32321;nombres de mujer con 20 personas o más
+nombres_ine_hombre;31119;nombres de hombre con 20 personas o más
+nombres_ine;63440;nombres con 20 personas o más, los dos sexos
+personas_ine;44846689;personas que suman los nombres del fichero
+nombres_con_desglose;6172;nombres (por sexo) con desglose por décadas y provincias en nuestra base de datos
+nombres_con_provincias;6050;de ellos, con desglose provincial publicado
+pct_personas_con_desglose;81,6;% de las personas del fichero cuyo nombre tiene desglose
+nombres_babymatch;9505;nombres en la base de datos de BabyMatch
+desglose_maría_carmen;618.622 personas, desglose: sí;María Carmen: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_borja;30.694 personas, desglose: sí;Borja: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_asier;28.293 personas, desglose: sí;Asier: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_yaiza;14.734 personas, desglose: sí;Yaiza: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_yeray;13.248 personas, desglose: sí;Yeray: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_henar;3.445 personas, desglose: sí;Henar: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_fuencisla;939 personas, desglose: no;Fuencisla: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_llanos;831 personas, desglose: no;Llanos: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_casilda;2.967 personas, desglose: no;Casilda: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_indalecio;2.151 personas, desglose: no;Indalecio: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_idaira;2.782 personas, desglose: no;Idaira: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_jonay;2.216 personas, desglose: no;Jonay: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_maría_pino;7.216 personas, desglose: no;María Pino: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_pino;1.049 personas, desglose: sí;Pino: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_maría_desamparados;6.649 personas, desglose: no;María Desamparados: ¿tiene desglose por décadas y provincias en la base de datos?
+desglose_desamparados;4.616 personas, desglose: sí;Desamparados: ¿tiene desglose por décadas y provincias en la base de datos?
+compuestos_1000;893;nombres compuestos con 1000 personas o más
+compuestos_1000_con_desglose;109;de ellos, con desglose en la base de datos
+compuestos_1000_sin_desglose;784;de ellos, sin desglose
+simples_1000;1970;nombres simples con 1000 personas o más
+simples_1000_sin_desglose;144;de ellos, sin desglose
+nombres_1000;2863;nombres con 1000 personas o más
+nombres_1000_edad_70;155;de ellos, con edad media de 70 años o más
+nombres_1000_edad_70_mujer;143;de ellos, de mujer
+nombres_1000_edad_menor_10;78;nombres con 1000 personas o más y edad media inferior a 10 años
+nombres_20000;344;nombres con 20000 personas o más
+nombres_20000_mujer;192;de ellos, de mujer
+nombres_20000_hombre;152;de ellos, de hombre
+nombres_20000_con_desglose;316;de ellos, con desglose por décadas
+nombres_20000_edad_65_mujer;32;nombres de mujer con 20000 personas o más y edad media de 65 años o más
+nombres_20000_edad_65_hombre;0;nombres de hombre con 20000 personas o más y edad media de 65 años o más
+nombres_20000_edad_menor_10;4;nombres con 20000 personas o más y edad media inferior a 10 años
+mas_edad_primeros_de_mujer;10;de los 10 nombres de más edad media con 20000 personas o más, sin separar sexos, cuántos son de mujer
+top10_mujer_edad_60;6;de los 10 nombres de mujer más frecuentes, cuántos tienen edad media de 60 años o más: María Carmen 62,6, Carmen 60,4, María Pilar 62,5, María Dolores 62,0, Isabel 60,3, María Teresa 62,4
+top10_mujer;María Carmen 62,6, María 48,3, Carmen 60,4, Ana María 56,7, Laura 34,2, María Pilar 62,5, María Dolores 62,0, Isabel 60,3, Ana 46,2, María Teresa 62,4;los 10 nombres de mujer más frecuentes y su edad media
+top10_hombre_edad_60;2;de los 10 nombres de hombre más frecuentes, cuántos tienen edad media de 60 años o más: José 63,2, Francisco 60,3
+top10_hombre;Antonio 58,7, Manuel 56,5, José 63,2, Francisco 60,3, David 36,1, Daniel 31,5, Javier 38,4, Juan 57,1, José Antonio 54,9, Francisco Javier 50,9;los 10 nombres de hombre más frecuentes y su edad media
+josefa_f_personas;225853;Josefa: personas
+josefa_f_puesto;13;Josefa: puesto entre los nombres de mujer
+josefa_f_edad_media;71,6;Josefa: edad media
+josefa_f_nacidos_1950_1959;61972;Josefa: nacidos en los años cincuenta
+josefa_f_nacidos_2010_2019;326;Josefa: nacidos de 2010 a 2019
+josefa_f_nacidos_2020_2024;156;Josefa: nacidos desde 2020
+josefa_f_nacidos_desde_2010;482;Josefa: nacidos desde 2010
+josefa_f_pct_desde_2010;0,2;Josefa: % nacidos desde 2010
+vega_f_personas;21739;Vega: personas
+vega_f_puesto;182;Vega: puesto entre los nombres de mujer
+vega_f_edad_media;7,6;Vega: edad media
+vega_f_nacidos_1950_1959;32;Vega: nacidos en los años cincuenta
+vega_f_nacidos_2010_2019;11257;Vega: nacidos de 2010 a 2019
+vega_f_nacidos_2020_2024;8756;Vega: nacidos desde 2020
+vega_f_nacidos_desde_2010;20013;Vega: nacidos desde 2010
+vega_f_pct_desde_2010;92,1;Vega: % nacidos desde 2010
+vegas_por_josefa_desde_2020;56;Vegas nacidas desde 2020 por cada Josefa nacida desde 2020 (cociente entero)
+felisa_f_personas;20590;Felisa: personas
+felisa_f_puesto;188;Felisa: puesto entre los nombres de mujer
+felisa_f_edad_media;74,7;Felisa: edad media
+felisa_f_nacidos_1950_1959;5097;Felisa: nacidos en los años cincuenta
+felisa_f_nacidos_2010_2019;40;Felisa: nacidos de 2010 a 2019
+felisa_f_nacidos_2020_2024;16;Felisa: nacidos desde 2020
+felisa_f_nacidos_desde_2010;56;Felisa: nacidos desde 2010
+felisa_f_pct_desde_2010;0,3;Felisa: % nacidos desde 2010
+vicenta_f_personas;25401;Vicenta: personas
+vicenta_f_puesto;165;Vicenta: puesto entre los nombres de mujer
+vicenta_f_edad_media;73,9;Vicenta: edad media
+vicenta_f_nacidos_1950_1959;6542;Vicenta: nacidos en los años cincuenta
+vicenta_f_nacidos_2010_2019;19;Vicenta: nacidos de 2010 a 2019
+vicenta_f_nacidos_2020_2024;8;Vicenta: nacidos desde 2020
+vicenta_f_nacidos_desde_2010;27;Vicenta: nacidos desde 2010
+vicenta_f_pct_desde_2010;0,1;Vicenta: % nacidos desde 2010
+dolores_f_personas;159919;Dolores: personas
+dolores_f_puesto;23;Dolores: puesto entre los nombres de mujer
+dolores_f_edad_media;70,1;Dolores: edad media
+dolores_f_nacidos_1950_1959;39299;Dolores: nacidos en los años cincuenta
+dolores_f_nacidos_2010_2019;710;Dolores: nacidos de 2010 a 2019
+dolores_f_nacidos_2020_2024;250;Dolores: nacidos desde 2020
+dolores_f_nacidos_desde_2010;960;Dolores: nacidos desde 2010
+dolores_f_pct_desde_2010;0,6;Dolores: % nacidos desde 2010
+concepción_f_personas;123055;Concepción: personas
+concepción_f_puesto;32;Concepción: puesto entre los nombres de mujer
+concepción_f_edad_media;69,4;Concepción: edad media
+concepción_f_nacidos_1950_1959;32829;Concepción: nacidos en los años cincuenta
+concepción_f_nacidos_2010_2019;165;Concepción: nacidos de 2010 a 2019
+concepción_f_nacidos_2020_2024;45;Concepción: nacidos desde 2020
+concepción_f_nacidos_desde_2010;210;Concepción: nacidos desde 2010
+concepción_f_pct_desde_2010;0,2;Concepción: % nacidos desde 2010
+gregorio_m_personas;28139;Gregorio: personas
+gregorio_m_puesto;118;Gregorio: puesto entre los nombres de hombre
+gregorio_m_edad_media;64,5;Gregorio: edad media
+gregorio_m_nacidos_1950_1959;6853;Gregorio: nacidos en los años cincuenta
+gregorio_m_nacidos_2010_2019;235;Gregorio: nacidos de 2010 a 2019
+gregorio_m_nacidos_2020_2024;58;Gregorio: nacidos desde 2020
+gregorio_m_nacidos_desde_2010;293;Gregorio: nacidos desde 2010
+gregorio_m_pct_desde_2010;1,0;Gregorio: % nacidos desde 2010
+josé_m_personas;487678;José: personas
+josé_m_puesto;3;José: puesto entre los nombres de hombre
+josé_m_edad_media;63,2;José: edad media
+josé_m_nacidos_1950_1959;116631;José: nacidos en los años cincuenta
+josé_m_nacidos_2010_2019;11789;José: nacidos de 2010 a 2019
+josé_m_nacidos_2020_2024;4688;José: nacidos desde 2020
+josé_m_nacidos_desde_2010;16477;José: nacidos desde 2010
+josé_m_pct_desde_2010;3,4;José: % nacidos desde 2010
+enzo_m_personas;23691;Enzo: personas
+enzo_m_puesto;137;Enzo: puesto entre los nombres de hombre
+enzo_m_edad_media;6,8;Enzo: edad media
+enzo_m_nacidos_1950_1959;22;Enzo: nacidos en los años cincuenta
+enzo_m_nacidos_2010_2019;12650;Enzo: nacidos de 2010 a 2019
+enzo_m_nacidos_2020_2024;9830;Enzo: nacidos desde 2020
+enzo_m_nacidos_desde_2010;22480;Enzo: nacidos desde 2010
+enzo_m_pct_desde_2010;94,9;Enzo: % nacidos desde 2010
+leo_m_personas;36280;Leo: personas
+leo_m_puesto;98;Leo: puesto entre los nombres de hombre
+leo_m_edad_media;7,2;Leo: edad media
+leo_m_nacidos_1950_1959;24;Leo: nacidos en los años cincuenta
+leo_m_nacidos_2010_2019;20750;Leo: nacidos de 2010 a 2019
+leo_m_nacidos_2020_2024;13607;Leo: nacidos desde 2020
+leo_m_nacidos_desde_2010;34357;Leo: nacidos desde 2010
+leo_m_pct_desde_2010;94,7;Leo: % nacidos desde 2010
+alma_f_personas;21802;Alma: personas
+alma_f_puesto;181;Alma: puesto entre los nombres de mujer
+alma_f_edad_media;8,5;Alma: edad media
+alma_f_nacidos_1950_1959;18;Alma: nacidos en los años cincuenta
+alma_f_nacidos_2010_2019;11123;Alma: nacidos de 2010 a 2019
+alma_f_nacidos_2020_2024;8257;Alma: nacidos desde 2020
+alma_f_nacidos_desde_2010;19380;Alma: nacidos desde 2010
+alma_f_pct_desde_2010;88,9;Alma: % nacidos desde 2010
+provincias;52;provincias y ciudades autónomas con nombre característico
+candidatos_provincia;3054;pares nombre-provincia con 100 personas o más y 1 por mil o más
+nombres_en_varias_provincias;2;nombres que son el más característico en más de una provincia
+gana_varias_angustias;Cuenca, Granada;Angustias es el más característico en 2 provincias
+gana_varias_henar;Segovia, Valladolid;Henar es el más característico en 2 provincias
+ganadores_mujer;30;provincias cuyo nombre más característico es de mujer
+ganadores_hombre;22;provincias cuyo nombre más característico es de hombre
+mayor_ratio_melilla;Yunes, 194,0 veces;mayores cocientes entre tasa provincial y tasa nacional
+mayor_ratio_ceuta;Sulaiman, 121,7 veces;mayores cocientes entre tasa provincial y tasa nacional
+mayor_ratio_cantabria;Laro, 69,6 veces;mayores cocientes entre tasa provincial y tasa nacional
+mayor_ratio_lleida;Blau, 63,7 veces;mayores cocientes entre tasa provincial y tasa nacional
+mayor_ratio_castellón_castelló;Balma, 55,2 veces;mayores cocientes entre tasa provincial y tasa nacional
+mayor_concentracion_1;Margalida (Illes Balears): 1.946 de 1.998, 97,4 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_2;Pino (Las Palmas): 987 de 1.049, 94,1 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_3;Laro (Cantabria): 329 de 396, 83,1 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_4;Desamparados (Valencia/València): 3.610 de 4.616, 78,2 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_5;Intza (Gipuzkoa): 417 de 534, 78,1 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_6;Pol (Barcelona): 16.780 de 23.717, 70,8 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_7;Balma (Castellón/Castelló): 392 de 563, 69,6 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_8;Peio (Bizkaia): 1.134 de 1.663, 68,2 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_9;Enol (Asturias): 1.221 de 1.878, 65,0 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_10;Narcís (Girona): 1.096 de 1.827, 60,0 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_11;Blau (Lleida): 258 de 455, 56,7 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+mayor_concentracion_12;Ayoze (Santa Cruz de Tenerife): 674 de 1.203, 56,0 %;ganadores con mayor % de quienes llevan el nombre en España viviendo en la provincia
+ganadores_mitad_o_mas_en_la_provincia;13;provincias cuyo nombre más característico tiene allí a la mitad o más de quienes lo llevan en España
+provincia_a_coruña;Lois: 626 de 1.523 (41,1 %), 1,149 por mil frente a 0,063, 18,2 veces (18,18);nombre más característico de A Coruña
+provincia_a_coruña_siguientes;"Xoel 16,29 (931 de 2.528, 36,8 %); Anxo 15,48 (1.282 de 3.664, 35,0 %)";segundo y tercer nombre de A Coruña, con su cociente
+provincia_albacete;Caridad: 507 de 9.025 (5,6 %), 2,605 por mil frente a 0,360, 7,2 veces (7,23);nombre más característico de Albacete
+provincia_albacete_siguientes;"Pascual 6,20 (758 de 15.007, 5,1 %); Ascensión 3,97 (743 de 24.106, 3,1 %)";segundo y tercer nombre de Albacete, con su cociente
+provincia_alicante_alacant;Asunción: 2.897 de 26.859 (10,8 %), 2,818 por mil frente a 1,073, 2,6 veces (2,63);nombre más característico de Alicante/Alacant
+provincia_alicante_alacant_siguientes;"Irina 2,28 (1.056 de 11.306, 9,3 %); Vicente 2,23 (9.447 de 101.275, 9,3 %)";segundo y tercer nombre de Alicante/Alacant, con su cociente
+provincia_almería;Mamadou: 587 de 6.170 (9,5 %), 1,492 por mil frente a 0,256, 5,8 veces (5,83);nombre más característico de Almería
+provincia_almería_siguientes;"Moussa 5,02 (488 de 5.954, 8,2 %); Khadija 4,59 (1.162 de 16.812, 6,9 %)";segundo y tercer nombre de Almería, con su cociente
+provincia_araba_álava;Zuriñe: 566 de 2.343 (24,2 %), 3,261 por mil frente a 0,094, 34,9 veces (34,85);nombre más característico de Araba/Álava
+provincia_araba_álava_siguientes;"Ixone 33,92 (237 de 1.008, 23,5 %); Aiala 30,18 (223 de 1.066, 20,9 %)";segundo y tercer nombre de Araba/Álava, con su cociente
+provincia_asturias;Enol: 1.221 de 1.878 (65,0 %), 2,520 por mil frente a 0,078, 32,3 veces (32,33);nombre más característico de Asturias
+provincia_asturias_siguientes;"Nel 26,12 (633 de 1.205, 52,5 %); Pelayo 22,41 (2.477 de 5.496, 45,1 %)";segundo y tercer nombre de Asturias, con su cociente
+provincia_ávila;Sonsoles: 380 de 2.771 (13,7 %), 4,752 por mil frente a 0,111, 42,9 veces (42,94);nombre más característico de Ávila
+provincia_ávila_siguientes;"Segundo 9,14 (128 de 4.178, 3,1 %); Teodora 4,95 (112 de 7.079, 1,6 %)";segundo y tercer nombre de Ávila, con su cociente
+provincia_badajoz;Fernanda: 693 de 7.110 (9,7 %), 2,057 por mil frente a 0,284, 7,2 veces (7,24);nombre más característico de Badajoz
+provincia_badajoz_siguientes;"Petra 5,61 (1.164 de 15.421, 7,5 %); Guadalupe 5,00 (1.319 de 19.589, 6,7 %)";segundo y tercer nombre de Badajoz, con su cociente
+provincia_barcelona;Pol: 16.780 de 23.717 (70,8 %), 5,753 por mil frente a 0,985, 5,8 veces (5,84);nombre más característico de Barcelona
+provincia_barcelona_siguientes;"Oriol 5,67 (13.651 de 19.897, 68,6 %); Arlet 5,44 (3.387 de 5.124, 66,1 %)";segundo y tercer nombre de Barcelona, con su cociente
+provincia_bizkaia;Peio: 1.134 de 1.663 (68,2 %), 2,007 por mil frente a 0,069, 29,1 veces (29,08);nombre más característico de Bizkaia
+provincia_bizkaia_siguientes;"Paule 28,81 (675 de 974, 69,3 %); Erlantz 28,65 (684 de 1.018, 67,2 %)";segundo y tercer nombre de Bizkaia, con su cociente
+provincia_burgos;Alvar: 333 de 1.159 (28,7 %), 1,835 por mil frente a 0,048, 38,1 veces (38,14);nombre más característico de Burgos
+provincia_burgos_siguientes;"Gadea 33,27 (325 de 1.350, 24,1 %); Mencía 9,44 (223 de 3.263, 6,8 %)";segundo y tercer nombre de Burgos, con su cociente
+provincia_cáceres;Jara: 253 de 3.923 (6,4 %), 1,291 por mil frente a 0,157, 8,2 veces (8,24);nombre más característico de Cáceres
+provincia_cáceres_siguientes;"Jacinta 7,77 (249 de 4.093, 6,1 %); Emiliana 7,02 (205 de 3.729, 5,5 %)";segundo y tercer nombre de Cáceres, con su cociente
+provincia_cádiz;Milagrosa: 828 de 2.215 (37,4 %), 1,292 por mil frente a 0,088, 14,6 veces (14,61);nombre más característico de Cádiz
+provincia_cádiz_siguientes;"Sebastiana 5,51 (725 de 5.141, 14,1 %); Caridad 4,24 (980 de 9.025, 10,9 %)";segundo y tercer nombre de Cádiz, con su cociente
+provincia_cantabria;Laro: 329 de 396 (83,1 %), 1,144 por mil frente a 0,016, 69,6 veces (69,62);nombre más característico de Cantabria
+provincia_cantabria_siguientes;"Deva 20,22 (318 de 1.286, 24,7 %); Luis Ángel 4,24 (517 de 10.213, 5,1 %)";segundo y tercer nombre de Cantabria, con su cociente
+provincia_castellón_castelló;Balma: 392 de 563 (69,6 %), 1,242 por mil frente a 0,022, 55,2 veces (55,25);nombre más característico de Castellón/Castelló
+provincia_castellón_castelló_siguientes;"Vicent 8,37 (446 de 4.115, 10,8 %); Constantin 5,65 (329 de 4.495, 7,3 %)";segundo y tercer nombre de Castellón/Castelló, con su cociente
+provincia_ceuta;Sulaiman: 112 de 526 (21,3 %), 2,657 por mil frente a 0,022, 121,7 veces (121,70);nombre más característico de Ceuta
+provincia_ceuta_siguientes;"Dikra 115,73 (121 de 632, 19,1 %); Mustafa 109,43 (430 de 2.246, 19,1 %)";segundo y tercer nombre de Ceuta, con su cociente
+provincia_ciudad_real;Santiaga: 274 de 1.525 (18,0 %), 1,099 por mil frente a 0,061, 18,0 veces (18,04);nombre más característico de Ciudad Real
+provincia_ciudad_real_siguientes;"Alfonsa 9,31 (452 de 4.874, 9,3 %); Juliana 5,15 (898 de 17.504, 5,1 %)";segundo y tercer nombre de Ciudad Real, con su cociente
+provincia_córdoba;Rafaela: 4.719 de 23.251 (20,3 %), 11,940 por mil frente a 0,929, 12,9 veces (12,86);nombre más característico de Córdoba
+provincia_córdoba_siguientes;"Araceli 7,58 (3.663 de 30.634, 12,0 %); Rafael 5,93 (20.210 de 217.304, 9,3 %)";segundo y tercer nombre de Córdoba, con su cociente
+provincia_cuenca;Angustias: 193 de 3.975 (4,9 %), 1,952 por mil frente a 0,159, 12,3 veces (12,30);nombre más característico de Cuenca
+provincia_cuenca_siguientes;"Ioan 6,12 (131 de 5.108, 2,6 %); Juliana 5,54 (383 de 17.504, 2,2 %)";segundo y tercer nombre de Cuenca, con su cociente
+provincia_gipuzkoa;Intza: 417 de 534 (78,1 %), 1,113 por mil frente a 0,021, 52,2 veces (52,17);nombre más característico de Gipuzkoa
+provincia_gipuzkoa_siguientes;"Xabat 45,14 (366 de 545, 67,2 %); Manex 45,11 (873 de 1.301, 67,1 %)";segundo y tercer nombre de Gipuzkoa, con su cociente
+provincia_girona;Narcís: 1.096 de 1.827 (60,0 %), 2,632 por mil frente a 0,076, 34,7 veces (34,71);nombre más característico de Girona
+provincia_girona_siguientes;"Dolors 18,98 (1.524 de 4.856, 31,4 %); Mahamadou 14,90 (629 de 2.443, 25,7 %)";segundo y tercer nombre de Girona, con su cociente
+provincia_granada;Angustias: 728 de 3.975 (18,3 %), 1,514 por mil frente a 0,159, 9,5 veces (9,54);nombre más característico de Granada
+provincia_granada_siguientes;"Gracia 5,56 (501 de 4.690, 10,7 %); Encarnación 4,55 (8.698 de 99.567, 8,7 %)";segundo y tercer nombre de Granada, con su cociente
+provincia_guadalajara;Gema: 442 de 36.343 (1,2 %), 3,145 por mil frente a 1,452, 2,2 veces (2,17);nombre más característico de Guadalajara
+provincia_guadalajara_siguientes;"Aránzazu 2,01 (141 de 12.501, 1,1 %); Juan Pablo 1,93 (219 de 18.859, 1,2 %)";segundo y tercer nombre de Guadalajara, con su cociente
+provincia_huelva;Cinta: 514 de 1.555 (33,1 %), 1,894 por mil frente a 0,062, 30,5 veces (30,49);nombre más característico de Huelva
+provincia_huelva_siguientes;"Bella 27,68 (557 de 1.856, 30,0 %); Cristobalina 13,39 (320 de 2.205, 14,5 %)";segundo y tercer nombre de Huelva, con su cociente
+provincia_huesca;Lorién: 233 de 886 (26,3 %), 1,989 por mil frente a 0,037, 54,1 veces (54,07);nombre más característico de Huesca
+provincia_huesca_siguientes;"Izarbe 36,51 (135 de 820, 16,5 %); Jara 15,94 (282 de 3.923, 7,2 %)";segundo y tercer nombre de Huesca, con su cociente
+provincia_illes_balears;Margalida: 1.946 de 1.998 (97,4 %), 3,103 por mil frente a 0,080, 38,9 veces (38,88);nombre más característico de Illes Balears
+provincia_illes_balears_siguientes;"Bartomeu 31,48 (1.292 de 1.588, 81,4 %); Sebastià 17,24 (846 de 1.899, 44,5 %)";segundo y tercer nombre de Illes Balears, con su cociente
+provincia_jaén;Ildefonso: 806 de 7.062 (11,4 %), 2,634 por mil frente a 0,293, 9,0 veces (8,99);nombre más característico de Jaén
+provincia_jaén_siguientes;"Blas 7,19 (910 de 9.966, 9,1 %); Nazaret 4,95 (544 de 8.816, 6,2 %)";segundo y tercer nombre de Jaén, con su cociente
+provincia_la_rioja;Millán: 171 de 1.001 (17,1 %), 1,061 por mil frente a 0,042, 25,5 veces (25,53);nombre más característico de La Rioja
+provincia_la_rioja_siguientes;"Ana Rosa 4,45 (326 de 11.074, 2,9 %); María Julia 4,27 (283 de 10.022, 2,8 %)";segundo y tercer nombre de La Rioja, con su cociente
+provincia_las_palmas;Pino: 987 de 1.049 (94,1 %), 1,673 por mil frente a 0,042, 39,9 veces (39,94);nombre más característico de Las Palmas
+provincia_las_palmas_siguientes;"Yurena 12,33 (886 de 3.051, 29,0 %); Carmen Rosa 9,63 (1.437 de 6.332, 22,7 %)";segundo y tercer nombre de Las Palmas, con su cociente
+provincia_león;Victorino: 233 de 2.766 (8,4 %), 1,068 por mil frente a 0,115, 9,3 veces (9,30);nombre más característico de León
+provincia_león_siguientes;"Victorina 8,74 (234 de 2.916, 8,0 %); Evangelina 6,13 (254 de 4.514, 5,6 %)";segundo y tercer nombre de León, con su cociente
+provincia_lleida;Blau: 258 de 455 (56,7 %), 1,158 por mil frente a 0,018, 63,7 veces (63,73);nombre más característico de Lleida
+provincia_lleida_siguientes;"Concepció 14,11 (335 de 2.669, 12,6 %); Genís 13,43 (398 de 3.032, 13,1 %)";segundo y tercer nombre de Lleida, con su cociente
+provincia_lugo;Fe: 176 de 1.358 (13,0 %), 1,049 por mil frente a 0,054, 19,3 veces (19,34);nombre más característico de Lugo
+provincia_lugo_siguientes;"Xoel 17,77 (295 de 2.528, 11,7 %); Uxía 13,60 (488 de 5.353, 9,1 %)";segundo y tercer nombre de Lugo, con su cociente
+provincia_madrid;Paloma: 13.699 de 30.944 (44,3 %), 3,696 por mil frente a 1,236, 3,0 veces (2,99);nombre más característico de Madrid
+provincia_madrid_siguientes;"Almudena 1,96 (8.884 de 30.575, 29,1 %); Gonzalo 1,83 (18.836 de 72.628, 25,9 %)";segundo y tercer nombre de Madrid, con su cociente
+provincia_málaga;Remedios: 4.008 de 27.537 (14,6 %), 4,373 por mil frente a 1,100, 4,0 veces (3,98);nombre más característico de Málaga
+provincia_málaga_siguientes;"Cristóbal 3,61 (3.575 de 27.239, 13,1 %); Salvador 3,53 (9.317 de 72.713, 12,8 %)";segundo y tercer nombre de Málaga, con su cociente
+provincia_melilla;Yunes: 172 de 488 (35,2 %), 3,930 por mil frente a 0,020, 194,0 veces (193,99);nombre más característico de Melilla
+provincia_melilla_siguientes;"Islam 135,94 (130 de 553, 23,5 %); Mimount 130,16 (228 de 1.013, 22,5 %)";segundo y tercer nombre de Melilla, con su cociente
+provincia_murcia;Fulgencio: 1.486 de 3.508 (42,4 %), 1,869 por mil frente a 0,146, 12,8 veces (12,84);nombre más característico de Murcia
+provincia_murcia_siguientes;"Ginés 12,82 (4.218 de 9.968, 42,3 %); Maravillas 12,70 (1.245 de 3.099, 40,2 %)";segundo y tercer nombre de Murcia, con su cociente
+provincia_navarra;Iosu: 449 de 1.269 (35,4 %), 1,325 por mil frente a 0,053, 25,2 veces (25,16);nombre más característico de Navarra
+provincia_navarra_siguientes;"Idoya 17,71 (430 de 1.762, 24,4 %); Saioa 16,53 (938 de 4.117, 22,8 %)";segundo y tercer nombre de Navarra, con su cociente
+provincia_ourense;Celsa: 472 de 2.505 (18,8 %), 2,975 por mil frente a 0,100, 29,7 veces (29,74);nombre más característico de Ourense
+provincia_ourense_siguientes;"Celso 22,78 (504 de 3.634, 13,9 %); Pura 22,31 (191 de 1.351, 14,1 %)";segundo y tercer nombre de Ourense, con su cociente
+provincia_palencia;Luis Ángel: 499 de 10.213 (4,9 %), 6,332 por mil frente a 0,424, 14,9 veces (14,94);nombre más característico de Palencia
+provincia_palencia_siguientes;"Teodoro 5,56 (170 de 9.346, 1,8 %); Luis Carlos 5,38 (142 de 8.062, 1,8 %)";segundo y tercer nombre de Palencia, con su cociente
+provincia_pontevedra;Breixo: 554 de 1.074 (51,6 %), 1,211 por mil frente a 0,045, 27,2 veces (27,17);nombre más característico de Pontevedra
+provincia_pontevedra_siguientes;"Xián 25,08 (668 de 1.403, 47,6 %); Anxo 21,41 (1.489 de 3.664, 40,6 %)";segundo y tercer nombre de Pontevedra, con su cociente
+provincia_salamanca;Bienvenido: 164 de 3.847 (4,3 %), 1,031 por mil frente a 0,160, 6,5 veces (6,45);nombre más característico de Salamanca
+provincia_salamanca_siguientes;"Vega 5,45 (802 de 21.739, 3,7 %); María Auxiliadora 5,44 (291 de 7.911, 3,7 %)";segundo y tercer nombre de Salamanca, con su cociente
+provincia_santa_cruz_de_tenerife;Ayoze: 674 de 1.203 (56,0 %), 1,264 por mil frente a 0,050, 25,3 veces (25,32);nombre más característico de Santa Cruz de Tenerife
+provincia_santa_cruz_de_tenerife_siguientes;"Yurena 18,91 (1.277 de 3.051, 41,9 %); Candelaria 15,27 (2.507 de 7.417, 33,8 %)";segundo y tercer nombre de Santa Cruz de Tenerife, con su cociente
+provincia_segovia;Henar: 133 de 3.445 (3,9 %), 1,687 por mil frente a 0,138, 12,3 veces (12,26);nombre más característico de Segovia
+provincia_segovia_siguientes;"Mariano 5,17 (655 de 38.416, 1,7 %); Gregoria 3,87 (111 de 9.112, 1,2 %)";segundo y tercer nombre de Segovia, con su cociente
+provincia_sevilla;Pastora: 1.248 de 3.381 (36,9 %), 1,231 por mil frente a 0,135, 9,1 veces (9,12);nombre más característico de Sevilla
+provincia_sevilla_siguientes;"Reyes 8,78 (1.852 de 5.214, 35,5 %); Consolación 6,93 (2.283 de 8.139, 28,1 %)";segundo y tercer nombre de Sevilla, con su cociente
+provincia_soria;Carmelo: 141 de 16.436 (0,9 %), 3,076 por mil frente a 0,682, 4,5 veces (4,51);nombre más característico de Soria
+provincia_soria_siguientes;"Felisa 3,78 (138 de 20.590, 0,7 %); Milagros 3,17 (216 de 38.509, 0,6 %)";segundo y tercer nombre de Soria, con su cociente
+provincia_tarragona;Misericordia: 648 de 1.535 (42,2 %), 1,482 por mil frente a 0,061, 24,2 veces (24,18);nombre más característico de Tarragona
+provincia_tarragona_siguientes;"Cinta 18,34 (498 de 1.555, 32,0 %); Aleix 6,38 (1.753 de 15.111, 11,6 %)";segundo y tercer nombre de Tarragona, con su cociente
+provincia_teruel;Pascual: 217 de 15.007 (1,4 %), 3,129 por mil frente a 0,623, 5,0 veces (5,02);nombre más característico de Teruel
+provincia_teruel_siguientes;"Pilar 3,78 (1.241 de 123.094, 1,0 %); Joaquina 3,48 (162 de 17.451, 0,9 %)";segundo y tercer nombre de Teruel, con su cociente
+provincia_toledo;Sagrario: 1.455 de 8.626 (16,9 %), 3,875 por mil frente a 0,345, 11,2 veces (11,25);nombre más característico de Toledo
+provincia_toledo_siguientes;"Gregoria 3,70 (505 de 9.112, 5,5 %); Juliana 3,25 (854 de 17.504, 4,9 %)";segundo y tercer nombre de Toledo, con su cociente
+provincia_valencia_valència;Desamparados: 3.610 de 4.616 (78,2 %), 2,558 por mil frente a 0,184, 13,9 veces (13,88);nombre más característico de Valencia/València
+provincia_valencia_valència_siguientes;"Vicent 11,28 (2.607 de 4.115, 63,4 %); Amparo 5,45 (15.573 de 50.715, 30,7 %)";segundo y tercer nombre de Valencia/València, con su cociente
+provincia_valladolid;Henar: 334 de 3.445 (9,7 %), 1,231 por mil frente a 0,138, 8,9 veces (8,95);nombre más característico de Valladolid
+provincia_valladolid_siguientes;"Luis Ángel 7,18 (783 de 10.213, 7,7 %); Teodoro 5,06 (505 de 9.346, 5,4 %)";segundo y tercer nombre de Valladolid, con su cociente
+provincia_zamora;Tránsito: 117 de 707 (16,5 %), 1,400 por mil frente a 0,028, 49,6 veces (49,57);nombre más característico de Zamora
+provincia_zamora_siguientes;"Alfonsa 6,88 (112 de 4.874, 2,3 %); Tomasa 5,68 (130 de 6.852, 1,9 %)";segundo y tercer nombre de Zamora, con su cociente
+provincia_zaragoza;Ana Cristina: 2.006 de 9.665 (20,8 %), 3,947 por mil frente a 0,386, 10,2 veces (10,23);nombre más característico de Zaragoza
+provincia_zaragoza_siguientes;"María Pilar 3,82 (19.356 de 249.947, 7,7 %); Pascual 3,13 (957 de 15.007, 6,4 %)";segundo y tercer nombre de Zaragoza, con su cociente
+provincias_con_segundo_cerca;5;provincias donde el segundo nombre queda a menos de un 5 % del primero
+provincias_con_segundo_cerca_cuales;"Araba/Álava (Zuriñe 34,85, Ixone 33,92); Barcelona (Pol 5,84, Oriol 5,67); Bizkaia (Peio 29,08, Paule 28,81); Murcia (Fulgencio 12,84, Ginés 12,82); Sevilla (Pastora 9,12, Reyes 8,78)";cuáles son, con el cociente de los dos primeros nombres
+provincias_que_cambian_con_tasas_redondeadas;1;provincias donde ganaría otro nombre si el cociente se calculara con las tasas de tres decimales del INE
+provincias_que_cambian_con_tasas_redondeadas_cuales;"Murcia (con tasas redondeadas Ginés 12,82 y Fulgencio 12,80; con personas Fulgencio 12,84 y Ginés 12,82)";cuáles son
+mayor_efecto_del_redondeo;Laro (Cantabria): 71,5 con tasas redondeadas, 69,6 con personas, 2,7 % de diferencia;ganador cuyo cociente más cambia al dejar de usar las tasas redondeadas
+margen_poblacion_deducida_pct;0,006;anchura máxima, en %, del intervalo en que queda la población de un sexo en una provincia al deducirla de recuentos y tasas
+ganadores_con_pocas_personas;9;provincias cuyo nombre más característico lo llevan allí menos de 200 personas
+ganadores_con_pocas_personas_cuales;Sulaiman (Ceuta) 112, Tránsito (Zamora) 117, Henar (Segovia) 133, Carmelo (Soria) 141, Bienvenido (Salamanca) 164, Millán (La Rioja) 171, Yunes (Melilla) 172, Fe (Lugo) 176, Angustias (Cuenca) 193;cuáles son, de menos a más personas
+ganadores_nombre_compuesto;Luis Ángel (Palencia), Ana Cristina (Zaragoza);ganadores que son nombres compuestos
+enlaces_sin_ficha;1;nombres de las tablas 1 a 3 sin desglose por décadas ni ficha en la web
