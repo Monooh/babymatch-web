@@ -93,6 +93,9 @@ for (const l of LOCALES) {
   mkdirSync(assets, { recursive: true })
   addShared(assets, { everything: true })
   copyFileSync(join(CF, '_redirects'), join(assets, '_redirects'))
+  // Next writes one sitemap per language (/sitemap/es.xml …) and no index. Crawlers that are not told where to look
+  // try /sitemap.xml first, so it lists the six.
+  writeFileSync(join(assets, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${LOCALES.map(l => `  <sitemap><loc>https://${DOMAIN}/sitemap/${l}.xml</loc><lastmod>${new Date().toISOString()}</lastmod></sitemap>`).join('\n')}\n</sitemapindex>\n`)
   copyFileSync(join(CF, 'root-worker.js'), join(dir, 'worker.js'))
   writeConfig(dir, {
     name: 'babymatch-root',
