@@ -239,7 +239,7 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
   await guest.call('/api/join', { code: (await host.call('/api/invite', {})).invite, name: 'Inès', ops: [[7, 1, T]] })
   await new Promise(res => setTimeout(res, 300))
   sent = await lastTo(hmail)
-  ok(sent && /Inès vous a rejoint/.test(sent.subject), 'the host hears by email that the partner joined', sent)
+  ok(sent && /Inès t’a rejoint/.test(sent.subject), 'the host hears by email that the partner joined', sent)
   const offKey = (sent.text.match(/#u=([a-z0-9]+)/) || [])[1]
   r = await device().call('/api/email/off', { key: offKey })
   ok(r.ok === true, 'the link in the email turns it off', r)
