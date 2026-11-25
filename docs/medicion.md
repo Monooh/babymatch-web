@@ -112,6 +112,7 @@ cuenta cuánta gente lo toca (evento `premium_tap`) y explica que llegará pront
 
 ## Hecho
 
+- Search Console, 25-11-2026: los seis sitemaps leídos sin errores (unas 10.200 páginas descubiertas en cada uno), 90 rastreos y ninguna página indexada todavía. Pedida a mano la indexación de diez páginas: portada española e inglesa, estudio del INE, índices de nombres, listas y santoral, listas de niña y de niño, la app y la ficha de Josefa.
 - Panel privado con todo el embudo y recuento propio de llegadas a la web, por origen y página de entrada (25-11-2026).
 
 - Cloudflare Web Analytics cuenta a todos los visitantes (23-11-2026).
