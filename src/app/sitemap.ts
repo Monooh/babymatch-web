@@ -28,6 +28,7 @@ export default async function sitemap({ id }: { id: string }): Promise<MetadataR
     { url: u(paths.names(l)), lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: langs(paths.names) },
     { url: u(paths.lists(l)), lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: langs(paths.lists) },
     { url: u(paths.saints(l)), lastModified: now, changeFrequency: 'monthly', priority: 0.7, alternates: langs(paths.saints) },
+    { url: u(paths.privacy(l)), lastModified: now, changeFrequency: 'yearly', priority: 0.2, alternates: langs(paths.privacy) },
     ...(l === 'es' ? [{ url: u(STUDY.path), lastModified: now, changeFrequency: 'monthly' as const, priority: 0.8 }] : []),
     ...Array.from({ length: 12 }, (_, i) => ({
       url: u(paths.saintsMonth(l, monthSlug(l, i + 1))), lastModified: now, changeFrequency: 'monthly' as const, priority: 0.6,
