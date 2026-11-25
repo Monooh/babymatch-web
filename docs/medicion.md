@@ -17,7 +17,8 @@ Cobrar tiene sentido cuando la 2 y la 3 dan que sí de forma sostenida. Los umbr
 | Impresiones, clics y posición en Google | Search Console, propiedad `babymatch.app` | Todo el mundo | Con 2–3 días de retraso. Mirar por carpeta de idioma (`/es/`, `/en/`…) y por tipo de página (fichas, listas). |
 | Visitas a la web y de dónde vienen | Google Analytics 4, propiedad «BabyMatch» | Solo quien acepta el aviso | Sirve para proporciones (fuentes, páginas de entrada), no para totales. |
 | Visitas totales, sin cookies | Cloudflare Web Analytics (panel de Cloudflare → Analytics & Logs → Web Analytics → babymatch.app) | Todo el mundo | Activo para todos los países desde el 23-11-2026 (antes excluía a la UE). Es el total fiable de visitas. |
-| Uso de la app, paso a paso | `npm run stats` | Todo el mundo | Contadores anónimos de la propia app y las listas guardadas. No dependen del aviso de cookies. |
+| Todo el embudo, de la llegada a la pareja unida | **Panel**: <https://babymatch.app/es/panel> | Todo el mundo | Se entra con un enlace que llega al correo del propietario (botón «Enviarme el enlace»). Periodos de 7, 30 y 90 días, cada uno comparado con el anterior. |
+| Lo mismo, en el terminal | `npm run stats` | Todo el mundo | Contadores anónimos de la propia app y las listas guardadas. No dependen del aviso de cookies. |
 | Presencia en respuestas de IA | `.granola/mediciones/` (`/granola medir`) | — | Una pasada al mes con las mismas preguntas. |
 
 `npm run stats` (o `npm run stats 30` para 30 días) necesita `npx wrangler login` hecho en el ordenador.
@@ -30,6 +31,9 @@ evento en Google Analytics con el nombre de la tabla.
 
 | Paso | Evento | Se cuenta |
 |---|---|---|
+| Llega a la web desde fuera | `visit` | cada llegada (no al moverse dentro de la web ni al recargar) |
+| …de dónde viene | `src_search`, `src_ai`, `src_social`, `src_other`, `src_direct` | cada llegada |
+| …por qué página entra | `land_name`, `land_list`, `land_home`, `land_app`, `land_saints`, `land_data`, `land_other` | cada llegada |
 | Abre la app | `app_open` | cada visita |
 | …desde dónde | `from_name`, `from_list`, `from_home`, `from_invite`, `from_other` | cada visita |
 | Empieza el cuestionario | `quiz_start` | una vez por persona |
@@ -56,16 +60,21 @@ evento en Google Analytics con el nombre de la tabla.
 Además, de las listas guardadas salen los datos que no dependen de eventos: personas con lista, activas en 7 días,
 que **volvieron otro día**, emparejadas, matches por pareja y los nombres con más «me gusta».
 
-Dónde está en el código: los eventos se lanzan con `track()` (`src/lib/sync.ts`), el servidor los admite si están en
-la lista `EVENTS` de `cloudflare/api/worker.js`, y el informe es `scripts/stats.mjs`. Un evento nuevo se añade en
-esos tres sitios.
+Dónde está en el código: los eventos de la app se lanzan con `track()` (`src/lib/sync.ts`) y las llegadas a la web
+desde `public/consent.js`, sin cookies ni nada guardado en el dispositivo (se mira de qué página viene la visita).
+El servidor los admite si están en la lista `EVENTS` de `cloudflare/api/worker.js` y descarta los de rastreadores.
+El panel es `src/components/Panel.tsx` con las cifras de `cloudflare/api/admin.js`; el informe del terminal,
+`scripts/stats.mjs`. Un evento nuevo se añade en esos sitios.
+
+Quién puede abrir el panel: la dirección que esté en la tabla `admins` de la base de datos. Se cambia a mano con
+`npx wrangler d1 execute babymatch --remote --command "…"` desde `cloudflare/api`; no está en el repositorio.
 
 ## Qué mirar y cada cuánto
 
 **Cada lunes, 10 minutos**
 
 - Search Console: clics e impresiones de la semana frente a la anterior, por idioma. Páginas indexadas.
-- `npm run stats 7`: aperturas, % que llega al primer deslizamiento, invitaciones creadas, parejas unidas.
+- El panel, en 7 días: llegadas, aperturas, % que llega al primer deslizamiento, invitaciones creadas, parejas unidas.
 
 **Cada mes**
 
@@ -102,6 +111,8 @@ El paso siguiente antes de construir nada de pago es una **prueba de puerta fals
 cuenta cuánta gente lo toca (evento `premium_tap`) y explica que llegará pronto.
 
 ## Hecho
+
+- Panel privado con todo el embudo y recuento propio de llegadas a la web, por origen y página de entrada (25-11-2026).
 
 - Cloudflare Web Analytics cuenta a todos los visitantes (23-11-2026).
 - En GA4, `first_like`, `invite_created`, `partner_joined` y `match` están creados como eventos clave (23-11-2026).

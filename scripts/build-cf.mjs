@@ -37,8 +37,8 @@ const isRscPayload = (name) => name.endsWith('.txt') && name !== 'robots.txt' &&
 const NEXT_SCRIPT = /<script\b(?![^>]*type="application\/ld\+json")(?![^>]*src="\/(?:search|consent)\.js")[^>]*>[\s\S]*?<\/script>/g
 const SCRIPT_PRELOAD = /<link\b[^>]*\bas="script"[^>]*>/g
 const staticHtml = html => html.replace(NEXT_SCRIPT, '').replace(SCRIPT_PRELOAD, '')
-// These keep React: the home (live deck in the hero) and the app itself.
-const keepsScripts = rel => /^[a-z]{2}\.html$/.test(rel) || /^[a-z]{2}\/(app|vote)\.html$/.test(rel) || rel === '404.html'
+// These keep React: the home (live deck in the hero), the app, the vote page and the owner's panel.
+const keepsScripts = rel => /^[a-z]{2}\.html$/.test(rel) || /^[a-z]{2}\/(app|vote|panel)\.html$/.test(rel) || rel === '404.html'
 
 let stripped = 0
 function copy(from, to, rel = '') {

@@ -1,3 +1,42 @@
+// Arrivals at the site, counted without cookies and without storing anything on the device: one anonymous tick when
+// a page is opened from somewhere else (a search engine, an assistant, another site, a typed address). Moving around
+// inside the site, reloads and crawlers do not count. Read in the panel (/es/panel); see docs/medicion.md.
+(function () {
+  try {
+    var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0]
+    if (nav && nav.type !== 'navigate') return
+    if (navigator.webdriver || /bot|crawl|spider|slurp|headless|lighthouse|preview|monitor|scan/i.test(navigator.userAgent)) return
+    var host = function (h) { return h.replace(/^www\./, '') }
+    var ref = ''
+    try { ref = document.referrer ? host(new URL(document.referrer).hostname) : '' } catch (e) {}
+    if (ref === host(location.hostname)) return
+    var parts = location.pathname.split('/').filter(Boolean)
+    var sec = parts[1] || ''
+    if (sec === 'panel') return
+    var is = function (re) { return re.test(ref) }
+    var src = !ref ? 'direct'
+      : is(/(^|\.)(chatgpt\.com|openai\.com|perplexity\.ai|gemini\.google\.com|copilot\.microsoft\.com|claude\.ai|you\.com|phind\.com|poe\.com|deepseek\.com|mistral\.ai|meta\.ai)$/) ? 'ai'
+      : is(/^mail\./) ? 'other'
+      : is(/(^|\.)(google\.[a-z.]+|bing\.com|duckduckgo\.com|yahoo\.[a-z.]+|ecosia\.org|brave\.com|yandex\.[a-z.]+|qwant\.com|startpage\.com|baidu\.com)$/) ? 'search'
+      : is(/(^|\.)(facebook\.com|instagram\.com|t\.co|twitter\.com|x\.com|tiktok\.com|pinterest\.[a-z.]+|reddit\.com|linkedin\.com|lnkd\.in|youtube\.com|whatsapp\.com|t\.me|threads\.net|threads\.com|bsky\.app)$/) ? 'social'
+      : 'other'
+    var land = parts.length <= 1 ? 'home'
+      : sec === 'app' ? 'app'
+      : /^(nombres|names|prenoms|vornamen|nomi|nomes)$/.test(sec) && parts.length > 2 ? 'name'
+      : /^(listas|lists|listes|listen|liste)$/.test(sec) ? 'list'
+      : /^(santoral|name-days|fetes|namenstage|onomastici|santos)$/.test(sec) ? 'saints'
+      : sec === 'datos' ? 'data'
+      : 'other'
+    var ev = { visit: 1 }
+    ev['src_' + src] = 1
+    ev['land_' + land] = 1
+    var body = JSON.stringify({ lang: /^[a-z]{2}$/.test(parts[0] || '') ? parts[0] : 'xx', ev: ev })
+    if (!(navigator.sendBeacon && navigator.sendBeacon('/api/e', body))) {
+      fetch('/api/e', { method: 'POST', body: body, keepalive: true, credentials: 'omit', headers: { 'Content-Type': 'text/plain' } }).catch(function () {})
+    }
+  } catch (e) {}
+})();
+
 // Google Analytics, loaded only after the visitor says yes. Plain script on purpose: name and list pages ship no
 // framework code. Until there is a yes, nothing is requested from Google and no cookie is set.
 (function () {

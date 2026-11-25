@@ -25,9 +25,10 @@ const TEXT = {
     hi: n => (n ? `Hola, ${n}:` : 'Hola:'),
     confirm: ['Confirma tu correo para guardar tu lista', 'Toca el botón para confirmar tu correo y dejar guardada tu lista de nombres.', 'El enlace sirve dos días. Si no lo has pedido tú, no hagas nada.'],
     login: ['Tu lista de BabyMatch', 'Toca el botón en el móvil donde quieras ver tu lista.', 'El enlace sirve dos días y abre tu lista, así que no lo reenvíes.'],
+    panel: ['Tu enlace para el panel de BabyMatch', 'Toca el botón en el dispositivo donde quieras ver las cifras de uso.', 'El enlace sirve veinte minutos y una sola vez. Si no lo has pedido tú, no hagas nada.'],
     joined: p => [`${p} ya está en BabyMatch contigo`, `${p} ha abierto tu invitación. A partir de ahora ven los nombres que les gustan a los dos.`, ''],
     matches: (p, n) => [n === 1 ? 'Tienen un nombre nuevo en común' : `Tienen ${n} nombres nuevos en común`, n === 1 ? `A ${p} y a ti les gusta el mismo nombre.` : `A ${p} y a ti les gustan ${n} nombres más.`, ''],
-    cta: { confirm: 'Confirmar mi correo', login: 'Abrir mi lista', joined: 'Ver nuestros nombres', matches: 'Ver los nombres' },
+    cta: { confirm: 'Confirmar mi correo', login: 'Abrir mi lista', panel: 'Abrir el panel', joined: 'Ver nuestros nombres', matches: 'Ver los nombres' },
     partner: 'Tu pareja', alt: 'Si el botón no funciona, copia este enlace en el navegador:',
     why: 'Recibes estos avisos porque guardaste tu lista con esta dirección.', off: 'Dejar de recibirlos',
   },
@@ -92,7 +93,7 @@ const C = { paper: '#f7f5ec', card: '#fcfbf6', rule: '#d7d4c9', edge: '#d2c6aa',
 const FONT = "Chillax,ui-rounded,'SF Pro Rounded',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
 const SITE = 'https://babymatch.app'
 
-/** kind: confirm | login | joined | matches. `off` is the "stop writing to me" link, left out of the first two. */
+/** kind: confirm | login | joined | matches | panel (the owner's way into the usage panel, Spanish only). `off` is the "stop writing to me" link, left out of the first two. */
 export function compose(kind, lang, { name = '', partner = '', count = 0, link, off = '' }) {
   const T = TEXT[lang] || TEXT.en
   const who = partner || T.partner

@@ -190,7 +190,15 @@ r = await x.call('/api/poll/close', {})
 r = await voter.call('/api/poll/get', { code: pcode })
 ok(r.status === 404, 'a closed poll is gone', r)
 
-// 18–19 need what only the local server has: the emails it would have sent, and a backup to run on demand.
+// 20. The owner's panel is closed to everyone else.
+r = await device().call('/api/admin/stats', { days: 30 })
+ok(r.status === 401 && !r.events, 'the panel gives nothing without its key', r)
+r = await device().call('/api/admin/stats', { days: 30 }, { headers: { Authorization: 'Bearer ' + 'x'.repeat(43) } })
+ok(r.status === 401, 'nor with a made-up key', r)
+r = await device().call('/api/admin/open', { token: 'x'.repeat(43) })
+ok(r.ok === false && !r.key, 'a made-up link opens nothing', r)
+
+// 18, 19 and 21 need what only the local server has: the emails it would have sent, and a backup to run on demand.
 if (/localhost|127\.0\.0\.1/.test(BASE)) {
   const outbox = async () => (await fetch(BASE + '/api/_outbox').then(res => res.json())).mail
   const lastTo = async to => (await outbox()).filter(m => m.to === to).pop()
@@ -245,6 +253,37 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
   ok(r.ok === true, 'the link in the email turns it off', r)
   r = await host.call('/api/sync', {})
   ok(r.email === null, 'and the address is forgotten', r)
+
+  // 21. Getting into the panel: a link to the owner's address, good once, and the figures behind it.
+  const owner = `owner${Date.now()}@example.test`
+  await fetch(`${BASE}/api/_admin?email=${owner}`)
+  const visitor = device()
+  await visitor.call('/api/e', { lang: 'es', ev: { visit: 2, src_search: 2, land_name: 2, app_open: 1, made_up: 5 } })
+  await visitor.call('/api/e', { lang: 'es', ev: { visit: 7 } }, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)' } })
+  r = await device().call('/api/admin/login', { email: 'someone@else.test' })
+  ok(r.ok === true, 'asking for the link always answers the same', r)
+  await new Promise(done => setTimeout(done, 400))
+  ok(!(await lastTo('someone@else.test')), 'the link never goes to an address the visitor gives')
+  const note = await lastTo(owner)
+  const link = note && note.text.match(/\/es\/panel#k=([\w-]{20,})/)
+  ok(!!link && /panel/i.test(note.subject), 'it goes to the owner, in an email with the link', note && note.subject)
+  r = await device().call('/api/admin/open', { token: link[1] })
+  const adminKey = r.key
+  ok(r.ok === true && typeof adminKey === 'string' && adminKey.length >= 40, 'opening it gives this browser its key', r)
+  r = await device().call('/api/admin/open', { token: link[1] })
+  ok(r.ok === false, 'the link works once', r)
+  const admin = { headers: { Authorization: 'Bearer ' + adminKey } }
+  r = await device().call('/api/admin/stats', { days: 7 }, admin)
+  const todayOf = name => r.events.filter(e => e[0] === r.today && e[1] === name).reduce((a, e) => a + e[2], 0)
+  ok(r.ok && r.days === 7 && todayOf('visit') >= 2 && todayOf('src_search') >= 2 && todayOf('made_up') === 0, 'the figures include today\'s arrivals and no event that is not on the list', r.events && r.events.slice(0, 5))
+  const seen = todayOf('visit')
+  await visitor.call('/api/e', { lang: 'es', ev: { visit: 3 } }, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; bingbot/2.0)' } })
+  r = await device().call('/api/admin/stats', { days: 7 }, admin)
+  ok(todayOf('visit') === seen, 'crawlers are not counted as visits', [seen, todayOf('visit')])
+  ok(r.users && typeof r.users.total === 'number' && r.depth && Array.isArray(r.cohorts) && r.couples && !JSON.stringify(r).includes('@'), 'people come as totals only: no address, no list', Object.keys(r))
+  await device().call('/api/admin/out', {}, admin)
+  r = await device().call('/api/admin/stats', { days: 7 }, admin)
+  ok(r.status === 401, 'closing the panel on a device ends its key', r)
 
   // 19. The backup copy.
   const xid = (await x.call('/api/sync', {})).id

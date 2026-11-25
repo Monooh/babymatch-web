@@ -10,6 +10,7 @@
 
 import { runBackup, health } from './backup.js'
 import { mailOn, cleanEmail, compose, send } from './mail.js'
+import { adminLogin, adminOpen, adminOut, adminStats, adminSweep } from './admin.js'
 
 const KIND = { NO: 0, LIKE: 1, SUPER: 2, CLEARED: 3 }
 const COOKIE = 'bm_s'          // the secret (HttpOnly)
@@ -22,7 +23,10 @@ const ALPHABET = 'abcdefghjkmnpqrstuvwxyz23456789' // no look-alikes: codes get 
 const EVENTS = new Set(['app_open', 'quiz_start', 'quiz_done', 'quiz_skip', 'first_swipe', 'swipes_10', 'swipes_50', 'first_like', 'likes_10',
   'superlike', 'invite_created', 'invite_shared', 'invite_opened', 'partner_joined', 'match', 'list_opened', 'filters_used', 'backup_link', 'restored',
   'from_home', 'from_name', 'from_list', 'from_invite', 'from_other', 'from_vote',
-  'final_opened', 'duel', 'duels_10', 'surname_set', 'poll_created', 'poll_shared', 'vote_opened', 'vote_cast', 'email_saved', 'email_confirmed'])
+  'final_opened', 'duel', 'duels_10', 'surname_set', 'poll_created', 'poll_shared', 'vote_opened', 'vote_cast', 'email_saved', 'email_confirmed',
+  // arrivals at the site from outside it, sent by public/consent.js: where from, and on which kind of page
+  'visit', 'src_search', 'src_ai', 'src_social', 'src_other', 'src_direct', 'land_home', 'land_name', 'land_list', 'land_saints', 'land_app', 'land_data', 'land_other'])
+const BOTS = /bot|crawl|spider|slurp|headless|lighthouse|preview|monitor|python|curl|wget|scan/i
 const TOKEN_AGE = 2 * 86400_000   // links sent by email
 const AWAY = 30 * 60_000          // no change for this long: the person is not in the app right now
 const MAIL_EVERY = 20 * 3600_000  // at most one "new matches" email in this time
@@ -500,7 +504,9 @@ async function vote(env, body) {
 }
 
 
-async function track(env, body) {
+async function track(env, body, auth, meta) {
+  // Crawlers that run scripts would otherwise count as visits and as people opening the app.
+  if (BOTS.test(meta.request.headers.get('User-Agent') || '')) return { data: { ok: true } }
   const lang = cleanLang(body.lang) || 'xx'
   const day = new Date().toISOString().slice(0, 10)
   const rows = []
@@ -517,8 +523,9 @@ const ROUTES = {
   '/api/sync': sync, '/api/invite': invite, '/api/join': join, '/api/leave': leave, '/api/device': device, '/api/forget': forget, '/api/e': track,
   '/api/email': email, '/api/email/confirm': emailConfirm, '/api/email/login': emailLogin, '/api/email/off': emailOff,
   '/api/poll': poll, '/api/poll/mine': pollMine, '/api/poll/close': pollClose, '/api/poll/get': pollGet, '/api/vote': vote,
+  '/api/admin/login': adminLogin, '/api/admin/open': adminOpen, '/api/admin/out': adminOut, '/api/admin/stats': adminStats,
 }
-const PUBLIC = new Set([track, pollGet, vote]) // no person behind these: nothing to look up
+const PUBLIC = new Set([track, pollGet, vote, adminLogin, adminOpen, adminOut, adminStats]) // no person behind these: nothing to look up
 
 export default {
   async fetch(request, env, ctx) {
@@ -542,6 +549,10 @@ export default {
       return reply({ ...done, copy: copy ? JSON.parse(copy.data) : null, sessions }, { cors })
     }
     if (env.DEV_ORIGIN && url.pathname === '/api/_outbox') return reply({ ok: true, mail: globalThis.__outbox || [] }, { cors })
+    if (env.DEV_ORIGIN && url.pathname === '/api/_admin') { // who owns the panel, for the tests: in production it is set by hand
+      await env.DB.batch([env.DB.prepare('DELETE FROM admins'), env.DB.prepare('DELETE FROM admin_tokens'), env.DB.prepare('INSERT INTO admins (email) VALUES (?)').bind(url.searchParams.get('email') || 'owner@example.test')])
+      return reply({ ok: true }, { cors })
+    }
     const handler = ROUTES[url.pathname]
     if (!handler) return reply({ ok: false, error: 'not_found' }, { status: 404, cors })
     if (request.method !== 'POST') return reply({ ok: false, error: 'method' }, { status: 405, cors })
@@ -557,7 +568,7 @@ export default {
     try {
       const auth = PUBLIC.has(handler) ? null : await whoIs(request, env)
       // Links in emails point at the app: the same host in production, the dev server's when run locally.
-      const { data, status, token, clear } = await handler(env, body, auth, { ctx, base: env.DEV_ORIGIN || url.origin, away: env.DEV_ORIGIN && request.headers.get('X-Test-Away') ? 0 : undefined })
+      const { data, status, token, clear } = await handler(env, body, auth, { ctx, request, base: env.DEV_ORIGIN || url.origin, away: env.DEV_ORIGIN && request.headers.get('X-Test-Away') ? 0 : undefined })
       const secure = url.protocol === 'https:'
       return reply(data, { status, cors, cookies: clear ? cookiesFor('', secure, 0) : token ? cookiesFor(token, secure) : [] })
     } catch (e) {
@@ -571,6 +582,7 @@ export default {
     ctx.waitUntil((async () => {
       try {
         await env.DB.prepare('DELETE FROM mail_tokens WHERE created_at < ?').bind(Date.now() - TOKEN_AGE).run()
+        await adminSweep(env)
         const r = await runBackup(env)
         if (!r.ok) console.error('backup', JSON.stringify(r))
       } catch (e) { console.error('backup', e && e.stack ? e.stack : e) }
