@@ -121,12 +121,12 @@ cuenta cuánta gente lo toca (evento `premium_tap`) y explica que llegará pront
 
 ## Pendiente
 
-- **Bing Webmaster Tools**: importar la propiedad desde Search Console (Copilot y ChatGPT se apoyan en Bing).
 - **Informe anual con datos propios** («los nombres con más likes en BabyMatch»): los datos ya se guardan;
   falta volumen para publicarlo con sentido.
 
 ## Lo que no se mide, a propósito
 
+- Bing Webmaster Tools: descartado el 25-11-2026. No se da de alta la web allí.
 - Ningún evento lleva el nombre de la persona ni su lista: los contadores son totales por día e idioma.
 - Google Analytics no recibe nada si la visita no acepta.
 - Las listas guardadas se usan para el informe solo en agregado.
