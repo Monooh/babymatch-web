@@ -1,6 +1,6 @@
 import { LOCALES, LOCALE_NAMES, SITE_NAME, SOCIAL, SOCIAL_LIVE, STUDY, paths, type Locale } from '@/i18n/config'
 import type { Dict } from '@/i18n/dict'
-import { IconInstagram, IconSearch, IconTikTok } from './Icons'
+import { IconInstagram, IconSearch, IconTikTok, IconYouTube } from './Icons'
 
 export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
   return (
@@ -43,7 +43,7 @@ export function SiteFooter({ lang, d }: { lang: Locale; d: Dict }) {
             <ul className="footer-social">
               {SOCIAL.map(x => (
                 <li key={x.name}>
-                  <a href={x.href} rel="me noopener" aria-label={`${SITE_NAME}, ${x.name}`}>{x.name === 'Instagram' ? <IconInstagram size={20} /> : <IconTikTok size={20} />}</a>
+                  <a href={x.href} rel="me noopener" aria-label={`${SITE_NAME}, ${x.name}`}>{x.name === 'Instagram' ? <IconInstagram size={20} /> : x.name === 'YouTube' ? <IconYouTube size={20} /> : <IconTikTok size={20} />}</a>
                 </li>
               ))}
             </ul>

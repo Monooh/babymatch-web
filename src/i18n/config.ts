@@ -72,4 +72,5 @@ export const SOCIAL_LIVE = true
 export const SOCIAL = [
   { name: 'Instagram', href: 'https://www.instagram.com/babymatch.app/' },
   { name: 'TikTok', href: 'https://www.tiktok.com/@babymatch.app' },
+  { name: 'YouTube', href: 'https://www.youtube.com/@babymatchapp' },
 ] as const
