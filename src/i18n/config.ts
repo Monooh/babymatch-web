@@ -67,9 +67,8 @@ export const STUDY = {
   published: '2026-11-24',
 } as const
 
-/** The accounts linked from the footer. They are only shown once SOCIAL_LIVE is true: until the handles exist the
- *  links would lead nowhere. */
-export const SOCIAL_LIVE = false
+/** The accounts linked from the footer. SOCIAL_LIVE hides them (if a handle is ever lost or renamed). */
+export const SOCIAL_LIVE = true
 export const SOCIAL = [
   { name: 'Instagram', href: 'https://www.instagram.com/babymatch.app/' },
   { name: 'TikTok', href: 'https://www.tiktok.com/@babymatch.app' },
