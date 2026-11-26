@@ -9,18 +9,21 @@ import { calendar, monthCount, monthName, monthSlug } from '@/lib/saints'
 import { pageMeta, jsonLd, breadcrumbLd } from '@/lib/seo'
 import { t, num } from '@/lib/t'
 import { Crumbs } from '@/components/Chrome'
+import { LegalPage, LegalSections, legalDate, legalDoc } from '@/components/Legal'
+import { getLegal } from '@/i18n/legal'
 
 type Props = { params: Promise<{ lang: string; section: string }> }
-type Kind = 'names' | 'lists' | 'privacy' | 'saints'
+type Kind = 'names' | 'lists' | 'privacy' | 'saints' | 'legal' | 'cookies' | 'terms'
 
 function kindOf(l: Locale, section: string): Kind | null {
   const s = SEGMENTS[l]
-  return section === s.names ? 'names' : section === s.lists ? 'lists' : section === s.privacy ? 'privacy' : section === s.saints ? 'saints' : null
+  const kinds: Kind[] = ['names', 'lists', 'privacy', 'saints', 'legal', 'cookies', 'terms']
+  return kinds.find(k => s[k] === section) ?? null
 }
 
 export const dynamicParams = false
 export function generateStaticParams() {
-  return LOCALES.flatMap(lang => [SEGMENTS[lang].names, SEGMENTS[lang].lists, SEGMENTS[lang].privacy, SEGMENTS[lang].saints].map(section => ({ lang, section })))
+  return LOCALES.flatMap(lang => Object.values(SEGMENTS[lang]).map(section => ({ lang, section })))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -36,7 +39,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const total = calendar(lang).flat().reduce((acc, x) => acc + x.names.length, 0)
     return pageMeta(lang, { title: d.saints.title, description: t(d.saints.desc, { count: num(total, HREFLANG[lang]) }), path: l => paths.saints(l) })
   }
-  return pageMeta(lang, { title: d.meta.privacyTitle, description: d.privacy.p1, path: l => paths.privacy(l) })
+  if (kind === 'privacy') return pageMeta(lang, { title: d.meta.privacyTitle, description: d.privacy.p1, path: l => paths.privacy(l) })
+  const doc = legalDoc(lang, kind)
+  const meta = pageMeta(lang, { title: doc.title, description: doc.desc, path: l => paths[kind](l) })
+  // The legal notice carries the owner's postal address: it is published because the law asks for it, and kept out of search results.
+  return kind === 'legal' ? { ...meta, robots: { index: false, follow: true } } : meta
 }
 
 export default async function SectionPage({ params }: Props) {
@@ -57,10 +64,16 @@ export default async function SectionPage({ params }: Props) {
             <p>{d.privacy.p1}</p><p>{d.privacy.p2}</p><p>{d.privacy.p3}</p><p>{d.privacy.p5}</p><p>{d.privacy.p4}</p>
             <p><button type="button" className="btn btn--small" data-consent-reset>{d.privacy.change}</button></p>
           </div>
+          <div className="prose prose--legal">
+            <LegalSections lang={l} sections={getLegal(l).privacy.sections} />
+            <p className="legal-date">{legalDate(l)}</p>
+          </div>
         </div>
       </section>
     )
   }
+
+  if (kind === 'legal' || kind === 'cookies' || kind === 'terms') return <LegalPage lang={l} kind={kind} />
 
   if (kind === 'saints') {
     const months = Array.from({ length: 12 }, (_, i) => i + 1)

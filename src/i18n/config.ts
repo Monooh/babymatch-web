@@ -12,13 +12,13 @@ export function isLocale(v: string): v is Locale {
 }
 
 /** Localised URL segments: /es/nombres/lucia, /en/names/lucia, /fr/prenoms/lucia… */
-export const SEGMENTS: Record<Locale, { names: string; lists: string; privacy: string; saints: string }> = {
-  es: { names: 'nombres', lists: 'listas', privacy: 'privacidad', saints: 'santoral' },
-  en: { names: 'names', lists: 'lists', privacy: 'privacy', saints: 'name-days' },
-  fr: { names: 'prenoms', lists: 'listes', privacy: 'confidentialite', saints: 'fetes' },
-  de: { names: 'vornamen', lists: 'listen', privacy: 'datenschutz', saints: 'namenstage' },
-  it: { names: 'nomi', lists: 'liste', privacy: 'privacy', saints: 'onomastici' },
-  pt: { names: 'nomes', lists: 'listas', privacy: 'privacidade', saints: 'santos' },
+export const SEGMENTS: Record<Locale, { names: string; lists: string; privacy: string; saints: string; legal: string; cookies: string; terms: string }> = {
+  es: { names: 'nombres', lists: 'listas', privacy: 'privacidad', saints: 'santoral', legal: 'aviso-legal', cookies: 'cookies', terms: 'condiciones' },
+  en: { names: 'names', lists: 'lists', privacy: 'privacy', saints: 'name-days', legal: 'legal-notice', cookies: 'cookies', terms: 'terms' },
+  fr: { names: 'prenoms', lists: 'listes', privacy: 'confidentialite', saints: 'fetes', legal: 'mentions-legales', cookies: 'cookies', terms: 'conditions' },
+  de: { names: 'vornamen', lists: 'listen', privacy: 'datenschutz', saints: 'namenstage', legal: 'impressum', cookies: 'cookies', terms: 'nutzungsbedingungen' },
+  it: { names: 'nomi', lists: 'liste', privacy: 'privacy', saints: 'onomastici', legal: 'note-legali', cookies: 'cookie', terms: 'condizioni' },
+  pt: { names: 'nomes', lists: 'listas', privacy: 'privacidade', saints: 'santos', legal: 'aviso-legal', cookies: 'cookies', terms: 'termos' },
 }
 
 export const LOCALE_NAMES: Record<Locale, string> = {
@@ -50,6 +50,9 @@ export const paths = {
   lists: (l: Locale) => `/${l}/${SEGMENTS[l].lists}`,
   list: (l: Locale, slug: string) => `/${l}/${SEGMENTS[l].lists}/${slug}`,
   privacy: (l: Locale) => `/${l}/${SEGMENTS[l].privacy}`,
+  legal: (l: Locale) => `/${l}/${SEGMENTS[l].legal}`,
+  cookies: (l: Locale) => `/${l}/${SEGMENTS[l].cookies}`,
+  terms: (l: Locale) => `/${l}/${SEGMENTS[l].terms}`,
   saints: (l: Locale) => `/${l}/${SEGMENTS[l].saints}`,
   saintsMonth: (l: Locale, month: string) => `/${l}/${SEGMENTS[l].saints}/${month}`,
   saintsDay: (l: Locale, day: string) => `/${l}/${SEGMENTS[l].saints}/${day}`,
@@ -63,3 +66,11 @@ export const STUDY = {
   crumb: 'Datos del INE',
   published: '2026-11-24',
 } as const
+
+/** The accounts linked from the footer. They are only shown once SOCIAL_LIVE is true: until the handles exist the
+ *  links would lead nowhere. */
+export const SOCIAL_LIVE = false
+export const SOCIAL = [
+  { name: 'Instagram', href: 'https://www.instagram.com/babymatch.app/' },
+  { name: 'TikTok', href: 'https://www.tiktok.com/@babymatch.app' },
+] as const

@@ -1,6 +1,6 @@
-import { LOCALES, LOCALE_NAMES, SITE_NAME, STUDY, paths, type Locale } from '@/i18n/config'
+import { LOCALES, LOCALE_NAMES, SITE_NAME, SOCIAL, SOCIAL_LIVE, STUDY, paths, type Locale } from '@/i18n/config'
 import type { Dict } from '@/i18n/dict'
-import { IconSearch } from './Icons'
+import { IconInstagram, IconSearch, IconTikTok } from './Icons'
 
 export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
   return (
@@ -30,32 +30,51 @@ export function SiteNav({ lang, d }: { lang: Locale; d: Dict }) {
 }
 
 export function SiteFooter({ lang, d }: { lang: Locale; d: Dict }) {
+  const year = new Date().getFullYear()
   return (
     <footer className="footer">
       <div className="container">
-        <div className="footer-mast">{SITE_NAME}</div>
-        <p className="footer-line">{d.footer.line}</p>
-        <div className="footer-cols">
-          <nav aria-label={d.footer.explore}>
-            <h2>{d.footer.explore}</h2>
-            <ul>
-              <li><a href={paths.names(lang)}>{d.nav.names}</a></li>
-              <li><a href={paths.lists(lang)}>{d.nav.lists}</a></li>
-              <li><a href={paths.saints(lang)}>{d.saints.nav}</a></li>
-              {lang === 'es' ? <li><a href={STUDY.path}>{STUDY.nav}</a></li> : null}
-              <li><a href={paths.app(lang)}>{d.nav.openApp}</a></li>
-              <li><a href={paths.privacy(lang)}>{d.footer.privacy}</a></li>
-            </ul>
-          </nav>
-          <nav aria-label={d.nav.language}>
-            <h2>{d.nav.language}</h2>
-            <ul>
-              {LOCALES.map(l => (
-                <li key={l}><a href={paths.home(l)} hrefLang={l} lang={l} aria-current={l === lang ? 'true' : undefined}>{LOCALE_NAMES[l]}</a></li>
+        <div className="footer-top">
+          <a className="footer-brand" href={paths.home(lang)}>
+            <img src="/logo.png" alt="" width={32} height={32} loading="lazy" />
+            <span>{SITE_NAME}</span>
+          </a>
+          {SOCIAL_LIVE ? (
+            <ul className="footer-social">
+              {SOCIAL.map(x => (
+                <li key={x.name}>
+                  <a href={x.href} rel="me noopener" aria-label={`${SITE_NAME}, ${x.name}`}>{x.name === 'Instagram' ? <IconInstagram size={20} /> : <IconTikTok size={20} />}</a>
+                </li>
               ))}
             </ul>
-          </nav>
-          <p className="footer-note">{d.footer.note}</p>
+          ) : null}
+        </div>
+        <p className="footer-line">{d.footer.line}</p>
+        <nav className="footer-nav" aria-label={d.footer.explore}>
+          <ul>
+            <li><a href={paths.names(lang)}>{d.nav.names}</a></li>
+            <li><a href={paths.lists(lang)}>{d.nav.lists}</a></li>
+            <li><a href={paths.saints(lang)}>{d.saints.nav}</a></li>
+            {lang === 'es' ? <li><a href={STUDY.path}>{STUDY.nav}</a></li> : null}
+            <li><a href={paths.app(lang)}>{d.nav.openApp}</a></li>
+          </ul>
+        </nav>
+        <nav className="footer-langs" aria-label={d.nav.language}>
+          <ul>
+            {LOCALES.map(l => (
+              <li key={l}><a href={paths.home(l)} hrefLang={l} lang={l} aria-current={l === lang ? 'true' : undefined}>{LOCALE_NAMES[l]}</a></li>
+            ))}
+          </ul>
+        </nav>
+        <div className="footer-base">
+          <p>{d.footer.note}</p>
+          <ul>
+            <li>© {year} {SITE_NAME}</li>
+            <li><a href={paths.privacy(lang)}>{d.footer.privacy}</a></li>
+            <li><a href={paths.cookies(lang)}>{d.footer.cookies}</a></li>
+            <li><a href={paths.terms(lang)}>{d.footer.terms}</a></li>
+            <li><a href={paths.legal(lang)} rel="nofollow">{d.footer.legal}</a></li>
+          </ul>
         </div>
       </div>
     </footer>
