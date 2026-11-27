@@ -7,11 +7,11 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 
 const API = process.env.NEXT_PUBLIC_API_BASE || ''
 const KEY = 'babymatch:panel'
-const PERIODS = [7, 30, 90] as const
+const PERIODS = [1, 7, 30, 90] as const   // 1 is the last 24 hours, hour by hour
 
 type Users = Partial<Record<'total' | 'fresh' | 'freshBefore' | 'active7' | 'active30' | 'returned' | 'returned7' | 'liked' | 'liked10' | 'supers' | 'invited' | 'paired' | 'mailed' | 'finals', number>>
 type Stats = {
-  days: number; today: string; from: string; before: string; at: number
+  days: number; hourly?: boolean; hourlySince?: string | null; today: string; from: string; before: string; at: number
   events: [string, string, number][]; langs: [string, string, number][]; users: Users; depth: Record<string, number>
   fresh: [string, number][]; cohorts: { first: number; n: number; back1: number; back7: number; liked10: number; paired: number }[]
   polls: { polls?: number; votes?: number }; couples: { couples: number; withMatch: number; matches: number }
@@ -20,7 +20,12 @@ type Stats = {
 const nf = new Intl.NumberFormat('es-ES')
 const num = (n: number | undefined | null) => nf.format(n || 0)
 const pct = (a: number, b: number, digits = 0) => (b > 0 ? `${new Intl.NumberFormat('es-ES', { maximumFractionDigits: digits }).format((a / b) * 100)} %` : 'sin datos')
-const dayLabel = (iso: string) => new Date(iso + 'T12:00:00Z').toLocaleDateString('es-ES', { day: 'numeric', month: 'short', timeZone: 'UTC' })
+const dayLabelOf = (iso: string) => new Date(iso + 'T12:00:00Z').toLocaleDateString('es-ES', { day: 'numeric', month: 'short', timeZone: 'UTC' })
+/** An hour as the panel receives it ('YYYY-MM-DDTHH', UTC), said in the reader's own time: «vie, 14 h». */
+const hourLabel = (key: string) => {
+  const d = new Date(key + ':00:00Z')
+  return `${d.toLocaleDateString('es-ES', { weekday: 'short' })}, ${d.getHours()} h`
+}
 const LANGS: Record<string, string> = { es: 'Español', en: 'Inglés', fr: 'Francés', de: 'Alemán', it: 'Italiano', pt: 'Portugués', xx: 'Sin idioma' }
 const read = () => { try { return window.localStorage.getItem(KEY) } catch { return null } }
 const write = (v: string | null) => { try { if (v) window.localStorage.setItem(KEY, v); else window.localStorage.removeItem(KEY) } catch { /* blocked */ } }
@@ -53,8 +58,9 @@ function Bars({ rows, max, empty }: { rows: Row[]; max?: number; empty?: string 
   )
 }
 
-/** One column per day. The figure of the day under the pointer, or the last one tapped, is written out above. */
-function Daily({ title, days, values }: { title: string; days: string[]; values: number[] }) {
+/** One column per day (or per hour). The figure of the one under the pointer, or the last one tapped, is written out above. */
+function Daily({ title, days, values, hourly }: { title: string; days: string[]; values: number[]; hourly?: boolean }) {
+  const dayLabel = hourly ? hourLabel : dayLabelOf, each = hourly ? 'hora' : 'día'
   const [sel, setSel] = useState<number | null>(null)
   const top = Math.max(1, ...values)
   const total = values.reduce((a, b) => a + b, 0)
@@ -65,14 +71,14 @@ function Daily({ title, days, values }: { title: string; days: string[]; values:
         <b>{title}</b>
         <span className="num">{sel === null ? `${num(total)} en total` : `${dayLabel(days[i])}: ${num(values[i])}`}</span>
       </figcaption>
-      <div className="panel-cols" role="img" aria-label={`${title}, por día: ${num(total)} en total, máximo ${num(top)} en un día`} onMouseLeave={() => setSel(null)}>
+      <div className="panel-cols" role="img" aria-label={`${title}, por ${each}: ${num(total)} en total, máximo ${num(top)} en ${hourly ? 'una hora' : 'un día'}`} onMouseLeave={() => setSel(null)}>
         {values.map((v, k) => (
           <button key={days[k]} type="button" aria-label={`${dayLabel(days[k])}: ${num(v)}`} aria-pressed={sel === k} onMouseEnter={() => setSel(k)} onFocus={() => setSel(k)} onClick={() => setSel(k)}>
             <i style={{ height: `${v ? Math.max(3, (v / top) * 100) : 0}%` }} />
           </button>
         ))}
       </div>
-      <div className="panel-axis"><span>{dayLabel(days[0])}</span><span>máx. {num(top)} al día</span><span>{dayLabel(days[days.length - 1])}</span></div>
+      <div className="panel-axis"><span>{dayLabel(days[0])}</span><span>máx. {num(top)} {hourly ? 'por hora' : 'al día'}</span><span>{dayLabel(days[days.length - 1])}</span></div>
     </figure>
   )
 }
@@ -123,8 +129,8 @@ export function Panel() {
     for (const [day, name, n] of stats.events) {
       if (day >= stats.from) { cur[name] = (cur[name] || 0) + n; (byDay[name] ||= {})[day] = n } else prev[name] = (prev[name] || 0) + n
     }
-    const dayList: string[] = []
-    for (let t = Date.parse(stats.from); t <= Date.parse(stats.today); t += 86400_000) dayList.push(new Date(t).toISOString().slice(0, 10))
+    const dayList: string[] = [], h = !!stats.hourly, at = (k: string) => Date.parse(h ? k + ':00:00Z' : k)
+    for (let t = at(stats.from); t <= at(stats.today); t += h ? 3600_000 : 86400_000) dayList.push(new Date(t).toISOString().slice(0, h ? 13 : 10))
     const series = (name: string) => dayList.map(d => (byDay[name] || {})[d] || 0)
     const fresh = Object.fromEntries(stats.fresh)
     const langs: Record<string, Record<string, number>> = {}
@@ -152,7 +158,10 @@ export function Panel() {
     return <div className="container panel"><p className="panel-empty" role={state === 'error' ? 'alert' : 'status'}>{state === 'error' ? 'No se han podido cargar las cifras. Recarga la página.' : 'Cargando las cifras…'}</p></div>
   }
 
-  const { e, p } = view, u = stats.users
+  const { e, p } = view, u = stats.users, hourly = !!stats.hourly
+  const dayLabel = dayLabelOf
+  // The hourly count began when this view was added: until a full day has passed, the 24 hours are not all there.
+  const partial = hourly && (!stats.hourlySince || stats.hourlySince > stats.from)
   const total = u.total || 0
   const arrivals = e('visit')
   const steps: [string, number][] = [
@@ -163,7 +172,7 @@ export function Panel() {
   const funnel: Row[] = steps.map(([label, value], i) => ({ label, value, note: i ? `${pct(value, steps[i - 1][1])} del paso anterior` : 'todas las llegadas desde fuera' }))
   const weeks = stats.days / 7
   const checks: [string, string, boolean | null][] = [
-    ['500 aperturas de la app por semana', `${num(Math.round(e('app_open') / weeks))} por semana`, e('app_open') ? e('app_open') / weeks >= 500 : null],
+    ['500 aperturas de la app por semana', `${num(Math.round(e('app_open') / weeks))} por semana${hourly ? ', al ritmo de estas 24 horas' : ''}`, e('app_open') ? e('app_open') / weeks >= 500 : null],
     ['30 % de las personas con lista vuelve otro día', pct(u.returned || 0, total), total ? (u.returned || 0) / total >= 0.3 : null],
     ['15 % de quienes dan un «me gusta» crea la invitación', pct(e('invite_created'), e('first_like')), e('first_like') ? e('invite_created') / e('first_like') >= 0.15 : null],
     ['40 % de las invitaciones acaba en pareja unida', pct(e('partner_joined'), e('invite_created')), e('invite_created') ? e('partner_joined') / e('invite_created') >= 0.4 : null],
@@ -175,13 +184,15 @@ export function Panel() {
       <header className="panel-head">
         <div>
           <h1>Panel de BabyMatch</h1>
-          <p className="muted">{dayLabel(stats.from)} a {dayLabel(stats.today)}. Actualizado a las {new Date(stats.at).toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' })}.</p>
+          <p className="muted">{hourly ? `Últimas 24 horas, desde el ${hourLabel(stats.from)}` : `${dayLabel(stats.from)} a ${dayLabel(stats.today)}`}. Actualizado a las {new Date(stats.at).toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' })}.</p>
         </div>
         <div className="pills" role="group" aria-label="Periodo">
-          {PERIODS.map(d => <button key={d} type="button" className="pill" aria-pressed={days === d} onClick={() => setDays(d)}>{d} días</button>)}
+          {PERIODS.map(d => <button key={d} type="button" className="pill" aria-pressed={days === d} onClick={() => setDays(d)}>{d === 1 ? '24 h' : `${d} días`}</button>)}
           <button type="button" className="pill" disabled={state === 'loading'} onClick={() => void load(key, days)}>{state === 'loading' ? 'Cargando…' : 'Actualizar'}</button>
         </div>
       </header>
+
+      {partial ? <p className="panel-note" role="status">{stats.hourlySince ? `El recuento por horas empezó el ${hourLabel(stats.hourlySince)}: hasta que pase un día entero, estas 24 horas están incompletas.` : 'El recuento por horas acaba de empezar: aún no hay ninguna hora contada.'} Las vistas de 7, 30 y 90 días no cambian.</p> : null}
 
       <ul className="panel-tiles">
         <Tile label="Llegadas a la web" value={arrivals} before={p('visit')} />
@@ -198,12 +209,12 @@ export function Panel() {
       </section>
 
       <section aria-labelledby="p-dias">
-        <h2 id="p-dias">Día a día</h2>
+        <h2 id="p-dias">{hourly ? 'Hora a hora' : 'Día a día'}</h2>
         <div className="panel-grid">
-          <Daily title="Llegadas a la web" days={view.dayList} values={view.series('visit')} />
-          <Daily title="Aperturas de la app" days={view.dayList} values={view.series('app_open')} />
-          <Daily title="Listas nuevas guardadas" days={view.dayList} values={view.freshSeries} />
-          <Daily title="Parejas que se unen" days={view.dayList} values={view.series('partner_joined')} />
+          <Daily title="Llegadas a la web" days={view.dayList} values={view.series('visit')} hourly={hourly} />
+          <Daily title="Aperturas de la app" days={view.dayList} values={view.series('app_open')} hourly={hourly} />
+          <Daily title="Listas nuevas guardadas" days={view.dayList} values={view.freshSeries} hourly={hourly} />
+          <Daily title="Parejas que se unen" days={view.dayList} values={view.series('partner_joined')} hourly={hourly} />
         </div>
       </section>
 
@@ -238,7 +249,7 @@ export function Panel() {
         <h2 id="p-uso">Cuánto la usan</h2>
         <p className="panel-lede">Personas con lista guardada, desde el principio. No depende del periodo elegido.</p>
         <ul className="panel-tiles">
-          <Tile label="Personas con lista" value={total} hint={`${num(u.fresh)} nuevas en estos ${stats.days} días`} />
+          <Tile label="Personas con lista" value={total} hint={`${num(u.fresh)} nuevas en ${hourly ? 'las últimas 24 horas' : `estos ${stats.days} días`}`} />
           <Tile label="Activas en 7 días" value={u.active7 || 0} hint={`${pct(u.active7 || 0, total)} del total; ${num(u.active30)} en 30 días`} />
           <Tile label="Volvieron otro día" value={u.returned || 0} hint={`${pct(u.returned || 0, total)} del total; ${num(u.returned7)} seguían una semana después`} />
           <Tile label="Con pareja unida" value={u.paired || 0} hint={`${pct(u.paired || 0, total)} del total`} />

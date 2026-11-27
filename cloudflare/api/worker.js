@@ -508,12 +508,16 @@ async function track(env, body, auth, meta) {
   // Crawlers that run scripts would otherwise count as visits and as people opening the app.
   if (BOTS.test(meta.request.headers.get('User-Agent') || '')) return { data: { ok: true } }
   const lang = cleanLang(body.lang) || 'xx'
-  const day = new Date().toISOString().slice(0, 10)
+  const stamp = new Date().toISOString(), day = stamp.slice(0, 10), hour = stamp.slice(0, 13)
   const rows = []
   for (const [name, n] of Object.entries(body.ev && typeof body.ev === 'object' ? body.ev : {}).slice(0, 30)) {
     if (!EVENTS.has(name) || !Number.isFinite(n) || n < 1) continue
+    const count = Math.min(Math.floor(n), 50)
     rows.push(env.DB.prepare('INSERT INTO events (day, name, lang, n) VALUES (?, ?, ?, ?) ON CONFLICT (day, name, lang) DO UPDATE SET n = n + excluded.n')
-      .bind(day, name, lang, Math.min(Math.floor(n), 50)))
+      .bind(day, name, lang, count))
+    // The same count by the hour, for the panel's 24-hour view.
+    rows.push(env.DB.prepare('INSERT INTO events_h (hour, name, lang, n) VALUES (?, ?, ?, ?) ON CONFLICT (hour, name, lang) DO UPDATE SET n = n + excluded.n')
+      .bind(hour, name, lang, count))
   }
   if (rows.length) await env.DB.batch(rows)
   return { data: { ok: true } }

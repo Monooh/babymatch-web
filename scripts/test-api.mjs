@@ -281,6 +281,11 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
   r = await device().call('/api/admin/stats', { days: 7 }, admin)
   ok(todayOf('visit') === seen, 'crawlers are not counted as visits', [seen, todayOf('visit')])
   ok(r.users && typeof r.users.total === 'number' && r.depth && Array.isArray(r.cohorts) && r.couples && !JSON.stringify(r).includes('@'), 'people come as totals only: no address, no list', Object.keys(r))
+  r = await device().call('/api/admin/stats', { days: 1 }, admin)
+  const thisHour = new Date().toISOString().slice(0, 13)
+  ok(r.ok && r.days === 1 && r.hourly === true && /^\d{4}-\d\d-\d\dT\d\d$/.test(r.from) && r.today >= thisHour && typeof r.hourlySince === 'string'
+    && r.events.some(e => e[0] === r.today && e[1] === 'visit' && e[2] >= 2) && r.events.every(e => e[0].length === 13),
+  'the 24-hour view comes by the hour and has this hour\'s arrivals', [r.from, r.today, r.hourlySince, r.events && r.events.slice(0, 3)])
   await device().call('/api/admin/out', {}, admin)
   r = await device().call('/api/admin/stats', { days: 7 }, admin)
   ok(r.status === 401, 'closing the panel on a device ends its key', r)

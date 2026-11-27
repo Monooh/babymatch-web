@@ -66,19 +66,25 @@ export async function adminOut(env, body, auth, meta) {
 
 const dayOf = ms => new Date(ms).toISOString().slice(0, 10)
 
-/** Everything the panel draws, for the last `days` days and the same stretch before them (to compare). */
+const hourOf = ms => new Date(ms).toISOString().slice(0, 13)
+const HOUR = 3600_000
+
+/** Everything the panel draws, for the last `days` days and the same stretch before them (to compare).
+ *  `days: 1` is the last 24 hours, hour by hour: the same shape, with hours ('YYYY-MM-DDTHH', UTC) where days would be. */
 export async function adminStats(env, body, auth, meta) {
   if (!(await allowed(env, meta))) return { data: { ok: false, error: 'auth' }, status: 401 }
-  const days = [7, 30, 90].includes(body.days) ? body.days : 30
+  const days = [1, 7, 30, 90].includes(body.days) ? body.days : 30
+  const hourly = days === 1
   const t = Date.now()
-  const today = dayOf(t)
-  const from = dayOf(t - (days - 1) * DAY)             // first day of the period, as events are filed (UTC days)
-  const before = dayOf(t - (2 * days - 1) * DAY)       // first day of the stretch it is compared with
-  const fromMs = Date.parse(from), beforeMs = Date.parse(before)
+  const today = hourly ? hourOf(t) : dayOf(t)
+  const from = hourly ? hourOf(t - 23 * HOUR) : dayOf(t - (days - 1) * DAY)             // first day (or hour) of the period, as events are filed (UTC)
+  const before = hourly ? hourOf(t - 47 * HOUR) : dayOf(t - (2 * days - 1) * DAY)       // first one of the stretch it is compared with
+  const fromMs = Date.parse(hourly ? from + ':00:00Z' : from), beforeMs = Date.parse(hourly ? before + ':00:00Z' : before)
+  const table = hourly ? 'events_h' : 'events', col = hourly ? 'hour' : 'day', stamp = hourly ? '%Y-%m-%dT%H' : '%Y-%m-%d'
 
-  const [events, langs, users, depth, fresh, cohorts, extra, pairs] = (await env.DB.batch([
-    env.DB.prepare('SELECT day, name, SUM(n) AS n FROM events WHERE day >= ? GROUP BY day, name').bind(before),
-    env.DB.prepare("SELECT lang, name, SUM(n) AS n FROM events WHERE day >= ? AND name IN ('visit', 'app_open', 'first_swipe', 'partner_joined') GROUP BY lang, name").bind(from),
+  const [events, langs, users, depth, fresh, cohorts, extra, pairs, since] = (await env.DB.batch([
+    env.DB.prepare(`SELECT ${col} AS day, name, SUM(n) AS n FROM ${table} WHERE ${col} >= ? GROUP BY ${col}, name`).bind(before),
+    env.DB.prepare(`SELECT lang, name, SUM(n) AS n FROM ${table} WHERE ${col} >= ? AND name IN ('visit', 'app_open', 'first_swipe', 'partner_joined') GROUP BY lang, name`).bind(from),
     env.DB.prepare(`SELECT COUNT(*) AS total, SUM(created_at >= ?1) AS fresh, SUM(created_at >= ?2 AND created_at < ?1) AS freshBefore,
       SUM(updated_at >= ?3) AS active7, SUM(updated_at >= ?4) AS active30, SUM(updated_at - created_at >= ${DAY}) AS returned,
       SUM(updated_at - created_at >= ${7 * DAY}) AS returned7, SUM(likes > 0) AS liked, SUM(likes >= 10) AS liked10, SUM(supers > 0) AS supers,
@@ -86,11 +92,12 @@ export async function adminStats(env, body, auth, meta) {
     // How much each person has swiped, in bands. Counted from the list itself, so it needs no event.
     env.DB.prepare(`SELECT CASE WHEN c < 10 THEN 'a' WHEN c < 50 THEN 'b' WHEN c < 200 THEN 'c' ELSE 'd' END AS band, COUNT(*) AS n
       FROM (SELECT (SELECT COUNT(*) FROM json_each(u.swipes)) AS c FROM users u) GROUP BY band`),
-    env.DB.prepare("SELECT strftime('%Y-%m-%d', created_at / 1000, 'unixepoch') AS day, COUNT(*) AS n FROM users WHERE created_at >= ? GROUP BY day").bind(beforeMs),
+    env.DB.prepare(`SELECT strftime('${stamp}', created_at / 1000, 'unixepoch') AS day, COUNT(*) AS n FROM users WHERE created_at >= ? GROUP BY day`).bind(beforeMs),
     env.DB.prepare(`SELECT strftime('%Y-%W', created_at / 1000, 'unixepoch') AS week, MIN(created_at) AS first, COUNT(*) AS n, SUM(updated_at - created_at >= ${DAY}) AS back1,
       SUM(updated_at - created_at >= ${7 * DAY}) AS back7, SUM(likes >= 10) AS liked10, SUM(partner_id IS NOT NULL) AS paired FROM users WHERE created_at >= ? GROUP BY week ORDER BY week DESC LIMIT 9`).bind(t - 63 * DAY),
     env.DB.prepare('SELECT (SELECT COUNT(*) FROM polls) AS polls, (SELECT COUNT(*) FROM votes) AS votes'),
     env.DB.prepare('SELECT id, partner_id, swipes FROM users WHERE partner_id IS NOT NULL AND likes > 0 LIMIT 2000'),
+    env.DB.prepare('SELECT MIN(hour) AS first FROM events_h'),
   ])).map(r => r.results)
 
   // Couples where both have liked something, and how many of them share at least one name.
@@ -112,7 +119,7 @@ export async function adminStats(env, body, auth, meta) {
   }
 
   return { data: {
-    ok: true, days, today, from, before, at: t,
+    ok: true, days, hourly, hourlySince: (since[0] && since[0].first) || null, today, from, before, at: t,
     events: events.map(r => [r.day, r.name, r.n]),
     langs: langs.map(r => [r.lang, r.name, r.n]),
     users: users[0] || {},
@@ -129,5 +136,6 @@ export function adminSweep(env) {
   return env.DB.batch([
     env.DB.prepare('DELETE FROM admin_tokens WHERE created_at < ?').bind(Date.now() - LINK_AGE),
     env.DB.prepare('DELETE FROM admin_sessions WHERE created_at < ?').bind(Date.now() - SESSION_AGE),
+    env.DB.prepare('DELETE FROM events_h WHERE hour < ?').bind(hourOf(Date.now() - 14 * DAY)),
   ])
 }
