@@ -62,7 +62,7 @@ export async function checkout(env, user, { lang, back }) {
   return { id: data.id, url: data.url }
 }
 
-/** Was that session paid, by this person, for the full price? Returns { paid, email } (email as given to Stripe). */
+/** Was that session paid, by this person? Returns { paid, email } (email as given to Stripe). */
 export async function paid(env, user, ref) {
   if (!ref) return { paid: false }
   if (devPay(env)) return { paid: paidDev().has(ref), email: null }
@@ -70,6 +70,9 @@ export async function paid(env, user, ref) {
   const res = await fetch(STRIPE + '/checkout/sessions/' + ref, { headers: { Authorization: 'Bearer ' + env.STRIPE_KEY } })
   const s = await res.json().catch(() => null)
   if (!res.ok || !s) return { paid: false }
-  const ok = s.payment_status === 'paid' && s.client_reference_id === user.id && s.currency === CURRENCY && Number(s.amount_total) >= PRICE_CENTS
+  // The session is one this Worker created (its id was kept on the person, and it carries their id twice), so the price
+  // is ours. Stripe may show and charge it in the buyer's own currency (9.50 CHF for 9.99 EUR), so the currency and the
+  // amount of the session are not compared with ours.
+  const ok = s.mode === 'payment' && s.payment_status === 'paid' && s.client_reference_id === user.id && !!s.metadata && s.metadata.user === user.id
   return { paid: ok, email: ok && s.customer_details && typeof s.customer_details.email === 'string' ? s.customer_details.email : null }
 }
