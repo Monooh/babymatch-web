@@ -88,7 +88,7 @@ export async function adminStats(env, body, auth, meta) {
     env.DB.prepare(`SELECT COUNT(*) AS total, SUM(created_at >= ?1) AS fresh, SUM(created_at >= ?2 AND created_at < ?1) AS freshBefore,
       SUM(updated_at >= ?3) AS active7, SUM(updated_at >= ?4) AS active30, SUM(updated_at - created_at >= ${DAY}) AS returned,
       SUM(updated_at - created_at >= ${7 * DAY}) AS returned7, SUM(likes > 0) AS liked, SUM(likes >= 10) AS liked10, SUM(supers > 0) AS supers,
-      SUM(invite IS NOT NULL) AS invited, SUM(partner_id IS NOT NULL) AS paired, SUM(email_ok = 1) AS mailed, SUM(final <> '') AS finals FROM users`).bind(fromMs, beforeMs, t - 7 * DAY, t - 30 * DAY),
+      SUM(invite IS NOT NULL) AS invited, SUM(partner_id IS NOT NULL) AS paired, SUM(email_ok = 1) AS mailed, SUM(final <> '') AS finals, SUM(plan = 'premium') AS premium FROM users`).bind(fromMs, beforeMs, t - 7 * DAY, t - 30 * DAY),
     // How much each person has swiped, in bands. Counted from the list itself, so it needs no event.
     env.DB.prepare(`SELECT CASE WHEN c < 10 THEN 'a' WHEN c < 50 THEN 'b' WHEN c < 200 THEN 'c' ELSE 'd' END AS band, COUNT(*) AS n
       FROM (SELECT (SELECT COUNT(*) FROM json_each(u.swipes)) AS c FROM users u) GROUP BY band`),

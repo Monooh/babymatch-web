@@ -43,9 +43,11 @@ export type Swipe = 'like' | 'nope' | 'super'
  * `cards[0]` is on top; the parent drops it from the array in onSwipe. With `superlike`, dragging the card up (or
  * the star button) is a third answer; without it the card leaves vertical drags to the page, so it can scroll.
  */
-export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, superlike, surname, end, ariaLabel }: {
+export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, superlike, surname, end, ariaLabel, allow }: {
   cards: CardData[]
   onSwipe: (dir: Swipe, card: CardData) => void
+  /** Asked before a like or a superlike leaves: answering false keeps the card (the daily limit was reached). */
+  allow?: (dir: Swipe) => boolean
   labels: Labels
   onUndo?: () => void
   canUndo?: boolean
@@ -76,6 +78,7 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, superlike,
   const fly = useCallback((dir: Swipe) => {
     const node = el.current
     if (!node || !top || busy.current) return
+    if (dir !== 'nope' && allow && !allow(dir)) { node.classList.add('card--back'); paint(0, 0); return }
     busy.current = true
     const reduce = typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches
     node.classList.remove('card--back')
@@ -86,7 +89,8 @@ export function SwipeStack({ cards, onSwipe, labels, onUndo, canUndo, superlike,
     const stamp = dir === 'super' ? superStamp.current : dir === 'like' ? likeStamp.current : nopeStamp.current
     if (stamp) stamp.style.opacity = '1'
     window.setTimeout(() => { busy.current = false; onSwipe(dir, top) }, reduce ? 0 : 200)
-  }, [top, onSwipe])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [top, onSwipe, allow])
 
   const onDown = (e: RPointerEvent<HTMLDivElement>) => {
     if (busy.current || (e.target as HTMLElement).closest('a,button')) return

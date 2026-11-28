@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'Cloudflare, Inc. aloja la web y la base de datos, y la protege de ataques. Para ello procesa la dirección IP de cada visita.',
             'Resend, Inc. envía los correos, si das tu dirección.',
+            'Stripe Payments Europe, Ltd. cobra el pago de Premium, si lo compras. Recibe tus datos de pago; BabyMatch no los ve ni los guarda: solo conserva la confirmación del pago y el correo que das al pagar, para devolverte el acceso.',
             'Google Ireland Ltd. presta Google Analytics, si lo aceptas.',
           ],
           'Cloudflare y Resend tienen sede en Estados Unidos. Las transferencias se amparan en el Marco de Privacidad de Datos UE-EE. UU. o, en su defecto, en las cláusulas contractuales tipo de la Comisión Europea. Tus datos no se venden ni se ceden a nadie más.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'El servicio',
         p: [
-          'BabyMatch es gratuito y no pide registro. Tu lista se guarda en tu navegador y en una copia en el servidor para que no la pierdas.',
-          'El sitio puede cambiar, añadir o retirar funciones. Si en el futuro alguna pasa a ser de pago, se indicará con claridad antes de que pagues nada.',
+          'BabyMatch se puede usar gratis y no pide registro. Tu lista se guarda en tu navegador y en una copia en el servidor para que no la pierdas.',
+          'La versión gratuita tiene un número limitado de «me gusta» y de superlikes al día. El sitio puede cambiar, añadir o retirar funciones.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'Premium quita los límites diarios de «me gusta» y de superlikes. Cuesta 9,99 € (impuestos incluidos) y se paga una sola vez: no es una suscripción y no se renueva.',
+          'Vale para ti y para la persona con la que hayas unido tu lista, mientras sigáis unidos. Si separáis las listas, Premium se queda con quien lo pagó.',
+          'El pago lo gestiona Stripe. El acceso se activa en cuanto el pago se confirma; al pagar aceptas que empiece de inmediato y que, una vez activado, no se aplica el derecho de desistimiento de 14 días.',
+          'Si has pagado y no ves Premium activado, escribe a {email} y lo resolvemos o te devolvemos el dinero.',
         ],
       },
       {

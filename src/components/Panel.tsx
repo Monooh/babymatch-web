@@ -9,7 +9,7 @@ const API = process.env.NEXT_PUBLIC_API_BASE || ''
 const KEY = 'babymatch:panel'
 const PERIODS = [1, 7, 30, 90] as const   // 1 is the last 24 hours, hour by hour
 
-type Users = Partial<Record<'total' | 'fresh' | 'freshBefore' | 'active7' | 'active30' | 'returned' | 'returned7' | 'liked' | 'liked10' | 'supers' | 'invited' | 'paired' | 'mailed' | 'finals', number>>
+type Users = Partial<Record<'total' | 'fresh' | 'freshBefore' | 'active7' | 'active30' | 'returned' | 'returned7' | 'liked' | 'liked10' | 'supers' | 'invited' | 'paired' | 'mailed' | 'finals' | 'premium', number>>
 type Stats = {
   days: number; hourly?: boolean; hourlySince?: string | null; today: string; from: string; before: string; at: number
   events: [string, string, number][]; langs: [string, string, number][]; users: Users; depth: Record<string, number>
@@ -251,6 +251,7 @@ export function Panel() {
         <ul className="panel-tiles">
           <Tile label="Personas con lista" value={total} hint={`${num(u.fresh)} nuevas en ${hourly ? 'las últimas 24 horas' : `estos ${stats.days} días`}`} />
           <Tile label="Activas en 7 días" value={u.active7 || 0} hint={`${pct(u.active7 || 0, total)} del total; ${num(u.active30)} en 30 días`} />
+          <Tile label="Premium" value={u.premium || 0} hint={`${pct(u.premium || 0, total)} de las personas con lista; ${num(e('premium_seen'))} vieron la oferta y ${num(e('limit_hit'))} veces se llegó al límite en el periodo`} />
           <Tile label="Volvieron otro día" value={u.returned || 0} hint={`${pct(u.returned || 0, total)} del total; ${num(u.returned7)} seguían una semana después`} />
           <Tile label="Con pareja unida" value={u.paired || 0} hint={`${pct(u.paired || 0, total)} del total`} />
         </ul>

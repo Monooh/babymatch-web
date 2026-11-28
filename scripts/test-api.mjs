@@ -254,6 +254,36 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
   r = await host.call('/api/sync', {})
   ok(r.email === null, 'and the address is forgotten', r)
 
+  // 20b. Premium: the server can take the payment (made up locally), one of the couple pays and both have it.
+  {
+    const a = device(), b = device()
+    r = await a.call('/api/sync', { ops: [[101, 1, Date.now()]] })
+    ok(r.ok && r.plan === 'free' && r.pay === true, 'a new person is on the free plan and the payment is on', [r.plan, r.pay])
+    const aId = r.id
+    r = await a.call('/api/pay/check', {})
+    ok(r.ok && r.plan === 'free', 'asking without having paid changes nothing', r.plan)
+    r = await a.call('/api/pay', { lang: 'es' })
+    ok(r.ok && typeof r.url === 'string' && /\/es\/app#paid$/.test(r.url) && r.plan === 'free', 'starting the payment gives the address of the payment page', r.url)
+    r = await a.call('/api/pay/check', {})
+    ok(r.plan === 'free', 'a payment that was started but not made is not Premium', r.plan)
+    r = await a.call('/api/invite', {})
+    const code = r.invite
+    r = await b.call('/api/join', { code, ops: [[101, 1, Date.now()]] })
+    ok(r.ok && r.plan === 'free', 'the partner of a free person is free', r.plan)
+    await fetch(`${BASE}/api/_pay?user=${aId}`)
+    r = await a.call('/api/pay/check', {})
+    ok(r.ok && r.plan === 'premium', 'once the payment went through, the person is Premium', r.plan)
+    r = await b.call('/api/sync', {})
+    ok(r.plan === 'premium', 'and so is the partner, without paying', r.plan)
+    r = await a.call('/api/pay', { lang: 'es' })
+    ok(r.ok && !r.url && r.plan === 'premium', 'a Premium person is not sent to pay again', [r.url, r.plan])
+    r = await b.call('/api/leave', {})
+    r = await b.call('/api/sync', {})
+    ok(r.plan === 'free', 'leaving the couple, the one who did not pay is free again', r.plan)
+    r = await a.call('/api/sync', {})
+    ok(r.plan === 'premium', 'and the one who paid keeps Premium', r.plan)
+  }
+
   // 21. Getting into the panel: a link to the owner's address, good once, and the figures behind it.
   const owner = `owner${Date.now()}@example.test`
   await fetch(`${BASE}/api/_admin?email=${owner}`)

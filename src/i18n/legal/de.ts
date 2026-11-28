@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'Cloudflare, Inc. hostet die Website und die Datenbank und schützt sie vor Angriffen. Dafür verarbeitet Cloudflare die IP-Adresse jedes Besuchs.',
             'Resend, Inc. verschickt die E-Mails, wenn du deine Adresse angibst.',
+            'Stripe Payments Europe, Ltd. wickelt die Zahlung für Premium ab, wenn du es kaufst. Stripe erhält deine Zahlungsdaten; BabyMatch sieht und speichert sie nicht: Aufbewahrt werden nur die Zahlungsbestätigung und die E-Mail-Adresse, die du beim Bezahlen angibst, damit du deinen Zugang zurückbekommst.',
             'Google Ireland Ltd. stellt Google Analytics bereit, wenn du zustimmst.',
           ],
           'Cloudflare und Resend haben ihren Sitz in den USA. Die Übermittlungen stützen sich auf den EU-US-Datenschutzrahmen oder, falls dieser nicht greift, auf die Standardvertragsklauseln der Europäischen Kommission. Deine Daten werden nicht verkauft und an niemanden sonst weitergegeben.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'Der Dienst',
         p: [
-          'BabyMatch ist kostenlos und verlangt keine Anmeldung. Deine Liste wird in deinem Browser gespeichert und als Kopie auf dem Server, damit du sie nicht verlierst.',
-          'Die Website kann Funktionen ändern, hinzufügen oder entfernen. Sollte eine davon künftig kostenpflichtig werden, wird das klar angezeigt, bevor du etwas bezahlst.',
+          'BabyMatch kann kostenlos genutzt werden und verlangt keine Anmeldung. Deine Liste wird in deinem Browser gespeichert und als Kopie auf dem Server, damit du sie nicht verlierst.',
+          'Die kostenlose Version hat eine begrenzte Zahl von Likes und Superlikes pro Tag. Die Website kann Funktionen ändern, hinzufügen oder entfernen.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'Premium hebt die täglichen Limits für Likes und Superlikes auf. Es kostet 9,99 € (inklusive Steuern) und wird einmalig bezahlt: Es ist kein Abo und verlängert sich nicht.',
+          'Es gilt für dich und die Person, mit der du deine Liste verbunden hast, solange ihr verbunden bleibt. Trennt ihr die Listen, bleibt Premium bei der Person, die bezahlt hat.',
+          'Die Zahlung wird von Stripe abgewickelt. Der Zugang wird aktiviert, sobald die Zahlung bestätigt ist; mit der Zahlung stimmst du zu, dass er sofort beginnt und dass das 14-tägige Widerrufsrecht nach der Aktivierung erlischt.',
+          'Wenn du bezahlt hast und Premium nicht aktiv ist, schreib an {email}: Wir klären es oder erstatten dir das Geld.',
         ],
       },
       {

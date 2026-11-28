@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'Cloudflare, Inc. hosts the site and the database and protects them from attacks. To do so it processes the IP address of each visit.',
             'Resend, Inc. sends the emails, if you give your address.',
+            'Stripe Payments Europe, Ltd. takes the payment for Premium, if you buy it. It receives your payment details; BabyMatch never sees or stores them: it only keeps the confirmation of the payment and the email you give when paying, to give you your access back.',
             'Google Ireland Ltd. provides Google Analytics, if you accept it.',
           ],
           'Cloudflare and Resend are based in the United States. Transfers rely on the EU-US Data Privacy Framework or, failing that, on the European Commission’s standard contractual clauses. Your data is not sold or passed on to anyone else.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'The service',
         p: [
-          'BabyMatch is free and asks for no sign-up. Your list is saved in your browser and in a copy on the server so you do not lose it.',
-          'The site may change, add or remove features. If any of them becomes paid in the future, this will be stated clearly before you pay anything.',
+          'BabyMatch can be used for free and asks for no sign-up. Your list is saved in your browser and in a copy on the server so you do not lose it.',
+          'The free version has a limited number of likes and superlikes a day. The site may change, add or remove features.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'Premium removes the daily limits on likes and superlikes. It costs €9.99 (taxes included) and is paid once: it is not a subscription and does not renew.',
+          'It covers you and the person you have joined your list with, for as long as you stay joined. If you separate the lists, Premium stays with whoever paid.',
+          'The payment is handled by Stripe. Access starts as soon as the payment is confirmed; by paying you agree that it starts immediately and that, once it is active, the 14-day right of withdrawal no longer applies.',
+          'If you have paid and Premium is not active, write to {email} and we will sort it out or refund you.',
         ],
       },
       {

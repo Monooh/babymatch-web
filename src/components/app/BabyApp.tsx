@@ -2,15 +2,17 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { fromRow, type N, type Row } from '@/lib/model'
 import { actions, getState, setState, useStore, EMPTY_FILTERS } from '@/lib/store'
-import { adoptKey, confirmEmail, forgetAll, joinInvite, removeEmail, startSync, track, useRestoring } from '@/lib/sync'
+import { adoptKey, checkPaid, confirmEmail, forgetAll, joinInvite, removeEmail, startSync, track, useRestoring } from '@/lib/sync'
+import { limitsOf, type Wall } from '@/lib/premium'
 import { decodeInvite } from '@/lib/share'
 import { t } from '@/lib/t'
 import { SwipeStack, type CardData, type Swipe } from '../SwipeStack'
-import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconTrash, IconUsers, IconX } from '../Icons'
+import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconStar, IconTrash, IconUsers, IconX } from '../Icons'
 import { activeCount, buildDeck } from './deck'
 import { Quiz } from './Quiz'
 import { FinalSheet } from './Final'
 import { BackupSheet, FiltersSheet, LikesTab, ListsTab, MatchesTab } from './Panels'
+import { PremiumSheet, SaveSheet } from './Premium'
 import type { AppProps, Ctx } from './types'
 
 type Tab = 'swipe' | 'lists' | 'likes' | 'matches'
@@ -35,6 +37,9 @@ export function BabyApp(props: AppProps) {
   const [join, setJoin] = useState<'ask' | 'busy' | 'taken' | 'unknown' | 'network'>('ask')
   const [takenBy, setTakenBy] = useState('')
   const [showBackup, setShowBackup] = useState(false)
+  const [wall, setWall] = useState<Wall | null>(null)                 // the Premium offer, and why it came up
+  const [showSave, setShowSave] = useState(false)                     // "save your list", offered once there is one
+  const [paid, setPaid] = useState<'wait' | 'yes' | 'no' | null>(null) // back from the payment page
   const [mounted, setMounted] = useState(false)
   const restoring = useRestoring()
   const seed = useRef(1)
@@ -64,6 +69,7 @@ export function BabyApp(props: AppProps) {
     const oldLink = url.hash.match(/^#p=([\w-]+)$/)
     const mailLink = url.hash.match(/^#m=([\w-]{20,})$/)
     const offLink = url.hash.match(/^#u=([a-z0-9]{16,40})$/)
+    const paidLink = url.hash === '#paid'
     if (joinLink) {
       // Tapping your own link (to check it before sending) must not do anything.
       if (joinLink[1] !== mine.invite) {
@@ -84,14 +90,29 @@ export function BabyApp(props: AppProps) {
       if (inv && inv.ids.length && !own) setInvite(inv)
     }
     // The address must not keep a code or a key: it would end up in the history and in screenshots.
-    if (list || firstSlug.current || joinLink || keyLink || oldLink || mailLink || offLink || url.searchParams.has('from')) window.history.replaceState(null, '', url.pathname)
+    if (list || firstSlug.current || joinLink || keyLink || oldLink || mailLink || offLink || paidLink || url.searchParams.has('from')) window.history.replaceState(null, '', url.pathname)
     startSync(lang)
+    // Back from Stripe, or a payment was started here and its outcome is still unknown: ask the server how it went.
+    if (paidLink) {
+      setPaid('wait')
+      void checkPaid().then(async ok => {
+        // Stripe can take a moment to mark the session as paid: ask once more before saying "not yet".
+        if (!ok) { await new Promise(r => window.setTimeout(r, 3500)); ok = await checkPaid() }
+        if (ok) track('premium_paid')
+        setPaid(ok ? 'yes' : 'no')
+      })
+    } else if (mine.plan !== 'premium' && mine.payAt && Date.now() - mine.payAt < 7 * 86400_000) {
+      void checkPaid().then(ok => { if (ok) { track('premium_paid'); setPaid('yes') } })
+    }
+    const onWall = (e: Event) => setWall((e as CustomEvent<Wall>).detail || 'open')
+    window.addEventListener('bm:wall', onWall)
     track('app_open')
     // Where this visit to the app came from: a name page, a list, the home, a partner's link, or somewhere else.
     let fromHome = false
     try { fromHome = new URL(document.referrer).pathname.replace(/\/$/, '') === hrefs.home.replace(/\/$/, '') && new URL(document.referrer).origin === url.origin } catch { /* no referrer */ }
     track(url.searchParams.get('from') === 'vote' ? 'from_vote' : joinLink ? 'from_invite' : list ? 'from_list' : firstSlug.current ? 'from_name' : fromHome ? 'from_home' : 'from_other')
     setMounted(true)
+    return () => window.removeEventListener('bm:wall', onWall)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
@@ -137,6 +158,14 @@ export function BabyApp(props: AppProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [matchIds, mounted, names])
 
+  // The free plan: a few likes and one superlike a day. Saying no to a name is never limited.
+  const lim = limitsOf(s)
+  function allow(dir: Swipe) {
+    const fresh = limitsOf(getState())
+    const ok = dir === 'super' ? fresh.canSuper : fresh.canLike
+    if (!ok) { track('limit_hit'); setWall(dir === 'super' && fresh.canLike ? 'supers' : 'likes') }
+    return ok
+  }
   function onSwipe(dir: Swipe, card: CardData) {
     const total = Object.keys(s.likes).length + Object.keys(s.nopes).length + 1
     track('first_swipe', true)
@@ -151,6 +180,10 @@ export function BabyApp(props: AppProps) {
         setState(st => ({ seen: [...st.seen, card.id] }), { remote: true })
         setMatch(byId.get(card.id) || null)
         track('match')
+      } else if (s.mail && !s.email && !s.once.nudge_mail && (likeIds.length + 1 >= 10 || (dir === 'super' && s.stars.length + 1 >= 2))) {
+        // The list is now worth keeping: offer to save it with an email. Once, and never on top of a match.
+        track('nudge_mail', true)
+        setShowSave(true)
       }
     }
     setProg({ deck, pos: p.pos + 1, hist: [...p.hist, card.id] })
@@ -288,10 +321,14 @@ export function BabyApp(props: AppProps) {
             <button type="button" className="pill" onClick={() => setState({ list: null })} aria-label={`${d.deck.clearList}: ${activeList.title}`} title={d.deck.clearList}>
               <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: '11rem' }}>{activeList.title}</span><IconX size={16} />
             </button>
+          ) : lim.limited ? (
+            <button type="button" className="pill" onClick={() => setWall('open')}>
+              <IconHeart size={16} />{lim.likesLeft ? t(d.premium.left, { count: lim.likesLeft }) : d.premium.leftNone}
+            </button>
           ) : <span className="muted">{t(d.deck.remaining, { count: deck.length - p.pos })}</span>}
         </div>
         {rest.length ? (
-          <SwipeStack cards={rest.map(toCard)} onSwipe={onSwipe} onUndo={undo} canUndo={p.hist.length > 0}
+          <SwipeStack cards={rest.map(toCard)} onSwipe={onSwipe} allow={allow} onUndo={undo} canUndo={p.hist.length > 0}
             superlike surname={s.surname || undefined}
             labels={{ like: c.like, nope: c.nope, undo: c.undo, star: c.star }} />
         ) : (
@@ -334,6 +371,7 @@ export function BabyApp(props: AppProps) {
           <div className="menu" role="menu">
             <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setRedoQuiz(true) }}><IconRefresh size={18} />{d.menu.redoQuiz}</button>
             <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setShowBackup(true) }}><IconCopy size={18} />{d.menu.backup}</button>
+            {s.pay ? <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setWall('open') }}><IconStar size={18} />{d.premium.menu}</button> : null}
             <a role="menuitem" href={hrefs.home}><IconHome size={18} />{d.menu.site}</a>
             <hr />
             <button type="button" role="menuitem" className="danger" onClick={() => {
@@ -360,6 +398,16 @@ export function BabyApp(props: AppProps) {
       {showFilters && ctx ? <FiltersSheet ctx={ctx} onClose={() => setShowFilters(false)} /> : null}
       {showBackup && ctx ? <BackupSheet ctx={ctx} onClose={() => setShowBackup(false)} /> : null}
       {showFinal && ctx ? <FinalSheet ctx={ctx} onClose={() => setShowFinal(false)} /> : null}
+      {showSave && ctx && !match && !news ? <SaveSheet ctx={ctx} onClose={() => setShowSave(false)} /> : null}
+      {wall && ctx ? <PremiumSheet ctx={ctx} why={wall} onClose={() => setWall(null)} /> : null}
+
+      {paid ? (
+        <div className="overlay" role="dialog" aria-modal="true" aria-labelledby="paid-h">
+          <h2 id="paid-h">{paid === 'yes' ? d.premium.paidH : paid === 'wait' ? d.premium.paidWait : d.premium.openH}</h2>
+          {paid === 'wait' ? <div className="spinner keep-motion" aria-hidden="true" /> : <p className="lead">{paid === 'yes' ? d.premium.paidP : d.premium.paidNot}</p>}
+          {paid === 'wait' ? null : <div className="actions"><button type="button" className="btn btn--primary" autoFocus onClick={() => setPaid(null)}>{paid === 'yes' ? d.matches.keepSwiping : c.close}</button></div>}
+        </div>
+      ) : null}
 
       {match || news ? (
         <div className="overlay" role="dialog" aria-modal="true" aria-labelledby="match-h">

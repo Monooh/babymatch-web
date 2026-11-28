@@ -1,8 +1,9 @@
 'use client'
 import { useEffect, useMemo, useState } from 'react'
 import { CULTURES, LETTERS, TAGS, fold, type Culture, type Gender, type N, type Tag } from '@/lib/model'
-import { actions, setState, useStore, EMPTY_FILTERS, type Filters } from '@/lib/store'
+import { actions, getState, setState, useStore, EMPTY_FILTERS, type Filters } from '@/lib/store'
 import { createInvite, deviceKey, leavePartner, loginEmail, removeEmail, saveEmail, syncNow, track, useSyncStatus } from '@/lib/sync'
+import { askWall, limitsOf } from '@/lib/premium'
 import { t } from '@/lib/t'
 import { IconCheck, IconCopy, IconShare, IconStar, IconTrash, IconX } from '../Icons'
 import { passes } from './deck'
@@ -94,7 +95,7 @@ function NameRow({ n, ctx, starred, badge }: { n: N; ctx: Ctx; starred?: boolean
       </a>
       {starred !== undefined ? (
         <>
-          <button type="button" className="icon-btn" aria-pressed={starred} aria-label={`${starred ? d.likes.favOn : d.likes.favOff}: ${n.name}`} onClick={() => actions.toggleStar(n.id)}><IconStar size={20} /></button>
+          <button type="button" className="icon-btn" aria-pressed={starred} aria-label={`${starred ? d.likes.favOn : d.likes.favOff}: ${n.name}`} onClick={() => { if (!starred && !limitsOf(getState()).canSuperOnly) askWall('supers'); else actions.toggleStar(n.id) }}><IconStar size={20} /></button>
           <button type="button" className="icon-btn" aria-label={`${d.likes.remove}: ${n.name}`} onClick={() => actions.unswipe(n.id)}><IconTrash size={20} /></button>
         </>
       ) : null}
@@ -244,7 +245,8 @@ export function MatchesTab({ ctx, onSwipe, onFinal }: { ctx: Ctx; onSwipe: () =>
 
 // ───────────────────────── My list under my email ─────────────────────────
 /** Shown only when the server can send email. Two uses: keep this list under an address, or ask for a list kept before. */
-function MailBox({ ctx }: { ctx: Ctx }) {
+/** `plain` is the same box inside the "save your list" offer: only the form, without the way to find another list. */
+export function MailBox({ ctx, plain }: { ctx: Ctx; plain?: boolean }) {
   const M = ctx.d.menu
   const s = useStore()
   const [email, setEmail] = useState('')
@@ -253,7 +255,7 @@ function MailBox({ ctx }: { ctx: Ctx }) {
   useEffect(() => { void syncNow() }, []) // an untouched device has not asked the server yet whether email is on
   if (!s.mail) return null
   const hasList = Object.keys(s.likes).length > 0
-  const find = finding || !hasList
+  const find = !plain && (finding || !hasList)
   const submit = async () => {
     setSt('busy')
     if (find) { const r = await loginEmail(email); setSt(r === 'sent' ? 'found' : r) }
@@ -262,7 +264,7 @@ function MailBox({ ctx }: { ctx: Ctx }) {
   const [address, confirmed] = s.email || ['', 0]
   return (
     <section className="panel panel--sugar">
-      <div><h3>{find ? M.mailFindH : M.mailH}</h3><p>{find ? M.mailFindP : M.mailP}</p></div>
+      {plain ? <p>{M.mailP}</p> : <div><h3>{find ? M.mailFindH : M.mailH}</h3><p>{find ? M.mailFindP : M.mailP}</p></div>}
       {!find && address ? (
         <p role="status" className={confirmed ? 'sync-note' : undefined}>{confirmed ? <IconCheck size={16} /> : null}{t(confirmed ? M.mailOk : M.mailSent, { email: address })}</p>
       ) : null}
@@ -278,7 +280,7 @@ function MailBox({ ctx }: { ctx: Ctx }) {
         </form>
       )}
       {!find && address ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => void removeEmail()}>{M.mailRemove}</button> : null}
-      {hasList ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => { setFinding(v => !v); setSt('idle') }}>{finding ? M.mailH : M.mailFindH}</button> : null}
+      {hasList && !plain ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => { setFinding(v => !v); setSt('idle') }}>{finding ? M.mailH : M.mailFindH}</button> : null}
     </section>
   )
 }

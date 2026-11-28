@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'Cloudflare, Inc. héberge le site et la base de données, et les protège contre les attaques. Pour cela, elle traite l’adresse IP de chaque visite.',
             'Resend, Inc. envoie les e-mails, si tu donnes ton adresse.',
+            'Stripe Payments Europe, Ltd. encaisse le paiement de Premium, si tu l’achètes. Elle reçoit tes données de paiement ; BabyMatch ne les voit pas et ne les conserve pas : seuls sont gardés la confirmation du paiement et l’e-mail que tu donnes en payant, pour te rendre ton accès.',
             'Google Ireland Ltd. fournit Google Analytics, si tu l’acceptes.',
           ],
           'Cloudflare et Resend ont leur siège aux États-Unis. Les transferts s’appuient sur le cadre de protection des données UE-États-Unis ou, à défaut, sur les clauses contractuelles types de la Commission européenne. Tes données ne sont ni vendues ni cédées à qui que ce soit d’autre.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'Le service',
         p: [
-          'BabyMatch est gratuit et ne demande pas d’inscription. Ta liste est enregistrée dans ton navigateur et dans une copie sur le serveur pour que tu ne la perdes pas.',
-          'Le site peut modifier, ajouter ou retirer des fonctions. Si l’une d’elles devient payante un jour, ce sera indiqué clairement avant que tu paies quoi que ce soit.',
+          'BabyMatch peut s’utiliser gratuitement et ne demande pas d’inscription. Ta liste est enregistrée dans ton navigateur et dans une copie sur le serveur pour que tu ne la perdes pas.',
+          'La version gratuite comporte un nombre limité de « j’aime » et de superlikes par jour. Le site peut modifier, ajouter ou retirer des fonctions.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'Premium supprime les limites quotidiennes de « j’aime » et de superlikes. Il coûte 9,99 € (taxes comprises) et se paie une seule fois : ce n’est pas un abonnement et il ne se renouvelle pas.',
+          'Il vaut pour toi et pour la personne avec qui tu as réuni ta liste, tant que vous restez réunis. Si vous séparez les listes, Premium reste à la personne qui a payé.',
+          'Le paiement est géré par Stripe. L’accès est activé dès que le paiement est confirmé ; en payant, tu acceptes qu’il commence immédiatement et qu’une fois activé, le droit de rétractation de 14 jours ne s’applique plus.',
+          'Si tu as payé et que Premium n’est pas activé, écris à {email} : nous réglons le problème ou nous te remboursons.',
         ],
       },
       {

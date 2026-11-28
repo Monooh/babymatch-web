@@ -456,6 +456,9 @@ h2.h-sm { margin-bottom: var(--space-xl); }
 .bars--vote li { grid-template-columns: minmax(0, 7rem) minmax(0, 1fr) 2.5rem; gap: var(--space-sm); }
 .bars--vote li span { color: var(--color-ink); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .bars--vote li i { background: var(--color-accent); }
+.perks { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-xs); }
+.perks li { display: flex; align-items: flex-start; gap: var(--space-xs); }
+.perks li svg { flex: none; margin-top: 0.2em; color: var(--color-accent-2); }
 .overlay { position: absolute; inset: 0; z-index: var(--z-modal); display: grid; align-content: center; justify-items: center; gap: var(--space-lg); padding: var(--space-xl) var(--space-lg); text-align: center; background: var(--grain), var(--fibre), var(--color-mint); animation: pop-in var(--dur-long) var(--ease-out); }
 .overlay h2 { font-size: var(--text-3xl); }
 .overlay .big { font-size: clamp(3rem, 16vw, 5.5rem); font-weight: 600; letter-spacing: var(--tracking-display); line-height: 1; overflow-wrap: break-word; min-width: 0; max-width: 100%; }

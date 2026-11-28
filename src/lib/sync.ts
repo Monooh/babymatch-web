@@ -18,6 +18,7 @@ type Answer = {
   state?: { swipes: Op[]; prefs: string; prefsAt: number; final?: string; finalAt?: number; name: string }
   own?: boolean; joined?: boolean; claimed?: boolean; confirmed?: boolean; host?: string
   mail?: boolean; email?: [string, 0 | 1] | null; poll?: Poll | null
+  plan?: string; pay?: boolean; url?: string
 }
 /** The vote a couple opened for family and friends. `counts` and `voters` only come once there is something to show. */
 export type Poll = { code: string; names: [number, string][]; who: string[]; lang: string; counts?: Record<number, number>; total?: number; voters?: [string, number][] }
@@ -115,6 +116,8 @@ function take(data: Answer, sent: Op[], sentPrefsAt: number, sentFinalAt: number
     if (sentFinalAt && sentFinalAt === s.finalAt) patch.finalDirty = false
     if (data.mail !== undefined) patch.mail = !!data.mail
     if (data.email !== undefined) patch.email = data.email
+    if (data.plan !== undefined) patch.plan = data.plan === 'premium' ? 'premium' : 'free'
+    if (data.pay !== undefined) patch.pay = !!data.pay
     if (data.state) {
       patch = { ...patch, ...mergeRemote({ ...s, dirty }, data.state.swipes) }
       if (data.state.prefsAt > s.prefsAt && data.state.prefs) {
@@ -167,6 +170,7 @@ export function syncNow(): Promise<boolean> {
         write(TOKEN_KEY, null); setState({ rev: 0, uid: null }, { remote: true }); markAllDirty(); again = true
       }
       if (data.anon && data.mail !== undefined && data.mail !== getState().mail) setState({ mail: !!data.mail }, { remote: true })
+      if (data.anon && data.pay !== undefined && data.pay !== getState().pay) setState({ pay: !!data.pay }, { remote: true })
       setStatus(data.anon ? 'idle' : 'saved')
       return true
     })
@@ -276,6 +280,21 @@ export async function loginEmail(email: string): Promise<'sent' | 'bad' | 'netwo
     return data.ok ? 'sent' : data.error === 'email' ? 'bad' : 'network'
   } catch { return 'network' }
 }
+/** Start the Premium payment: the server opens a Stripe Checkout for this person and answers with its address. */
+export async function startCheckout(): Promise<string | null> {
+  const data = await ask('/api/pay')
+  if (!data.ok || !data.url) return null
+  setState({ payAt: Date.now() }, { remote: true })
+  return data.url
+}
+/** Ask the server whether the payment went through. True when this person (or their partner) is Premium. */
+export async function checkPaid(): Promise<boolean> {
+  const data = await ask('/api/pay/check')
+  const premium = data.ok === true && data.plan === 'premium'
+  if (premium) setState({ payAt: 0 }, { remote: true })
+  return premium
+}
+
 /** Stop using the address: from the app (no key) or from the link at the foot of an email. */
 export async function removeEmail(key?: string): Promise<boolean> {
   const data = await ask('/api/email/off', key ? { key } : {})

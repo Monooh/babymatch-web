@@ -11,6 +11,7 @@
 import { runBackup, health } from './backup.js'
 import { mailOn, cleanEmail, compose, send } from './mail.js'
 import { adminLogin, adminOpen, adminOut, adminStats, adminSweep } from './admin.js'
+import { payOn, devPay, checkout, paid, markDevPaid } from './pay.js'
 
 const KIND = { NO: 0, LIKE: 1, SUPER: 2, CLEARED: 3 }
 const COOKIE = 'bm_s'          // the secret (HttpOnly)
@@ -24,6 +25,8 @@ const EVENTS = new Set(['app_open', 'quiz_start', 'quiz_done', 'quiz_skip', 'fir
   'superlike', 'invite_created', 'invite_shared', 'invite_opened', 'partner_joined', 'match', 'list_opened', 'filters_used', 'backup_link', 'restored',
   'from_home', 'from_name', 'from_list', 'from_invite', 'from_other', 'from_vote',
   'final_opened', 'duel', 'duels_10', 'surname_set', 'poll_created', 'poll_shared', 'vote_opened', 'vote_cast', 'email_saved', 'email_confirmed',
+  // the daily limit and Premium: the limit was reached, the offer was seen, the payment was started, it went through; the "save your list" nudge
+  'limit_hit', 'premium_seen', 'premium_start', 'premium_paid', 'nudge_mail',
   // arrivals at the site from outside it, sent by public/consent.js: where from, and on which kind of page
   'visit', 'src_search', 'src_ai', 'src_social', 'src_other', 'src_direct', 'land_home', 'land_name', 'land_list', 'land_saints', 'land_app', 'land_data', 'land_other'])
 const BOTS = /bot|crawl|spider|slurp|headless|lighthouse|preview|monitor|python|curl|wget|scan/i
@@ -167,7 +170,7 @@ async function save(env, user, { ops = [], prefs = null, final = null, name = nu
 }
 
 const partnerRow = (env, user) => (user.partner_id
-  ? env.DB.prepare('SELECT id, name, lang, swipes, rev, final, email, email_ok, mail_at, mail_key, updated_at FROM users WHERE id = ?').bind(user.partner_id).first()
+  ? env.DB.prepare('SELECT id, name, lang, swipes, rev, final, email, email_ok, mail_at, mail_key, updated_at, plan FROM users WHERE id = ?').bind(user.partner_id).first()
   : null)
 
 /** What a client needs to draw the partner: their name, what they like and how they ranked it. Left out when unchanged. */
@@ -191,8 +194,10 @@ function partnerView(p, seen) {
 async function snapshot(env, user, body, { full = false, base = user.rev, token = null, prow } = {}) {
   const p = prow !== undefined ? prow : await partnerRow(env, user)
   const out = {
-    ok: true, id: user.id, rev: user.rev, plan: user.plan, invite: user.invite || null, partner: partnerView(p, full ? null : body.prev),
-    mail: mailOn(env), email: user.email ? [user.email, user.email_ok ? 1 : 0] : null,
+    // Premium is for the couple: one of the two pays and both have it for as long as they are joined.
+    ok: true, id: user.id, rev: user.rev, plan: user.plan === 'premium' || (p && p.plan === 'premium') ? 'premium' : 'free', invite: user.invite || null,
+    partner: partnerView(p, full ? null : body.prev),
+    mail: mailOn(env), email: user.email ? [user.email, user.email_ok ? 1 : 0] : null, pay: payOn(env),
   }
   if (full || Number(body.rev) !== base) {
     out.state = { swipes: asList(parseSwipes(user.swipes)), prefs: user.prefs, prefsAt: user.prefs_at, final: user.final || '', finalAt: user.final_at || 0, name: user.name }
@@ -223,7 +228,7 @@ async function sync(env, body, auth, meta) {
   let { user } = auth, token = null
   if (!user) {
     // Someone just looking around has nothing to save: no person is created until there is.
-    if (!ops.length && !body.prefs && !body.final) return { data: { ok: true, anon: true, mail: mailOn(env) } };
+    if (!ops.length && !body.prefs && !body.final) return { data: { ok: true, anon: true, mail: mailOn(env), pay: payOn(env) } };
     const made = await createUser(env, body)
     user = made.user; token = made.token
   } else if (body.needToken) {
@@ -335,6 +340,46 @@ async function forget(env, body, auth) {
     await env.DB.batch(erase(env, user.id))
   }
   return { data: { ok: true }, clear: true }
+}
+
+// ───────── Premium: one payment ─────────
+
+/** "Go Premium": save what the device carries, start a Stripe Checkout for this person and hand back its address. */
+async function pay(env, body, auth, meta) {
+  if (!payOn(env)) return { data: { ok: false, error: 'off' } }
+  let { user } = auth, token = null
+  if (!user) ({ user, token } = await createUser(env, body))
+  const saved = await save(env, user, { ops: cleanOps(body.ops, now()), prefs: body.prefs, final: body.final, name: cleanName(body.name), lang: cleanLang(body.lang) })
+  if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
+  user = saved.user
+  const snap = await snapshot(env, user, body, { base: saved.base, token })
+  if (snap.plan === 'premium') return { data: snap, token: token || auth.token }
+  const session = await checkout(env, user, { lang: cleanLang(body.lang) || user.lang, back: appLink(meta, cleanLang(body.lang) || user.lang) })
+  if (!session) return { data: { ...snap, ok: false, error: 'pay' }, token: token || auth.token }
+  await env.DB.prepare('UPDATE users SET pay_ref = ?, pay_at = ? WHERE id = ?').bind(session.id, now(), user.id).run()
+  return { data: { ...snap, url: session.url }, token: token || auth.token }
+}
+
+/** Back from the payment page (or just asking): if Stripe says the last attempt was paid, this person is Premium. */
+async function payCheck(env, body, auth) {
+  let { user } = auth
+  if (!user) return { data: { ok: true, anon: true, mail: mailOn(env), pay: payOn(env) } }
+  if (user.plan !== 'premium' && user.pay_ref && now() - user.pay_at < 7 * 86400_000) {
+    const r = await paid(env, user, user.pay_ref)
+    if (r.paid) {
+      const steps = [env.DB.prepare("UPDATE users SET plan = 'premium', paid_at = ?, rev = rev + 1, updated_at = ? WHERE id = ?").bind(now(), now(), user.id)]
+      // The address given when paying is a way back to the list (and to Premium) from another phone, unless the
+      // person already has one or someone else confirmed that same address.
+      const address = cleanEmail(r.email)
+      if (address && !(user.email && user.email_ok)) {
+        const other = await env.DB.prepare('SELECT 1 AS one FROM users WHERE email = ? AND email_ok = 1 AND id <> ?').bind(address, user.id).first()
+        if (!other) steps.push(env.DB.prepare('UPDATE users SET email = ?, email_ok = 1, mail_key = COALESCE(mail_key, ?) WHERE id = ?').bind(address, pick(20), user.id))
+      }
+      await env.DB.batch(steps)
+      user = await getUser(env, user.id)
+    }
+  }
+  return { data: await snapshot(env, user, body) }
 }
 
 // ───────── optional email ─────────
@@ -528,6 +573,7 @@ const ROUTES = {
   '/api/email': email, '/api/email/confirm': emailConfirm, '/api/email/login': emailLogin, '/api/email/off': emailOff,
   '/api/poll': poll, '/api/poll/mine': pollMine, '/api/poll/close': pollClose, '/api/poll/get': pollGet, '/api/vote': vote,
   '/api/admin/login': adminLogin, '/api/admin/open': adminOpen, '/api/admin/out': adminOut, '/api/admin/stats': adminStats,
+  '/api/pay': pay, '/api/pay/check': payCheck,
 }
 const PUBLIC = new Set([track, pollGet, vote, adminLogin, adminOpen, adminOut, adminStats]) // no person behind these: nothing to look up
 
@@ -556,6 +602,11 @@ export default {
     if (env.DEV_ORIGIN && url.pathname === '/api/_admin') { // who owns the panel, for the tests: in production it is set by hand
       await env.DB.batch([env.DB.prepare('DELETE FROM admins'), env.DB.prepare('DELETE FROM admin_tokens'), env.DB.prepare('INSERT INTO admins (email) VALUES (?)').bind(url.searchParams.get('email') || 'owner@example.test')])
       return reply({ ok: true }, { cors })
+    }
+    if (devPay(env) && url.pathname === '/api/_pay') { // local development only: the made-up payment page says "paid"
+      const who = await getUser(env, url.searchParams.get('user') || '')
+      if (who && who.pay_ref) markDevPaid(who.pay_ref)
+      return reply({ ok: !!(who && who.pay_ref) }, { cors })
     }
     const handler = ROUTES[url.pathname]
     if (!handler) return reply({ ok: false, error: 'not_found' }, { status: 404, cors })

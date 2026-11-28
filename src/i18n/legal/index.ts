@@ -36,7 +36,7 @@ export const OWNER = {
 } as const
 
 /** The day these texts were last changed. */
-export const LEGAL_UPDATED = '2026-11-26'
+export const LEGAL_UPDATED = '2026-11-28'
 
 const LEGAL: Record<Locale, Legal> = { es, en, fr, de, it, pt }
 export const getLegal = (l: Locale): Legal => LEGAL[l]

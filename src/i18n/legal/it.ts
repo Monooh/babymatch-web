@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'Cloudflare, Inc. ospita il sito e il database e li protegge dagli attacchi. Per farlo tratta l’indirizzo IP di ogni visita.',
             'Resend, Inc. invia le email, se indichi il tuo indirizzo.',
+            'Stripe Payments Europe, Ltd. incassa il pagamento di Premium, se lo acquisti. Riceve i tuoi dati di pagamento; BabyMatch non li vede e non li conserva: tiene solo la conferma del pagamento e l’email che indichi pagando, per restituirti l’accesso.',
             'Google Ireland Ltd. fornisce Google Analytics, se lo accetti.',
           ],
           'Cloudflare e Resend hanno sede negli Stati Uniti. I trasferimenti si basano sul Data Privacy Framework UE-USA o, in mancanza, sulle clausole contrattuali tipo della Commissione europea. I tuoi dati non vengono venduti né ceduti a nessun altro.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'Il servizio',
         p: [
-          'BabyMatch è gratuito e non chiede registrazione. La tua lista viene salvata nel tuo browser e in una copia sul server, così non la perdi.',
-          'Il sito può cambiare, aggiungere o togliere funzioni. Se in futuro qualcuna diventerà a pagamento, sarà indicato chiaramente prima che tu paghi qualcosa.',
+          'BabyMatch si può usare gratis e non chiede registrazione. La tua lista viene salvata nel tuo browser e in una copia sul server, così non la perdi.',
+          'La versione gratuita ha un numero limitato di «mi piace» e di superlike al giorno. Il sito può cambiare, aggiungere o togliere funzioni.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'Premium toglie i limiti giornalieri di «mi piace» e di superlike. Costa 9,99 € (tasse incluse) e si paga una volta sola: non è un abbonamento e non si rinnova.',
+          'Vale per te e per la persona con cui hai unito la tua lista, finché restate uniti. Se separate le liste, Premium resta a chi ha pagato.',
+          'Il pagamento è gestito da Stripe. L’accesso si attiva appena il pagamento è confermato; pagando accetti che inizi subito e che, una volta attivato, il diritto di recesso di 14 giorni non si applichi più.',
+          'Se hai pagato e Premium non risulta attivo, scrivi a {email}: risolviamo o ti rimborsiamo.',
         ],
       },
       {

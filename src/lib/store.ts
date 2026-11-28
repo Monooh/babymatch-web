@@ -46,13 +46,16 @@ export type State = {
   finalDirty: boolean
   mail: boolean                 // the server can send email (otherwise the app does not mention it)
   email: [address: string, confirmed: 0 | 1] | null
+  plan: 'free' | 'premium'      // Premium lifts the daily limits; one of the couple pays and both have it
+  pay: boolean                  // the server can take the payment (otherwise there are no limits and no offer)
+  payAt: number                 // when a payment was last started here, to ask the server how it went
 }
 
 export const EMPTY_FILTERS: Filters = { g: [], cultures: [], tags: [], letters: [], len: [], pop: [], nativeOnly: true }
 const INITIAL: State = {
   v: 1, quiz: null, quizSkipped: false, likes: {}, nopes: {}, stars: [], filters: EMPTY_FILTERS, list: null, me: '', surname: '', partner: null,
   gone: {}, dirty: {}, rev: 0, prefsAt: 0, prefsDirty: false, uid: null, invite: null, pending: null, seen: [], once: {},
-  final: EMPTY_FINAL, finalAt: 0, finalDirty: false, mail: false, email: null,
+  final: EMPTY_FINAL, finalAt: 0, finalDirty: false, mail: false, email: null, plan: 'free', pay: false, payAt: 0,
 }
 const KEY = 'babymatch:v1'
 /** What travels to the server as "preferences": losing a device should not mean answering the questions again. */

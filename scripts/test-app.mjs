@@ -31,6 +31,7 @@ const like = async (page, n = 1, dismiss = false) => {
   for (let i = 0; i < n; i++) {
     await page.click('.deck-actions .btn--primary'); await sleep(500)
     if (dismiss && await page.$('.overlay')) { await page.click('.overlay .btn--primary'); await sleep(300) } // a match: keep swiping
+    if (await page.$('.sheet-back #save-h')) { await page.click('.sheet-head .icon-btn'); await sleep(300) }   // "save your list": not now
   }
 }
 const until = async (fn, ms = 30000) => { const end = Date.now() + ms; for (;;) { const v = await fn(); if (v) return v; if (Date.now() > end) return null; await sleep(400) } }

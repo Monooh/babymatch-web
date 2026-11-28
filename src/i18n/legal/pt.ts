@@ -67,6 +67,7 @@ const legal: Legal = {
           [
             'A Cloudflare, Inc. hospeda o site e o banco de dados e os protege contra ataques. Para isso, processa o endereço IP de cada visita.',
             'A Resend, Inc. envia os e-mails, se você informar seu endereço.',
+            'A Stripe Payments Europe, Ltd. processa o pagamento do Premium, se você comprar. Ela recebe seus dados de pagamento; o BabyMatch não os vê nem os guarda: mantém apenas a confirmação do pagamento e o e-mail que você informa ao pagar, para devolver seu acesso.',
             'A Google Ireland Ltd. fornece o Google Analytics, se você aceitar.',
           ],
           'A Cloudflare e a Resend têm sede nos Estados Unidos. As transferências se apoiam no Marco de Privacidade de Dados UE-EUA ou, na falta dele, nas cláusulas contratuais padrão da Comissão Europeia. Seus dados não são vendidos nem repassados a mais ninguém.',
@@ -153,8 +154,17 @@ const legal: Legal = {
       {
         h: 'O serviço',
         p: [
-          'O BabyMatch é gratuito e não pede cadastro. Sua lista fica salva no seu navegador e em uma cópia no servidor, para você não perdê-la.',
-          'O site pode mudar, acrescentar ou retirar funções. Se no futuro alguma passar a ser paga, isso será avisado com clareza antes de você pagar qualquer coisa.',
+          'O BabyMatch pode ser usado de graça e não pede cadastro. Sua lista fica salva no seu navegador e em uma cópia no servidor, para você não perdê-la.',
+          'A versão gratuita tem um número limitado de curtidas e de superlikes por dia. O site pode mudar, acrescentar ou retirar funções.',
+        ],
+      },
+      {
+        h: 'BabyMatch Premium',
+        p: [
+          'O Premium tira os limites diários de curtidas e de superlikes. Custa 9,99 € (impostos incluídos) e é pago uma única vez: não é assinatura e não se renova.',
+          'Vale para você e para a pessoa com quem você uniu sua lista, enquanto continuarem unidos. Se separarem as listas, o Premium fica com quem pagou.',
+          'O pagamento é processado pela Stripe. O acesso é ativado assim que o pagamento é confirmado; ao pagar, você aceita que ele comece na hora e que, depois de ativado, o direito de arrependimento de 14 dias deixa de se aplicar.',
+          'Se você pagou e o Premium não aparece ativo, escreva para {email}: resolvemos ou devolvemos o dinheiro.',
         ],
       },
       {
