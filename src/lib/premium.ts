@@ -3,7 +3,7 @@ import type { State } from './store'
 // The free plan, like the dating apps: a few likes and one superlike a day; Premium (one payment) has no limit.
 // The limits only exist while the server can take the payment (`pay`), and they are counted on this device from the
 // time of each answer, so they start again at midnight wherever the person is.
-export const FREE_LIKES = 15
+export const FREE_LIKES = 30
 export const FREE_SUPERS = 1
 
 /** `canSuper` is for a new answer (it is a like too); `canSuperOnly` is for turning a like already given into a superlike. */
