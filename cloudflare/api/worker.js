@@ -27,10 +27,14 @@ const EVENTS = new Set(['app_open', 'quiz_start', 'quiz_done', 'quiz_skip', 'fir
   'final_opened', 'duel', 'duels_10', 'surname_set', 'poll_created', 'poll_shared', 'vote_opened', 'vote_cast', 'email_saved', 'email_confirmed',
   // the daily limit and Premium: the limit was reached, the offer was seen, the payment was started, it went through; the "save your list" nudge
   'limit_hit', 'premium_seen', 'premium_start', 'premium_paid', 'nudge_mail',
+  // the account: the screen came up at the third like, a code was asked for, the code was right
+  'account_ask', 'account_start', 'account_done',
   // arrivals at the site from outside it, sent by public/consent.js: where from, and on which kind of page
   'visit', 'src_search', 'src_ai', 'src_social', 'src_other', 'src_direct', 'land_home', 'land_name', 'land_list', 'land_saints', 'land_app', 'land_data', 'land_other'])
 const BOTS = /bot|crawl|spider|slurp|headless|lighthouse|preview|monitor|python|curl|wget|scan/i
 const TOKEN_AGE = 2 * 86400_000   // links sent by email
+const CODE_AGE = 20 * 60_000      // the six-digit code in the same email
+const CODE_TRIES = 5
 const AWAY = 30 * 60_000          // no change for this long: the person is not in the app right now
 const MAIL_EVERY = 20 * 3600_000  // at most one "new matches" email in this time
 const MAX_VOTERS = 300
@@ -413,25 +417,86 @@ async function email(env, body, auth, meta) {
   return { data: await snapshot(env, user, body, { base: saved.base, token }), token: token || auth.token }
 }
 
+/**
+ * "Continue with my email": the one door for a new account and for coming back to one. A six-digit code (and a link)
+ * goes to the address; nothing is written on anybody until the code or the link proves the address is theirs. The
+ * answer is the same whether or not the address already has an account.
+ */
+async function account(env, body, auth, meta) {
+  if (!mailOn(env)) return { data: { ok: false, error: 'off' } }
+  const address = cleanEmail(body.email)
+  if (!address) return { data: { ok: false, error: 'email' } }
+  let { user } = auth, token = null
+  if (!user) ({ user, token } = await createUser(env, body))
+  const saved = await save(env, user, { ops: cleanOps(body.ops, now()), prefs: body.prefs, final: body.final, name: cleanName(body.name), lang: cleanLang(body.lang) })
+  if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
+  user = saved.user
+  const snap = async extra => ({ data: { ...(await snapshot(env, user, body, { base: saved.base, token })), ...extra }, token: token || auth.token })
+  const recent = (await env.DB.prepare('SELECT COUNT(*) AS n FROM mail_tokens WHERE email = ? AND created_at > ?').bind(address, now() - 3600_000).first()).n
+  if (recent >= 5 || await tooMany(env, user)) return snap({ ok: false, error: 'slow' })
+  // Whose address is it? Somebody who confirmed it before (this is a way back in), or else whoever is asking now.
+  const owner = await env.DB.prepare('SELECT * FROM users WHERE email = ? AND email_ok = 1 ORDER BY updated_at DESC LIMIT 1').bind(address).first()
+  const target = owner || user
+  const link = secret(), code = String(crypto.getRandomValues(new Uint32Array(1))[0] % 1_000_000).padStart(6, '0')
+  await env.DB.prepare('INSERT INTO mail_tokens (hash, user_id, email, created_at, code) VALUES (?, ?, ?, ?, ?)')
+    .bind(await sha(link), target.id, address, now(), await sha(address + ':' + code)).run()
+  const lang = cleanLang(body.lang) || user.lang
+  const sent = await send(env, address, compose('code', lang, { name: target.name, code, link: appLink(meta, lang, '#m=' + link) }))
+  return sent ? snap({ sent: true }) : snap({ ok: false, error: 'mail' })
+}
+
+/** The code from the email, typed in the app. A few wrong tries and that code is dead. */
+async function accountCode(env, body, auth) {
+  const address = cleanEmail(body.email)
+  const code = typeof body.code === 'string' && /^\d{6}$/.test(body.code) ? body.code : ''
+  const row = address ? await env.DB.prepare('SELECT * FROM mail_tokens WHERE email = ? AND code IS NOT NULL AND created_at > ? ORDER BY created_at DESC LIMIT 1').bind(address, now() - CODE_AGE).first() : null
+  if (!row || row.tries >= CODE_TRIES) return { data: { ok: false, error: 'expired' } }
+  if (!code || (await sha(address + ':' + code)) !== row.code) {
+    await env.DB.prepare('UPDATE mail_tokens SET tries = tries + 1 WHERE hash = ?').bind(row.hash).run()
+    return { data: { ok: false, error: row.tries + 1 >= CODE_TRIES ? 'expired' : 'code' } }
+  }
+  return openMail(env, row, body, auth)
+}
+
 /** The link in the email was opened: the address is confirmed and this device becomes one of that person's devices. */
 async function emailConfirm(env, body, auth) {
   const raw = typeof body.token === 'string' && /^[\w-]{20,}$/.test(body.token) ? body.token : ''
   const row = raw ? await env.DB.prepare('SELECT * FROM mail_tokens WHERE hash = ?').bind(await sha(raw)).first() : null
   if (!row || now() - row.created_at > TOKEN_AGE) return { data: { ok: false, error: 'expired' } }
+  return openMail(env, row, body, auth)
+}
+
+/** A link or a code proved the address: it becomes that person's (once), and this device one of their devices. */
+async function openMail(env, row, body, auth) {
   let user = await getUser(env, row.user_id)
   if (!user) return { data: { ok: false, error: 'expired' } }
   const steps = [env.DB.prepare('DELETE FROM mail_tokens WHERE hash = ?').bind(row.hash)]
-  if (user.email === row.email && !user.email_ok) steps.push(env.DB.prepare('UPDATE users SET email_ok = 1, updated_at = ? WHERE id = ?').bind(now(), user.id))
-  await env.DB.batch(steps)
-  user = await getUser(env, user.id)
+  if (!(user.email === row.email && user.email_ok)) {
+    // A new account. If someone else confirmed this very address in the meantime, it is theirs: open that one.
+    const owner = await env.DB.prepare('SELECT * FROM users WHERE email = ? AND email_ok = 1 AND id <> ? ORDER BY updated_at DESC LIMIT 1').bind(row.email, user.id).first()
+    if (owner) user = owner
+    else steps.push(env.DB.prepare('UPDATE users SET email = ?, email_ok = 1, mail_key = COALESCE(mail_key, ?), updated_at = ? WHERE id = ?').bind(row.email, pick(20), now(), user.id))
+  }
   // Whatever this device had as someone else comes along, as when a partner reclaims their list.
   const other = auth.user && auth.user.id !== user.id ? auth.user : null
+  // …and so does a Premium paid from this device before it had an account.
+  if (other && other.plan === 'premium' && user.plan !== 'premium') {
+    steps.push(env.DB.prepare("UPDATE users SET plan = 'premium', paid_at = ?, pay_ref = ?, pay_at = ?, rev = rev + 1 WHERE id = ?").bind(other.paid_at || now(), other.pay_ref, other.pay_at || 0, user.id))
+  }
+  await env.DB.batch(steps)
+  user = await getUser(env, user.id)
   const ops = [...(other ? asList(parseSwipes(other.swipes)) : []), ...cleanOps(body.ops, now())]
   const saved = await save(env, user, { ops, lang: cleanLang(body.lang) })
   if (!saved) return { data: { ok: false, error: 'busy' }, status: 503 }
   const token = auth.user && !other ? null : await newSession(env, user.id)
   if (other && !other.partner_id && !other.email_ok) await env.DB.batch(erase(env, other.id))
   return { data: { ...(await snapshot(env, saved.user, body, { full: true, token })), confirmed: true }, token: token || auth.token }
+}
+
+/** "Sign out" on this device: its session ends; the list stays in the account. */
+async function logout(env, body, auth) {
+  if (auth.hash) await env.DB.prepare('DELETE FROM sessions WHERE hash = ?').bind(auth.hash).run()
+  return { data: { ok: true }, clear: true }
 }
 
 /** "I lost my list": if a confirmed address matches, send the link that opens it. The answer never says whether it did. */
@@ -574,6 +639,7 @@ const ROUTES = {
   '/api/poll': poll, '/api/poll/mine': pollMine, '/api/poll/close': pollClose, '/api/poll/get': pollGet, '/api/vote': vote,
   '/api/admin/login': adminLogin, '/api/admin/open': adminOpen, '/api/admin/out': adminOut, '/api/admin/stats': adminStats,
   '/api/pay': pay, '/api/pay/check': payCheck,
+  '/api/account': account, '/api/account/code': accountCode, '/api/logout': logout,
 }
 const PUBLIC = new Set([track, pollGet, vote, adminLogin, adminOpen, adminOut, adminStats]) // no person behind these: nothing to look up
 

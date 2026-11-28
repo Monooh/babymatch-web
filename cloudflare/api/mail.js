@@ -1,6 +1,7 @@
 // The few emails BabyMatch sends, only to people who typed their address in the app:
 //   confirm  "is this address yours?" (the link also opens the list on the device that taps it)
 //   login    "open my list here" (asked for from a device that lost it)
+//   code     the six-digit code that opens an account (new or not), with a link that does the same in one tap
 //   joined   "your partner opened your invitation"
 //   matches  "you two have new names in common" (at most one a day, and only while the person is away)
 //
@@ -28,7 +29,8 @@ const TEXT = {
     panel: ['Tu enlace para el panel de BabyMatch', 'Toca el botón en el dispositivo donde quieras ver las cifras de uso.', 'El enlace sirve veinte minutos y una sola vez. Si no lo has pedido tú, no hagas nada.'],
     joined: p => [`${p} ya está en BabyMatch contigo`, `${p} ha abierto tu invitación. A partir de ahora ven los nombres que les gustan a los dos.`, ''],
     matches: (p, n) => [n === 1 ? 'Tienen un nombre nuevo en común' : `Tienen ${n} nombres nuevos en común`, n === 1 ? `A ${p} y a ti les gusta el mismo nombre.` : `A ${p} y a ti les gustan ${n} nombres más.`, ''],
-    cta: { confirm: 'Confirmar mi correo', login: 'Abrir mi lista', panel: 'Abrir el panel', joined: 'Ver nuestros nombres', matches: 'Ver los nombres' },
+    code: c => [`${c} es tu código de BabyMatch`, 'Escribe este código en BabyMatch para entrar en tu cuenta.', 'El código sirve 20 minutos. Si no lo has pedido tú, no hagas nada.'],
+    cta: { code: 'Entrar sin código', confirm: 'Confirmar mi correo', login: 'Abrir mi lista', panel: 'Abrir el panel', joined: 'Ver nuestros nombres', matches: 'Ver los nombres' },
     partner: 'Tu pareja', alt: 'Si el botón no funciona, copia este enlace en el navegador:',
     why: 'Recibes estos avisos porque guardaste tu lista con esta dirección.', off: 'Dejar de recibirlos',
   },
@@ -38,7 +40,8 @@ const TEXT = {
     login: ['Your BabyMatch list', 'Tap the button on the phone where you want your list.', 'The link works for two days and opens your list, so do not forward it.'],
     joined: p => [`${p} has joined you on BabyMatch`, `${p} opened your invitation. From now on you both see the names you both like.`, ''],
     matches: (p, n) => [n === 1 ? 'You have a new name in common' : `You have ${n} new names in common`, n === 1 ? `You and ${p} like the same name.` : `You and ${p} like ${n} more names.`, ''],
-    cta: { confirm: 'Confirm my email', login: 'Open my list', joined: 'See our names', matches: 'See the names' },
+    code: c => [`${c} is your BabyMatch code`, 'Type this code in BabyMatch to get into your account.', 'The code works for 20 minutes. If you did not ask for this, ignore it.'],
+    cta: { code: 'Sign in without the code', confirm: 'Confirm my email', login: 'Open my list', joined: 'See our names', matches: 'See the names' },
     partner: 'Your partner', alt: 'If the button does not work, copy this link into your browser:',
     why: 'You get these emails because you saved your list with this address.', off: 'Stop these emails',
   },
@@ -48,7 +51,8 @@ const TEXT = {
     login: ['Ta liste BabyMatch', 'Touche le bouton sur le téléphone où tu veux retrouver ta liste.', 'Le lien est valable deux jours et ouvre ta liste : ne le transfère pas.'],
     joined: p => [`${p} t’a rejoint sur BabyMatch`, `${p} a ouvert ton invitation. Vous voyez désormais les prénoms qui vous plaisent à tous les deux.`, ''],
     matches: (p, n) => [n === 1 ? 'Vous avez un nouveau prénom en commun' : `Vous avez ${n} nouveaux prénoms en commun`, n === 1 ? `${p} et toi aimez le même prénom.` : `${p} et toi aimez ${n} prénoms de plus.`, ''],
-    cta: { confirm: 'Confirmer mon e-mail', login: 'Ouvrir ma liste', joined: 'Voir nos prénoms', matches: 'Voir les prénoms' },
+    code: c => [`${c} est ton code BabyMatch`, 'Saisis ce code dans BabyMatch pour accéder à ton compte.', 'Le code est valable 20 minutes. Si tu n’as rien demandé, ignore ce message.'],
+    cta: { code: 'Entrer sans le code', confirm: 'Confirmer mon e-mail', login: 'Ouvrir ma liste', joined: 'Voir nos prénoms', matches: 'Voir les prénoms' },
     partner: 'Ton partenaire', alt: 'Si le bouton ne marche pas, copie ce lien dans ton navigateur :',
     why: 'Tu reçois ces messages parce que tu as enregistré ta liste avec cette adresse.', off: 'Ne plus les recevoir',
   },
@@ -58,7 +62,8 @@ const TEXT = {
     login: ['Deine BabyMatch-Liste', 'Tippe auf den Button auf dem Handy, auf dem du deine Liste sehen willst.', 'Der Link gilt zwei Tage und öffnet deine Liste, leite ihn also nicht weiter.'],
     joined: p => [`${p} ist jetzt mit dir bei BabyMatch`, `${p} hat deine Einladung geöffnet. Ab jetzt seht ihr die Namen, die euch beiden gefallen.`, ''],
     matches: (p, n) => [n === 1 ? 'Ihr habt einen neuen gemeinsamen Namen' : `Ihr habt ${n} neue gemeinsame Namen`, n === 1 ? `${p} und dir gefällt derselbe Name.` : `${p} und dir gefallen ${n} weitere Namen.`, ''],
-    cta: { confirm: 'E-Mail bestätigen', login: 'Meine Liste öffnen', joined: 'Unsere Namen ansehen', matches: 'Namen ansehen' },
+    code: c => [`${c} ist dein BabyMatch-Code`, 'Gib diesen Code in BabyMatch ein, um in dein Konto zu kommen.', 'Der Code gilt 20 Minuten. Wenn du das nicht angefordert hast, musst du nichts tun.'],
+    cta: { code: 'Ohne Code anmelden', confirm: 'E-Mail bestätigen', login: 'Meine Liste öffnen', joined: 'Unsere Namen ansehen', matches: 'Namen ansehen' },
     partner: 'Dein Partner', alt: 'Falls der Button nicht funktioniert, kopiere diesen Link in deinen Browser:',
     why: 'Du bekommst diese E-Mails, weil du deine Liste mit dieser Adresse gesichert hast.', off: 'Abbestellen',
   },
@@ -68,7 +73,8 @@ const TEXT = {
     login: ['La tua lista di BabyMatch', 'Tocca il pulsante sul telefono dove vuoi vedere la tua lista.', 'Il link vale due giorni e apre la tua lista, quindi non inoltrarlo.'],
     joined: p => [`${p} è su BabyMatch con te`, `${p} ha aperto il tuo invito. Da adesso vedete i nomi che piacciono a tutti e due.`, ''],
     matches: (p, n) => [n === 1 ? 'Avete un nuovo nome in comune' : `Avete ${n} nuovi nomi in comune`, n === 1 ? `A te e a ${p} piace lo stesso nome.` : `A te e a ${p} piacciono altri ${n} nomi.`, ''],
-    cta: { confirm: 'Conferma la mia email', login: 'Apri la mia lista', joined: 'Vedi i nostri nomi', matches: 'Vedi i nomi' },
+    code: c => [`${c} è il tuo codice di BabyMatch`, 'Scrivi questo codice su BabyMatch per entrare nel tuo account.', 'Il codice vale 20 minuti. Se non l’hai chiesto tu, non fare nulla.'],
+    cta: { code: 'Entra senza codice', confirm: 'Conferma la mia email', login: 'Apri la mia lista', joined: 'Vedi i nostri nomi', matches: 'Vedi i nomi' },
     partner: 'Il tuo partner', alt: 'Se il pulsante non funziona, copia questo link nel browser:',
     why: 'Ricevi questi avvisi perché hai salvato la tua lista con questo indirizzo.', off: 'Non riceverli più',
   },
@@ -78,7 +84,8 @@ const TEXT = {
     login: ['Sua lista do BabyMatch', 'Toque no botão no celular em que você quer ver sua lista.', 'O link vale por dois dias e abre a sua lista, então não encaminhe.'],
     joined: p => [`${p} já está no BabyMatch com você`, `${p} abriu seu convite. A partir de agora vocês veem os nomes de que os dois gostam.`, ''],
     matches: (p, n) => [n === 1 ? 'Vocês têm um nome novo em comum' : `Vocês têm ${n} nomes novos em comum`, n === 1 ? `Você e ${p} gostam do mesmo nome.` : `Você e ${p} gostam de mais ${n} nomes.`, ''],
-    cta: { confirm: 'Confirmar meu e-mail', login: 'Abrir minha lista', joined: 'Ver nossos nomes', matches: 'Ver os nomes' },
+    code: c => [`${c} é o seu código do BabyMatch`, 'Digite este código no BabyMatch para entrar na sua conta.', 'O código vale por 20 minutos. Se não foi você que pediu, é só ignorar.'],
+    cta: { code: 'Entrar sem o código', confirm: 'Confirmar meu e-mail', login: 'Abrir minha lista', joined: 'Ver nossos nomes', matches: 'Ver os nomes' },
     partner: 'Seu parceiro', alt: 'Se o botão não funcionar, copie este link no navegador:',
     why: 'Você recebe estes avisos porque salvou sua lista com este endereço.', off: 'Parar de receber',
   },
@@ -93,13 +100,13 @@ const C = { paper: '#f7f5ec', card: '#fcfbf6', rule: '#d7d4c9', edge: '#d2c6aa',
 const FONT = "Chillax,ui-rounded,'SF Pro Rounded',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
 const SITE = 'https://babymatch.app'
 
-/** kind: confirm | login | joined | matches | panel (the owner's way into the usage panel, Spanish only). `off` is the "stop writing to me" link, left out of the first two. */
-export function compose(kind, lang, { name = '', partner = '', count = 0, link, off = '' }) {
+/** kind: confirm | login | code | joined | matches | panel (the owner's way into the usage panel, Spanish only). `off` is the "stop writing to me" link, left out of the first two. */
+export function compose(kind, lang, { name = '', partner = '', count = 0, code = '', link, off = '' }) {
   const T = TEXT[lang] || TEXT.en
   const who = partner || T.partner
-  const [subject, line, after] = kind === 'joined' ? T.joined(who) : kind === 'matches' ? T.matches(who, count) : T[kind]
+  const [subject, line, after] = kind === 'joined' ? T.joined(who) : kind === 'matches' ? T.matches(who, count) : kind === 'code' ? T.code(code) : T[kind]
   const cta = T.cta[kind]
-  const text = [T.hi(name), '', line, '', `${cta}: ${link}`, ...(after ? ['', after] : []), ...(off ? ['', T.why, `${T.off}: ${off}`] : []), '', 'BabyMatch · babymatch.app'].join('\n')
+  const text = [T.hi(name), '', line, ...(code ? ['', code] : []), '', `${cta}: ${link}`, ...(after ? ['', after] : []), ...(off ? ['', T.why, `${T.off}: ${off}`] : []), '', 'BabyMatch · babymatch.app'].join('\n')
   const p = (cls, color, size, content, extra = '') => `<p class="${cls}" style="margin:0 0 14px;font:500 ${size}px/1.5 ${FONT};color:${color};${extra}">${content}</p>`
   const html = `<!doctype html>
 <html lang="${TEXT[lang] ? lang : 'en'}">
@@ -127,6 +134,7 @@ export function compose(kind, lang, { name = '', partner = '', count = 0, link, 
 <h1 class="ink h1" style="margin:0 0 16px;font:600 30px/1.1 ${FONT};letter-spacing:-0.015em;color:${C.ink}">${esc(subject)}</h1>
 ${p('ink2', C.ink2, 17, esc(T.hi(name)), 'margin-bottom:6px;')}
 ${p('ink2', C.ink2, 17, esc(line), 'margin-bottom:26px;')}
+${code ? `<p class="ink" style="margin:0 0 26px;font:600 40px/1 ${FONT};letter-spacing:0.18em;color:${C.ink}">${esc(code)}</p>` : ''}
 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-radius:16px;background:${C.accent}">
 <a href="${esc(link)}" style="display:inline-block;padding:17px 28px 15px;border-radius:16px;background:${C.accent};border-bottom:5px solid ${C.accentDeep};font:600 17px/1.1 ${FONT};color:${C.ink};text-decoration:none">${esc(cta)}</a>
 </td></tr></table>

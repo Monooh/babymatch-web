@@ -5,6 +5,7 @@
 import puppeteer from 'puppeteer-core'
 
 const APP = (process.argv[2] || 'http://localhost:3210').replace(/\/$/, '')
+const API = (process.env.API || 'http://localhost:8787').replace(/\/$/, '') // where the test reads the emails the app would have sent
 const L = process.argv[3] || 'es'
 const CHROME = process.env.CHROME || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 const sleep = ms => new Promise(r => setTimeout(r, ms))
@@ -31,16 +32,20 @@ const like = async (page, n = 1, dismiss = false) => {
   for (let i = 0; i < n; i++) {
     await page.click('.deck-actions .btn--primary'); await sleep(500)
     if (dismiss && await page.$('.overlay')) { await page.click('.overlay .btn--primary'); await sleep(300) } // a match: keep swiping
-    if (await page.$('.sheet-back #save-h')) { await page.click('.sheet-head .icon-btn'); await sleep(300) }   // "save your list": not now
+    if (await page.$('.acct')) { asked++; await page.click('.acct .acct-x'); await sleep(300) }                // the account screen: not now
   }
 }
+let asked = 0
 const until = async (fn, ms = 30000) => { const end = Date.now() + ms; for (;;) { const v = await fn(); if (v) return v; if (Date.now() > end) return null; await sleep(400) } }
 
 // ── Lucía starts on her own ──
 const A = await phone()
 await A.page.goto(`${APP}/${L}/app`, { waitUntil: 'networkidle2' })
 await skipQuiz(A.page)
-await like(A.page, 4)
+await like(A.page, 2)
+ok(asked === 0, 'two likes: nobody is asked for anything yet')
+await like(A.page, 2)
+ok(asked === 1, 'the account screen comes up once, at the third like', asked)
 await A.page.click('.deck-actions .btn--super'); await sleep(500)          // a superlike
 await A.page.click('.deck-actions .btn:nth-child(2)'); await sleep(500)    // a no
 let a = await until(async () => { const s = await state(A.page); return s.uid && !Object.keys(s.dirty).length ? s : null })
@@ -94,7 +99,7 @@ ok(!(await A.page.$('.welcome')) && !(await A.page.$('.overlay')), 'and she is n
 
 // ── a new phone: her personal link ──
 await A.page.click('.app-bar .icon-btn'); await sleep(200)
-await (await A.page.$$('.menu button'))[1].click()
+await (await A.page.$$('.menu button'))[2].click()
 await A.page.waitForSelector('.sheet-panel .btn--primary'); await A.page.click('.sheet-panel .btn--primary')
 await A.page.waitForSelector('.sheet-panel .linkbox')
 const keyLink = await text(A.page, '.sheet-panel .linkbox')
@@ -127,8 +132,41 @@ await D.page.click('.quiz-foot .btn--primary')
 let d = await until(async () => { const s = await state(D.page); return s.uid ? s : null })
 ok(d && d.uid === b.uid && Object.keys(d.likes).length === Object.keys(b.likes).length, 'and gives him his own list back', d && { uid: d.uid, likes: Object.keys(d.likes).length, was: Object.keys(b.likes).length })
 
+// ── an account: her email and the code sent to it; then the same email on a phone she has never used ──
+const codeFor = async to => { const m = (await fetch(API + '/api/_outbox').then(r => r.json())).mail.filter(x => x.to === to).pop(); return m ? (m.subject.match(/\d{6}/) || [''])[0] : '' }
+const signIn = async (page, mail) => {
+  if (await page.$('.sheet-head .icon-btn')) { await page.click('.sheet-head .icon-btn'); await sleep(300) } // a sheet left open
+  await sleep(2500) // coming back to the front, the phone asks the server what is new: a match may be announced first
+  if (await page.$('.overlay')) { await page.click('.overlay .btn--primary'); await sleep(300) }
+  await page.click('.app-bar .icon-btn'); await sleep(200)
+  await (await page.$$('.menu button'))[0].click()
+  await page.waitForSelector('.acct-form .input')
+  await page.type('.acct-form .input', mail)
+  if (await page.$('.overlay')) { await page.click('.overlay .btn--primary'); await sleep(300) } // a match came in meanwhile: it shows on top
+  await page.click('.acct-form .btn--primary')
+  await page.waitForSelector('.acct-code')
+  await page.type('.acct-code', await until(() => codeFor(mail), 10000))
+  await page.waitForSelector('.acct-body > .btn--primary'); await sleep(300)
+  await page.click('.acct-body > .btn--primary'); await sleep(300)
+}
+const mail = `lucia${Date.now()}@example.test`
+await A.page.bringToFront()
+await signIn(A.page, mail)
+a = await until(async () => { const s = await state(A.page); return s.email && s.email[1] ? s : null }, 10000)
+ok(a && a.email[0] === mail && a.uid === before.uid, 'an email and the code sent to it make the account', a && a.email)
+const E = await phone()
+await E.page.goto(`${APP}/${L}/app`, { waitUntil: 'networkidle2' })
+await skipQuiz(E.page)
+await like(E.page, 1)
+await signIn(E.page, mail)
+let e = await until(async () => { const s = await state(E.page); return s.uid === before.uid && !Object.keys(s.dirty).length ? s : null }, 20000)
+ok(e && Object.keys(e.likes).length === Object.keys(a.likes).length + 1 && e.partner?.name === 'Dani' && e.email?.[0] === mail,
+  'the same email on a new phone opens the account: her list, her partner, and the name just liked there', e && { likes: Object.keys(e.likes).length, partner: e.partner?.name })
+
 // ── delete everything ──
 C.page.on('dialog', dlg => dlg.accept())
+await C.page.bringToFront(); await sleep(2500)
+if (await C.page.$('.overlay')) { await C.page.click('.overlay .btn--primary'); await sleep(300) } // matches made while this phone was away
 await C.page.waitForSelector('.app-bar .icon-btn')
 await C.page.click('.app-bar .icon-btn'); await sleep(200)
 await C.page.click('.menu .danger'); await sleep(2500)
@@ -139,7 +177,7 @@ await B.page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')
 b = await until(async () => { const s = await state(B.page); return s.partner ? null : s }, 40000)
 ok(!!b, 'and her partner is simply unpaired')
 
-const errs = [...A.errors, ...B.errors, ...C.errors, ...D.errors]
+const errs = [...A.errors, ...B.errors, ...C.errors, ...D.errors, ...E.errors]
 ok(errs.length === 0, 'no errors in any browser console', errs.slice(0, 5))
 console.log(`${passed} passed, ${failed} failed`)
 // Against the live site, the one person this run leaves behind (the partner) can be removed by this id.

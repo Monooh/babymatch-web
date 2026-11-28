@@ -7,15 +7,18 @@ import { limitsOf, type Wall } from '@/lib/premium'
 import { decodeInvite } from '@/lib/share'
 import { t } from '@/lib/t'
 import { SwipeStack, type CardData, type Swipe } from '../SwipeStack'
-import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconStar, IconTrash, IconUsers, IconX } from '../Icons'
+import { IconCards, IconCopy, IconHeart, IconHome, IconLayers, IconMore, IconRefresh, IconSliders, IconStar, IconTrash, IconUser, IconUsers, IconX } from '../Icons'
 import { activeCount, buildDeck } from './deck'
 import { Quiz } from './Quiz'
 import { FinalSheet } from './Final'
 import { BackupSheet, FiltersSheet, LikesTab, ListsTab, MatchesTab } from './Panels'
-import { PremiumSheet, SaveSheet } from './Premium'
+import { PremiumSheet } from './Premium'
+import { AccountScreen } from './Account'
 import type { AppProps, Ctx } from './types'
 
 type Tab = 'swipe' | 'lists' | 'likes' | 'matches'
+/** The account screen comes up by itself at this many likes. */
+const ACCOUNT_AT = 3
 
 export function BabyApp(props: AppProps) {
   const { lang, d, c, hrefs } = props
@@ -38,7 +41,7 @@ export function BabyApp(props: AppProps) {
   const [takenBy, setTakenBy] = useState('')
   const [showBackup, setShowBackup] = useState(false)
   const [wall, setWall] = useState<Wall | null>(null)                 // the Premium offer, and why it came up
-  const [showSave, setShowSave] = useState(false)                     // "save your list", offered once there is one
+  const [account, setAccount] = useState<'ask' | 'open' | null>(null) // the account screen: it came up by itself, or from the menu
   const [paid, setPaid] = useState<'wait' | 'yes' | 'no' | null>(null) // back from the payment page
   const [mounted, setMounted] = useState(false)
   const restoring = useRestoring()
@@ -180,10 +183,10 @@ export function BabyApp(props: AppProps) {
         setState(st => ({ seen: [...st.seen, card.id] }), { remote: true })
         setMatch(byId.get(card.id) || null)
         track('match')
-      } else if (s.mail && !s.email && !s.once.nudge_mail && (likeIds.length + 1 >= 10 || (dir === 'super' && s.stars.length + 1 >= 2))) {
-        // The list is now worth keeping: offer to save it with an email. Once, and never on top of a match.
-        track('nudge_mail', true)
-        setShowSave(true)
+      } else if (s.mail && !(s.email && s.email[1]) && !s.once.account_ask && likeIds.length + 1 >= ACCOUNT_AT) {
+        // There is now a list to lose: offer the account that keeps it. Once, skippable, and never on top of a match.
+        track('account_ask', true)
+        setAccount('ask')
       }
     }
     setProg({ deck, pos: p.pos + 1, hist: [...p.hist, card.id] })
@@ -369,6 +372,7 @@ export function BabyApp(props: AppProps) {
         <>
           <div style={{ position: 'absolute', inset: 0, zIndex: 99 }} onClick={() => setShowMenu(false)} aria-hidden="true" />
           <div className="menu" role="menu">
+            <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setAccount('open') }}><IconUser size={18} />{s.email && s.email[1] ? d.account.menuOn : d.account.menu}</button>
             <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setRedoQuiz(true) }}><IconRefresh size={18} />{d.menu.redoQuiz}</button>
             <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setShowBackup(true) }}><IconCopy size={18} />{d.menu.backup}</button>
             {s.pay ? <button type="button" role="menuitem" onClick={() => { setShowMenu(false); setWall('open') }}><IconStar size={18} />{d.premium.menu}</button> : null}
@@ -398,13 +402,13 @@ export function BabyApp(props: AppProps) {
       {showFilters && ctx ? <FiltersSheet ctx={ctx} onClose={() => setShowFilters(false)} /> : null}
       {showBackup && ctx ? <BackupSheet ctx={ctx} onClose={() => setShowBackup(false)} /> : null}
       {showFinal && ctx ? <FinalSheet ctx={ctx} onClose={() => setShowFinal(false)} /> : null}
-      {showSave && ctx && !match && !news ? <SaveSheet ctx={ctx} onClose={() => setShowSave(false)} /> : null}
+      {account && ctx ? <AccountScreen ctx={ctx} ask={account === 'ask'} onClose={() => setAccount(null)} /> : null}
       {wall && ctx ? <PremiumSheet ctx={ctx} why={wall} onClose={() => setWall(null)} /> : null}
 
       {paid ? (
         <div className="overlay" role="dialog" aria-modal="true" aria-labelledby="paid-h">
           <h2 id="paid-h">{paid === 'yes' ? d.premium.paidH : paid === 'wait' ? d.premium.paidWait : d.premium.openH}</h2>
-          {paid === 'wait' ? <div className="spinner keep-motion" aria-hidden="true" /> : <p className="lead">{paid === 'yes' ? d.premium.paidP : d.premium.paidNot}</p>}
+          {paid === 'wait' ? <div className="spinner keep-motion" aria-hidden="true" /> : <p className="lead">{paid === 'yes' ? d.premium.paidP + (s.email && s.email[1] ? ' ' + t(d.account.paidAs, { email: s.email[0] }) : '') : d.premium.paidNot}</p>}
           {paid === 'wait' ? null : <div className="actions"><button type="button" className="btn btn--primary" autoFocus onClick={() => setPaid(null)}>{paid === 'yes' ? d.matches.keepSwiping : c.close}</button></div>}
         </div>
       ) : null}

@@ -284,6 +284,66 @@ if (/localhost|127\.0\.0\.1/.test(BASE)) {
     ok(r.plan === 'premium', 'and the one who paid keeps Premium', r.plan)
   }
 
+  // 20c. The account: an email and a six-digit code. One door for a new account and for coming back to it.
+  {
+    const codeFor = async to => { const m = (await outbox()).filter(x => x.to === to).pop(); return m ? (m.subject.match(/\d{6}/) || [''])[0] : '' }
+    const mail = `cuenta${Date.now()}@example.test`
+    const a = device(), b = device(), c = device()
+    r = await a.call('/api/sync', { ops: [[201, 1, Date.now()], [202, 2, Date.now()], [203, 1, Date.now()]], lang: 'es' })
+    const aId = r.id
+    r = await a.call('/api/account', { email: 'not an email' })
+    ok(r.ok === false && r.error === 'email', 'an address that is not one is refused', r.error)
+    r = await a.call('/api/account', { email: mail, lang: 'es' })
+    ok(r.ok && r.sent === true && r.email === null, 'asking for a code writes nothing on the person yet', [r.sent, r.email])
+    const code = await codeFor(mail)
+    ok(/^\d{6}$/.test(code), 'the email carries a six-digit code', code)
+    r = await a.call('/api/account/code', { email: mail, code: code === '000000' ? '000001' : '000000' })
+    ok(r.ok === false && r.error === 'code', 'a wrong code is refused', r.error)
+    r = await a.call('/api/account/code', { email: mail, code })
+    ok(r.ok && r.id === aId && r.email && r.email[0] === mail && r.email[1] === 1, 'the right code makes the address the account of that person', r.email)
+    r = await a.call('/api/account/code', { email: mail, code })
+    ok(r.ok === false && r.error === 'expired', 'a code works once', r.error)
+
+    // Coming back from a new device that already has a couple of names: same call, same answer, and the lists are joined.
+    r = await b.call('/api/sync', { ops: [[204, 1, Date.now()]], lang: 'es' })
+    const bId = r.id
+    r = await b.call('/api/account', { email: mail, lang: 'es' })
+    ok(r.ok && r.sent === true && r.email === null && r.id === bId, 'asking from another device answers the same, and says nothing about the account', [r.sent, r.email])
+    r = await b.call('/api/account/code', { email: mail, code: await codeFor(mail) })
+    ok(r.ok && r.id === aId && JSON.stringify(likesOf(r.state)) === '[201,202,203,204]', 'the code opens the account there, with what that device had', r.state && likesOf(r.state))
+    r = await a.call('/api/sync', {})
+    ok(r.state && likesOf(r.state).includes(204), 'and the first device sees it too', r.state && likesOf(r.state))
+
+    // Premium paid before having an account comes along into the account.
+    r = await c.call('/api/pay', { ops: [[205, 1, Date.now()]], lang: 'es' })
+    const cId = r.id
+    await fetch(`${BASE}/api/_pay?user=${cId}`)
+    r = await c.call('/api/pay/check', {})
+    ok(r.plan === 'premium' && r.email === null, 'someone pays without an account', [r.plan, r.email])
+    r = await c.call('/api/account', { email: mail, lang: 'es' })
+    r = await c.call('/api/account/code', { email: mail, code: await codeFor(mail) })
+    ok(r.ok && r.id === aId && r.plan === 'premium', 'signing in afterwards, the account is Premium', [r.id === aId, r.plan])
+    r = await a.call('/api/sync', {})
+    ok(r.plan === 'premium', 'on every device of the account', r.plan)
+
+    // Five wrong tries kill a code.
+    const d = device(), other = `otra${Date.now()}@example.test`
+    await d.call('/api/account', { email: other, ops: [[206, 1, Date.now()]] })
+    const good = await codeFor(other)
+    for (let i = 0; i < 5; i++) r = await d.call('/api/account/code', { email: other, code: good === '111111' ? '222222' : '111111' })
+    ok(r.error === 'expired', 'the fifth wrong try says the code is dead', r.error)
+    r = await d.call('/api/account/code', { email: other, code: good })
+    ok(r.ok === false && r.error === 'expired', 'and then not even the right one works', r.error)
+
+    // Signing out ends that device's session; the account keeps the list.
+    r = await b.call('/api/logout', {}, { cookie: true })
+    ok(r.ok && r.set.some(x => /^bm_s=;/.test(x) || /Max-Age=0/.test(x)), 'signing out clears the cookies', r.set)
+    r = await b.call('/api/sync', {}, { cookie: true })
+    ok(r.anon === true, 'and that device is nobody again', r)
+    r = await a.call('/api/sync', { rev: 0 })
+    ok(r.state && likesOf(r.state).length === 5, 'while the account still has every name', r.state && likesOf(r.state))
+  }
+
   // 21. Getting into the panel: a link to the owner's address, good once, and the figures behind it.
   const owner = `owner${Date.now()}@example.test`
   await fetch(`${BASE}/api/_admin?email=${owner}`)

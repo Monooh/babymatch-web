@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { CULTURES, LETTERS, TAGS, fold, type Culture, type Gender, type N, type Tag } from '@/lib/model'
 import { actions, getState, setState, useStore, EMPTY_FILTERS, type Filters } from '@/lib/store'
-import { createInvite, deviceKey, leavePartner, loginEmail, removeEmail, saveEmail, syncNow, track, useSyncStatus } from '@/lib/sync'
+import { createInvite, deviceKey, leavePartner, track, useSyncStatus } from '@/lib/sync'
 import { askWall, limitsOf } from '@/lib/premium'
 import { t } from '@/lib/t'
 import { IconCheck, IconCopy, IconShare, IconStar, IconTrash, IconX } from '../Icons'
@@ -243,48 +243,6 @@ export function MatchesTab({ ctx, onSwipe, onFinal }: { ctx: Ctx; onSwipe: () =>
   )
 }
 
-// ───────────────────────── My list under my email ─────────────────────────
-/** Shown only when the server can send email. Two uses: keep this list under an address, or ask for a list kept before. */
-/** `plain` is the same box inside the "save your list" offer: only the form, without the way to find another list. */
-export function MailBox({ ctx, plain }: { ctx: Ctx; plain?: boolean }) {
-  const M = ctx.d.menu
-  const s = useStore()
-  const [email, setEmail] = useState('')
-  const [state, setSt] = useState<'idle' | 'busy' | 'bad' | 'slow' | 'network' | 'found'>('idle')
-  const [finding, setFinding] = useState(false)
-  useEffect(() => { void syncNow() }, []) // an untouched device has not asked the server yet whether email is on
-  if (!s.mail) return null
-  const hasList = Object.keys(s.likes).length > 0
-  const find = !plain && (finding || !hasList)
-  const submit = async () => {
-    setSt('busy')
-    if (find) { const r = await loginEmail(email); setSt(r === 'sent' ? 'found' : r) }
-    else { const r = await saveEmail(email); setSt(r === 'sent' ? 'idle' : r); if (r === 'sent') { track('email_saved'); setEmail('') } }
-  }
-  const [address, confirmed] = s.email || ['', 0]
-  return (
-    <section className="panel panel--sugar">
-      {plain ? <p>{M.mailP}</p> : <div><h3>{find ? M.mailFindH : M.mailH}</h3><p>{find ? M.mailFindP : M.mailP}</p></div>}
-      {!find && address ? (
-        <p role="status" className={confirmed ? 'sync-note' : undefined}>{confirmed ? <IconCheck size={16} /> : null}{t(confirmed ? M.mailOk : M.mailSent, { email: address })}</p>
-      ) : null}
-      {state === 'found' ? <p role="status">{M.mailFindSent}</p> : !find && confirmed ? null : (
-        <form className="share-row" onSubmit={e => { e.preventDefault(); void submit() }}>
-          <div className="field">
-            <label htmlFor="mail">{M.mailLabel}</label>
-            <input id="mail" className="input" type="email" name="email" autoComplete="email" inputMode="email" maxLength={120} required placeholder={M.mailPh}
-              value={email} onChange={e => { setEmail(e.target.value); if (state !== 'busy') setSt('idle') }} />
-          </div>
-          <button type="submit" className="btn btn--primary" disabled={state === 'busy'}>{state === 'busy' ? ctx.d.matches.joining : find ? M.mailFind : M.mailSave}</button>
-          {state === 'bad' ? <p role="alert">{M.mailBad}</p> : state === 'slow' ? <p role="alert">{M.mailSlow}</p> : state === 'network' ? <p role="alert">{ctx.d.matches.linkError}</p> : null}
-        </form>
-      )}
-      {!find && address ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => void removeEmail()}>{M.mailRemove}</button> : null}
-      {hasList && !plain ? <button type="button" className="btn btn--small" style={{ justifySelf: 'start' }} onClick={() => { setFinding(v => !v); setSt('idle') }}>{finding ? M.mailH : M.mailFindH}</button> : null}
-    </section>
-  )
-}
-
 // ───────────────────────── My list on another phone ─────────────────────────
 export function BackupSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void }) {
   const { d, c, hrefs } = ctx
@@ -317,7 +275,6 @@ export function BackupSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void })
               {failed ? <p role="alert">{d.matches.linkError}</p> : null}
             </>
           )}
-          <MailBox ctx={ctx} />
         </div>
       </div>
     </div>

@@ -82,7 +82,7 @@ const legal: Legal = {
       {
         h: 'Your rights',
         p: [
-          'You can ask for access to your data, have it corrected or erased, object to its use, restrict it or take it with you in a readable format. Write to {email}. Because BabyMatch asks for no sign-up, the link to your list may be needed to tell which one is yours.',
+          'You can ask for access to your data, have it corrected or erased, object to its use, restrict it or take it with you in a readable format. Write to {email}. Because BabyMatch does not require a sign-up, the email of your account or the link to your list may be needed to tell which one is yours.',
           'If you think your data has been mishandled, you can complain to the [Spanish Data Protection Agency](https://www.aepd.es) or to the authority in your country.',
         ],
       },
@@ -154,7 +154,7 @@ const legal: Legal = {
       {
         h: 'The service',
         p: [
-          'BabyMatch can be used for free and asks for no sign-up. Your list is saved in your browser and in a copy on the server so you do not lose it.',
+          'BabyMatch can be used for free and without signing up. Your list is saved in your browser and in a copy on the server so you do not lose it. If you want, you can create an account with your email, with no password, to open your list from any device.',
           'The free version has a limited number of likes and superlikes a day. The site may change, add or remove features.',
         ],
       },

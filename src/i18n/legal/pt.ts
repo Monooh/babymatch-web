@@ -82,7 +82,7 @@ const legal: Legal = {
       {
         h: 'Seus direitos',
         p: [
-          'Você pode pedir acesso aos seus dados, pedir que sejam corrigidos ou apagados, se opor ao uso deles, limitar esse uso ou levá-los com você em um formato legível. Escreva para {email}. Como o BabyMatch não pede cadastro, pode ser necessário o link da sua lista para saber qual é a sua.',
+          'Você pode pedir acesso aos seus dados, pedir que sejam corrigidos ou apagados, se opor ao uso deles, limitar esse uso ou levá-los com você em um formato legível. Escreva para {email}. Como o BabyMatch não obriga a se cadastrar, pode ser necessário o e-mail da sua conta ou o link da sua lista para saber qual é a sua.',
           'Se você achar que seus dados não foram bem tratados, pode reclamar à [Agência Espanhola de Proteção de Dados](https://www.aepd.es) ou à autoridade do seu país.',
         ],
       },
@@ -154,7 +154,7 @@ const legal: Legal = {
       {
         h: 'O serviço',
         p: [
-          'O BabyMatch pode ser usado de graça e não pede cadastro. Sua lista fica salva no seu navegador e em uma cópia no servidor, para você não perdê-la.',
+          'O BabyMatch pode ser usado de graça e sem cadastro. Sua lista fica salva no seu navegador e em uma cópia no servidor, para você não perdê-la. Se quiser, você pode criar uma conta com seu e-mail, sem senha, para abrir sua lista em qualquer dispositivo.',
           'A versão gratuita tem um número limitado de curtidas e de superlikes por dia. O site pode mudar, acrescentar ou retirar funções.',
         ],
       },

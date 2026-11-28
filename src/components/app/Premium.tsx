@@ -5,7 +5,6 @@ import { startCheckout, track } from '@/lib/sync'
 import { FREE_LIKES, FREE_SUPERS, type Wall } from '@/lib/premium'
 import { t } from '@/lib/t'
 import { IconCheck, IconX } from '../Icons'
-import { MailBox } from './Panels'
 import type { Ctx } from './types'
 
 /**
@@ -45,29 +44,6 @@ export function PremiumSheet({ ctx, why, onClose }: { ctx: Ctx; why: Wall; onClo
               <p className="muted">{P.small} <a href={hrefs.terms} target="_blank" rel="noopener">{P.terms}</a></p>
             </>
           )}
-        </div>
-      </div>
-    </div>
-  )
-}
-
-/** "Save your list": offered once the person has a list worth keeping, never before, and never in the way. */
-export function SaveSheet({ ctx, onClose }: { ctx: Ctx; onClose: () => void }) {
-  const { d, c } = ctx
-  const P = d.premium
-  const s = useStore()
-  const saved = !!s.email
-  return (
-    <div className="sheet-back" onClick={e => { if (e.target === e.currentTarget) onClose() }}>
-      <div className="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="save-h">
-        <div className="sheet-head">
-          <h2 id="save-h">{P.saveH}</h2>
-          <button type="button" className="icon-btn" onClick={onClose} aria-label={c.close}><IconX /></button>
-        </div>
-        <div className="sheet-scroll">
-          <p>{t(P.saveP, { count: Object.keys(s.likes).length })}</p>
-          <MailBox ctx={ctx} plain />
-          <button type="button" className={saved ? 'btn btn--primary' : 'btn'} onClick={onClose}>{saved ? c.close : P.saveLater}</button>
         </div>
       </div>
     </div>

@@ -267,18 +267,33 @@ export async function confirmEmail(token: string): Promise<boolean> {
   if (data.ok) void syncNow()
   return !!data.ok
 }
-/** Keep the list under an email address. The server sends a link that confirms it. */
-export async function saveEmail(email: string): Promise<'sent' | 'bad' | 'slow' | 'network'> {
-  const data = await ask('/api/email', { email })
+/** "Continue with my email": the server sends a six-digit code there. The same call for a new account and an old one. */
+export async function requestCode(email: string): Promise<'sent' | 'bad' | 'slow' | 'network'> {
+  const data = await ask('/api/account', { email })
   return data.ok ? 'sent' : data.error === 'email' ? 'bad' : data.error === 'slow' ? 'slow' : 'network'
 }
-/** "Send me the link to my list": the answer is the same whether or not the address is known. */
-export async function loginEmail(email: string): Promise<'sent' | 'bad' | 'network'> {
-  try {
-    const res = await fetch(API + '/api/email/login', { method: 'POST', credentials: 'omit', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, lang }) })
-    const data = (await res.json()) as Answer
-    return data.ok ? 'sent' : data.error === 'email' ? 'bad' : 'network'
-  } catch { return 'network' }
+/** The code from the email. Right: this device is in that account, and what it already had is merged in. */
+export async function enterCode(email: string, code: string): Promise<'ok' | 'wrong' | 'expired' | 'network'> {
+  const data = await ask('/api/account/code', { email, code })
+  if (data.ok) { void syncNow(); return 'ok' }
+  return data.error === 'code' ? 'wrong' : data.error === 'expired' ? 'expired' : 'network'
+}
+/** Sign out here: the device forgets the list, which stays in the account. Whatever was not sent yet goes first. */
+export async function signOut(): Promise<void> {
+  if (inflight) await inflight
+  if (!off()) {
+    if (needsSend(getState())) await syncNow()
+    try {
+      const token = read(TOKEN_KEY)
+      await fetch(API + '/api/logout', {
+        method: 'POST', credentials: API ? 'include' : 'same-origin', body: '{}',
+        headers: { 'Content-Type': 'application/json', ...(token ? { Authorization: 'Bearer ' + token } : null) },
+      })
+    } catch { /* offline: the device is still cleared below */ }
+  }
+  write(TOKEN_KEY, null)
+  actions.reset()
+  setStatus('idle')
 }
 /** Start the Premium payment: the server opens a Stripe Checkout for this person and answers with its address. */
 export async function startCheckout(): Promise<string | null> {
